@@ -1,7 +1,7 @@
 const mongoose = require('./connection');
 
-const Shoe = require('../models/shoe.model');
 const shoeData = require('./sneaker-db.json');
+const Shoe = require('../models/shoe.model');
 
 const seedShoes = async () => {
   try {
