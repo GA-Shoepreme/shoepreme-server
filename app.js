@@ -2,8 +2,8 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 
-const usersController = require('./controllers/users');
-const shoesController = require('./controllers/shoes');
+const usersController = require('./controllers/users.controller');
+const shoesController = require('./controllers/shoes.controller');
 
 app.set('port', process.env.PORT || 3666);
 

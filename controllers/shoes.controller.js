@@ -1,11 +1,13 @@
 const { Router } = require('express');
 const router = Router();
 
-const Shoe = require('../models/shoe');
+const Shoe = require('../models/shoe.model');
 
 router.get('/', async (req, res) => {
   try {
-    res.send('hello from /shoes');
+    const shoes = await Shoe.find({});
+
+    res.send(shoes);
   } catch (err) {
     console.log('~ err', err);
   }
