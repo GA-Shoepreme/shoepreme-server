@@ -1,9 +1,6 @@
-const { Router } = require('express');
-const router = Router();
-
 const Shoe = require('../models/shoe.model');
 
-router.get('/', async (req, res) => {
+const getShoes = async (req, res) => {
   try {
     const shoes = await Shoe.find({});
 
@@ -11,6 +8,6 @@ router.get('/', async (req, res) => {
   } catch (err) {
     console.log('~ err', err);
   }
-});
+};
 
-module.exports = router;
+module.exports = { getShoes };
