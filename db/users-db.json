@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "username": "chris.park",
+            "password": "Seoul101",
+            "email": "csp1894@gmail.com",
+            "favorites":[{}],
+            "cart":[{}]
+        },
+        {
+            "username": "david.cho",
+            "password": "Busan101",
+            "email": "chodavid@gmail.com",
+            "favorites":[{}],
+            "cart":[{}]
+        },
+        {
+            "username": "minjea.seo",
+            "password": "Gwangju101",
+            "email": "seominjea1942@gmail.com",
+            "favorites":[{}],
+            "cart":[{}]
+        }
+    ]  
+}
