@@ -1,16 +1,28 @@
 const mongoose = require('../db/connection');
 
 const shoeSchema = new mongoose.Schema({
+  id: String,
   sku: String,
   brand: String,
-  model: String,
+  name: String,
+  colorway: String,
   gender: String,
-  colorway: [String],
+  silhouette: String,
+  releaseYear: Number,
   releaseDate: Date,
   retailPrice: Number,
-  marketValue: Number,
-  shopLinks: [String],
-  description: String,
+  estimatedMarketValue: Number,
+  story: String,
+  image: {
+    original: String,
+    small: String,
+    thumbnail: String,
+  },
+  links: {
+    stockx: String,
+    goat: String,
+    flightClub: String,
+  },
 });
 
 const Shoe = mongoose.model('Shoe', shoeSchema);
