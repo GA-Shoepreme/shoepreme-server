@@ -1,10 +1,10 @@
 const mongoose = require('./connection');
 
-const shoeData = require('./sneaker-db.json');
+const shoeData = require('./seed-data/sneaker-db.json');
 const Shoe = require('../models/shoe.model');
 
 const User = require('../models/user.model');
-const userData = require('./users-db.json');
+const userData = require('./seed-data/users-db.json');
 
 const seedShoes = async () => {
   try {

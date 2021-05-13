@@ -1,0 +1,2405 @@
+{
+  "count": 140811,
+  "results": [
+    {
+      "id": "b658a93b-8dc4-47ee-aa4d-6bc91a2c74b9",
+      "sku": "GZ5555",
+      "brand": "adidas",
+      "name": "Yeezy Slide Pure (Kids)",
+      "colorway": "Pure/Pure/Pure",
+      "gender": "child",
+      "silhouette": "Yeezy Slide",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 0,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://images.stockx.com/images/Yeezy-Slide-Pure-Kids.jpg?fit=fill&bg=FFFFFF&w=500&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619761583",
+        "small": "https://images.stockx.com/images/Yeezy-Slide-Pure-Kids.jpg?fit=fill&bg=FFFFFF&w=375&h=375&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619761583",
+        "thumbnail": "https://images.stockx.com/images/Yeezy-Slide-Pure-Kids.jpg?fit=fill&bg=FFFFFF&w=200&h=200&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619761583"
+      },
+      "links": {
+        "stockx": "https://stockx.com/yeezy-slide-pure-kids",
+        "goat": "",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "b7d86e71-b129-4de0-8549-62f66260add0",
+      "sku": "DC3431-124",
+      "brand": "Nike",
+      "name": "Wmns NikeCourt Vapor Lite 'White Purple Pulse'",
+      "colorway": "White/Copa/Purple Pulse",
+      "gender": "women",
+      "silhouette": "NikeCourt Vapor",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/825/original/DC3431_124.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/825/original/DC3431_124.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/825/original/DC3431_124.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nikecourt-vapor-lite-white-purple-pulse-dc3431-124",
+        "flightClub": " https://flightclub.com/wmns-nikecourt-vapor-lite-white-purple-pulse-dc3431-124"
+      }
+    },
+    {
+      "id": "c6f9c4d7-4205-4ab5-a720-221ea33ce5a6",
+      "sku": "CZ1691-100",
+      "brand": "Nike",
+      "name": "Force 1 TD 'White Black'",
+      "colorway": "White/Black",
+      "gender": "infant",
+      "silhouette": "Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 48,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/804/original/CZ1691_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/804/original/CZ1691_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/804/original/CZ1691_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-1-td-white-black-cz1691-100",
+        "flightClub": " https://flightclub.com/force-1-td-white-black-cz1691-100"
+      }
+    },
+    {
+      "id": "cd6cfb8a-524d-4de5-872d-46592b1e1c0b",
+      "sku": "CT0540-177",
+      "brand": "Nike",
+      "name": "Air Zoom Infinity Tour 'White Aurora Green'",
+      "colorway": "White/Hot Punch/Light Bone/Aurora Green",
+      "gender": "men",
+      "silhouette": "Air Zoom Infinity Tour",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 160,
+      "estimatedMarketValue": 205,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/769/original/CT0540_177.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/769/original/CT0540_177.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/769/original/CT0540_177.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-infinity-tour-white-aurora-green-ct0540-177",
+        "flightClub": " https://flightclub.com/air-zoom-infinity-tour-white-aurora-green-ct0540-177"
+      }
+    },
+    {
+      "id": "d2032cd3-bb7d-49c3-96ae-01511eb8d1ee",
+      "sku": "DA5381-107",
+      "brand": "Nike",
+      "name": "Court Legacy PS 'White Deep Royal Blue'",
+      "colorway": "White/University Red/Deep Royal Blue",
+      "gender": "youth",
+      "silhouette": "Court Legacy",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 40,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/931/309/original/DA5381_107.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/931/309/original/DA5381_107.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/931/309/original/DA5381_107.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/court-legacy-ps-white-deep-royal-blue-da5381-107",
+        "flightClub": " https://flightclub.com/court-legacy-ps-white-deep-royal-blue-da5381-107"
+      }
+    },
+    {
+      "id": "ddea8ff3-3228-48d1-9ddc-2c8118d10cdc",
+      "sku": "CD6894-013",
+      "brand": "Nike",
+      "name": "Air Max Excee GS 'Iron Grey Game Royal'",
+      "colorway": "Iron Grey/Grey Fog/Volt/Game Royal",
+      "gender": "youth",
+      "silhouette": "Air Max Excee",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/758/original/CD6894_013.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/758/original/CD6894_013.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/758/original/CD6894_013.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-excee-gs-iron-grey-game-royal-cd6894-013",
+        "flightClub": " https://flightclub.com/air-max-excee-gs-iron-grey-game-royal-cd6894-013"
+      }
+    },
+    {
+      "id": "ef851096-e55e-4525-af40-2cee98587dfb",
+      "sku": "DJ1199-400",
+      "brand": "Jordan",
+      "name": "Jordan 1 High Zoom CMFT Califia Aleali May (W)",
+      "colorway": "Royal/Green",
+      "gender": "women",
+      "silhouette": "Air Jordan 1 Zoom",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 140,
+      "estimatedMarketValue": 170,
+      "story": "The Aleali May x women’s Air Jordan 1 High Zoom Comfort ‘Califia’ is drawn from a larger collection designed in partnership with the LA-based model and stylist. Inspired by May’s time with her high school drill team, the high-top features a leather upper in royal blue and pine green. Unique details include chenille Wings branding, an ‘A’ logo on the lace keeper and May’s signature engraved on the left heel. Additionally, green satin is utilized on the high-cut deconstructed collar and cut-out Swoosh. The rubber cupsole houses foam cushioning with a top-loaded Zoom Air unit for enhanced responsiveness.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/870/893/original/731815_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/870/893/original/731815_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/870/893/original/731815_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/air-jordan-1-high-zoom-cmft-aleali-may-w",
+        "goat": " https://goat.com/sneakers/aleali-may-x-wmns-air-jordan-1-high-zoom-comfort-dj1199-400",
+        "flightClub": " https://flightclub.com/aleali-may-x-wmns-air-jordan-1-high-zoom-comfort-dj1199-400"
+      }
+    },
+    {
+      "id": "03be677f-045e-4393-a152-cb3b3b6f4e0f",
+      "sku": "CW6066-002",
+      "brand": "Nike",
+      "name": "Wmns Air Zoom Terra Kiger 7 'Black Pure Platinum'",
+      "colorway": "Black/Anthracite/Pure Platinum",
+      "gender": "women",
+      "silhouette": "Air Zoom Terra Kiger",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/788/original/CW6066_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/788/original/CW6066_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/788/original/CW6066_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-zoom-terra-kiger-7-black-pure-platinum-cw6066-002",
+        "flightClub": " https://flightclub.com/wmns-air-zoom-terra-kiger-7-black-pure-platinum-cw6066-002"
+      }
+    },
+    {
+      "id": "0784c11a-5601-4d49-a053-651cd9fcaff9",
+      "sku": "570794C",
+      "brand": "Converse",
+      "name": "Wmns Chuck Taylor All Star Move Low 'Black White'",
+      "colorway": "Black/White/Black",
+      "gender": "women",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 75,
+      "estimatedMarketValue": 145,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/736/original/570794C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/736/original/570794C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/736/original/570794C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-low-black-white-570794c",
+        "flightClub": " https://flightclub.com/wmns-chuck-taylor-all-star-move-low-black-white-570794c"
+      }
+    },
+    {
+      "id": "09d194b7-8084-4023-bec9-bad85a210477",
+      "sku": "FY7494",
+      "brand": "adidas",
+      "name": "Delpala 'Crew Navy'",
+      "colorway": "Crew Navy/Cloud White/Hi-Res Yellow",
+      "gender": "men",
+      "silhouette": "Delpala",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 55,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/807/original/FY7494.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/807/original/FY7494.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/807/original/FY7494.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/delpala-crew-navy-fy7494",
+        "flightClub": " https://flightclub.com/delpala-crew-navy-fy7494"
+      }
+    },
+    {
+      "id": "11023f58-b035-4aea-a988-d16a9218f126",
+      "sku": "FW6910",
+      "brand": "adidas",
+      "name": "X Ghosted+ FG 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "X Ghosted+",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 275,
+      "estimatedMarketValue": 335,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/803/original/FW6910.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/803/original/FW6910.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/803/original/FW6910.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-fg-shock-pink-fw6910",
+        "flightClub": " https://flightclub.com/x-ghosted-fg-shock-pink-fw6910"
+      }
+    },
+    {
+      "id": "41a12d7a-3776-4c6e-b2b2-5921a5d133e3",
+      "sku": "101",
+      "brand": "Reebok",
+      "name": "Classic Leather 'White'",
+      "colorway": "White",
+      "gender": "men",
+      "silhouette": "Reebok Classic",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 75,
+      "estimatedMarketValue": 75,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/683/original/101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/683/original/101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/683/original/101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/classic-leather-white-101",
+        "flightClub": " https://flightclub.com/classic-leather-white-101"
+      }
+    },
+    {
+      "id": "634fba92-e10c-4c6b-9361-9f7fd7e315df",
+      "sku": "H01417",
+      "brand": "adidas",
+      "name": "Climacool Vento 'Camo'",
+      "colorway": "Core Black/Gold Metallic/Wild Pine",
+      "gender": "men",
+      "silhouette": "Climacool Vento",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/811/original/H01417.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/811/original/H01417.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/811/original/H01417.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/climacool-vento-camo-h01417",
+        "flightClub": " https://flightclub.com/climacool-vento-camo-h01417"
+      }
+    },
+    {
+      "id": "67579ebf-9910-492d-9b6e-d045cff885f5",
+      "sku": "380723-01",
+      "brand": "Puma",
+      "name": "Future Rider 'Icons - Marshmallow Star Sapphire'",
+      "colorway": "Marshmallow/Star Sapphire",
+      "gender": "men",
+      "silhouette": "Future Rider",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 80,
+      "estimatedMarketValue": 148,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/728/original/380723_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/728/original/380723_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/728/original/380723_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/future-rider-icons-marshmallow-star-sapphire-380723-01",
+        "flightClub": " https://flightclub.com/future-rider-icons-marshmallow-star-sapphire-380723-01"
+      }
+    },
+    {
+      "id": "69721d7a-0665-40b5-ab15-54fc3c21f229",
+      "sku": "CZ3968-001",
+      "brand": "Nike",
+      "name": "Downshifter 11 SE TD 'Football Grey Multi'",
+      "colorway": "Football Grey/White/Crimson Tint/Multi-Color",
+      "gender": "infant",
+      "silhouette": "Downshifter",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/808/original/CZ3968_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/808/original/CZ3968_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/808/original/CZ3968_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/downshifter-11-se-td-football-grey-multi-cz3968-001",
+        "flightClub": " https://flightclub.com/downshifter-11-se-td-football-grey-multi-cz3968-001"
+      }
+    },
+    {
+      "id": "69beb6f7-baab-4e9b-af1d-3c8d23fb63e5",
+      "sku": "NBG4005NR",
+      "brand": "New Balance",
+      "name": "Fresh Foam PaceSL 'Navy'",
+      "colorway": "Navy",
+      "gender": "men",
+      "silhouette": "Fresh Foam PaceSL",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 100,
+      "estimatedMarketValue": 170,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/829/original/NBG4005NR.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/829/original/NBG4005NR.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/829/original/NBG4005NR.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/fresh-foam-pacesl-navy-nbg4005nr",
+        "flightClub": " https://flightclub.com/fresh-foam-pacesl-navy-nbg4005nr"
+      }
+    },
+    {
+      "id": "74ba4f43-2358-428e-96e1-78efbc5c608a",
+      "sku": "NBG4005NR-4E",
+      "brand": "New Balance",
+      "name": "Fresh Foam PaceSL 4E Wide 'Navy'",
+      "colorway": "Navy",
+      "gender": "men",
+      "silhouette": "Fresh Foam PaceSL",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 100,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/827/original/NBG4005NR_4E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/827/original/NBG4005NR_4E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/827/original/NBG4005NR_4E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/fresh-foam-pacesl-4e-wide-navy-nbg4005nr-4e",
+        "flightClub": " https://flightclub.com/fresh-foam-pacesl-4e-wide-navy-nbg4005nr-4e"
+      }
+    },
+    {
+      "id": "7b61489f-59d9-460d-8db2-8d4889a48f9f",
+      "sku": "170835C",
+      "brand": "Converse",
+      "name": "Chuck Taylor All Star CX Low 'Dramatic Nights - Grave'",
+      "colorway": "Grave/Black/Hyper Magenta",
+      "gender": "men",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 75,
+      "estimatedMarketValue": 329,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/688/original/170835C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/688/original/170835C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/688/original/170835C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/chuck-taylor-all-star-cx-low-dramatic-nights-grave-170835c",
+        "flightClub": " https://flightclub.com/chuck-taylor-all-star-cx-low-dramatic-nights-grave-170835c"
+      }
+    },
+    {
+      "id": "7de4f84a-dd1a-4534-8a9d-b11c9a2fe11b",
+      "sku": "S42841",
+      "brand": "adidas",
+      "name": "Copa Mundial 21 FG 'Collegiate Purple Shock Pink'",
+      "colorway": "Collegiate Purple/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Copa Mundial",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 250,
+      "estimatedMarketValue": 310,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/838/original/S42841.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/838/original/S42841.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/838/original/S42841.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-mundial-21-fg-collegiate-purple-shock-pink-s42841",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "81b86b4d-d48d-4094-897d-1c669d02f224",
+      "sku": "NBG4005BM-2E",
+      "brand": "New Balance",
+      "name": "Fresh Foam PaceSL 2E Wide 'Black Camo'",
+      "colorway": "Black",
+      "gender": "men",
+      "silhouette": "Fresh Foam PaceSL",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 100,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/823/original/NBG4005BM_2E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/823/original/NBG4005BM_2E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/823/original/NBG4005BM_2E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/fresh-foam-pacesl-2e-wide-black-camo-nbg4005bm-2e",
+        "flightClub": " https://flightclub.com/fresh-foam-pacesl-2e-wide-black-camo-nbg4005bm-2e"
+      }
+    },
+    {
+      "id": "8df45d34-f5d6-49a7-9ec7-5e74a884014c",
+      "sku": "H01860",
+      "brand": "adidas",
+      "name": "Originals Flex Infant 'White Multi'",
+      "colorway": "Cloud White/Core Black/Collegiate Royal",
+      "gender": "infant",
+      "silhouette": "Flex",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/812/original/H01860.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/812/original/H01860.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/812/original/H01860.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/originals-flex-infant-white-multi-h01860",
+        "flightClub": " https://flightclub.com/originals-flex-infant-white-multi-h01860"
+      }
+    },
+    {
+      "id": "9068bcc4-3714-4eb1-8387-e8614c1d7582",
+      "sku": "DJ0970-XXX",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 By You",
+      "colorway": "Multi-Color/Multi-Color/Multi-Color",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 140,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/516/443/original/DJ0970_XXX.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/516/443/original/DJ0970_XXX.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/516/443/original/DJ0970_XXX.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-by-you-dj0970-xxx",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-by-you-dj0970-xxx"
+      }
+    },
+    {
+      "id": "b924f1bc-a757-463d-8e8c-1db0ee8a4298",
+      "sku": "NBG4005NR-2E",
+      "brand": "New Balance",
+      "name": "Fresh Foam PaceSL 2E Wide 'Navy'",
+      "colorway": "Navy",
+      "gender": "men",
+      "silhouette": "Fresh Foam PaceSL",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 100,
+      "estimatedMarketValue": 170,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/826/original/NBG4005NR_2E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/826/original/NBG4005NR_2E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/826/original/NBG4005NR_2E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/fresh-foam-pacesl-2e-wide-navy-nbg4005nr-2e",
+        "flightClub": " https://flightclub.com/fresh-foam-pacesl-2e-wide-navy-nbg4005nr-2e"
+      }
+    },
+    {
+      "id": "beba1604-c4d2-472a-899c-be362c0f4ab1",
+      "sku": "170833C",
+      "brand": "Converse",
+      "name": "Chuck Taylor All Star CX High 'Dramatic Nights - White'",
+      "colorway": "White/Bold Wasabi",
+      "gender": "men",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 75,
+      "estimatedMarketValue": 81,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/685/original/170833C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/685/original/170833C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/685/original/170833C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/chuck-taylor-all-star-cx-high-dramatic-nights-white-170833c",
+        "flightClub": " https://flightclub.com/chuck-taylor-all-star-cx-high-dramatic-nights-white-170833c"
+      }
+    },
+    {
+      "id": "c91f0e7a-db0b-4a85-b1ae-6c65284e9ed3",
+      "sku": "570791C",
+      "brand": "Converse",
+      "name": "Wmns Chuck Taylor All Star Platform Low 'Light Field Surplus'",
+      "colorway": "Light Field Surplus/White",
+      "gender": "women",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 70,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/123/original/570791C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/123/original/570791C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/123/original/570791C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-low-light-field-surplus-570791c",
+        "flightClub": " https://flightclub.com/wmns-chuck-taylor-all-star-platform-low-light-field-surplus-570791c"
+      }
+    },
+    {
+      "id": "cd76e908-237d-42a9-8422-de212516d0de",
+      "sku": "170834C",
+      "brand": "Converse",
+      "name": "Chuck Taylor All Star CX High 'Dramatic Nights - Black'",
+      "colorway": "Black/Gravel/Bold Wasabi",
+      "gender": "men",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 75,
+      "estimatedMarketValue": 87,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/687/original/170834C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/687/original/170834C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/687/original/170834C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/chuck-taylor-all-star-cx-high-dramatic-nights-black-170834c",
+        "flightClub": " https://flightclub.com/chuck-taylor-all-star-cx-high-dramatic-nights-black-170834c"
+      }
+    },
+    {
+      "id": "dab6a26e-0877-4cfb-b4c9-8a182c25cca4",
+      "sku": "CU4150-104",
+      "brand": "Nike",
+      "name": "Court Legacy 'White Cerulean'",
+      "colorway": "White/Gum Light Brown/Cerulean",
+      "gender": "men",
+      "silhouette": "Court Legacy",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/775/original/CU4150_104.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/775/original/CU4150_104.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/775/original/CU4150_104.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/court-legacy-white-cerulean-cu4150-104",
+        "flightClub": " https://flightclub.com/court-legacy-white-cerulean-cu4150-104"
+      }
+    },
+    {
+      "id": "dbc53fb4-287b-4ebe-bdb9-f30c61bfd67b",
+      "sku": "CQ9330-109",
+      "brand": "Nike",
+      "name": "Wmns Revolution 5 FlyEase Wide 'Summit White Crimson Bliss'",
+      "colorway": "Summit White/Orange Pearl/White/Crimson Bliss",
+      "gender": "women",
+      "silhouette": "Revolution 5",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 65,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/768/original/CQ9330_109.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/768/original/CQ9330_109.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/768/original/CQ9330_109.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-revolution-5-flyease-wide-summit-white-crimson-bliss-cq9330-109",
+        "flightClub": " https://flightclub.com/wmns-revolution-5-flyease-wide-summit-white-crimson-bliss-cq9330-109"
+      }
+    },
+    {
+      "id": "f81d3c2e-f71d-4c74-854a-73010218e162",
+      "sku": "NBG4005BM",
+      "brand": "New Balance",
+      "name": "Fresh Foam PaceSL 'Black Camo'",
+      "colorway": "Black",
+      "gender": "men",
+      "silhouette": "Fresh Foam PaceSL",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 100,
+      "estimatedMarketValue": 170,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/825/original/NBG4005BM.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/825/original/NBG4005BM.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/825/original/NBG4005BM.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/fresh-foam-pacesl-black-camo-nbg4005bm",
+        "flightClub": " https://flightclub.com/fresh-foam-pacesl-black-camo-nbg4005bm"
+      }
+    },
+    {
+      "id": "f92d4ccc-3783-4178-8fac-acfe55a633b9",
+      "sku": "NBG4005BM-4E",
+      "brand": "New Balance",
+      "name": "Fresh Foam PaceSL 4E Wide 'Black Camo'",
+      "colorway": "Black",
+      "gender": "men",
+      "silhouette": "Fresh Foam PaceSL",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 100,
+      "estimatedMarketValue": 170,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/824/original/NBG4005BM_4E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/824/original/NBG4005BM_4E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/824/original/NBG4005BM_4E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/fresh-foam-pacesl-4e-wide-black-camo-nbg4005bm-4e",
+        "flightClub": " https://flightclub.com/fresh-foam-pacesl-4e-wide-black-camo-nbg4005bm-4e"
+      }
+    },
+    {
+      "id": "197e9941-cb6a-4be3-a5b8-2faa99a5554a",
+      "sku": "170939C",
+      "brand": "Converse",
+      "name": "Louie Lopez Pro 'Webs and Spiders - White Black'",
+      "colorway": "White/Black/University Red",
+      "gender": "men",
+      "silhouette": "Louie Lopez Pro",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 70,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/694/original/170939C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/694/original/170939C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/694/original/170939C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/louie-lopez-pro-webs-and-spiders-white-black-170939c",
+        "flightClub": " https://flightclub.com/louie-lopez-pro-webs-and-spiders-white-black-170939c"
+      }
+    },
+    {
+      "id": "27a937f7-7e3c-420d-99d1-02eb5ab9e081",
+      "sku": "S42973",
+      "brand": "adidas",
+      "name": "Human Made x Country 'Gears For Futuristic Teenagers - White Green'",
+      "colorway": "Cloud White/Green/Off White",
+      "gender": "men",
+      "silhouette": "Country",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 169,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/278/350/original/S42973.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/278/350/original/S42973.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/278/350/original/S42973.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-country-gears-for-futuristic-teenagers-white-green-s42973",
+        "flightClub": " https://flightclub.com/human-made-x-country-gears-for-futuristic-teenagers-white-green-s42973"
+      }
+    },
+    {
+      "id": "2c3cf782-ec0c-41b8-9146-3349cb553333",
+      "sku": "CU4275-002",
+      "brand": "Nike",
+      "name": "Wmns NikeCourt Air Max Volley 'Black Metallic Red Bronze'",
+      "colorway": "Black/White/Metallic Red Bronze",
+      "gender": "women",
+      "silhouette": "Air Max Volley",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 90,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/776/original/CU4275_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/776/original/CU4275_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/776/original/CU4275_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nikecourt-air-max-volley-black-metallic-red-bronze-cu4275-002",
+        "flightClub": " https://flightclub.com/wmns-nikecourt-air-max-volley-black-metallic-red-bronze-cu4275-002"
+      }
+    },
+    {
+      "id": "378d0d07-5610-407b-8bbe-dbac595faddc",
+      "sku": "S42977",
+      "brand": "adidas",
+      "name": "Human Made x Forum Low 'Grey Burgundy'",
+      "colorway": "Grey Two/Collegiate Burgundy/Core Black",
+      "gender": "men",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 160,
+      "story": "Designed in partnership with Nigo’s workwear-inspired label, the Human Made x adidas Forum Low ‘Grey Burgundy’ delivers a modernized version of the retro ‘80s hoops shoe, rendered in a simple two-tone color scheme with signature details left intact. The grey leather upper is accented with burgundy suede three-stripes and a matching leather heel overlay marked with the tagline ‘Gears for Futuristic Teenagers.’ Dry Alls branding lands on the adjustable ankle strap, while Human Made’s heart logo adorns the lateral heel. A partially wrapped Boost midsole provides responsive cushioning.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/966/original/S42977.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/966/original/S42977.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/966/original/S42977.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-forum-boost-low-grey-burgundy-s42977",
+        "flightClub": " https://flightclub.com/human-made-x-forum-boost-low-grey-burgundy-s42977"
+      }
+    },
+    {
+      "id": "4ccd2f72-d449-4e0d-a58d-6f0d24f7c6a0",
+      "sku": "FX1979",
+      "brand": "adidas",
+      "name": "Copa Sense.1 FG J 'White Shock Pink'",
+      "colorway": "Cloud White/Cloud White/Shock Pink",
+      "gender": "youth",
+      "silhouette": "Copa Sense.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 120,
+      "estimatedMarketValue": 180,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/251/original/FX1979.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/251/original/FX1979.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/251/original/FX1979.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-1-fg-j-white-shock-pink-fx1979",
+        "flightClub": " https://flightclub.com/copa-sense-1-fg-j-white-shock-pink-fx1979"
+      }
+    },
+    {
+      "id": "597cfacf-284b-4a83-a95b-6ec424af31f9",
+      "sku": "FZ0247",
+      "brand": "adidas",
+      "name": "adidas Ultra Boost 6.0 Halo Ivory (W)",
+      "colorway": "Non Dyed/Non Dyed/Halo Ivory",
+      "gender": "women",
+      "silhouette": "UltraBoost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 130,
+      "story": "The adidas women’s UltraBoost 6.0 ‘Halo Ivory’ delivers an understated colorway of a performance running shoe built with sustainability in mind. Neutral tan shades are applied to a Primeknit upper made in part with Parley Ocean Plastic and zero virgin polyester. Lightweight support and stability are provided by a midfoot cage and heel counter, both of which are constructed from recycled fishing nets retrieved from UK fishing quays. The sneaker rests on a full-length Boost midsole for springy cushioning with each step.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/941/original/FZ0247.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/941/original/FZ0247.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/941/original/FZ0247.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-ultra-boost-60-halo-ivory-w",
+        "goat": " https://goat.com/sneakers/wmns-ultraboost-6-0-halo-ivory-fz0247",
+        "flightClub": " https://flightclub.com/wmns-ultraboost-6-0-halo-ivory-fz0247"
+      }
+    },
+    {
+      "id": "6489d533-074e-44f0-92d4-45b3d7f210d1",
+      "sku": "CQ4397-100",
+      "brand": "Nike",
+      "name": "Project Pod GS 'White Platinum Tint'",
+      "colorway": "White/Platinum Tint/Volt/White",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 65,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/761/original/CQ4397_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/761/original/CQ4397_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/761/original/CQ4397_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-gs-white-platinum-tint-cq4397-100",
+        "flightClub": " https://flightclub.com/project-pod-gs-white-platinum-tint-cq4397-100"
+      }
+    },
+    {
+      "id": "6f420c55-5c1b-4657-bae7-3c1e3c6daad4",
+      "sku": "DC9671-110",
+      "brand": "Nike",
+      "name": "Force 1 TD 'Contrast Stitch - Fuchsia Glow'",
+      "colorway": "White/Fuchsia Glow/Hyper Pink/White",
+      "gender": "infant",
+      "silhouette": "Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 48,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/931/319/original/DC9671_110.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/931/319/original/DC9671_110.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/931/319/original/DC9671_110.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-1-td-contrast-stitch-fuchsia-glow-dc9671-110",
+        "flightClub": " https://flightclub.com/force-1-td-contrast-stitch-fuchsia-glow-dc9671-110"
+      }
+    },
+    {
+      "id": "b08bfbf9-21d4-408c-a6c6-d866316bccad",
+      "sku": "FZ0250",
+      "brand": "adidas",
+      "name": "adidas Ultra Boost 6.0 Non Dyed Parley",
+      "colorway": "Non Dyed/Non Dyed/Non Dyed",
+      "gender": "men",
+      "silhouette": "UltraBoost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 125,
+      "story": "The Parley x adidas UltraBoost 6.0 DNA ‘Non Dyed’ delivers an eco-friendly take on a performance running shoe designed for street-ready versatility. The lightweight build carries a seamless Primeknit upper that incorporates Parley Ocean Plastic and no virgin polyester. Reclaimed finishing nets are used to form the sneaker’s midfoot cage and heel counter. Fused energy capsules are packed into the full-length Boost midsole, featuring crisp white sidewalls matched by a Continental rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/942/original/FZ0250.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/942/original/FZ0250.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/942/original/FZ0250.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-ultra-boost-60-non-dyed-parley",
+        "goat": " https://goat.com/sneakers/parley-x-ultraboost-6-0-dna-non-dyed-fz0250",
+        "flightClub": " https://flightclub.com/parley-x-ultraboost-6-0-dna-non-dyed-fz0250"
+      }
+    },
+    {
+      "id": "d436e296-099e-445a-8788-89dd8e852fcb",
+      "sku": "170938C",
+      "brand": "Converse",
+      "name": "Chuck Taylor All Star Pro Low 'Webs and Spiders - Black White'",
+      "colorway": "Black/University Red/White",
+      "gender": "men",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 75,
+      "estimatedMarketValue": 75,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/691/original/170938C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/691/original/170938C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/691/original/170938C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/chuck-taylor-all-star-pro-low-webs-and-spiders-black-white-170938c",
+        "flightClub": " https://flightclub.com/chuck-taylor-all-star-pro-low-webs-and-spiders-black-white-170938c"
+      }
+    },
+    {
+      "id": "d841726c-9da0-45b5-aedb-a348969184e7",
+      "sku": "S42976",
+      "brand": "adidas",
+      "name": "Human Made x Forum Low 'Green'",
+      "colorway": "Cloud White/Green/Off White",
+      "gender": "men",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 149,
+      "story": "The Human Made x adidas Forum Low ‘Green’ delivers Nigo’s modern interpretation of the ‘80s hardwood classic. The low-top carries a white leather upper with shaggy suede three-stripes in a bright green finish. The grassy hue is repeated on a leather heel overlay inscribed with the tagline ‘Gears for Futuristic Teenagers.’ Human Made’s heart logo graces the lateral heel, while ‘Dry Alls’ is stamped on the adjustable ankle strap. Responsive cushioning arrives via a full-length Boost midsole, underpinned by a translucent herringbone rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/787/855/original/S42976.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/787/855/original/S42976.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/787/855/original/S42976.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-forum-low-green-s42976",
+        "flightClub": " https://flightclub.com/human-made-x-forum-low-green-s42976"
+      }
+    },
+    {
+      "id": "d8ed3b11-9b8f-4b91-9e0a-3734e7a2dbee",
+      "sku": "CN8558-101",
+      "brand": "Nike",
+      "name": "MD Valiant GS 'White Metallic Silver'",
+      "colorway": "White/Crimson Bliss/Metallic Silver",
+      "gender": "youth",
+      "silhouette": "MD Valiant",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/765/original/CN8558_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/765/original/CN8558_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/765/original/CN8558_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/md-valiant-gs-white-metallic-silver-cn8558-101",
+        "flightClub": " https://flightclub.com/md-valiant-gs-white-metallic-silver-cn8558-101"
+      }
+    },
+    {
+      "id": "e8cbfb0d-ae01-46f7-8652-3fd0b7b6de72",
+      "sku": "GZ8375",
+      "brand": "adidas",
+      "name": "Snipes x Forum 84 High 'Detroit Bad Boys'",
+      "colorway": "Core Black/Footwear White/Orange",
+      "gender": "men",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 110,
+      "estimatedMarketValue": 170,
+      "story": "Limited to just 1,200 pairs worldwide, the Snipes x adidas Forum 84 High ‘Detroit Bad Boys’ pays tribute to the Pistons teams from ’89 and ’90, whose bruising style of play earned the Isiah Thomas-led squads to back-to-back championships. The retail sneaker chain dresses the vintage hoops shoe in a black patent leather upper with white three-stripes and contrasting orange accents. They include an adidas Trefoil atop the signature X-shaped overlay and ‘89’ and ‘90’ embroidered on the toe of each shoe. Atop the tongue, a metallic gold adidas tag is joined by the sneaker’s numbered edition.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/905/original/GZ8375.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/905/original/GZ8375.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/905/original/GZ8375.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/snipes-x-forum-84-high-detroit-bad-boys-gz8375",
+        "flightClub": " https://flightclub.com/snipes-x-forum-84-high-detroit-bad-boys-gz8375"
+      }
+    },
+    {
+      "id": "f2bdddde-4531-4d90-99b7-c9883ad5ce88",
+      "sku": "170941C",
+      "brand": "Converse",
+      "name": "One Star CC Pro Slip 'Webs and Spiders - White Black'",
+      "colorway": "White/Black/White",
+      "gender": "men",
+      "silhouette": "One Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 65,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/696/original/170941C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/696/original/170941C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/696/original/170941C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/one-star-cc-pro-slip-webs-and-spiders-white-black-170941c",
+        "flightClub": " https://flightclub.com/one-star-cc-pro-slip-webs-and-spiders-white-black-170941c"
+      }
+    },
+    {
+      "id": "f566ab7d-8644-4478-8591-be1c9dd30dc9",
+      "sku": "GZ0541",
+      "brand": "adidas",
+      "name": "adidas Yeezy Boost 700 Bright Blue",
+      "colorway": "Bright Blue/Orange",
+      "gender": "men",
+      "silhouette": "Yeezy Boost 700",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 240,
+      "estimatedMarketValue": 324,
+      "story": "The adidas Yeezy Boost 700 ‘Bright Blue’ uses sharply contrasting finishes to delineate the lifestyle runner’s upper and tooling. The latter pairs sculpted orange sidewalls with a contrasting black rubber outsole, featuring a herringbone traction pattern with cut-out detailing that reveals a drop-in Boost midsole. Up top, royal blue mesh is reinforced with tonal suede overlays at the toe and heel, along with black suede midfoot panels enlivened with reflective detailing.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/107/107/original/743872_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/107/107/original/743872_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/107/107/original/743872_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-yeezy-boost-700-bright-blue",
+        "goat": " https://goat.com/sneakers/yeezy-boost-700-bright-blue-yzy-700-bright-blue",
+        "flightClub": " https://flightclub.com/yeezy-boost-700-bright-blue-yzy-700-bright-blue"
+      }
+    },
+    {
+      "id": "f7277e64-9942-46a4-8c89-8a9f98b162c8",
+      "sku": "306684-03",
+      "brand": "Puma",
+      "name": "Porsche Design x RCT 'Glacier Grey'",
+      "colorway": "Glacier Grey/Glacier Grey",
+      "gender": "men",
+      "silhouette": "RCT",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 320,
+      "estimatedMarketValue": 390,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/707/original/306684_03.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/707/original/306684_03.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/707/original/306684_03.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/porsche-design-x-rct-glacier-grey-306684-03",
+        "flightClub": " https://flightclub.com/porsche-design-x-rct-glacier-grey-306684-03"
+      }
+    },
+    {
+      "id": "f7c45aec-97c7-432c-9ee8-81aad996b7a1",
+      "sku": "S42975",
+      "brand": "adidas",
+      "name": "Human Made x Forum Low 'Hazy Yellow Navy'",
+      "colorway": "Cloud White/Hazy Yellow/Collegiate Navy",
+      "gender": "men",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 225,
+      "story": "Designed in coordination with Nigo’s Americana-inspired label, the Human Made x adidas Forum Low ‘Hazy Yellow Navy’ offers a retooled version of the vintage 1984 hoops shoe. White leather is utilized on the upper, accented with navy suede three-stripes and a contrasting yellow finish on the terry cloth lining. Unique branding elements include Human Made’s heart logo on the lateral heel, ‘Dry Alls’ inscribed on the adjustable ankle strap, and a wraparound heel overlay marked with the tagline ‘Gears for Futuristic Teenagers.’ The sneaker sits atop an updated Boost midsole for a responsive ride.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/787/853/original/S42975.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/787/853/original/S42975.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/787/853/original/S42975.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-forum-white-collegiate-navy-s42975",
+        "flightClub": " https://flightclub.com/human-made-x-forum-white-collegiate-navy-s42975"
+      }
+    },
+    {
+      "id": "f8f06340-08ee-427a-bd60-21339450b6e3",
+      "sku": "CQ4396-100",
+      "brand": "Nike",
+      "name": "Project Pod PS 'White Platinum Tint'",
+      "colorway": "White/Platinum Tint/Volt/White",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 55,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/755/original/CQ4396_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/755/original/CQ4396_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/755/original/CQ4396_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-ps-white-platinum-tint-cq4396-100",
+        "flightClub": " https://flightclub.com/project-pod-ps-white-platinum-tint-cq4396-100"
+      }
+    },
+    {
+      "id": "03910f3c-520a-4ee8-abc5-1fb2998ad004",
+      "sku": "1201A219-101",
+      "brand": "ASICS",
+      "name": "Tarther Blast 'Earth Day'",
+      "colorway": "Cream/Putty",
+      "gender": "men",
+      "silhouette": "Tarther",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 100,
+      "estimatedMarketValue": 205,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/291/828/original/1201A219_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/291/828/original/1201A219_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/291/828/original/1201A219_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/tarther-blast-earth-day-1201a219-101",
+        "flightClub": " https://flightclub.com/tarther-blast-earth-day-1201a219-101"
+      }
+    },
+    {
+      "id": "06a22c7c-9667-43f5-8f01-30fc754067c4",
+      "sku": "S23890",
+      "brand": "Reebok",
+      "name": "Reebok Zig Kinetica II Brain Dead Grey Green",
+      "colorway": "True Grey/Terrain Grey-Aloe Green",
+      "gender": "men",
+      "silhouette": "Zig Kinetica 2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 160,
+      "estimatedMarketValue": 120,
+      "story": "Inspired by Japanese vinyl kaiju toys, the Brain Dead x Reebok Zig Kinetica 2 ‘Aloe Green’ reunites the creative partners for a third go-round. The LA-based streetwear label dresses the lifestyle runner in muted earth tones with vibrant accents. The latter takes the form of swirling mint green no-sew skins on the side panels, contrasted by a brown mesh build with a tonal no-sew forefoot overlay. Atop the tongue, Reebok’s Vector trademark is integrated into the Brain Dead logo. Responsive cushioning arrives via a Floatride Fuel midsole, wrapped in two layers of Reebok’s Zig Energy Shell.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/129/818/original/S23890.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/129/818/original/S23890.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/129/818/original/S23890.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/reebok-zig-kinetica-ii-brain-dead-grey-green",
+        "goat": " https://goat.com/sneakers/brain-dead-x-zig-kinetica-2-mad-science-aloe-green-s23890",
+        "flightClub": " https://flightclub.com/brain-dead-x-zig-kinetica-2-mad-science-aloe-green-s23890"
+      }
+    },
+    {
+      "id": "07675a9e-bea1-482f-8027-e2459ebb7e53",
+      "sku": "DA4076-002",
+      "brand": "Nike",
+      "name": "Blazer Low '77 TD 'Black White'",
+      "colorway": "Black/Black/Black/White",
+      "gender": "infant",
+      "silhouette": "Blazer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/794/original/DA4076_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/794/original/DA4076_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/794/original/DA4076_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/blazer-low-77-td-black-white-da4076-002",
+        "flightClub": " https://flightclub.com/blazer-low-77-td-black-white-da4076-002"
+      }
+    },
+    {
+      "id": "0907f2a5-8b54-4950-a425-8dbe66d99f61",
+      "sku": "GX5027",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C J 'Crisp Purple'",
+      "colorway": "Crisp Purple/Crisp Purple/Crisp Purple",
+      "gender": "youth",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 0,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/566/688/original/GX5027.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/566/688/original/GX5027.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/566/688/original/GX5027.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-j-crisp-purple-gx5027",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "0d602901-078e-4edc-b5d2-b232829e7582",
+      "sku": "1201A219.101",
+      "brand": "Asics",
+      "name": "ASICS Tarther Blast Earth Day Pack",
+      "colorway": "Cream/Putty",
+      "gender": "men",
+      "silhouette": "ASICS Tarther Blast",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 100,
+      "estimatedMarketValue": 201,
+      "story": "",
+      "image": {
+        "original": "https://images.stockx.com/images/ASICS-Tarther-Blast-Earth-Day-Pack.jpg?fit=fill&bg=FFFFFF&w=500&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618995002",
+        "small": "https://images.stockx.com/images/ASICS-Tarther-Blast-Earth-Day-Pack.jpg?fit=fill&bg=FFFFFF&w=375&h=375&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618995002",
+        "thumbnail": "https://images.stockx.com/images/ASICS-Tarther-Blast-Earth-Day-Pack.jpg?fit=fill&bg=FFFFFF&w=200&h=200&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618995002"
+      },
+      "links": {
+        "stockx": "https://stockx.com/asics-tarther-blast-earth-day-pack",
+        "goat": "",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "0e9e90e1-f806-4ce7-a707-e2ec63c872b9",
+      "sku": "MSXRCTUC",
+      "brand": "New Balance",
+      "name": "X-Racer Tactical Utility 'White Tan'",
+      "colorway": "White/Tan",
+      "gender": "men",
+      "silhouette": "X-Racer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 150,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/355/original/MSXRCTUC.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/355/original/MSXRCTUC.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/355/original/MSXRCTUC.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-racer-tactical-utility-white-tan-msxrctuc",
+        "flightClub": " https://flightclub.com/x-racer-tactical-utility-white-tan-msxrctuc"
+      }
+    },
+    {
+      "id": "1d085b2d-5479-4e29-9afd-1dd4e8aed472",
+      "sku": "1201A226.101",
+      "brand": "Asics",
+      "name": "ASICS Skycourt Earth Day Pack",
+      "colorway": "Cream/Putty",
+      "gender": "men",
+      "silhouette": "ASICS Skycourt",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 85,
+      "estimatedMarketValue": 778,
+      "story": "",
+      "image": {
+        "original": "https://images.stockx.com/images/ASICS-Skycourt-Earth-Day-Pack.jpg?fit=fill&bg=FFFFFF&w=500&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618994999",
+        "small": "https://images.stockx.com/images/ASICS-Skycourt-Earth-Day-Pack.jpg?fit=fill&bg=FFFFFF&w=375&h=375&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618994999",
+        "thumbnail": "https://images.stockx.com/images/ASICS-Skycourt-Earth-Day-Pack.jpg?fit=fill&bg=FFFFFF&w=200&h=200&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618994999"
+      },
+      "links": {
+        "stockx": "https://stockx.com/asics-skycourt-earth-day-pack",
+        "goat": "",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "21cc30c8-83b7-4354-82a5-a01f5009bfa5",
+      "sku": "GX5099",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C Toddler 'Triple White'",
+      "colorway": "Footwear White/Footwear White/Footwear White",
+      "gender": "infant",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/822/original/GX5099.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/822/original/GX5099.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/822/original/GX5099.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-toddler-triple-white-gx5099",
+        "flightClub": " https://flightclub.com/cardi-b-x-club-c-toddler-triple-white-gx5099"
+      }
+    },
+    {
+      "id": "22519234-e539-48b5-b25f-0b1bf967ee90",
+      "sku": "MSXRCTUD",
+      "brand": "New Balance",
+      "name": "X-Racer Tactical Utility 'Grey Tan'",
+      "colorway": "Grey/Tan",
+      "gender": "men",
+      "silhouette": "X-Racer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 150,
+      "estimatedMarketValue": 165,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/359/original/MSXRCTUD.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/359/original/MSXRCTUD.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/359/original/MSXRCTUD.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-racer-tactical-utility-grey-tan-msxrctud",
+        "flightClub": " https://flightclub.com/x-racer-tactical-utility-grey-tan-msxrctud"
+      }
+    },
+    {
+      "id": "2367a8af-5ba2-4c52-a2b4-1dcd2199dae7",
+      "sku": "170847C",
+      "brand": "Converse",
+      "name": "Chuck 70 Low 'Light Field Surplus'",
+      "colorway": "Light Field Surplus/Egret/Gum",
+      "gender": "men",
+      "silhouette": "Chuck 70",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 85,
+      "estimatedMarketValue": 117,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/689/original/170847C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/689/original/170847C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/689/original/170847C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/chuck-70-low-light-field-surplus-170847c",
+        "flightClub": " https://flightclub.com/chuck-70-low-light-field-surplus-170847c"
+      }
+    },
+    {
+      "id": "241e10e5-b496-4e9f-9fb0-a0909a43edc8",
+      "sku": "GX2471",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C Toddler 'Sahara'",
+      "colorway": "Sahara/Core Black/Sahara",
+      "gender": "infant",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 50,
+      "estimatedMarketValue": 50,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/819/original/GX2471.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/819/original/GX2471.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/819/original/GX2471.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-toddler-sahara-gx2471",
+        "flightClub": " https://flightclub.com/cardi-b-x-club-c-toddler-sahara-gx2471"
+      }
+    },
+    {
+      "id": "24b67f17-c7dd-4a2f-9b63-21cf3a61820e",
+      "sku": "1012B016-101",
+      "brand": "ASICS",
+      "name": "Wmns Gel Nimbus 23 'Earth Day'",
+      "colorway": "Cream/Putty",
+      "gender": "women",
+      "silhouette": "Gel Nimbus",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 150,
+      "estimatedMarketValue": 168,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/291/805/original/1012B016_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/291/805/original/1012B016_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/291/805/original/1012B016_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gel-nimbus-23-earth-day-1012b016-101",
+        "flightClub": " https://flightclub.com/wmns-gel-nimbus-23-earth-day-1012b016-101"
+      }
+    },
+    {
+      "id": "2bfb03ff-a821-4ec4-8edd-7791b2531c8a",
+      "sku": "CV7562-101",
+      "brand": "Nike",
+      "name": "Nike LeBron 18 Low atmos Cherry Blossom",
+      "colorway": "Natural/Multi-Cherry Blossom",
+      "gender": "men",
+      "silhouette": "LeBron 18",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 170,
+      "estimatedMarketValue": 199,
+      "story": "Designed in partnership with the influential Tokyo-based retailer, the atmos x Nike LeBron 18 Low ‘Cherry Blossom’ showcases a spring-ready design, highlighted by a Swoosh formed with pink embroidered florals. The pastel hue is repeated on the sneaker’s molded eyelets and TPU heel counter, as well as a multicolor geometric print that enlivens the textile upper. The low-top sits on a cushy React foam midsole with a large-volume Max Air unit nestled under the heel.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/156/663/original/764461_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/156/663/original/764461_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/156/663/original/764461_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-lebron-18-low-atmos-cherry-blossom",
+        "goat": " https://goat.com/sneakers/atmos-x-lebron-18-low-sakura-cv7564-101",
+        "flightClub": " https://flightclub.com/atmos-x-lebron-18-low-sakura-cv7564-101"
+      }
+    },
+    {
+      "id": "364e0d51-23ec-403d-8d14-c84aa107deb0",
+      "sku": "1012B069-600",
+      "brand": "ASICS",
+      "name": "Wmns Metaspeed Sky 'Tokyo'",
+      "colorway": "Sunrise Red/White",
+      "gender": "women",
+      "silhouette": "Metaspeed Sky",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 250,
+      "estimatedMarketValue": 250,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/291/809/original/1012B069_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/291/809/original/1012B069_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/291/809/original/1012B069_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-metaspeed-sky-tokyo-1012b069-600",
+        "flightClub": " https://flightclub.com/wmns-metaspeed-sky-tokyo-1012b069-600"
+      }
+    },
+    {
+      "id": "393471fa-0e6e-4788-a1ed-2a9f6108ef28",
+      "sku": "DA5381-400",
+      "brand": "Nike",
+      "name": "Court Legacy PS 'Midnight Navy'",
+      "colorway": "Midnight Navy/Gum Light Brown/White",
+      "gender": "youth",
+      "silhouette": "Court Legacy",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 40,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/795/original/DA5381_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/795/original/DA5381_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/795/original/DA5381_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/court-legacy-ps-midnight-navy-da5381-400",
+        "flightClub": " https://flightclub.com/court-legacy-ps-midnight-navy-da5381-400"
+      }
+    },
+    {
+      "id": "44722788-9a9f-4e79-b3d3-5cc283b7f17a",
+      "sku": "FW2833",
+      "brand": "adidas",
+      "name": "Wmns Terrex Speed Ultra Trail 'Acid Mint Screaming Pink'",
+      "colorway": "Cloud White/Acid Mint/Screaming Pink",
+      "gender": "women",
+      "silhouette": "Terrex Speed",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 160,
+      "estimatedMarketValue": 220,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/909/100/original/FW2833.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/909/100/original/FW2833.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/909/100/original/FW2833.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-terrex-speed-ultra-trail-acid-mint-screaming-pink-fw2833",
+        "flightClub": " https://flightclub.com/wmns-terrex-speed-ultra-trail-acid-mint-screaming-pink-fw2833"
+      }
+    },
+    {
+      "id": "45af55de-7c86-47cc-b5a6-1560a41d8286",
+      "sku": "GX5028",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C Toddler 'Crisp Purple'",
+      "colorway": "Crisp Purple/Crisp Purple/Quartz Metallic",
+      "gender": "infant",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 50,
+      "estimatedMarketValue": 50,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/820/original/GX5028.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/820/original/GX5028.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/820/original/GX5028.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-toddler-crisp-purple-gx5028",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "4c990a76-d9df-4b25-a108-f17e43d34366",
+      "sku": "CZ2232-300",
+      "brand": "Nike",
+      "name": "Nike SB Dunk High Hawaii",
+      "colorway": "Sail/Blue-Green Aqua",
+      "gender": "men",
+      "silhouette": "Dunk",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 120,
+      "estimatedMarketValue": 220,
+      "story": "The Nike Dunk High SB ‘Maui Wowie’ makes use of a floral-print textile upper, accented with undyed hemp on the Swoosh and tongue. The outer layer on the toe box and quarter panels are designed to tear away, revealing a different floral print rendered in fiery red and orange hues. The sneaker’s forefoot and heel overlays, meanwhile, feature shaggy green suede beneath the tear-away surface layer. The multi-color arrangement up top is countered by a crisp white midsole, supported underfoot by a cream-colored rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/600/125/original/758359_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/600/125/original/758359_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/600/125/original/758359_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-sb-dunk-high-hawaii",
+        "goat": " https://goat.com/sneakers/dunk-high-sb-maui-wowie-cz2232-300",
+        "flightClub": " https://flightclub.com/dunk-high-sb-maui-wowie-cz2232-300"
+      }
+    },
+    {
+      "id": "57bc9f4f-53dd-4d97-a4c7-17330a0df6e7",
+      "sku": "FY1223",
+      "brand": "adidas",
+      "name": "Marvel x X Ghosted.1 FG 'Cyclops'",
+      "colorway": "Blue/Vivid Red/Bright Yellow",
+      "gender": "men",
+      "silhouette": "X Ghosted.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 225,
+      "estimatedMarketValue": 325,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/291/962/original/FY1223.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/291/962/original/FY1223.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/291/962/original/FY1223.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/marvel-x-x-ghosted-1-fg-cyclops-fy1223",
+        "flightClub": " https://flightclub.com/marvel-x-x-ghosted-1-fg-cyclops-fy1223"
+      }
+    },
+    {
+      "id": "5ab9e0e3-4441-4a69-a2f9-7d843170e183",
+      "sku": "S42974",
+      "brand": "adidas",
+      "name": "Human Made x Country Free Hiker 'Grey Burgundy'",
+      "colorway": "Grey Two/Collegiate Burgundy/Core Black",
+      "gender": "men",
+      "silhouette": "Country",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 0,
+      "estimatedMarketValue": 90,
+      "story": "The Human Made x adidas Country Free Hiker ‘Grey Burgundy’ updates the vintage ‘70s running shoe with modern materials and tech. Nigo’s workwear-inspired label dresses the upper in grey textile with contrasting burgundy leather three stripes, each inscribed with text that ultimately spells out ‘Gears for Futuristic Teenagers.’ Matching burgundy hits land on the external heel counter and Human Made’s heart logo on the leather heel tab. Responsive cushioning is provided by a Boost midsole, supported by a lugged Continental rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/839/original/S42974.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/839/original/S42974.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/839/original/S42974.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-country-free-hiker-grey-burgundy-s42974",
+        "flightClub": " https://flightclub.com/human-made-x-country-free-hiker-grey-burgundy-s42974"
+      }
+    },
+    {
+      "id": "623068eb-ca73-4319-9898-49ee92dbb661",
+      "sku": "570914F",
+      "brand": "Converse",
+      "name": "Wmns Chuck Taylor All Star High 'Black Leopard'",
+      "colorway": "Black/Egret/Driftwood",
+      "gender": "women",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 60,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/737/original/570914F.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/737/original/570914F.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/737/original/570914F.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-black-leopard-570914f",
+        "flightClub": " https://flightclub.com/wmns-chuck-taylor-all-star-high-black-leopard-570914f"
+      }
+    },
+    {
+      "id": "64999874-4a45-4a40-a6cb-54c0c528421e",
+      "sku": "H05424",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C Toddler 'Black Vector Red'",
+      "colorway": "Core Black/Vector Red/Rose Gold",
+      "gender": "infant",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/831/original/H05424.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/831/original/H05424.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/831/original/H05424.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-toddler-black-vector-red-h05424",
+        "flightClub": " https://flightclub.com/cardi-b-x-club-c-toddler-black-vector-red-h05424"
+      }
+    },
+    {
+      "id": "68c650c2-c153-4184-a225-fafe27a32f5d",
+      "sku": "CM996CPH",
+      "brand": "New Balance",
+      "name": "996 'Scarlet'",
+      "colorway": "Scarlet/White",
+      "gender": "men",
+      "silhouette": "996",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 90,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/764/original/CM996CPH.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/764/original/CM996CPH.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/764/original/CM996CPH.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/996-scarlet-cm996cph",
+        "flightClub": " https://flightclub.com/996-scarlet-cm996cph"
+      }
+    },
+    {
+      "id": "73c9f50f-7286-4216-a226-b8423451bdc0",
+      "sku": "DC7950-001",
+      "brand": "Nike",
+      "name": "Court Borough Low 2 Canvas PS 'Black Cork'",
+      "colorway": "Black/Praline",
+      "gender": "youth",
+      "silhouette": "Court Borough",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/797/original/DC7950_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/797/original/DC7950_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/797/original/DC7950_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/court-borough-low-2-canvas-ps-black-cork-dc7950-001",
+        "flightClub": " https://flightclub.com/court-borough-low-2-canvas-ps-black-cork-dc7950-001"
+      }
+    },
+    {
+      "id": "77532c64-cf1e-4cb0-96cb-1523075527e1",
+      "sku": "H05419",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C J 'Black Vector Red'",
+      "colorway": "Core Black/Vector Red/Rose Gold",
+      "gender": "youth",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 75,
+      "estimatedMarketValue": 99,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/156/674/original/764347_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/156/674/original/764347_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/156/674/original/764347_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-j-black-vector-red-h05419",
+        "flightClub": " https://flightclub.com/cardi-b-x-club-c-j-black-vector-red-h05419"
+      }
+    },
+    {
+      "id": "7b9fe945-2044-4151-8d42-c665f9b29a3f",
+      "sku": "CD0609-102",
+      "brand": "Nike",
+      "name": "Air Max Plus GS 'White Black'",
+      "colorway": "White/Black/Metallic Pewter",
+      "gender": "youth",
+      "silhouette": "Air Max Plus",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 0,
+      "estimatedMarketValue": 131,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/444/253/original/CD0609_102.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/444/253/original/CD0609_102.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/444/253/original/CD0609_102.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-plus-gs-white-black-cd0609-102",
+        "flightClub": " https://flightclub.com/air-max-plus-gs-white-black-cd0609-102"
+      }
+    },
+    {
+      "id": "81f199b5-a7db-4ed7-82ea-42c0de70f8e0",
+      "sku": "WNRGSBA1",
+      "brand": "New Balance",
+      "name": "Wmns Nergize Sport 'Sea Salt Floral'",
+      "colorway": "Sea Salt/Rose",
+      "gender": "women",
+      "silhouette": "Nergize",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 65,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/339/892/original/WNRGSBA1.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/339/892/original/WNRGSBA1.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/339/892/original/WNRGSBA1.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nergize-sport-sea-salt-floral-wnrgsba1",
+        "flightClub": " https://flightclub.com/wmns-nergize-sport-sea-salt-floral-wnrgsba1"
+      }
+    },
+    {
+      "id": "8331a778-95f7-4dcd-a3da-68e6d626de2e",
+      "sku": "M577GWR",
+      "brand": "New Balance",
+      "name": "577 Made in England 'Dark Blue White'",
+      "colorway": "Dark Blue/White",
+      "gender": "men",
+      "silhouette": "577",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 215,
+      "estimatedMarketValue": 268,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/821/original/M577GWR.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/821/original/M577GWR.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/821/original/M577GWR.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/577-made-in-england-dark-blue-white-m577gwr",
+        "flightClub": " https://flightclub.com/577-made-in-england-dark-blue-white-m577gwr"
+      }
+    },
+    {
+      "id": "88e73d17-239f-49ce-9985-ce0e61720df8",
+      "sku": "195055-01",
+      "brand": "Puma",
+      "name": "Wmns Provoke XT 'Untamed Floral - Black'",
+      "colorway": "Black/White",
+      "gender": "women",
+      "silhouette": "Provoke",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 90,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/956/126/original/195055_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/956/126/original/195055_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/956/126/original/195055_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-provoke-xt-untamed-floral-black-195055-01",
+        "flightClub": " https://flightclub.com/wmns-provoke-xt-untamed-floral-black-195055-01"
+      }
+    },
+    {
+      "id": "8c10d9ed-216d-458d-8736-0cee6487c03d",
+      "sku": "GX2470",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C J 'Sahara'",
+      "colorway": "Sahara/Core Black/Sahara",
+      "gender": "youth",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 75,
+      "estimatedMarketValue": 107,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/818/original/GX2470.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/818/original/GX2470.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/818/original/GX2470.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-j-sahara-gx2470",
+        "flightClub": " https://flightclub.com/cardi-b-x-club-c-j-sahara-gx2470"
+      }
+    },
+    {
+      "id": "8d7fc750-b159-490d-986b-5d08ef362461",
+      "sku": "1011B215-600",
+      "brand": "ASICS",
+      "name": "Metaspeed Sky 'Tokyo'",
+      "colorway": "Sunrise Red/White",
+      "gender": "men",
+      "silhouette": "Metaspeed Sky",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 250,
+      "estimatedMarketValue": 338,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/291/799/original/1011B215_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/291/799/original/1011B215_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/291/799/original/1011B215_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/metaspeed-sky-tokyo-1011b215-600",
+        "flightClub": " https://flightclub.com/metaspeed-sky-tokyo-1011b215-600"
+      }
+    },
+    {
+      "id": "8dc26d4d-2397-4de2-aeaa-f54d4ac0fb2d",
+      "sku": "DA4075-002",
+      "brand": "Nike",
+      "name": "Blazer Low '77 PS 'Black White'",
+      "colorway": "Black/Black/Black/White",
+      "gender": "youth",
+      "silhouette": "Blazer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 55,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/816/original/DA4075_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/816/original/DA4075_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/816/original/DA4075_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/blazer-low-77-ps-black-white-da4075-002",
+        "flightClub": " https://flightclub.com/blazer-low-77-ps-black-white-da4075-002"
+      }
+    },
+    {
+      "id": "91b4eda9-efa1-4258-ac82-c65b89bbe10b",
+      "sku": "GZ8825",
+      "brand": "Reebok",
+      "name": "Reebok Kamikaze II Candy Land",
+      "colorway": "Super Green/Bright Orange/Blue Bomb",
+      "gender": "men",
+      "silhouette": "Kamikaze 2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 120,
+      "estimatedMarketValue": 140,
+      "story": "Inspired by the classic Hasbro board game, the Reebok Kamikaze 2 ‘Candy Land’ applies vibrant hues to the retro hoops shoe made famous by the high-flying Shawn Kemp. Glossy patent leather is utilized throughout the upper, featuring a lime green base with zigzagging overlays in orange, blue and yellow. Candy Land branding adorns the tongue tag, while the game’s ‘Start’ arrow points the way on the interior tongue. The sneaker’s mixed palette continues on the EVA midsole and translucent rubber outsole, the latter treated to a berry-red finish.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/646/389/original/751047_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/646/389/original/751047_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/646/389/original/751047_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/reebok-kamikaze-ii-candy-land",
+        "goat": " https://goat.com/sneakers/kamikaze-2-candy-land-gz8825",
+        "flightClub": " https://flightclub.com/kamikaze-2-candy-land-gz8825"
+      }
+    },
+    {
+      "id": "9a077261-c749-4623-92bd-ad0dfc813edc",
+      "sku": "H05406",
+      "brand": "Reebok",
+      "name": "Cardi B x Coated Club C J 'Crisp Purple'",
+      "colorway": "Crisp Purple/Crisp Purple/Quartz Metallic",
+      "gender": "youth",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 65,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/829/original/H05406.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/829/original/H05406.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/829/original/H05406.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-coated-club-c-j-crisp-purple-h05406",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "a47b7c75-7d19-42a4-bcba-5beb019e6521",
+      "sku": "GX5098",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C J 'Triple White'",
+      "colorway": "Cloud White/Cloud White/Cloud White",
+      "gender": "youth",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 75,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/821/original/GX5098.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/821/original/GX5098.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/821/original/GX5098.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-j-triple-white-gx5098",
+        "flightClub": " https://flightclub.com/cardi-b-x-club-c-j-triple-white-gx5098"
+      }
+    },
+    {
+      "id": "a5b1cc30-217a-4ae2-8bcd-bd9d0f367fc0",
+      "sku": "DA2748-105",
+      "brand": "Nike",
+      "name": "Wmns Air Max Bella TR 4 Premium 'White Leopard'",
+      "colorway": "White/Light Bone/Wheat/Black",
+      "gender": "women",
+      "silhouette": "Air Max Bella",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 80,
+      "estimatedMarketValue": 171,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/793/original/DA2748_105.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/793/original/DA2748_105.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/793/original/DA2748_105.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-max-bella-tr-4-premium-white-leopard-da2748-105",
+        "flightClub": " https://flightclub.com/wmns-air-max-bella-tr-4-premium-white-leopard-da2748-105"
+      }
+    },
+    {
+      "id": "ba4927af-6afc-4a07-aea2-a69f32b0af32",
+      "sku": "H03317",
+      "brand": "Reebok",
+      "name": "Cardi B x Coated Club C J 'Black Vector Red'",
+      "colorway": "Core Black/Vector Red/Rose Gold",
+      "gender": "youth",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 65,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/826/original/H03317.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/826/original/H03317.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/826/original/H03317.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-coated-club-c-j-black-vector-red-h03317",
+        "flightClub": " https://flightclub.com/cardi-b-x-coated-club-c-j-black-vector-red-h03317"
+      }
+    },
+    {
+      "id": "bfb9b033-13f1-429e-888f-e80f890cef5d",
+      "sku": "1012A895-600",
+      "brand": "ASICS",
+      "name": "Wmns Magic Speed 'Sunrise Red'",
+      "colorway": "Sunrise Red/White",
+      "gender": "women",
+      "silhouette": "Magic Speed",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 150,
+      "estimatedMarketValue": 177,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/291/804/original/1012A895_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/291/804/original/1012A895_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/291/804/original/1012A895_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-magic-speed-sunrise-red-1012a895-600",
+        "flightClub": " https://flightclub.com/wmns-magic-speed-sunrise-red-1012a895-600"
+      }
+    },
+    {
+      "id": "c70cfbf0-f9a8-4c8a-bd33-f908dcfff129",
+      "sku": "194426-01",
+      "brand": "Puma",
+      "name": "Wmns LVL-UP XT 'Untamed Floral - Black'",
+      "colorway": "Black/White",
+      "gender": "women",
+      "silhouette": "LVL-UP",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 90,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/956/121/original/194426_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/956/121/original/194426_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/956/121/original/194426_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-lvl-up-xt-untamed-floral-black-194426-01",
+        "flightClub": " https://flightclub.com/wmns-lvl-up-xt-untamed-floral-black-194426-01"
+      }
+    },
+    {
+      "id": "c70ff461-4edb-4196-a459-5b12e174597f",
+      "sku": "CI0424-005",
+      "brand": "Nike",
+      "name": "Air Max 90 CB 'Pure Platinum Midnight Navy'",
+      "colorway": "Pure Platinum/Cool Grey/Sport Red/Midnight Navy",
+      "gender": "infant",
+      "silhouette": "Air Max 90",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/760/original/CI0424_005.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/760/original/CI0424_005.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/760/original/CI0424_005.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-90-cb-pure-platinum-midnight-navy-ci0424-005",
+        "flightClub": " https://flightclub.com/air-max-90-cb-pure-platinum-midnight-navy-ci0424-005"
+      }
+    },
+    {
+      "id": "c7c8e117-505f-4ad1-b023-80dc780c6bfb",
+      "sku": "1201A206.101",
+      "brand": "Asics",
+      "name": "ASICS Gel-Lyte III Earth Day Pack",
+      "colorway": "Cream/Putty",
+      "gender": "men",
+      "silhouette": "ASICS Gel-Lyte III",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 110,
+      "estimatedMarketValue": 122,
+      "story": "",
+      "image": {
+        "original": "https://images.stockx.com/images/ASICS-Gel-Lyte-III-Earth-Day-Pack.jpg?fit=fill&bg=FFFFFF&w=500&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618994995",
+        "small": "https://images.stockx.com/images/ASICS-Gel-Lyte-III-Earth-Day-Pack.jpg?fit=fill&bg=FFFFFF&w=375&h=375&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618994995",
+        "thumbnail": "https://images.stockx.com/images/ASICS-Gel-Lyte-III-Earth-Day-Pack.jpg?fit=fill&bg=FFFFFF&w=200&h=200&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618994995"
+      },
+      "links": {
+        "stockx": "https://stockx.com/asics-gel-lyte-iii-earth-day-pack",
+        "goat": "",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "c7ffc076-39b7-4014-a0c6-a9a79aa476d6",
+      "sku": "S23891",
+      "brand": "Reebok",
+      "name": "Reebok Zig Kinetica II Brain Dead Paper Lemon Glow",
+      "colorway": "Paper White/Boulder Grey-Lemon Glow",
+      "gender": "men",
+      "silhouette": "Zig Kinetica 2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 160,
+      "estimatedMarketValue": 106,
+      "story": "Developed in partnership with the LA-based streetwear brand, the Brain Dead x Reebok Zig Kinetica 2 ‘Lemon Glow’ features a colorful design that draws inspiration from Japanese vinyl kaiju toys. A toggle lacing system secures a breathable mesh upper enlivened with swirling yellow accents and reinforced with grey no-sew overlays. Additional pops of color distinguish the midsole, featuring Floatride Fuel cushioning wrapped up in a distinctive Zig Energy Shell for enhanced energy return.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/129/819/original/S23891.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/129/819/original/S23891.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/129/819/original/S23891.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/reebok-zig-kinetica-ii-brain-dead-paper-lemon-glow",
+        "goat": " https://goat.com/sneakers/brain-dead-x-zig-kinetica-2-mad-science-lemon-glow-s23891",
+        "flightClub": " https://flightclub.com/brain-dead-x-zig-kinetica-2-mad-science-lemon-glow-s23891"
+      }
+    },
+    {
+      "id": "d2417bb3-0bc2-4e3f-a570-b4ff78752716",
+      "sku": "1011B026-600",
+      "brand": "ASICS",
+      "name": "Magic Speed 'Sunrise Red'",
+      "colorway": "Sunrise Red/White",
+      "gender": "men",
+      "silhouette": "Magic Speed",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 150,
+      "estimatedMarketValue": 177,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/291/793/original/1011B026_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/291/793/original/1011B026_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/291/793/original/1011B026_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/magic-speed-sunrise-red-1011b026-600",
+        "flightClub": " https://flightclub.com/magic-speed-sunrise-red-1011b026-600"
+      }
+    },
+    {
+      "id": "d2fe7d22-8858-48e3-bc8c-e9063c318d63",
+      "sku": "WNRGSBA1-D",
+      "brand": "New Balance",
+      "name": "Wmns Nergize Sport Wide 'Sea Salt Floral'",
+      "colorway": "Sea Salt/Rose",
+      "gender": "women",
+      "silhouette": "Nergize",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 65,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/339/891/original/WNRGSBA1_D.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/339/891/original/WNRGSBA1_D.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/339/891/original/WNRGSBA1_D.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nergize-sport-wide-sea-salt-floral-wnrgsba1-d",
+        "flightClub": " https://flightclub.com/wmns-nergize-sport-wide-sea-salt-floral-wnrgsba1-d"
+      }
+    },
+    {
+      "id": "d619b57a-227e-4977-ba5b-8cd03d4d9b83",
+      "sku": "194426-02",
+      "brand": "Puma",
+      "name": "Wmns LVL-UP XT 'Untamed Floral - Georgia Peach'",
+      "colorway": "Georgia Peach/White",
+      "gender": "women",
+      "silhouette": "LVL-UP",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 90,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/956/122/original/194426_02.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/956/122/original/194426_02.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/956/122/original/194426_02.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-lvl-up-xt-untamed-floral-georgia-peach-194426-02",
+        "flightClub": " https://flightclub.com/wmns-lvl-up-xt-untamed-floral-georgia-peach-194426-02"
+      }
+    },
+    {
+      "id": "deacf532-2133-4c3f-90ca-72c3f66dc0ba",
+      "sku": "H03320",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C Slip-On 3 Toddler 'Crisp Purple'",
+      "colorway": "Crisp Purple/Crisp Purple/Quartz Metallic",
+      "gender": "infant",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/314/685/original/764357_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/314/685/original/764357_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/314/685/original/764357_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-slip-on-3-toddler-crisp-purple-h03320",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "e51aaa21-c3fb-45f6-bf61-d9eae3628c6b",
+      "sku": "GY0121",
+      "brand": "adidas",
+      "name": "Highsnobiety x ZX 8000 'A-ZX Series - Qualität'",
+      "colorway": "Chalk White/Crystal White/Chalk White",
+      "gender": "men",
+      "silhouette": "ZX 8000",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 140,
+      "estimatedMarketValue": 111,
+      "story": "Developed in partnership with the online lifestyle publication, the Highsnobiety x adidas ZX 8000 ‘Qualität’ represents the letter ‘Q’ in the ‘A-ZX Series,’ the 26-part collection that chronicles the enduring legacy of the ZX running franchise. The sneaker features an understated neutral palette on a premium build in keeping with its moniker (‘quality’ in German). Breathable tan mesh is reinforced with tonal leather overlays that include the signature ZX heel counter. ‘HS’ branding lands on the back heel, lace dubrae and cork insole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/129/785/original/GY0121.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/129/785/original/GY0121.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/129/785/original/GY0121.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/highsnobiety-x-zx-8000-a-zx-series-qualitat-gy0121",
+        "flightClub": " https://flightclub.com/highsnobiety-x-zx-8000-a-zx-series-qualitat-gy0121"
+      }
+    },
+    {
+      "id": "f22fa23c-4170-4e3d-ae46-da7256be094d",
+      "sku": "195055-02",
+      "brand": "Puma",
+      "name": "Wmns Provoke XT 'Untamed Floral - Georgia Peach'",
+      "colorway": "Georgia Peach/White",
+      "gender": "women",
+      "silhouette": "Provoke",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 90,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/956/127/original/195055_02.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/956/127/original/195055_02.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/956/127/original/195055_02.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-provoke-xt-untamed-floral-georgia-peach-195055-02",
+        "flightClub": " https://flightclub.com/wmns-provoke-xt-untamed-floral-georgia-peach-195055-02"
+      }
+    },
+    {
+      "id": "fbf5b177-5f34-4584-bd0e-83c5c0cf02d7",
+      "sku": "H05404",
+      "brand": "Reebok",
+      "name": "Cardi B x Club C Slip-On 3 Toddler 'Black Vector Red'",
+      "colorway": "Core Black/Vector Red/Rose Gold",
+      "gender": "infant",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/828/original/H05404.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/828/original/H05404.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/828/original/H05404.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/cardi-b-x-club-c-slip-on-3-toddler-black-vector-red-h05404",
+        "flightClub": " https://flightclub.com/cardi-b-x-club-c-slip-on-3-toddler-black-vector-red-h05404"
+      }
+    },
+    {
+      "id": "01ee1ef1-c952-4b7d-993a-46418b24bb55",
+      "sku": "DC9229-001",
+      "brand": "Nike",
+      "name": "Project Pod SE PS 'Dark Smoke Grey Bright Mango'",
+      "colorway": "Dark Smoke Grey/Aquamarine/Light Smoke Grey/Bright Mango",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-22",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/765/original/DC9229_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/765/original/DC9229_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/765/original/DC9229_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-se-ps-dark-smoke-grey-bright-mango-dc9229-001",
+        "flightClub": " https://flightclub.com/project-pod-se-ps-dark-smoke-grey-bright-mango-dc9229-001"
+      }
+    },
+    {
+      "id": "025e330d-1eac-4f76-81e7-f67a1b796d78",
+      "sku": "170867C",
+      "brand": "Converse",
+      "name": "Renew Chuck 70 Knit Low 'Black'",
+      "colorway": "Black/String/Barely Volt",
+      "gender": "men",
+      "silhouette": "Chuck 70",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-22",
+      "retailPrice": 90,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/554/original/170867C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/554/original/170867C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/554/original/170867C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/renew-chuck-70-knit-low-black-170867c",
+        "flightClub": " https://flightclub.com/renew-chuck-70-knit-low-black-170867c"
+      }
+    },
+    {
+      "id": "090ae3d7-c708-4fe2-b946-8c3f5607756b",
+      "sku": "CZ5356-100",
+      "brand": "Nike",
+      "name": "Air Max SC PS 'White Crimson Bliss'",
+      "colorway": "White/Light Violet/Pure Platinum/Crimson Bliss",
+      "gender": "youth",
+      "silhouette": "Air Max SC",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-22",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/761/original/CZ5356_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/761/original/CZ5356_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/761/original/CZ5356_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-sc-ps-white-crimson-bliss-cz5356-100",
+        "flightClub": " https://flightclub.com/air-max-sc-ps-white-crimson-bliss-cz5356-100"
+      }
+    }
+  ]
+}

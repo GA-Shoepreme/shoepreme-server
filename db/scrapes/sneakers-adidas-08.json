@@ -1,0 +1,2397 @@
+{
+  "count": 24119,
+  "results": [
+    {
+      "id": "d08376cf-3f9f-4f14-b7c9-8282ac9b7cc4",
+      "sku": "FY6234",
+      "brand": "adidas",
+      "name": "Swift Run X 'Black Scarlet'",
+      "colorway": "Core Black/Core Black/Scarlet",
+      "gender": "men",
+      "silhouette": "Swift Run",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-17",
+      "retailPrice": 85,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/195/961/original/FY6234.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/195/961/original/FY6234.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/195/961/original/FY6234.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/swift-run-x-black-scarlet-fy6234",
+        "flightClub": " https://flightclub.com/swift-run-x-black-scarlet-fy6234"
+      }
+    },
+    {
+      "id": "03ecf704-a808-4991-9a18-04e52ef738aa",
+      "sku": "FY4731",
+      "brand": "adidas",
+      "name": "Rod Laver 'White Team College Gold'",
+      "colorway": "Cloud White/Team Colleg Gold/Off White",
+      "gender": "men",
+      "silhouette": "Rod Laver",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 90,
+      "estimatedMarketValue": 130,
+      "story": "The adidas Rod Laver ‘White Team College Gold’ showcases OG-inspired color blocking on the retro silhouette named after the Australian tennis great. The white textile upper is fortified with a tonal leather eyestay, light grey suede toe guard and an orange leather heel tab. The latter features an embossed adidas Trefoil with Rod Laver branding. A vintage off-white finish is applied to the midsole, supported underfoot by a pivot-point rubber outsole",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/833/original/FY4731.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/833/original/FY4731.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/833/original/FY4731.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/rod-laver-white-team-college-gold-fy4731",
+        "flightClub": " https://flightclub.com/rod-laver-white-team-college-gold-fy4731"
+      }
+    },
+    {
+      "id": "10b69709-d045-4f57-9c14-077467089fce",
+      "sku": "H69065",
+      "brand": "adidas",
+      "name": "Terrex Two Ultra Primeblue 'Scarlet Hazy Sky'",
+      "colorway": "Scarlet/Core Black/Hazy Sky",
+      "gender": "men",
+      "silhouette": "Terrex Two",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 180,
+      "estimatedMarketValue": 240,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/477/250/original/H69065.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/477/250/original/H69065.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/477/250/original/H69065.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/terrex-two-ultra-primeblue-scarlet-hazy-sky-h69065",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "2a464495-1881-4456-95f1-72d22507a42f",
+      "sku": "FX9737",
+      "brand": "adidas",
+      "name": "Wmns Futurenatural 'Acid Yellow'",
+      "colorway": "Acid Yellow/Grey Two/Hi-Res Yellow",
+      "gender": "women",
+      "silhouette": "Futurenatural",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 120,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/827/original/FX9737.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/827/original/FX9737.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/827/original/FX9737.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-futurenatural-acid-yellow-fx9737",
+        "flightClub": " https://flightclub.com/wmns-futurenatural-acid-yellow-fx9737"
+      }
+    },
+    {
+      "id": "2eb40860-b304-4a9f-8191-0b01f0fbd747",
+      "sku": "FZ0431",
+      "brand": "adidas",
+      "name": "Five Ten Freerider J 'Wild Teal'",
+      "colorway": "Wild Teal/Sand/Hazy Emerald",
+      "gender": "youth",
+      "silhouette": "Five Ten",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/532/original/FZ0431.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/532/original/FZ0431.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/532/original/FZ0431.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/five-ten-freerider-j-wild-teal-fz0431",
+        "flightClub": " https://flightclub.com/five-ten-freerider-j-wild-teal-fz0431"
+      }
+    },
+    {
+      "id": "355ca1ce-dfa0-4054-87dc-d9ea398b6847",
+      "sku": "FX6394",
+      "brand": "adidas",
+      "name": "Multix J 'Grey Glow Pink'",
+      "colorway": "Grey One/Glow Pink/Core Black",
+      "gender": "youth",
+      "silhouette": "Multix",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 60,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/515/original/FX6394.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/515/original/FX6394.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/515/original/FX6394.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/multix-j-grey-glow-pink-fx6394",
+        "flightClub": " https://flightclub.com/multix-j-grey-glow-pink-fx6394"
+      }
+    },
+    {
+      "id": "4e2aed02-2c84-4a5a-a98a-3ad2c20181d6",
+      "sku": "H04754",
+      "brand": "adidas",
+      "name": "Wmns Vario Pure 'Core Black'",
+      "colorway": "Core Black/Core Black/Cloud White",
+      "gender": "women",
+      "silhouette": "Vario Pure",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/547/original/H04754.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/547/original/H04754.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/547/original/H04754.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-vario-pure-core-black-h04754",
+        "flightClub": " https://flightclub.com/wmns-vario-pure-core-black-h04754"
+      }
+    },
+    {
+      "id": "520f800d-b11f-43ce-8e38-a059bb8e61b6",
+      "sku": "FY5075",
+      "brand": "adidas",
+      "name": "Wmns Sleek Super 'Leopard'",
+      "colorway": "Bliss/Screaming Pink/Gold Metallic",
+      "gender": "women",
+      "silhouette": "Sleek",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 90,
+      "estimatedMarketValue": 80,
+      "story": "The adidas women’s Sleek Super ‘Leopard’ outfits the lifestyle silhouette with audacious details intended to make a statement. An oversized Trefoil lace jewel shines in metallic gold, nearly stealing the spotlight from the leopard print that covers virtually every inch of the leather upper. The all-over design is interrupted by a tan suede heel tab and an adidas logo window on the lateral eyestay. An exaggerated platform midsole anchors the streamlined upper.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/834/original/FY5075.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/834/original/FY5075.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/834/original/FY5075.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-sleek-super-leopard-fy5075",
+        "flightClub": " https://flightclub.com/wmns-sleek-super-leopard-fy5075"
+      }
+    },
+    {
+      "id": "5bb5b969-2fb2-451c-9af7-6641af7a6501",
+      "sku": "FY9627",
+      "brand": "adidas",
+      "name": "Runfalcon 2.0 'Semi Night Flash'",
+      "colorway": "Semi Night Flash/Core Black/Scarlet",
+      "gender": "men",
+      "silhouette": "Runfalcon",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/135/809/original/FY9627.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/135/809/original/FY9627.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/135/809/original/FY9627.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/runfalcon-2-0-semi-night-flash-fy9627",
+        "flightClub": " https://flightclub.com/runfalcon-2-0-semi-night-flash-fy9627"
+      }
+    },
+    {
+      "id": "65fb185d-69ec-46be-a549-10372dcd36aa",
+      "sku": "H69068",
+      "brand": "adidas",
+      "name": "Wmns Terrex Two Ultra Primeblue 'Black Solar Yellow'",
+      "colorway": "Core Black/Cloud White/Solar Yellow",
+      "gender": "women",
+      "silhouette": "Terrex Two",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 180,
+      "estimatedMarketValue": 240,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/477/252/original/H69068.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/477/252/original/H69068.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/477/252/original/H69068.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-terrex-two-ultra-primeblue-black-solar-yellow-h69068",
+        "flightClub": " https://flightclub.com/wmns-terrex-two-ultra-primeblue-black-solar-yellow-h69068"
+      }
+    },
+    {
+      "id": "72ee075a-3665-4f95-a6aa-5a5f6f66f3a1",
+      "sku": "H01282",
+      "brand": "adidas",
+      "name": "Harden Vol. 5 'Flower Patch'",
+      "colorway": "Scarlet/Core Black/Grey Five",
+      "gender": "men",
+      "silhouette": "Harden Vol. 5",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 130,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/820/575/original/735573_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/820/575/original/735573_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/820/575/original/735573_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/harden-vol-5-flower-patch-h01282",
+        "flightClub": " https://flightclub.com/harden-vol-5-flower-patch-h01282"
+      }
+    },
+    {
+      "id": "7600289b-d806-450b-bcb9-afe8361ed50c",
+      "sku": "FX5354",
+      "brand": "adidas",
+      "name": "Wmns Multix 'Aluminium Hazy Rose'",
+      "colorway": "Aluminium/Cloud White/Hazy Rose",
+      "gender": "women",
+      "silhouette": "Multix",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 80,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/514/original/FX5354.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/514/original/FX5354.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/514/original/FX5354.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-multix-aluminium-hazy-rose-fx5354",
+        "flightClub": " https://flightclub.com/wmns-multix-aluminium-hazy-rose-fx5354"
+      }
+    },
+    {
+      "id": "76a51446-d27e-4bbe-b912-665ade760db6",
+      "sku": "FY9626",
+      "brand": "adidas",
+      "name": "Runfalcon 2.0 'White Semi Night Flash'",
+      "colorway": "Cloud White/Cloud White/Semi Night Flash",
+      "gender": "men",
+      "silhouette": "Runfalcon",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/135/807/original/FY9626.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/135/807/original/FY9626.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/135/807/original/FY9626.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/runfalcon-2-0-white-semi-night-flash-fy9626",
+        "flightClub": " https://flightclub.com/runfalcon-2-0-white-semi-night-flash-fy9626"
+      }
+    },
+    {
+      "id": "77112b61-b53a-4195-9dde-d20cc6d838da",
+      "sku": "H01911",
+      "brand": "adidas",
+      "name": "ZX 1K Boost 'Grey'",
+      "colorway": "Grey Five/Cloud White/Solid Grey",
+      "gender": "men",
+      "silhouette": "ZX 1K",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 100,
+      "estimatedMarketValue": 99,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/546/original/H01911.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/546/original/H01911.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/546/original/H01911.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/zx-1k-boost-grey-h01911",
+        "flightClub": " https://flightclub.com/zx-1k-boost-grey-h01911"
+      }
+    },
+    {
+      "id": "783ada05-bc09-44b8-9fb4-8de714617e87",
+      "sku": "H04759",
+      "brand": "adidas",
+      "name": "Wmns Vario Pure 'Black Hazy Sky'",
+      "colorway": "Core Black/Grey Five/Hazy Sky",
+      "gender": "women",
+      "silhouette": "Vario Pure",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/477/249/original/H04759.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/477/249/original/H04759.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/477/249/original/H04759.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-vario-pure-black-hazy-sky-h04759",
+        "flightClub": " https://flightclub.com/wmns-vario-pure-black-hazy-sky-h04759"
+      }
+    },
+    {
+      "id": "7b52fb1f-0aa2-4e69-b2ad-84d76f3f0172",
+      "sku": "FY1544",
+      "brand": "adidas",
+      "name": "Terrex Hikster Low 'Halo Silver'",
+      "colorway": "Halo Silver/Crystal White/Core Black",
+      "gender": "men",
+      "silhouette": "Terrex Hikster",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 130,
+      "estimatedMarketValue": 94,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/519/original/FY1544.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/519/original/FY1544.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/519/original/FY1544.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/terrex-hikster-low-halo-silver-fy1544",
+        "flightClub": " https://flightclub.com/terrex-hikster-low-halo-silver-fy1544"
+      }
+    },
+    {
+      "id": "7bfadc0d-9aa6-493f-b78b-649cb0846c1d",
+      "sku": "FX9734",
+      "brand": "adidas",
+      "name": "Futurenatural 'Core Black'",
+      "colorway": "Core Black/Grey Three/Core Black",
+      "gender": "men",
+      "silhouette": "Futurenatural",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 120,
+      "estimatedMarketValue": 169,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/825/original/FX9734.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/825/original/FX9734.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/825/original/FX9734.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/futurenatural-core-black-fx9734",
+        "flightClub": " https://flightclub.com/futurenatural-core-black-fx9734"
+      }
+    },
+    {
+      "id": "7e38ca51-6725-4997-aff2-f7357c5f59b2",
+      "sku": "FW6492",
+      "brand": "adidas",
+      "name": "Copa Sense+ FG 'Black Gold Metallic'",
+      "colorway": "Core Black/Cloud White/Gold Metallic",
+      "gender": "men",
+      "silhouette": "Copa",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 275,
+      "estimatedMarketValue": 275,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/509/original/FW6492.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/509/original/FW6492.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/509/original/FW6492.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-fg-black-gold-metallic-fw6492",
+        "flightClub": " https://flightclub.com/copa-sense-fg-black-gold-metallic-fw6492"
+      }
+    },
+    {
+      "id": "856416f1-226d-4e57-9d07-06760f64e2a6",
+      "sku": "FZ0417",
+      "brand": "adidas",
+      "name": "Wmns Puremotion Wide 'White Silver Metallic'",
+      "colorway": "Cloud White/Silver Metallic/Grey Two",
+      "gender": "women",
+      "silhouette": "Puremotion",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 70,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/530/original/FZ0417.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/530/original/FZ0417.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/530/original/FZ0417.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-puremotion-wide-white-silver-metallic-fz0417",
+        "flightClub": " https://flightclub.com/wmns-puremotion-wide-white-silver-metallic-fz0417"
+      }
+    },
+    {
+      "id": "8d5cf379-0aa4-4e52-b339-017a2eb8d816",
+      "sku": "FY8315",
+      "brand": "adidas",
+      "name": "Wmns QT Racer 2.0 'Core Black'",
+      "colorway": "Core Black/Core Black/Grey Five",
+      "gender": "women",
+      "silhouette": "QT Racer 2.0",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 65,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/527/original/FY8315.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/527/original/FY8315.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/527/original/FY8315.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-qt-racer-2-0-core-black-fy8315",
+        "flightClub": " https://flightclub.com/wmns-qt-racer-2-0-core-black-fy8315"
+      }
+    },
+    {
+      "id": "904f00fc-eb3f-4012-9e16-130cb1e0253e",
+      "sku": "H01910",
+      "brand": "adidas",
+      "name": "ZX 1K Boost 'Collegiate Burgundy Gum'",
+      "colorway": "Collegiate Burgundy/Cloud White/Gum",
+      "gender": "men",
+      "silhouette": "ZX 1K",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 100,
+      "estimatedMarketValue": 128,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/545/original/H01910.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/545/original/H01910.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/545/original/H01910.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/zx-1k-boost-collegiate-burgundy-gum-h01910",
+        "flightClub": " https://flightclub.com/zx-1k-boost-collegiate-burgundy-gum-h01910"
+      }
+    },
+    {
+      "id": "970eadfe-1d50-4623-9fc5-69dc16ba23ca",
+      "sku": "H68170",
+      "brand": "adidas",
+      "name": "Superstar 'Off White Collegiate Gold'",
+      "colorway": "Off White/Collegiate Gold/Off White",
+      "gender": "men",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 100,
+      "estimatedMarketValue": 140,
+      "story": "The adidas Superstar ‘Off White Collegiate Gold’ treats the classic silhouette to an elevated makeover, highlighted by a genuine leather lining and cork insole. Off-white leather is utilized on the upper, accented with a heel tab and signature three-stripes in Collegiate Gold. The sneaker’s iconic rubber shell toe is joined by additional heritage details, including midfoot perforations, tonal stitching and a Superstar wordmark stamped in gold on the lateral side. Underfoot, a herringbone traction outsole delivers reliable grip.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/851/original/H68170.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/851/original/H68170.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/851/original/H68170.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-off-white-collegiate-gold-h68170",
+        "flightClub": " https://flightclub.com/superstar-off-white-collegiate-gold-h68170"
+      }
+    },
+    {
+      "id": "9e86d8ef-fe32-472e-9669-7e20c13e3478",
+      "sku": "FZ3453",
+      "brand": "adidas",
+      "name": "Wmns Multix 'Triple Black'",
+      "colorway": "Core Black/Core Black/Core Black",
+      "gender": "women",
+      "silhouette": "Multix",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 80,
+      "estimatedMarketValue": 81,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/535/original/FZ3453.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/535/original/FZ3453.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/535/original/FZ3453.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-multix-triple-black-fz3453",
+        "flightClub": " https://flightclub.com/wmns-multix-triple-black-fz3453"
+      }
+    },
+    {
+      "id": "ab12d12a-175f-4223-b62c-d14fbd7bf597",
+      "sku": "FW1012",
+      "brand": "adidas",
+      "name": "Wmns SolarGlide ST 'Core Black'",
+      "colorway": "Core Black/Core Black/Core Black",
+      "gender": "women",
+      "silhouette": "SolarGlide",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/436/202/original/FW1012.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/436/202/original/FW1012.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/436/202/original/FW1012.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-solarglide-st-core-black-fw1012",
+        "flightClub": " https://flightclub.com/wmns-solarglide-st-core-black-fw1012"
+      }
+    },
+    {
+      "id": "b02f6456-87e6-46a1-b8a8-e14b71f7a6cd",
+      "sku": "GW2563",
+      "brand": "adidas",
+      "name": "Adilette Slide 'Japan'",
+      "colorway": "Cloud White/Red/Cloud White",
+      "gender": "men",
+      "silhouette": "Adilette",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 45,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/544/original/GW2563.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/544/original/GW2563.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/544/original/GW2563.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/adilette-slide-japan-gw2563",
+        "flightClub": " https://flightclub.com/adilette-slide-japan-gw2563"
+      }
+    },
+    {
+      "id": "b3ae1d78-d5f3-47d2-b41b-a0507b01cd27",
+      "sku": "FY5677",
+      "brand": "adidas",
+      "name": "Wmns QT Racer Sport 'White Semi Night Flash'",
+      "colorway": "Cloud White/Cloud White/Semi Night Flash",
+      "gender": "women",
+      "silhouette": "QT Racer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 65,
+      "estimatedMarketValue": 94,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/521/original/FY5677.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/521/original/FY5677.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/521/original/FY5677.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-qt-racer-sport-white-semi-night-flash-fy5677",
+        "flightClub": " https://flightclub.com/wmns-qt-racer-sport-white-semi-night-flash-fy5677"
+      }
+    },
+    {
+      "id": "bf7a61b4-b1cd-466b-b0bd-312dfd7c15c3",
+      "sku": "H68187",
+      "brand": "adidas",
+      "name": "Superstar 'Off White Maroon'",
+      "colorway": "Off White/Maroon/Off White",
+      "gender": "men",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 100,
+      "estimatedMarketValue": 140,
+      "story": "The adidas Superstar ‘Off White Maroon’ dresses the iconic shell-toed sneaker in a simple two-tone color scheme that speaks to the shoe’s basketball roots. A subtle ivory tone distinguishes the leather upper, contrasted by burgundy accents on the heel tab and serrated three-stripes. The latter is flanked by a Superstar wordmark stamped in metallic gold lettering on the lateral side panel. The low-top sits on a vintage off-white rubber cupsole, featuring a herringbone traction pattern underfoot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/853/original/H68187.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/853/original/H68187.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/853/original/H68187.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-off-white-maroon-h68187",
+        "flightClub": " https://flightclub.com/superstar-off-white-maroon-h68187"
+      }
+    },
+    {
+      "id": "c8a35703-e6ec-4e83-a590-6a39c2cb3b3c",
+      "sku": "FY7330",
+      "brand": "adidas",
+      "name": "Terrex Free Hiker Primeblue 'Core Black'",
+      "colorway": "Core Black/Grey Four/Mesa",
+      "gender": "men",
+      "silhouette": "Terrex Free Hiker",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 200,
+      "estimatedMarketValue": 205,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/525/original/FY7330.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/525/original/FY7330.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/525/original/FY7330.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/terrex-free-hiker-primeblue-core-black-fy7330",
+        "flightClub": " https://flightclub.com/terrex-free-hiker-primeblue-core-black-fy7330"
+      }
+    },
+    {
+      "id": "ce649a5a-24d5-4642-9404-d93ab03ddc43",
+      "sku": "FW5119",
+      "brand": "adidas",
+      "name": "Terrex Agravic Flow 'Black White'",
+      "colorway": "Core Black/Crystal White/Solar Red",
+      "gender": "men",
+      "silhouette": "Terrex Agravic",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 130,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/508/original/FW5119.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/508/original/FW5119.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/508/original/FW5119.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/terrex-agravic-flow-black-white-fw5119",
+        "flightClub": " https://flightclub.com/terrex-agravic-flow-black-white-fw5119"
+      }
+    },
+    {
+      "id": "cebe0af7-ad64-42eb-9688-1ed5f15ef110",
+      "sku": "H69066",
+      "brand": "adidas",
+      "name": "Terrex Two Ultra Primeblue 'Black Solar Yellow'",
+      "colorway": "Core Black/Cloud White/Solar Yellow",
+      "gender": "men",
+      "silhouette": "Terrex Two",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 180,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/477/251/original/H69066.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/477/251/original/H69066.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/477/251/original/H69066.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/terrex-two-ultra-primeblue-black-solar-yellow-h69066",
+        "flightClub": " https://flightclub.com/terrex-two-ultra-primeblue-black-solar-yellow-h69066"
+      }
+    },
+    {
+      "id": "d7c3771a-0d7b-41a7-959f-c73e170bcaa7",
+      "sku": "FY6490",
+      "brand": "adidas",
+      "name": "Wmns Response Super 'Triple White'",
+      "colorway": "Cloud White/Chalk White/Cloud White",
+      "gender": "women",
+      "silhouette": "Response Super",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 90,
+      "estimatedMarketValue": 117,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/522/original/FY6490.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/522/original/FY6490.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/522/original/FY6490.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-response-super-triple-white-fy6490",
+        "flightClub": " https://flightclub.com/wmns-response-super-triple-white-fy6490"
+      }
+    },
+    {
+      "id": "db8a0084-b781-434c-bc6e-7c01b70a6b52",
+      "sku": "H68186",
+      "brand": "adidas",
+      "name": "Superstar 'Off White Collegiate Green'",
+      "colorway": "Off White/Collegiate Green/Off White",
+      "gender": "men",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 100,
+      "estimatedMarketValue": 100,
+      "story": "The adidas Superstar ‘Off White Collegiate Green’ updates the sneaker icon in a traditional two-tone palette seemingly lifted from the brand’s early ‘70s archive. The heel tab and signature three-stripes are rendered in a forest green hue, allowing the details to stand out against an off-white leather backdrop. Elevated details include a leather-lined interior and a shock-absorbing cork insole. Underfoot, the rubber outsole features a herringbone tread originally designed for the hardwood.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/852/original/H68186.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/852/original/H68186.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/852/original/H68186.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-off-white-collegiate-green-h68186",
+        "flightClub": " https://flightclub.com/superstar-off-white-collegiate-green-h68186"
+      }
+    },
+    {
+      "id": "def8aac8-b7da-46b2-b8bf-355d438a635b",
+      "sku": "GW0143",
+      "brand": "adidas",
+      "name": "Adilette Slide 'Argentina'",
+      "colorway": "Cloud White/Clear Blue/Bold Gold",
+      "gender": "men",
+      "silhouette": "Adilette",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/541/original/GW0143.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/541/original/GW0143.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/541/original/GW0143.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/adilette-slide-argentina-gw0143",
+        "flightClub": " https://flightclub.com/adilette-slide-argentina-gw0143"
+      }
+    },
+    {
+      "id": "f3ff6c23-531d-47ab-b550-7e37e3af698b",
+      "sku": "FY6680",
+      "brand": "adidas",
+      "name": "Duramo SL 'Halo Silver'",
+      "colorway": "Halo Silver/Cloud White/Grey Three",
+      "gender": "men",
+      "silhouette": "Duramo",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 65,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/523/original/FY6680.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/523/original/FY6680.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/523/original/FY6680.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/duramo-sl-halo-silver-fy6680",
+        "flightClub": " https://flightclub.com/duramo-sl-halo-silver-fy6680"
+      }
+    },
+    {
+      "id": "f4581b99-7ecc-49eb-8044-d8d3c3efb4c3",
+      "sku": "GW2561",
+      "brand": "adidas",
+      "name": "Adilette Slide 'South Korea'",
+      "colorway": "Cloud White/Red/Blue",
+      "gender": "men",
+      "silhouette": "Adilette",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 45,
+      "estimatedMarketValue": 99,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/543/original/GW2561.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/543/original/GW2561.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/543/original/GW2561.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/adilette-slide-south-korea-gw2561",
+        "flightClub": " https://flightclub.com/adilette-slide-south-korea-gw2561"
+      }
+    },
+    {
+      "id": "fed14b06-1c89-449d-a6fb-3ccccd25250e",
+      "sku": "H04757",
+      "brand": "adidas",
+      "name": "Wmns Vario Pure 'Cloud White'",
+      "colorway": "Cloud White/Cloud White/Grey Two",
+      "gender": "women",
+      "silhouette": "Vario Pure",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/549/original/H04757.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/549/original/H04757.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/549/original/H04757.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-vario-pure-cloud-white-h04757",
+        "flightClub": " https://flightclub.com/wmns-vario-pure-cloud-white-h04757"
+      }
+    },
+    {
+      "id": "fffcda83-568c-43a8-b69a-16ecf6ea2298",
+      "sku": "FZ2804",
+      "brand": "adidas",
+      "name": "Runfalcon 2.0 'Halo Silver'",
+      "colorway": "Halo Silver/Core Black/Cloud White",
+      "gender": "men",
+      "silhouette": "Runfalcon",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-16",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/533/original/FZ2804.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/533/original/FZ2804.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/533/original/FZ2804.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/runfalcon-2-0-halo-silver-fz2804",
+        "flightClub": " https://flightclub.com/runfalcon-2-0-halo-silver-fz2804"
+      }
+    },
+    {
+      "id": "1a5e6474-d5b7-4bc5-ac1d-15843e06ec8b",
+      "sku": "G57952",
+      "brand": "adidas",
+      "name": "Ozweego Pure 'Black Grey'",
+      "colorway": "Core Black/Grey Six/Solar Red",
+      "gender": "men",
+      "silhouette": "Ozweego",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 110,
+      "estimatedMarketValue": 222,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/186/444/original/G57952.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/186/444/original/G57952.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/186/444/original/G57952.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ozweego-pure-black-grey-g57952",
+        "flightClub": " https://flightclub.com/ozweego-pure-black-grey-g57952"
+      }
+    },
+    {
+      "id": "2610c10a-8b5c-4c29-97b8-a89f01c77869",
+      "sku": "FY1639",
+      "brand": "adidas",
+      "name": "Wmns Crazyflight 'White Black'",
+      "colorway": "Cloud White/Core Black/Grey Two",
+      "gender": "women",
+      "silhouette": "Crazyflight",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 130,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/416/416/original/FY1639.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/416/416/original/FY1639.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/416/416/original/FY1639.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-crazyflight-white-black-fy1639",
+        "flightClub": " https://flightclub.com/wmns-crazyflight-white-black-fy1639"
+      }
+    },
+    {
+      "id": "2929fe8d-abea-4bbf-bfcf-0fae722e487b",
+      "sku": "FZ0834",
+      "brand": "adidas",
+      "name": "Harden Vol. 5 'Icey Pink'",
+      "colorway": "Icey Pink/Cloud White/Glow Pink",
+      "gender": "men",
+      "silhouette": "Harden Vol. 5",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 130,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/870/850/original/735140_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/870/850/original/735140_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/870/850/original/735140_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/harden-vol-5-icey-pink-fz0834",
+        "flightClub": " https://flightclub.com/harden-vol-5-icey-pink-fz0834"
+      }
+    },
+    {
+      "id": "38f7c0de-a24f-465d-ae8b-4f6694fdabb3",
+      "sku": "G55660",
+      "brand": "adidas",
+      "name": "Stella McCartney x Wmns Barricade Boost 'Acid Orange'",
+      "colorway": "Acid Orange/Silver Metallic/Hazy Rose",
+      "gender": "women",
+      "silhouette": "Barricade Boost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 150,
+      "estimatedMarketValue": 210,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/416/417/original/G55660.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/416/417/original/G55660.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/416/417/original/G55660.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/stella-mccartney-x-wmns-barricade-boost-acid-orange-g55660",
+        "flightClub": " https://flightclub.com/stella-mccartney-x-wmns-barricade-boost-acid-orange-g55660"
+      }
+    },
+    {
+      "id": "40359c79-91f7-498d-a7f7-c92d4ff7ef59",
+      "sku": "FY8490",
+      "brand": "adidas",
+      "name": "Geodiver Primeblue 'Hazy Orange'",
+      "colorway": "Hazy Orange/Cloud White/Core Black",
+      "gender": "men",
+      "silhouette": "Geodiver",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 90,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/811/366/original/FY8490.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/811/366/original/FY8490.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/811/366/original/FY8490.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/parley-x-geodiver-hazy-orange-fy8490",
+        "flightClub": " https://flightclub.com/parley-x-geodiver-hazy-orange-fy8490"
+      }
+    },
+    {
+      "id": "4c3c1e85-2fe8-4cc1-8fc5-17647f21e0d4",
+      "sku": "Q46143",
+      "brand": "adidas",
+      "name": "adidas Harden Vol. 5 Nets",
+      "colorway": "Cloud White/Core Black-Crystal White",
+      "gender": "men",
+      "silhouette": "Harden Vol. 5",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 130,
+      "estimatedMarketValue": 80,
+      "story": "The adidas Harden Vol. 5 Futurenatural ‘Welcome to BKLYN’ showcase a neutral white and black palette that syncs up with the signature colors of the Brooklyn Nets. Breathable white textile is utilized on the upper, accented with contrasting black synthetic overlays and seamlessly fused to the data-informed rubber outsole. In lieu of a traditional foam midsole, the sneaker makes use of drop-in midsole that combines adidas Boost with a Lightstrike carrier for added stability and torsional support.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/870/623/original/735139_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/870/623/original/735139_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/870/623/original/735139_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-harden-vol-5-nets",
+        "goat": " https://goat.com/sneakers/harden-vol-5-white-black-q46143",
+        "flightClub": " https://flightclub.com/harden-vol-5-white-black-q46143"
+      }
+    },
+    {
+      "id": "5b16cebe-4128-4541-9e17-f9d275da770f",
+      "sku": "FX5079",
+      "brand": "adidas",
+      "name": "Geodiver Primeblue 'White'",
+      "colorway": "Cloud White/Cloud White/Core Black",
+      "gender": "men",
+      "silhouette": "Geodiver",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 90,
+      "estimatedMarketValue": 80,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/811/358/original/FX5079.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/811/358/original/FX5079.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/811/358/original/FX5079.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/parley-x-geodiver-white-fx5079",
+        "flightClub": " https://flightclub.com/parley-x-geodiver-white-fx5079"
+      }
+    },
+    {
+      "id": "64abcab0-b8ac-47c3-bc64-d5d436344d43",
+      "sku": "FX5347",
+      "brand": "adidas",
+      "name": "Wmns Geodiver Primeblue 'Collegiate Burgundy'",
+      "colorway": "Collegiate Burgundy/Cloud White/Core Black",
+      "gender": "women",
+      "silhouette": "Geodiver",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 90,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/811/365/original/FX5347.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/811/365/original/FX5347.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/811/365/original/FX5347.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/parley-x-wmns-geodiver-collegiate-burgundy-fx5347",
+        "flightClub": " https://flightclub.com/parley-x-wmns-geodiver-collegiate-burgundy-fx5347"
+      }
+    },
+    {
+      "id": "6d18155b-1e6c-47f2-9a78-b3ba8c19b7df",
+      "sku": "FY0342",
+      "brand": "adidas",
+      "name": "Wmns Adizero Boston 9 'Black Clear Aqua'",
+      "colorway": "Core Black/Cloud White/Clear Aqua",
+      "gender": "women",
+      "silhouette": "Adizero Boston",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 0,
+      "estimatedMarketValue": 153,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/073/original/FY0342.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/073/original/FY0342.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/073/original/FY0342.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-adizero-boston-9-black-clear-aqua-fy0342",
+        "flightClub": " https://flightclub.com/wmns-adizero-boston-9-black-clear-aqua-fy0342"
+      }
+    },
+    {
+      "id": "8cfc3d10-41ff-4314-98ba-827749303e62",
+      "sku": "FX5080",
+      "brand": "adidas",
+      "name": "Geodiver Primeblue 'Black White'",
+      "colorway": "Core Black/Core Black/Cloud White",
+      "gender": "men",
+      "silhouette": "Geodiver",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 90,
+      "estimatedMarketValue": 150,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/811/359/original/FX5080.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/811/359/original/FX5080.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/811/359/original/FX5080.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/parley-x-geodiver-black-white-fx5080",
+        "flightClub": " https://flightclub.com/parley-x-geodiver-black-white-fx5080"
+      }
+    },
+    {
+      "id": "e1919277-71af-438c-a9f5-7c04efa0131b",
+      "sku": "FX5345",
+      "brand": "adidas",
+      "name": "Wmns Geodiver Primeblue 'Clear Pink'",
+      "colorway": "Clear Pink/Cloud White/Core Black",
+      "gender": "women",
+      "silhouette": "Geodiver",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 90,
+      "estimatedMarketValue": 80,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/811/363/original/FX5345.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/811/363/original/FX5345.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/811/363/original/FX5345.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/parley-x-wmns-geodiver-clear-pink-fx5345",
+        "flightClub": " https://flightclub.com/parley-x-wmns-geodiver-clear-pink-fx5345"
+      }
+    },
+    {
+      "id": "f947e9c5-e70d-44ac-902f-4894469bbfee",
+      "sku": "FY1031",
+      "brand": "adidas",
+      "name": "Predator Freak.3 FG J 'Demonscale - Black White'",
+      "colorway": "Core Black/Cloud White/Core Black",
+      "gender": "youth",
+      "silhouette": "Predator Freak.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-15",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/416/413/original/FY1031.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/416/413/original/FY1031.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/416/413/original/FY1031.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-3-fg-j-demonscale-black-white-fy1031",
+        "flightClub": " https://flightclub.com/predator-freak-3-fg-j-demonscale-black-white-fy1031"
+      }
+    },
+    {
+      "id": "21660d98-7254-4e77-b3c3-5159f02b73a3",
+      "sku": "FX5324",
+      "brand": "adidas",
+      "name": "Flex J 'Grey Screaming Pink'",
+      "colorway": "Grey One/Cloud White/Screaming Pink",
+      "gender": "youth",
+      "silhouette": "Flex",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-14",
+      "retailPrice": 60,
+      "estimatedMarketValue": 116,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/511/original/FX5324.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/511/original/FX5324.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/511/original/FX5324.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-j-grey-screaming-pink-fx5324",
+        "flightClub": " https://flightclub.com/flex-j-grey-screaming-pink-fx5324"
+      }
+    },
+    {
+      "id": "a29fedef-49de-45e2-b905-f080205732c7",
+      "sku": "FZ0430",
+      "brand": "adidas",
+      "name": "Five Ten Freerider J 'Grey'",
+      "colorway": "Grey Five/Core Black/Grey Four",
+      "gender": "youth",
+      "silhouette": "Five Ten",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-14",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/531/original/FZ0430.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/531/original/FZ0430.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/531/original/FZ0430.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/five-ten-freerider-j-grey-fz0430",
+        "flightClub": " https://flightclub.com/five-ten-freerider-j-grey-fz0430"
+      }
+    },
+    {
+      "id": "555d33fc-70cd-4849-9f9a-4d2b6ed8a159",
+      "sku": "FW2213",
+      "brand": "adidas",
+      "name": "Wmns Adizero Boston 9 'Dash Grey Clear Lilac'",
+      "colorway": "Dash Grey/Cloud White/Clear Lilac",
+      "gender": "women",
+      "silhouette": "Adizero Boston",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-13",
+      "retailPrice": 120,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/416/411/original/FW2213.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/416/411/original/FW2213.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/416/411/original/FW2213.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-adizero-boston-9-dash-grey-clear-lilac-fw2213",
+        "flightClub": " https://flightclub.com/wmns-adizero-boston-9-dash-grey-clear-lilac-fw2213"
+      }
+    },
+    {
+      "id": "6a08af1c-b4b0-4832-86e2-cfd863860184",
+      "sku": "FY3248",
+      "brand": "adidas",
+      "name": "Stycon Laceless HC 'Hazy Sky Gradient'",
+      "colorway": "Hazy Sky/Solar Yellow/Cloud White",
+      "gender": "men",
+      "silhouette": "Stycon",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-13",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/831/original/FY3248.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/831/original/FY3248.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/831/original/FY3248.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/stycon-laceless-hc-hazy-sky-gradient-fy3248",
+        "flightClub": " https://flightclub.com/stycon-laceless-hc-hazy-sky-gradient-fy3248"
+      }
+    },
+    {
+      "id": "6cde4dd5-0df5-439a-86b2-f31790ebef00",
+      "sku": "FZ0653",
+      "brand": "adidas",
+      "name": "Superstar Infant 'White Orange'",
+      "colorway": "Cloud White/Blue/Gold Metallic",
+      "gender": "infant",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-13",
+      "retailPrice": 50,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/215/540/original/743413_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/215/540/original/743413_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/215/540/original/743413_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-infant-white-orange-fz0653",
+        "flightClub": " https://flightclub.com/superstar-infant-white-orange-fz0653"
+      }
+    },
+    {
+      "id": "7ccc685c-ac2e-45dd-b648-6d74b57fd937",
+      "sku": "FZ0654",
+      "brand": "adidas",
+      "name": "Superstar Infant 'White Hazy Rose Sky'",
+      "colorway": "Cloud White/Hazy Rose/Hazy Sky",
+      "gender": "infant",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-13",
+      "retailPrice": 50,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/135/810/original/FZ0654.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/135/810/original/FZ0654.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/135/810/original/FZ0654.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-infant-white-hazy-rose-sky-fz0654",
+        "flightClub": " https://flightclub.com/superstar-infant-white-hazy-rose-sky-fz0654"
+      }
+    },
+    {
+      "id": "92266d2a-c8d3-4891-b634-b4b5941eea03",
+      "sku": "FZ0649",
+      "brand": "adidas",
+      "name": "Superstar J 'White Hazy Rose Sky'",
+      "colorway": "Cloud White/Hazy Rose/Hazy Sky",
+      "gender": "youth",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-13",
+      "retailPrice": 75,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/240/553/original/FZ0649.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/240/553/original/FZ0649.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/240/553/original/FZ0649.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-j-white-hazy-rose-sky-fz0649",
+        "flightClub": " https://flightclub.com/superstar-j-white-hazy-rose-sky-fz0649"
+      }
+    },
+    {
+      "id": "e645191a-b519-46f3-bf65-78c4b9e4656e",
+      "sku": "FZ0648",
+      "brand": "adidas",
+      "name": "Superstar J 'White Orange'",
+      "colorway": "Cloud White/Blue/Gold Metallic",
+      "gender": "youth",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-13",
+      "retailPrice": 75,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/240/552/original/FZ0648.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/240/552/original/FZ0648.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/240/552/original/FZ0648.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-j-white-orange-fz0648",
+        "flightClub": " https://flightclub.com/superstar-j-white-orange-fz0648"
+      }
+    },
+    {
+      "id": "0c854596-d694-47b4-a1bb-28c0b9e78db4",
+      "sku": "FW9200",
+      "brand": "adidas",
+      "name": "Palace x Stan Smith 'White Green Pink'",
+      "colorway": "Cloud White/Footwear White/Light Pink",
+      "gender": "men",
+      "silhouette": "Stan Smith",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 0,
+      "estimatedMarketValue": 80,
+      "story": "",
+      "image": { "original": "", "small": "", "thumbnail": "" },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/palace-x-stan-smith-white-green-pink-fw9200",
+        "flightClub": " https://flightclub.com/palace-x-stan-smith-white-green-pink-fw9200"
+      }
+    },
+    {
+      "id": "169c8cbb-c59a-45a9-8459-c31d1ea018d3",
+      "sku": "S42979",
+      "brand": "adidas",
+      "name": "Predator Freak.2 FG 'Demonskin - Black White'",
+      "colorway": "Core Black/Cloud White/Core Black",
+      "gender": "men",
+      "silhouette": "Predator Freak.2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 130,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/863/original/S42979.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/863/original/S42979.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/863/original/S42979.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-2-fg-demonskin-black-white-s42979",
+        "flightClub": " https://flightclub.com/predator-freak-2-fg-demonskin-black-white-s42979"
+      }
+    },
+    {
+      "id": "16d9fee9-d8ef-4577-bcd1-fcb13221fc5c",
+      "sku": "G55714",
+      "brand": "adidas",
+      "name": "D.O.N. Issue #2 Little Kid 'Journey'",
+      "colorway": "Scarlet/Team Navy/Gold Metallic",
+      "gender": "youth",
+      "silhouette": "D.O.N. Issue #2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 0,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/148/original/G55714.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/148/original/G55714.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/148/original/G55714.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/d-o-n-issue-2-little-kid-journey-g55714",
+        "flightClub": " https://flightclub.com/d-o-n-issue-2-little-kid-journey-g55714"
+      }
+    },
+    {
+      "id": "2103d7a2-2889-4c68-901c-620143a5b41e",
+      "sku": "FX6597",
+      "brand": "adidas",
+      "name": "D Rose 11 'Glow Pink'",
+      "colorway": "Glow Pink/Hazy Rose/Cloud White",
+      "gender": "men",
+      "silhouette": "D Rose 11",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 120,
+      "estimatedMarketValue": 128,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/521/302/original/737168_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/521/302/original/737168_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/521/302/original/737168_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/d-rose-11-glow-pink-fx6597",
+        "flightClub": " https://flightclub.com/d-rose-11-glow-pink-fx6597"
+      }
+    },
+    {
+      "id": "56ba738f-3328-4e0d-8943-2b0b040da3c9",
+      "sku": "FX4064",
+      "brand": "adidas",
+      "name": "adidas T-Mac 2.0 EVO All Star Blue",
+      "colorway": "Blue/Silver",
+      "gender": "men",
+      "silhouette": "T-Mac 2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 130,
+      "estimatedMarketValue": 138,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/886/original/FX4064.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/886/original/FX4064.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/886/original/FX4064.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-t-mac-20-evo-all-star-blue",
+        "goat": " https://goat.com/sneakers/t-mac-2-evo-all-star-blue-fx4064",
+        "flightClub": " https://flightclub.com/t-mac-2-evo-all-star-blue-fx4064"
+      }
+    },
+    {
+      "id": "604d9071-1acf-4b71-b5de-92fc241c4064",
+      "sku": "FY9831",
+      "brand": "adidas",
+      "name": "Superstar J 'Black Camo'",
+      "colorway": "Core Black/Core Black/Fox Orange",
+      "gender": "youth",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 75,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/835/original/FY9831.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/835/original/FY9831.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/835/original/FY9831.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-j-black-camo-fy9831",
+        "flightClub": " https://flightclub.com/superstar-j-black-camo-fy9831"
+      }
+    },
+    {
+      "id": "84549a00-631b-400b-9cb3-fb6dbd844adb",
+      "sku": "FX7117",
+      "brand": "adidas",
+      "name": "N3xt L3v3l 'Sky Tint Red'",
+      "colorway": "Sky Tint/Cloud White/Solar Red",
+      "gender": "men",
+      "silhouette": "N3xt L3v3l",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 180,
+      "estimatedMarketValue": 155,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/823/original/FX7117.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/823/original/FX7117.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/823/original/FX7117.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/n3xt-l3v3l-sky-tint-red-fx7117",
+        "flightClub": " https://flightclub.com/n3xt-l3v3l-sky-tint-red-fx7117"
+      }
+    },
+    {
+      "id": "a113ca56-7338-4546-9ee5-99827cf5beb2",
+      "sku": "FZ5430",
+      "brand": "adidas",
+      "name": "Copa Mundial 21 FG 'Core Black'",
+      "colorway": "Core Black/Grey Six/Grey Six",
+      "gender": "men",
+      "silhouette": "Copa Mundial",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 200,
+      "estimatedMarketValue": 199,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/840/original/FZ5430.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/840/original/FZ5430.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/840/original/FZ5430.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-mundial-21-fg-core-black-fz5430",
+        "flightClub": " https://flightclub.com/copa-mundial-21-fg-core-black-fz5430"
+      }
+    },
+    {
+      "id": "a473cb38-b985-4ca4-b695-c187d7f7868a",
+      "sku": "FX4065",
+      "brand": "adidas",
+      "name": "adidas T-Mac 2.0 EVO All Star Red",
+      "colorway": "Red/Silver",
+      "gender": "men",
+      "silhouette": "T-Mac 2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 130,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/887/original/FX4065.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/887/original/FX4065.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/887/original/FX4065.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-t-mac-20-evo-all-star-red",
+        "goat": " https://goat.com/sneakers/t-mac-2-evo-all-star-red-fx4065",
+        "flightClub": " https://flightclub.com/t-mac-2-evo-all-star-red-fx4065"
+      }
+    },
+    {
+      "id": "a77251fe-c49d-4510-b36d-4f34dbd38d6d",
+      "sku": "FX1781",
+      "brand": "adidas",
+      "name": "Wmns Crazyflight 'Halo Blue'",
+      "colorway": "Halo Blue/Legend Ink/Hi-Res Yellow",
+      "gender": "women",
+      "silhouette": "Crazyflight",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 130,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/817/original/FX1781.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/817/original/FX1781.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/817/original/FX1781.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-crazyflight-halo-blue-fx1781",
+        "flightClub": " https://flightclub.com/wmns-crazyflight-halo-blue-fx1781"
+      }
+    },
+    {
+      "id": "bad237c6-e372-4bf5-b2d9-750230f15985",
+      "sku": "G55709",
+      "brand": "adidas",
+      "name": "D.O.N. Issue #2 Big Kid 'Journey'",
+      "colorway": "Scarlet/Team Navy/Gold Metallic",
+      "gender": "youth",
+      "silhouette": "D.O.N. Issue #2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 0,
+      "estimatedMarketValue": 145,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/147/original/G55709.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/147/original/G55709.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/147/original/G55709.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/d-o-n-issue-2-big-kid-journey-g55709",
+        "flightClub": " https://flightclub.com/d-o-n-issue-2-big-kid-journey-g55709"
+      }
+    },
+    {
+      "id": "cdab9e7c-eddd-4db6-93c6-e751940bcfc3",
+      "sku": "FX6519",
+      "brand": "adidas",
+      "name": "D.O.N. Issue #2 'Journey'",
+      "colorway": "Scarlet/Team Navy/Gold Metallic",
+      "gender": "men",
+      "silhouette": "D.O.N. Issue #2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 100,
+      "estimatedMarketValue": 83,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/060/original/FX6519.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/060/original/FX6519.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/060/original/FX6519.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/d-o-n-issue-2-journey-fx6519",
+        "flightClub": " https://flightclub.com/d-o-n-issue-2-journey-fx6519"
+      }
+    },
+    {
+      "id": "d1ca6331-4a49-4cdf-a347-dc27df8e226a",
+      "sku": "FY4778",
+      "brand": "adidas",
+      "name": "Swift Run X J 'White Iridescent'",
+      "colorway": "Cloud White/Supplier Colour/Core Black",
+      "gender": "youth",
+      "silhouette": "Swift Run",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 65,
+      "estimatedMarketValue": 89,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/235/398/original/FY4778.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/235/398/original/FY4778.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/235/398/original/FY4778.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/swift-run-x-j-white-iridescent-fy4778",
+        "flightClub": " https://flightclub.com/swift-run-x-j-white-iridescent-fy4778"
+      }
+    },
+    {
+      "id": "da3faaed-fbfa-4557-940b-48baecd72efa",
+      "sku": "FW9216",
+      "brand": "adidas",
+      "name": "Palace x Stan Smith 'Pastel'",
+      "colorway": "Vapor Pink/Haze Yellow/Ice Blue",
+      "gender": "men",
+      "silhouette": "Stan Smith",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 0,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": { "original": "", "small": "", "thumbnail": "" },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/palace-x-stan-smith-pastel-fw9216",
+        "flightClub": " https://flightclub.com/palace-x-stan-smith-pastel-fw9216"
+      }
+    },
+    {
+      "id": "de46994d-ad03-429a-9074-69895fbf8357",
+      "sku": "FZ1383",
+      "brand": "adidas",
+      "name": "Harden Stepback 2 'Hi-Res Yellow'",
+      "colorway": "Hi-Res Yellow/Crew Yellow/Royal Blue",
+      "gender": "men",
+      "silhouette": "Harden Stepback",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 80,
+      "estimatedMarketValue": 119,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/837/original/FZ1383.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/837/original/FZ1383.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/837/original/FZ1383.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/harden-stepback-2-hi-res-yellow-fz1383",
+        "flightClub": " https://flightclub.com/harden-stepback-2-hi-res-yellow-fz1383"
+      }
+    },
+    {
+      "id": "f7416bff-e79d-4749-84eb-36d5e8e57e06",
+      "sku": "FZ1548",
+      "brand": "adidas",
+      "name": "Harden Stepback 2 J 'Hi-Res Yellow'",
+      "colorway": "Hi-Res Yellow/Crew Yellow/Royal Blue",
+      "gender": "youth",
+      "silhouette": "Harden Stepback",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-12",
+      "retailPrice": 70,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/838/original/FZ1548.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/838/original/FZ1548.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/838/original/FZ1548.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/harden-stepback-2-j-hi-res-yellow-fz1548",
+        "flightClub": " https://flightclub.com/harden-stepback-2-j-hi-res-yellow-fz1548"
+      }
+    },
+    {
+      "id": "06a94cc8-a69f-4274-9766-4a75610c634f",
+      "sku": "FV4720",
+      "brand": "adidas",
+      "name": "Wmns Five Ten Trailcross LT 'Core Black'",
+      "colorway": "Core Black/Grey Two/Solar Red",
+      "gender": "women",
+      "silhouette": "Five Ten",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-11",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/830/717/original/FV4720.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/717/original/FV4720.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/830/717/original/FV4720.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-five-ten-trailcross-lt-core-black-fv4720",
+        "flightClub": " https://flightclub.com/wmns-five-ten-trailcross-lt-core-black-fv4720"
+      }
+    },
+    {
+      "id": "229ae80c-4012-45dd-97a0-1eec2b50ff20",
+      "sku": "H06578",
+      "brand": "adidas",
+      "name": "Wmns ZX 2K Boost 'White Hazy Sky Pink'",
+      "colorway": "Core White/Hazy Sky/Glow Pink",
+      "gender": "women",
+      "silhouette": "ZX 2K Boost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-11",
+      "retailPrice": 150,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/183/original/H06578.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/183/original/H06578.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/183/original/H06578.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-zx-2k-boost-white-hazy-sky-pink-h06578",
+        "flightClub": " https://flightclub.com/wmns-zx-2k-boost-white-hazy-sky-pink-h06578"
+      }
+    },
+    {
+      "id": "565652c9-06b6-4a29-97d0-c869d8be356a",
+      "sku": "FZ3454",
+      "brand": "adidas",
+      "name": "Wmns Multix 'Triple White'",
+      "colorway": "Cloud White/Cloud White/Cloud White",
+      "gender": "women",
+      "silhouette": "Multix",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-11",
+      "retailPrice": 80,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/524/537/original/FZ3454.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/524/537/original/FZ3454.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/524/537/original/FZ3454.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-multix-triple-white-fz3454",
+        "flightClub": " https://flightclub.com/wmns-multix-triple-white-fz3454"
+      }
+    },
+    {
+      "id": "695ecd7a-80e1-4692-9b82-5bcfcc9303b9",
+      "sku": "FX7031",
+      "brand": "adidas",
+      "name": "ZX 2K Boost 'Bold Logo Graphic - Acid Yellow'",
+      "colorway": "Acid Yellow/Core Black/Cloud White",
+      "gender": "men",
+      "silhouette": "ZX 2K Boost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-11",
+      "retailPrice": 150,
+      "estimatedMarketValue": 117,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/063/original/FX7031.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/063/original/FX7031.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/063/original/FX7031.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/zx-2k-boost-bold-logo-graphic-acid-yellow-fx7031",
+        "flightClub": " https://flightclub.com/zx-2k-boost-bold-logo-graphic-acid-yellow-fx7031"
+      }
+    },
+    {
+      "id": "748f83af-44cd-4858-becf-1583ced728e2",
+      "sku": "FX7030",
+      "brand": "adidas",
+      "name": "ZX 2K Boost 'Bold Logo Graphic - White'",
+      "colorway": "Cloud White/Silver Metallic/Core Black",
+      "gender": "men",
+      "silhouette": "ZX 2K Boost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-11",
+      "retailPrice": 150,
+      "estimatedMarketValue": 192,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/062/original/FX7030.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/062/original/FX7030.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/062/original/FX7030.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/zx-2k-boost-bold-logo-graphic-white-fx7030",
+        "flightClub": " https://flightclub.com/zx-2k-boost-bold-logo-graphic-white-fx7030"
+      }
+    },
+    {
+      "id": "fdfc4665-a9fd-4d59-8068-7b6f963cae9d",
+      "sku": "FY3247",
+      "brand": "adidas",
+      "name": "Stycon Laceless HC 'Tie Dye'",
+      "colorway": "Crew Navy/Screaming Pink/Screaming Orange",
+      "gender": "men",
+      "silhouette": "Stycon",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-11",
+      "retailPrice": 140,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/830/original/FY3247.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/830/original/FY3247.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/830/original/FY3247.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/stycon-laceless-hc-tie-dye-fy3247",
+        "flightClub": " https://flightclub.com/stycon-laceless-hc-tie-dye-fy3247"
+      }
+    },
+    {
+      "id": "09716bf5-88a3-4f92-b421-7ee377dba061",
+      "sku": "FW6320",
+      "brand": "adidas",
+      "name": "Wmns Response Bounce 2.0 SL 'Halo Blue'",
+      "colorway": "Halo Blue/Cloud White/Hazy Sky",
+      "gender": "women",
+      "silhouette": "Response Bounce",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/192/559/original/FW6320.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/192/559/original/FW6320.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/192/559/original/FW6320.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-response-bounce-2-0-sl-halo-blue-fw6320",
+        "flightClub": " https://flightclub.com/wmns-response-bounce-2-0-sl-halo-blue-fw6320"
+      }
+    },
+    {
+      "id": "15d82c69-8e6c-4e4b-8b40-a219cee188be",
+      "sku": "FY5056",
+      "brand": "adidas",
+      "name": "Wmns Sleek 'Core Black'",
+      "colorway": "Core Black/Cloud White/Crystal White",
+      "gender": "women",
+      "silhouette": "Sleek",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 80,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/090/original/FY5056.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/090/original/FY5056.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/090/original/FY5056.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-sleek-core-black-fy5056",
+        "flightClub": " https://flightclub.com/wmns-sleek-core-black-fy5056"
+      }
+    },
+    {
+      "id": "25508160-15bf-4405-9875-72c775a04e5d",
+      "sku": "FZ3205-S",
+      "brand": "adidas",
+      "name": "NMD_R1 Spectoo 'Off White Bliss' Sample",
+      "colorway": "Off White/Bliss/Light Brown",
+      "gender": "men",
+      "silhouette": "NMD Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/879/169/original/FZ3205_S.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/879/169/original/FZ3205_S.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/879/169/original/FZ3205_S.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nmd_r1-spectoo-off-white-bliss-sample-fz3205-s",
+        "flightClub": " https://flightclub.com/nmd_r1-spectoo-off-white-bliss-sample-fz3205-s"
+      }
+    },
+    {
+      "id": "2eb941fc-df89-4b6e-a37a-cdccefd630fd",
+      "sku": "FU8986",
+      "brand": "adidas",
+      "name": "Stella McCartney x Wmns UltraBoost X 'Black Leopard'",
+      "colorway": "Core Black/Utility Black/Core Black",
+      "gender": "women",
+      "silhouette": "UltraBoost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 0,
+      "estimatedMarketValue": 155,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/896/242/original/FU8986.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/896/242/original/FU8986.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/896/242/original/FU8986.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/stella-mccartney-x-wmns-ultraboost-x-black-leopard-fu8986",
+        "flightClub": " https://flightclub.com/stella-mccartney-x-wmns-ultraboost-x-black-leopard-fu8986"
+      }
+    },
+    {
+      "id": "47f76179-7d6a-4a32-9c96-0ab4872555f7",
+      "sku": "FZ3161",
+      "brand": "adidas",
+      "name": "Wmns Response Bounce 2.0 'White Wild Pink'",
+      "colorway": "Cloud White/Wild Pink/Silver Metallic",
+      "gender": "women",
+      "silhouette": "Response Bounce",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 85,
+      "estimatedMarketValue": 145,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/192/576/original/FZ3161.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/192/576/original/FZ3161.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/192/576/original/FZ3161.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-response-bounce-2-0-white-wild-pink-fz3161",
+        "flightClub": " https://flightclub.com/wmns-response-bounce-2-0-white-wild-pink-fz3161"
+      }
+    },
+    {
+      "id": "54d9576f-f31c-4704-884c-e4d071fd5ee6",
+      "sku": "FX1958",
+      "brand": "adidas",
+      "name": "Stella McCartney x Wmns UltraBoost 20 'Acid Yellow'",
+      "colorway": "Acid Yellow/Acid Yellow/Pearl Rose",
+      "gender": "women",
+      "silhouette": "UltraBoost 20",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 230,
+      "estimatedMarketValue": 159,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/488/888/original/735589_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/488/888/original/735589_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/488/888/original/735589_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/stella-mccartney-x-wmns-ultraboost-20-acid-yellow-fx1958",
+        "flightClub": " https://flightclub.com/stella-mccartney-x-wmns-ultraboost-20-acid-yellow-fx1958"
+      }
+    },
+    {
+      "id": "653e8af6-f771-4ee2-bdf1-affb528b18a4",
+      "sku": "FY1638",
+      "brand": "adidas",
+      "name": "Wmns Crazyflight 'Black White'",
+      "colorway": "Core Black/Cloud White/Core Black",
+      "gender": "women",
+      "silhouette": "Crazyflight",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/081/original/FY1638.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/081/original/FY1638.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/081/original/FY1638.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-crazyflight-black-white-fy1638",
+        "flightClub": " https://flightclub.com/wmns-crazyflight-black-white-fy1638"
+      }
+    },
+    {
+      "id": "7d505df6-4dfb-46dd-80aa-93c4444c7012",
+      "sku": "FX6028",
+      "brand": "adidas",
+      "name": "Ozweego 'Triple Black'",
+      "colorway": "Core Black/Core Black/Core Black",
+      "gender": "men",
+      "silhouette": "Ozweego",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 0,
+      "estimatedMarketValue": 132,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/186/435/original/FX6028.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/186/435/original/FX6028.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/186/435/original/FX6028.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ozweego-triple-black-fx6028",
+        "flightClub": " https://flightclub.com/ozweego-triple-black-fx6028"
+      }
+    },
+    {
+      "id": "8192684b-d305-4581-a57e-84d919e13359",
+      "sku": "FY1184",
+      "brand": "adidas",
+      "name": "Stella McCartney x Wmns UltraBoost 20 'Pearl Rose'",
+      "colorway": "Pearl Rose/Ash Green/Tech Beige",
+      "gender": "women",
+      "silhouette": "UltraBoost 20",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 230,
+      "estimatedMarketValue": 229,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/436/729/original/735587_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/436/729/original/735587_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/436/729/original/735587_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/stella-mccartney-x-wmns-ultraboost-20-pearl-rose-fy1184",
+        "flightClub": " https://flightclub.com/stella-mccartney-x-wmns-ultraboost-20-pearl-rose-fy1184"
+      }
+    },
+    {
+      "id": "81ffd21f-68f0-4189-b420-310ca2e2a6c5",
+      "sku": "FW2832",
+      "brand": "adidas",
+      "name": "Five Ten Freerider DLX 'Core Black'",
+      "colorway": "Core Black/Core Black/Grey Three",
+      "gender": "men",
+      "silhouette": "Five Ten",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/032/original/FW2832.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/032/original/FW2832.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/032/original/FW2832.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/five-ten-freerider-dlx-core-black-fw2832",
+        "flightClub": " https://flightclub.com/five-ten-freerider-dlx-core-black-fw2832"
+      }
+    },
+    {
+      "id": "9f3f5c47-3197-42e3-80c1-cb11315b98cd",
+      "sku": "GV9710",
+      "brand": "adidas",
+      "name": "Ozweego 'Black Camo'",
+      "colorway": "Core Black/Core Black/Hazy Beige",
+      "gender": "men",
+      "silhouette": "Ozweego",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 0,
+      "estimatedMarketValue": 212,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/186/446/original/GV9710.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/186/446/original/GV9710.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/186/446/original/GV9710.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ozweego-black-camo-gv9710",
+        "flightClub": " https://flightclub.com/ozweego-black-camo-gv9710"
+      }
+    },
+    {
+      "id": "a765968a-0d57-4185-a729-c9f2526380eb",
+      "sku": "FY5047",
+      "brand": "adidas",
+      "name": "Wmns Sleek 'Cloud White'",
+      "colorway": "Cloud White/Core Black/Crystal White",
+      "gender": "women",
+      "silhouette": "Sleek",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 80,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/089/original/FY5047.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/089/original/FY5047.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/089/original/FY5047.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-sleek-cloud-white-fy5047",
+        "flightClub": " https://flightclub.com/wmns-sleek-cloud-white-fy5047"
+      }
+    },
+    {
+      "id": "cf4bc13f-ab9a-4ce1-a1e5-43eddcb33802",
+      "sku": "FZ3158",
+      "brand": "adidas",
+      "name": "Wmns Response Bounce 2.0 SL 'Grey Acid Orange'",
+      "colorway": "Grey One/Cloud White/Acid Orange",
+      "gender": "women",
+      "silhouette": "Response Bounce",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-10",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/415/839/original/FZ3158.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/415/839/original/FZ3158.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/415/839/original/FZ3158.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-response-bounce-2-0-sl-grey-acid-orange-fz3158",
+        "flightClub": " https://flightclub.com/wmns-response-bounce-2-0-sl-grey-acid-orange-fz3158"
+      }
+    },
+    {
+      "id": "1f1e5673-c0c4-4e7b-8523-99af840fe0fe",
+      "sku": "H03262",
+      "brand": "adidas",
+      "name": "Wmns Day Jogger 'White Hazy Green'",
+      "colorway": "Footwear White/Core Black/Hazy Green",
+      "gender": "women",
+      "silhouette": "Day Jogger",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-09",
+      "retailPrice": 0,
+      "estimatedMarketValue": 158,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/174/original/H03262.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/174/original/H03262.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/174/original/H03262.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-day-jogger-white-hazy-green-h03262",
+        "flightClub": " https://flightclub.com/wmns-day-jogger-white-hazy-green-h03262"
+      }
+    },
+    {
+      "id": "1f9312f9-460a-4f4b-8edf-d7d09ece9db1",
+      "sku": "GZ7606",
+      "brand": "adidas",
+      "name": "UltraBoost 20 'Chinese New Year'",
+      "colorway": "Core Black/Gold Metallic/Collegiate Purple",
+      "gender": "men",
+      "silhouette": "UltraBoost 20",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-09",
+      "retailPrice": 0,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/164/original/GZ7606.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/164/original/GZ7606.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/164/original/GZ7606.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ultraboost-20-chinese-new-year-gz7606",
+        "flightClub": " https://flightclub.com/ultraboost-20-chinese-new-year-gz7606"
+      }
+    },
+    {
+      "id": "2834b555-804a-456a-b34f-d69440de81a8",
+      "sku": "GZ7605",
+      "brand": "adidas",
+      "name": "X9000L4 M 'Chinese New Year'",
+      "colorway": "Cloud White/Orange/Scarlet",
+      "gender": "men",
+      "silhouette": "X9000L4",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-09",
+      "retailPrice": 0,
+      "estimatedMarketValue": 173,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/163/original/GZ7605.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/163/original/GZ7605.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/163/original/GZ7605.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x9000l4-m-chinese-new-year-gz7605",
+        "flightClub": " https://flightclub.com/x9000l4-m-chinese-new-year-gz7605"
+      }
+    },
+    {
+      "id": "3d9ee222-75b6-4225-a9fc-f6c4c77f097e",
+      "sku": "GZ8987",
+      "brand": "adidas",
+      "name": "X9000L4 'Chinese New Year'",
+      "colorway": "Core Black/Orange/Scarlet",
+      "gender": "men",
+      "silhouette": "X9000L4",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-09",
+      "retailPrice": 0,
+      "estimatedMarketValue": 129,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/168/original/GZ8987.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/168/original/GZ8987.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/168/original/GZ8987.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x9000l4-chinese-new-year-gz8987",
+        "flightClub": " https://flightclub.com/x9000l4-chinese-new-year-gz8987"
+      }
+    },
+    {
+      "id": "5612db6c-d33c-44ce-bea3-b16a0ae99ae0",
+      "sku": "FY1041",
+      "brand": "adidas",
+      "name": "Predator Freak.4 FG J 'Black White'",
+      "colorway": "Core Black/Cloud White/Core Black",
+      "gender": "youth",
+      "silhouette": "Predator Freak.4",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-09",
+      "retailPrice": 40,
+      "estimatedMarketValue": 40,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/146/811/original/FY1041.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/146/811/original/FY1041.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/146/811/original/FY1041.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-4-fg-j-black-white-fy1041",
+        "flightClub": " https://flightclub.com/predator-freak-4-fg-j-black-white-fy1041"
+      }
+    },
+    {
+      "id": "5bf14876-bdab-499a-8027-4cffbe207ba4",
+      "sku": "FX4453",
+      "brand": "adidas",
+      "name": "Wmns Five Ten Freerider Pro 'Core Black'",
+      "colorway": "Core Black/Crystal White/Acid Mint",
+      "gender": "women",
+      "silhouette": "Five Ten",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-09",
+      "retailPrice": 150,
+      "estimatedMarketValue": 210,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/830/735/original/FX4453.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/735/original/FX4453.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/830/735/original/FX4453.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-five-ten-freerider-pro-core-black-fx4453",
+        "flightClub": " https://flightclub.com/wmns-five-ten-freerider-pro-core-black-fx4453"
+      }
+    },
+    {
+      "id": "5cdbc78d-aa45-4e2a-93cd-84965f1f4068",
+      "sku": "FY1038",
+      "brand": "adidas",
+      "name": "Predator Freak.3 TF 'Demonscale - Black White'",
+      "colorway": "Core Black/Cloud White/Core Black",
+      "gender": "men",
+      "silhouette": "Predator Freak.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-09",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/146/809/original/FY1038.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/146/809/original/FY1038.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/146/809/original/FY1038.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-3-tf-demonscale-black-white-fy1038",
+        "flightClub": " https://flightclub.com/predator-freak-3-tf-demonscale-black-white-fy1038"
+      }
+    },
+    {
+      "id": "647fe0bd-4e12-4d5d-92cb-29cd57c0f0ab",
+      "sku": "GZ7638",
+      "brand": "adidas",
+      "name": "Wmns X9000L4 'Chinese New Year'",
+      "colorway": "Cloud White/Active Purple/Scarlet",
+      "gender": "women",
+      "silhouette": "X9000L4",
+      "releaseYear": 2021,
+      "releaseDate": "2021-02-09",
+      "retailPrice": 0,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/234/165/original/GZ7638.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/234/165/original/GZ7638.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/234/165/original/GZ7638.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-x9000l4-chinese-new-year-gz7638",
+        "flightClub": " https://flightclub.com/wmns-x9000l4-chinese-new-year-gz7638"
+      }
+    }
+  ]
+}

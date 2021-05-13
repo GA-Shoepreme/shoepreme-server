@@ -1,0 +1,2401 @@
+{
+  "count": 56277,
+  "results": [
+    {
+      "id": "3fe97610-cc2a-41c5-9e68-b0fb72cdd101",
+      "sku": "DA3056-100",
+      "brand": "Nike",
+      "name": "Wmns Winflo 8 Premium 'White Leopard'",
+      "colorway": "White/Wheat/Gum Light Brown/Black",
+      "gender": "women",
+      "silhouette": "Zoom Winflo 8",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 90,
+      "estimatedMarketValue": 199,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/216/original/DA3056_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/216/original/DA3056_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/216/original/DA3056_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-winflo-8-premium-white-leopard-da3056-100",
+        "flightClub": " https://flightclub.com/wmns-winflo-8-premium-white-leopard-da3056-100"
+      }
+    },
+    {
+      "id": "432149ff-fdda-4503-93eb-912cd995ba16",
+      "sku": "DC3991-400",
+      "brand": "Nike",
+      "name": "Air Max 95 'Cork'",
+      "colorway": "Obsidian/Wheat/Thunder Blue/Hasta",
+      "gender": "men",
+      "silhouette": "Air Max 95",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 180,
+      "estimatedMarketValue": 313,
+      "story": "",
+      "image": { "original": "", "small": "", "thumbnail": "" },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-95-cork-dc3991-400",
+        "flightClub": " https://flightclub.com/air-max-95-cork-dc3991-400"
+      }
+    },
+    {
+      "id": "46bdc616-1149-4b41-97de-10137235ac49",
+      "sku": "DA6678-003",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 FlyEase Extra Wide 'Pure Platinum Chile Red'",
+      "colorway": "Pure Platinum/Wolf Grey/Iron Grey/Chile Red",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 175,
+      "story": "The Nike Air Zoom Pegasus 38 FlyEase Extra Wide ‘Pure Platinum Chile Red’ delivers a combination of easy access and responsive cushioning. The light grey textile upper features convenient zippered entry on the medial side, along with a no-tie lacing system that can be easily secured with one hand. Integrated webbing straps offer a feeling of lockdown, while a foam tongue alleviates pressure at the top of the foot. The lightweight build is supported by a Nike React midsole, enhanced with springy Zoom Air cushioning in the forefoot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/223/original/DA6678_003.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/223/original/DA6678_003.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/223/original/DA6678_003.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-flyease-extra-wide-pure-platinum-chile-red-da6678-003",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-flyease-extra-wide-pure-platinum-chile-red-da6678-003"
+      }
+    },
+    {
+      "id": "4c193415-cb7a-48bc-a7d9-6e9b0af955f2",
+      "sku": "DA6674-003",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 FlyEase 'Pure Platinum Chile Red'",
+      "colorway": "Pure Platinum/Wolf Grey/Iron Grey/Chile Red",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 175,
+      "story": "The Nike Air Zoom Pegasus 38 FlyEase ‘Pure Platinum Chile Red’ highlights mostly neutral tones on an easy-access version of the performance running shoe. Signature Swoosh branding in a bold scarlet hue enlivens the light grey mesh upper, featuring zippered entry and a no-tie cord lacing system designed to be secured with only one hand. A wider toe box offers plenty of wiggle room, while a plush foam tongue mitigates pressure on the top of the foot. Lightweight cushioning arrives via full-length Nike React midsole with a Zoom Air unit housed in the forefoot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/220/original/DA6674_003.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/220/original/DA6674_003.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/220/original/DA6674_003.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-flyease-pure-platinum-chile-red-da6674-003",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-flyease-pure-platinum-chile-red-da6674-003"
+      }
+    },
+    {
+      "id": "51092baa-0653-490b-86e6-fbcc0ef9b589",
+      "sku": "CW1620-500",
+      "brand": "Nike",
+      "name": "React Live TD 'Light Violet Champagne'",
+      "colorway": "Light Violet/White/Champagne/Crimson Bliss",
+      "gender": "infant",
+      "silhouette": "React Live",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "The Nike React Live TD ‘Light Violet Champagne’ showcases pastel hues on a slip-on sneaker that pairs breathable comfort and a cushioned ride. Elastic no-tie laces secure the upper, constructed from a blend of pink textile and open white mesh. Pull tabs at the tongue and heel allow the shoe be easily slipped on and off. The lightweight build is mounted on a sculpted foam midsole, supported underfoot by a rubber outsole for durable traction.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/191/original/CW1620_500.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/191/original/CW1620_500.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/191/original/CW1620_500.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/react-live-td-light-violet-champagne-cw1620-500",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "56c19a0f-48c9-4144-a516-78a54d090bf6",
+      "sku": "DA6698-001",
+      "brand": "Nike",
+      "name": "Wmns Air Zoom Pegasus 38 FlyEase 'Black White'",
+      "colorway": "Black/Anthracite/Volt/White",
+      "gender": "women",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 175,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/225/original/DA6698_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/225/original/DA6698_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/225/original/DA6698_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-zoom-pegasus-38-flyease-black-white-da6698-001",
+        "flightClub": " https://flightclub.com/wmns-air-zoom-pegasus-38-flyease-black-white-da6698-001"
+      }
+    },
+    {
+      "id": "57357ac4-9c8d-496b-b19f-9b99bb16cb2f",
+      "sku": "CN9146-005",
+      "brand": "Nike",
+      "name": "Varsity Leather GS 'Particle Grey'",
+      "colorway": "Particle Grey/White/Black/Particle Grey",
+      "gender": "youth",
+      "silhouette": "Varsity",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "Crafted for big kids, the Nike Varsity Leather GS ‘Particle Grey’ showcases a neutral monochromatic on a versatile everyday running shoe made with durability in mind. Grey leather is utilized on the upper, featuring tonal Swoosh branding and toe box perforations for improved ventilation. A classic Nike logo is pressed into the stitched tag that decorates the breathable mesh tongue. The low-top is mounted on a plush foam midsole, supported by lasting rubber in high-wear areas.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/228/original/CN9146_005.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/228/original/CN9146_005.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/228/original/CN9146_005.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/varsity-leather-gs-particle-grey-cn9146-005",
+        "flightClub": " https://flightclub.com/varsity-leather-gs-particle-grey-cn9146-005"
+      }
+    },
+    {
+      "id": "594b329b-fc8a-408f-b898-f33e35abda8f",
+      "sku": "DD1875-500",
+      "brand": "Nike",
+      "name": "sacai x VaporWaffle 'Dark Iris'",
+      "colorway": "Dark Iris/Campfire Orange/White",
+      "gender": "men",
+      "silhouette": "VaporWaffle",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 180,
+      "estimatedMarketValue": 270,
+      "story": "Designed in coordination with Chitose Abe’s renowned fashion label, the Sacai x Nike VaporWaffle ‘Dark Iris’ showcases sumptuous hues on a retro-inspired silhouette that blends elements from the classic Pegasus 83 with the modern Vaporfly. The reconstructed upper features a purple nylon base with contrasting burnt orange accents on the leather Swoosh and heel tab, marked with dual Nike and Sacai branding. A second printed Swoosh continues a doubled-up theme applied in more literal fashion to the sneaker’s tongues and laces. A partially split foam midsole is reinforced by Nike’s iconic waffle outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/926/057/original/732828_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/926/057/original/732828_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/926/057/original/732828_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/sacai-x-vaporwaffle-dark-iris-dd1875-500",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "5c1d9126-6d1a-4e93-8910-ac16fe9cd63a",
+      "sku": "CW7356-001",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 'Black'",
+      "colorway": "Black/Anthracite/Volt/Black",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 175,
+      "story": "The Nike Air Zoom Pegasus 38 ‘Black’ showcases a stealthy monochromatic finish that allows the shoe’s performance benefits to come to the fore. They include an engineered mesh upper built on a new last, yielding a wider toe box for improved comfort. Laces are integrated into a series of interior webbing straps for a more personalized fit. The lightweight build is supported by tooling carried over from the Pegasus 37, which combines full-length React foam cushioning with a springy Zoom Air unit in the forefoot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/194/original/CW7356_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/194/original/CW7356_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/194/original/CW7356_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-black-cw7356-001",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-black-cw7356-001"
+      }
+    },
+    {
+      "id": "6796978c-bb89-4a9f-a205-18e3ac089e6a",
+      "sku": "DA6698-100",
+      "brand": "Nike",
+      "name": "Wmns Air Zoom Pegasus 38 FlyEase 'Summit White Dark Purple Dust'",
+      "colorway": "Summit White/Dark Purple Dust/Platinum Tint/Black",
+      "gender": "women",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 175,
+      "story": "The Nike women’s Air Zoom Pegasus 38 FlyEase ‘Summit White Dark Purple Dust’ pairs a lightweight and breathable mesh build with open-access functionality. Traditional woven laces are replaced by a set of thin cord laces, easily secured with one hand and integrated into dark violet webbing straps for midfoot lockdown. On the medial side, a zipper runs the length of the eyestay, allowing the shoe to be quickly slipped on and off. The sneaker is placed atop a Nike React foam midsole, featuring a forefoot Zoom Air unit tuned for extra bounce with each step.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/227/original/DA6698_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/227/original/DA6698_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/227/original/DA6698_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-zoom-pegasus-38-flyease-summit-white-dark-purple-dust-da6698-100",
+        "flightClub": " https://flightclub.com/wmns-air-zoom-pegasus-38-flyease-summit-white-dark-purple-dust-da6698-100"
+      }
+    },
+    {
+      "id": "6adbf1bc-fd8c-49c5-9243-302e25a7d316",
+      "sku": "CW7358-102",
+      "brand": "Nike",
+      "name": "Wmns Air Zoom Pegasus 38 'White Aurora Green'",
+      "colorway": "White/Pure Platinum/Aurora Green/Oil Grey",
+      "gender": "women",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 175,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/203/original/CW7358_102.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/203/original/CW7358_102.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/203/original/CW7358_102.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-zoom-pegasus-38-white-aurora-green-cw7358-102",
+        "flightClub": " https://flightclub.com/wmns-air-zoom-pegasus-38-white-aurora-green-cw7358-102"
+      }
+    },
+    {
+      "id": "751c0c04-1001-4a85-9b8b-bd225b19bf9a",
+      "sku": "CK0715-008",
+      "brand": "Nike",
+      "name": "Air Zoom Arcadia GS 'Black Pink Foam'",
+      "colorway": "Black/White/Pink Foam",
+      "gender": "youth",
+      "silhouette": "Air Zoom Arcadia",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 75,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/181/original/CK0715_008.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/181/original/CK0715_008.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/181/original/CK0715_008.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-arcadia-gs-black-pink-foam-ck0715-008",
+        "flightClub": " https://flightclub.com/air-zoom-arcadia-gs-black-pink-foam-ck0715-008"
+      }
+    },
+    {
+      "id": "79bf603e-dcb6-4d63-af65-dd9eac3b8759",
+      "sku": "DC9164-524",
+      "brand": "Nike",
+      "name": "Naomi Osaka x Wmns NikeCourt Air Zoom GP Turbo 'Fierce Purple'",
+      "colorway": "Fierce Purple/Wild Berry/White",
+      "gender": "women",
+      "silhouette": "NikeCourt Air Zoom GP",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "Made for the championship tennis player, the Naomi Osaka x Nike women’s NikeCourt Air Zoom GP Turbo ‘Fierce Purple’ carries a textile upper equipped with a Dynamic Fit system. The technology eliminates the space between the foot and the shoe, resulting in a supportive, second-skin fit. ‘Empowered’ is printed on the tongue tag, while Naomi’s personal logo adorns the heel. The low-top sits on a tonal foam midsole that works in tandem with a full-length Zoom Air unit stitched directly to the upper. Underfoot, the rubber outsole features a herringbone tread designed for hard court surfaces.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/252/original/DC9164_524.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/252/original/DC9164_524.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/252/original/DC9164_524.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/naomi-osaka-x-wmns-nikecourt-air-zoom-gp-turbo-fierce-purple-dc9164-524",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "834e0b49-a9d9-4aa2-9e0a-c77219666be2",
+      "sku": "CZ1815-002",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 Extra Wide 'Black White'",
+      "colorway": "Black/Anthracite/Volt/White",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 175,
+      "story": "The Nike Air Zoom Pegasus 38 Extra Wide ‘Black White’ applies a simple two-tone palette to a performance running shoe built on an accommodating last. White Swoosh branding stands out on a ventilated black mesh upper, secured with an integrated lacing system that delivers a feeling of lockdown. The lightweight and seamless build sits atop a resilient React foam midsole, enhanced with a springy Zoom Air unit nestled under the ball of the foot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/210/original/CZ1815_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/210/original/CZ1815_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/210/original/CZ1815_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-extra-wide-black-white-cz1815-002",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-extra-wide-black-white-cz1815-002"
+      }
+    },
+    {
+      "id": "835be5e5-766d-4658-aa37-c5bdb13a923a",
+      "sku": "AT4662-608",
+      "brand": "Nike",
+      "name": "Flex Runner GS 'Crimson Bliss Metallic Platinum'",
+      "colorway": "Crimson Bliss/Light Violet/Photon Dust/Metallic Platinum",
+      "gender": "youth",
+      "silhouette": "Flex Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/166/original/AT4662_608.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/166/original/AT4662_608.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/166/original/AT4662_608.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-runner-gs-crimson-bliss-metallic-platinum-at4662-608",
+        "flightClub": " https://flightclub.com/flex-runner-gs-crimson-bliss-metallic-platinum-at4662-608"
+      }
+    },
+    {
+      "id": "8855918f-959e-4c07-abf0-b0899478a292",
+      "sku": "DJ6395-100",
+      "brand": "Nike",
+      "name": "Nike Air Force 1 Low Acorn (2021)",
+      "colorway": "Acorn/Natural",
+      "gender": "men",
+      "silhouette": "Air Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 130,
+      "estimatedMarketValue": 130,
+      "story": "The 2021 edition of the Nike Air Force 1 Low ‘Acorn’ brings back a popular earth-toned colorway of the classic hoops silhouette. The upper combines light tan canvas with leather overlays in a subtle beige finish. The same hue is repeated on the Swoosh and Nike branded woven tongue tag. A standard AF1 cupsole anchors the low-top, complete with encapsulated Nike Air cushioning in the heel. Underfoot, the brown rubber outsole features a traction pattern made for pivoting on the hardwood.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/108/784/original/743925_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/108/784/original/743925_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/108/784/original/743925_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-air-force-1-low-acorn-2021",
+        "goat": " https://goat.com/sneakers/air-force-1-low-acorn-2021-dj6395-100",
+        "flightClub": " https://flightclub.com/air-force-1-low-acorn-2021-dj6395-100"
+      }
+    },
+    {
+      "id": "90caf815-6af7-430b-b7dc-03f8d8d15e8d",
+      "sku": "DA6678-002",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 FlyEase Extra Wide 'Black Metallic Silver'",
+      "colorway": "Black/White/Chlorine Blue/Metallic Silver",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 175,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/222/original/DA6678_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/222/original/DA6678_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/222/original/DA6678_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-flyease-extra-wide-black-metallic-silver-da6678-002",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-flyease-extra-wide-black-metallic-silver-da6678-002"
+      }
+    },
+    {
+      "id": "910e43b1-9050-4e94-95c4-4e1503e67383",
+      "sku": "CD6864-109",
+      "brand": "Nike",
+      "name": "Air Max 90 GS 'White Hot Lime'",
+      "colorway": "White/Black/Neutral Grey/Hot Lime",
+      "gender": "youth",
+      "silhouette": "Air Max 90",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 100,
+      "estimatedMarketValue": 159,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/444/256/original/CD6864_109.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/444/256/original/CD6864_109.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/444/256/original/CD6864_109.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-90-gs-white-hot-lime-cd6864-109",
+        "flightClub": " https://flightclub.com/air-max-90-gs-white-hot-lime-cd6864-109"
+      }
+    },
+    {
+      "id": "a0a818a2-02e9-4547-983a-2d1e9a4a77e3",
+      "sku": "CW7356-100",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 'White Black'",
+      "colorway": "White/Pure Platinum/Volt/Black",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 128,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/198/original/CW7356_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/198/original/CW7356_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/198/original/CW7356_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-white-black-cw7356-100",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-white-black-cw7356-100"
+      }
+    },
+    {
+      "id": "a39728b8-ae96-417d-bd0f-5f5d672b42c8",
+      "sku": "CW7358-100",
+      "brand": "Nike",
+      "name": "Wmns Air Zoom Pegasus 38 'White Metallic Silver'",
+      "colorway": "White/Pure Platinum/Wolf Grey/Metallic Silver",
+      "gender": "women",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 135,
+      "story": "The Nike women’s Air Zoom Pegasus 38 ‘White Metallic Silver’ updates the performance running shoe with a lightweight build stripped of all color. An integrated lacing system secures a breathable mesh upper, built with a plush tongue and a wider toe box for an extra-comfortable fit. A cropped and outlined Swoosh shines in metallic silver on the lateral side. The sneaker rides on a matching white Nike React midsole, fitted with a Zoom Air unit in the forefoot for springy cushioning.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/201/original/CW7358_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/201/original/CW7358_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/201/original/CW7358_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-zoom-pegasus-38-white-metallic-silver-cw7358-100",
+        "flightClub": " https://flightclub.com/wmns-air-zoom-pegasus-38-white-metallic-silver-cw7358-100"
+      }
+    },
+    {
+      "id": "a6291956-65d2-49ab-9577-c251273ba1ef",
+      "sku": "DD1875-200",
+      "brand": "Nike",
+      "name": "sacai x VaporWaffle 'Sesame Blue Void'",
+      "colorway": "Sesame/Blue Void/White",
+      "gender": "men",
+      "silhouette": "VaporWaffle",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 180,
+      "estimatedMarketValue": 277,
+      "story": "The sacai x Nike VaporWaffle ‘Sesame Blue Void’ reunites the Swoosh with the Tokyo-based fashion label helmed by Chitose Abe. Blending elements from the modern Vaporfly and vintage Pegasus runner from 1983, the hybrid silhouette makes use of a khaki textile upper with tonal leather and suede overlays. A blue leather Swoosh is joined by a larger printed Swoosh in contrasting white. Tongues are similarly doubled up, each accented with a woven Nike tag. The sneaker rides on a dual-layered foam midsole, featuring split heel detailing and supported by a classic waffle tread outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/818/403/original/705370_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/818/403/original/705370_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/818/403/original/705370_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/sacai-x-vaporwaffle-tan-navy-dd1875-200",
+        "flightClub": " https://flightclub.com/sacai-x-vaporwaffle-tan-navy-dd1875-200"
+      }
+    },
+    {
+      "id": "a6acd99e-ceb6-494d-9c51-b885760a7ba6",
+      "sku": "CW7356-002",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 'Black White'",
+      "colorway": "Black/Anthracite/Volt/White",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/195/original/CW7356_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/195/original/CW7356_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/195/original/CW7356_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-black-white-cw7356-002",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-black-white-cw7356-002"
+      }
+    },
+    {
+      "id": "b46b36f0-2681-453a-9f56-3cfa295251b5",
+      "sku": "DM3271-100",
+      "brand": "Nike",
+      "name": "Air Force 1 Low GS 'Just Do It - White Volt'",
+      "colorway": "White",
+      "gender": "youth",
+      "silhouette": "Air Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 85,
+      "estimatedMarketValue": 150,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/244/original/DM3271_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/244/original/DM3271_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/244/original/DM3271_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-force-1-low-gs-just-do-it-white-volt-dm3271-100",
+        "flightClub": " https://flightclub.com/air-force-1-low-gs-just-do-it-white-volt-dm3271-100"
+      }
+    },
+    {
+      "id": "c3806836-5ab6-4377-b094-fe99db681c6b",
+      "sku": "CD6867-109",
+      "brand": "Nike",
+      "name": "Air Max 90 PS 'White Hot Lime'",
+      "colorway": "White/Black/Neutral Grey/Hot Lime",
+      "gender": "youth",
+      "silhouette": "Air Max 90",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "Crafted for little kids, the Nike Air Max 90 PS ‘White Hot Lime’ adds vibrant accents to an otherwise neutral colorway of the retro runner. The upper foregoes traditional mesh construction in favor of an all-leather build, rendered in a soft grey finish with a contrasting black mudguard. Fluorescent green pops land on the signature Swoosh, Nike-branded heel patch and visible Max Air cushioning in the heel. Underfoot, the rubber outsole features a classic waffled tread that ties back to Nike running heritage.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/173/original/CD6867_109.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/173/original/CD6867_109.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/173/original/CD6867_109.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-90-ps-white-hot-lime-cd6867-109",
+        "flightClub": " https://flightclub.com/air-max-90-ps-white-hot-lime-cd6867-109"
+      }
+    },
+    {
+      "id": "c388e288-e64b-45ad-9fd5-25dae73ab16a",
+      "sku": "943345-030",
+      "brand": "Nike",
+      "name": "Air Max 270 GS 'Light Bone Volt'",
+      "colorway": "Light Bone/Volt/Particle Grey/Black",
+      "gender": "youth",
+      "silhouette": "Air Max 270",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 164,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/153/original/943345_030.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/153/original/943345_030.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/153/original/943345_030.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-270-gs-light-bone-volt-943345-030",
+        "flightClub": " https://flightclub.com/air-max-270-gs-light-bone-volt-943345-030"
+      }
+    },
+    {
+      "id": "d31fd45d-e2ec-4627-ae68-6e93b75a6d32",
+      "sku": "DC8168-100",
+      "brand": "Nike",
+      "name": "Nike Air Force 1 High EMB Dodgers",
+      "colorway": "White/Royal",
+      "gender": "men",
+      "silhouette": "Air Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 140,
+      "estimatedMarketValue": 127,
+      "story": "The Nike Air Force 1 High ‘07 LV8 EMB ‘Dodgers’ features a white leather upper with textile overlays and an adjustable ankle strap in Rush Blue, yielding a familiar two-tone color scheme that calls to mind Los Angeles’ iconic MLB franchise. ‘Nike Sports Specialties’ is displayed on the throwback tongue tag, while the lateral heel is decorated with an oversized Nike wordmark in blue embroidery. The high-top rests on a standard AF1 rubber cupsole with encapsulated Nike Air cushioning in the heel.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/108/628/original/764296_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/108/628/original/764296_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/108/628/original/764296_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-air-force-1-high-emb-dodgers",
+        "goat": " https://goat.com/sneakers/air-force-1-high-07-lv8-emb-dodgers-dc8168-100",
+        "flightClub": " https://flightclub.com/air-force-1-high-07-lv8-emb-dodgers-dc8168-100"
+      }
+    },
+    {
+      "id": "df261246-7262-433f-928f-2fb58ec1cc0f",
+      "sku": "CI9964-004",
+      "brand": "Nike",
+      "name": "Wmns Flex Experience Run 10 'Black Dark Smoke Grey'",
+      "colorway": "Black/Dark Smoke Grey",
+      "gender": "women",
+      "silhouette": "Flex Experience",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 65,
+      "estimatedMarketValue": 107,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/174/473/original/CI9964_004.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/174/473/original/CI9964_004.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/174/473/original/CI9964_004.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-flex-experience-run-10-black-dark-smoke-grey-ci9964-004",
+        "flightClub": " https://flightclub.com/wmns-flex-experience-run-10-black-dark-smoke-grey-ci9964-004"
+      }
+    },
+    {
+      "id": "e0d90646-5d01-4596-b3ca-cf2f6836e5fb",
+      "sku": "CW1620-004",
+      "brand": "Nike",
+      "name": "React Live TD 'Grey Fog Game Royal'",
+      "colorway": "Grey Fog/Platinum Tint/Iron Grey/Game Royal",
+      "gender": "infant",
+      "silhouette": "React Live",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "The Nike React Live TD ‘Grey Fog Game Royal’ delivers plush cushioning for growing feet. Open mesh and textile make up the composition of the upper, secured with elastic no-tie laces and a one-piece royal blue cord integrated into the pull tab at the heel. The sock-like build sits atop a bulky foam midsole, featuring sculpted sidewalls redolent of Nike React. Underfoot, durable rubber is placed in high-wear areas for added grip.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/190/original/CW1620_004.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/190/original/CW1620_004.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/190/original/CW1620_004.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/react-live-td-grey-fog-game-royal-cw1620-004",
+        "flightClub": " https://flightclub.com/react-live-td-grey-fog-game-royal-cw1620-004"
+      }
+    },
+    {
+      "id": "f2c6d909-b404-42ad-b84d-0dcd5e059fb3",
+      "sku": "DC3986-300",
+      "brand": "Nike",
+      "name": "Nike Air Max 97 Cork",
+      "colorway": "Hasta/Obsidian-Thunder Blue-Bucktan-White-Wheat",
+      "gender": "men",
+      "silhouette": "Nike Air Max 97",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 180,
+      "estimatedMarketValue": 192,
+      "story": "",
+      "image": {
+        "original": "https://images.stockx.com/images/Nike-Air-Max-97-Cork.jpg?fit=fill&bg=FFFFFF&w=500&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618561619",
+        "small": "https://images.stockx.com/images/Nike-Air-Max-97-Cork.jpg?fit=fill&bg=FFFFFF&w=375&h=375&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618561619",
+        "thumbnail": "https://images.stockx.com/images/Nike-Air-Max-97-Cork.jpg?fit=fill&bg=FFFFFF&w=200&h=200&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618561619"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-air-max-97-cork",
+        "goat": "",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "f8282cf4-91f3-447f-a47a-91d1fad7e0de",
+      "sku": "CW7356-004",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 'Pure Platinum Chile Red'",
+      "colorway": "Pure Platinum/Wolf Grey/Iron Grey/Chile Red",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 120,
+      "estimatedMarketValue": 175,
+      "story": "The Nike Air Zoom Pegasus 38 ‘Pure Platinum Chile Red’ updates the lightweight running shoe with an outlined crimson Swoosh on the lateral side. The oversized branding elements adds a touch of extravagance to a reliable daily runner, featuring a light grey engineered mesh upper with a wider-toe box for an accommodating, comfortable fit. Laces are integrated into interior webbing straps for midfoot lockdown. The sneaker rides on a React midsole borrowed from the Pegasus 37, complete with a responsive Zoom Air unit in the forefoot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/196/original/CW7356_004.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/196/original/CW7356_004.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/196/original/CW7356_004.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-pure-platinum-chile-red-cw7356-004",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-pure-platinum-chile-red-cw7356-004"
+      }
+    },
+    {
+      "id": "05815891-b89a-47da-94f7-559667c68599",
+      "sku": "CV0958-107",
+      "brand": "Nike",
+      "name": "Mercurial Superfly 8 Elite FG 'White Volt'",
+      "colorway": "White/Metallic Silver/Volt/Black",
+      "gender": "men",
+      "silhouette": "Mercurial Superfly",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 275,
+      "estimatedMarketValue": 267,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/179/726/original/CV0958_107.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/179/726/original/CV0958_107.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/179/726/original/CV0958_107.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/mercurial-superfly-8-elite-fg-white-volt-cv0958-107",
+        "flightClub": " https://flightclub.com/mercurial-superfly-8-elite-fg-white-volt-cv0958-107"
+      }
+    },
+    {
+      "id": "26f886f6-3347-4736-b821-10de34e63c44",
+      "sku": "DJ5180-100",
+      "brand": "Nike",
+      "name": "Air Force 1 LV8 GS 'USA'",
+      "colorway": "White/Midnight Navy/Chile Red/White",
+      "gender": "youth",
+      "silhouette": "Air Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 100,
+      "estimatedMarketValue": 145,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/264/original/DJ5180_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/264/original/DJ5180_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/264/original/DJ5180_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-force-1-lv8-gs-usa-dj5180-100",
+        "flightClub": " https://flightclub.com/air-force-1-lv8-gs-usa-dj5180-100"
+      }
+    },
+    {
+      "id": "41752bd0-99d8-47ff-92c0-897ce2495a26",
+      "sku": "DM3063-100",
+      "brand": "Nike",
+      "name": "Wmns Dunk Low Disrupt 'Sea Glass'",
+      "colorway": "White/Sea Glass",
+      "gender": "women",
+      "silhouette": "Dunk",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 110,
+      "estimatedMarketValue": 190,
+      "story": "The Nike women’s Dunk Low Disrupt ‘Sea Glass’ offers a modern, reconstructed take on the vintage silhouette. The all-leather upper pairs a white base with contrasting overlays in a subdued tan finish. A soft pink hue distinguishes the exposed-foam tongue, which combines with a leather pull tab at the heel for a DIY-inspired look. The low-top is mounted on a segmented platform midsole with wraparound stitch detailing. Underfoot, flex grooves in the rubber outsole deliver a smooth ride.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/677/original/DM3063_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/677/original/DM3063_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/677/original/DM3063_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-dunk-low-disrupt-sea-glass-dm3063-100",
+        "flightClub": " https://flightclub.com/wmns-dunk-low-disrupt-sea-glass-dm3063-100"
+      }
+    },
+    {
+      "id": "5a62e881-8b88-40df-89e2-2ddcc1a76cb8",
+      "sku": "DC9249-400",
+      "brand": "Nike",
+      "name": "Air Zoom Arcadia SE PS 'Glacier Blue Pink Melon Tint'",
+      "colorway": "Glacier Blue/Pink/Melon Tint/White",
+      "gender": "youth",
+      "silhouette": "Air Zoom Arcadia",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 75,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/253/original/DC9249_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/253/original/DC9249_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/253/original/DC9249_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-arcadia-se-ps-glacier-blue-pink-melon-tint-dc9249-400",
+        "flightClub": " https://flightclub.com/air-zoom-arcadia-se-ps-glacier-blue-pink-melon-tint-dc9249-400"
+      }
+    },
+    {
+      "id": "5db649e8-17a1-4430-9634-66ab7db006d2",
+      "sku": "DC3986-100",
+      "brand": "Nike",
+      "name": "Air Max 97 'Cork'",
+      "colorway": "Coconut Milk/Lite Sienna/Sesame",
+      "gender": "men",
+      "silhouette": "Air Max 97",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 180,
+      "estimatedMarketValue": 208,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/233/original/DC3986_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/233/original/DC3986_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/233/original/DC3986_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-97-cork-dc3986-100",
+        "flightClub": " https://flightclub.com/air-max-97-cork-dc3986-100"
+      }
+    },
+    {
+      "id": "a0ade166-5876-408d-a9ef-7281678322e3",
+      "sku": "DC2548-100",
+      "brand": "Nike",
+      "name": "Air Structure Triax 91 'Persian Violet'",
+      "colorway": "Metallic Summit White/Persian Violet/Solar Red/Black",
+      "gender": "men",
+      "silhouette": "Air Structure Triax 91",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 120,
+      "estimatedMarketValue": 150,
+      "story": "The Nike Air Structure Triax 91 ‘Persian Violet’ brings back an OG colorway of the running shoe that provides plush cushioning with a stabile ride. The upper utilizes a breathable white mesh build with a TPU heel counter and contrasting leather overlays in grey and Persian Violet. A black leather Swoosh decorates the lateral side panel, while energetic pops of Solar Red land on the tongue, heel overlay, and medial-side eyelets and midsole. The latter is crafted from polyurethane with a visible Max Air unit in the heel, all of which is supported by a waffle-tread rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/821/original/DC2548_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/821/original/DC2548_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/821/original/DC2548_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-structure-triax-91-persian-violet-dc2548-100",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "b018b084-ea6d-48c2-a784-6e5b8000dba6",
+      "sku": "DM3158-100",
+      "brand": "Nike",
+      "name": "Nike Air Max 97 Tiffany (GS)",
+      "colorway": "White/Black/Tropical Twist",
+      "gender": "child",
+      "silhouette": "Air Max 97",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 155,
+      "estimatedMarketValue": 147,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/278/321/original/DM3158_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/278/321/original/DM3158_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/278/321/original/DM3158_100.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-air-max-97-tiffany-gs",
+        "goat": " https://goat.com/sneakers/air-max-97-gs-tiffany-dm3158-100",
+        "flightClub": " https://flightclub.com/air-max-97-gs-tiffany-dm3158-100"
+      }
+    },
+    {
+      "id": "c225ea7f-d3b1-4238-88a5-a28b639af98c",
+      "sku": "CV1750-400",
+      "brand": "Nike",
+      "name": "Nike Lebron 8 Hardwood Classic (2021)",
+      "colorway": "Varsity Royal/Orange Blaze-Total Orange-White",
+      "gender": "men",
+      "silhouette": "Air Max LeBron 8",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 200,
+      "estimatedMarketValue": 166,
+      "story": "Replicating the look of an unreleased sample pair that surfaced in 2010, the Nike LeBron 8 ‘HWC’ dresses the retro silhouette in a color scheme inspired by the Cleveland Cavaliers’ throwback jerseys from the late ‘80s. A vibrant royal blue finish is applied to the upper, constructed from a blend of suede and TPU. Contrasting orange accents land on the laces and tongue, embellished with a 3D graphic of LeBron James’ lion logo. The citrus hue is repeated on sneaker’s full-length Max Air unit and rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/315/441/original/649453_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/315/441/original/649453_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/315/441/original/649453_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-lebron-8-hardwood-classic-2021",
+        "goat": " https://goat.com/sneakers/lebron-8-hwc-cv1750-400",
+        "flightClub": " https://flightclub.com/lebron-8-hwc-cv1750-400"
+      }
+    },
+    {
+      "id": "c3d77fbd-46a3-46b2-93a0-ec60e0fbd434",
+      "sku": "CW7645-403",
+      "brand": "Nike",
+      "name": "Challenger OG 'Racer Blue'",
+      "colorway": "Racer Blue/Black/Sail/White",
+      "gender": "men",
+      "silhouette": "Challenger",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 90,
+      "estimatedMarketValue": 88,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/264/400/original/766559_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/264/400/original/766559_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/264/400/original/766559_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/challenger-og-racer-blue-cw7645-403",
+        "flightClub": " https://flightclub.com/challenger-og-racer-blue-cw7645-403"
+      }
+    },
+    {
+      "id": "d9475e77-9280-4bab-bbe7-d8243afbdbf2",
+      "sku": "CZ3430-467",
+      "brand": "Nike",
+      "name": "Phantom GT Academy MG GS '3D'",
+      "colorway": "Chlorine Blue/Opti Yellow/White/Pink Blast",
+      "gender": "youth",
+      "silhouette": "Phantom GT",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/909/072/original/CZ3430_467.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/909/072/original/CZ3430_467.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/909/072/original/CZ3430_467.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/phantom-gt-academy-mg-gs-3d-cz3430-467",
+        "flightClub": " https://flightclub.com/phantom-gt-academy-mg-gs-3d-cz3430-467"
+      }
+    },
+    {
+      "id": "00d6e0b0-6a1e-4cef-948c-24b1a29e5119",
+      "sku": "CJ3818-101",
+      "brand": "Nike",
+      "name": "Wearallday TD 'White Black'",
+      "colorway": "White/Black",
+      "gender": "infant",
+      "silhouette": "Wearallday",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/739/original/CJ3818_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/739/original/CJ3818_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/739/original/CJ3818_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wearallday-td-white-black-cj3818-101",
+        "flightClub": " https://flightclub.com/wearallday-td-white-black-cj3818-101"
+      }
+    },
+    {
+      "id": "06d15048-26a7-44ab-a0ed-8720506d7dba",
+      "sku": "DH4114-100",
+      "brand": "Nike",
+      "name": "Air Max Wright GS 'Grey Fog Chlorine Blue'",
+      "colorway": "White/Grey Fog/Chlorine Blue/Iron Grey",
+      "gender": "youth",
+      "silhouette": "Air Max Wright",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 90,
+      "estimatedMarketValue": 150,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/837/original/DH4114_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/837/original/DH4114_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/837/original/DH4114_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-wright-gs-grey-fog-chlorine-blue-dh4114-100",
+        "flightClub": " https://flightclub.com/air-max-wright-gs-grey-fog-chlorine-blue-dh4114-100"
+      }
+    },
+    {
+      "id": "080a50aa-38c3-4d6a-a69e-d414971b51ca",
+      "sku": "CQ4396-501",
+      "brand": "Nike",
+      "name": "Project Pod PS 'Light Violet Crimson Bliss'",
+      "colorway": "Light Violet/Crimson Bliss/White/Metallic Platinum",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 55,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/756/original/CQ4396_501.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/756/original/CQ4396_501.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/756/original/CQ4396_501.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-ps-light-violet-crimson-bliss-cq4396-501",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "0b08334e-1ed3-46f0-a50a-44ed37b007b2",
+      "sku": "DC9672-100",
+      "brand": "Nike",
+      "name": "Force 1 PS 'Contrast Stitch - White University Red'",
+      "colorway": "White/University Red/White",
+      "gender": "youth",
+      "silhouette": "Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 62,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/831/original/DC9672_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/831/original/DC9672_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/831/original/DC9672_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-1-ps-contrast-stitch-white-university-red-dc9672-100",
+        "flightClub": " https://flightclub.com/force-1-ps-contrast-stitch-white-university-red-dc9672-100"
+      }
+    },
+    {
+      "id": "0f920e33-b3f3-4bd3-a474-004c08e3936c",
+      "sku": "CQ4397-003",
+      "brand": "Nike",
+      "name": "Project Pod GS 'Black White'",
+      "colorway": "Black/Volt/White",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 65,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/759/original/CQ4397_003.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/759/original/CQ4397_003.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/759/original/CQ4397_003.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-gs-black-white-cq4397-003",
+        "flightClub": " https://flightclub.com/project-pod-gs-black-white-cq4397-003"
+      }
+    },
+    {
+      "id": "31370f5a-ffd5-4a62-90a9-248439447711",
+      "sku": "CK0714-001",
+      "brand": "Nike",
+      "name": "Air Zoom Arcadia PS 'Black Dark Smoke Grey'",
+      "colorway": "Black/Dark Smoke Grey/White",
+      "gender": "youth",
+      "silhouette": "Air Zoom Arcadia",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 70,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/741/original/CK0714_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/741/original/CK0714_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/741/original/CK0714_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-arcadia-ps-black-dark-smoke-grey-ck0714-001",
+        "flightClub": " https://flightclub.com/air-zoom-arcadia-ps-black-dark-smoke-grey-ck0714-001"
+      }
+    },
+    {
+      "id": "330ef081-e428-4719-a07a-87fc1d5058f6",
+      "sku": "DA7233-103",
+      "brand": "Nike",
+      "name": "Blazer Mid '77 Infinite 'White Iron Grey'",
+      "colorway": "White/Iron Grey/Grey Fog/Light Smoke Grey",
+      "gender": "men",
+      "silhouette": "Blazer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 110,
+      "estimatedMarketValue": 129,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/264/392/original/766560_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/264/392/original/766560_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/264/392/original/766560_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/blazer-mid-77-infinite-white-iron-grey-da7233-103",
+        "flightClub": " https://flightclub.com/blazer-mid-77-infinite-white-iron-grey-da7233-103"
+      }
+    },
+    {
+      "id": "3470b81d-38eb-4115-a48c-22a095cdf314",
+      "sku": "DJ0964-XXX",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 By You",
+      "colorway": "Multi-Color/Multi-Color/Multi-Color",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 140,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/516/442/original/DJ0964_XXX.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/516/442/original/DJ0964_XXX.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/516/442/original/DJ0964_XXX.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-by-you-dj0964-xxx",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-by-you-dj0964-xxx"
+      }
+    },
+    {
+      "id": "37b58922-c51d-4e56-beef-cd5685305716",
+      "sku": "CN9676-101",
+      "brand": "Nike",
+      "name": "Wmns Victori One Printed Slide 'Tie-Dye'",
+      "colorway": "White/Bright Mango/Sapphire/White",
+      "gender": "women",
+      "silhouette": "Victori One",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 35,
+      "estimatedMarketValue": 50,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/745/original/CN9676_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/745/original/CN9676_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/745/original/CN9676_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-victori-one-printed-slide-tie-dye-cn9676-101",
+        "flightClub": " https://flightclub.com/wmns-victori-one-printed-slide-tie-dye-cn9676-101"
+      }
+    },
+    {
+      "id": "47ef25c3-b465-434c-bc6a-4ea97326e82b",
+      "sku": "DC9228-001",
+      "brand": "Nike",
+      "name": "Project Pod SE GS 'Dark Smoke Grey Bright Mango'",
+      "colorway": "Dark Smoke Grey/Aquamarine/Light Smoke Grey/Bright Mango",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 70,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/829/original/DC9228_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/829/original/DC9228_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/829/original/DC9228_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-se-gs-dark-smoke-grey-bright-mango-dc9228-001",
+        "flightClub": " https://flightclub.com/project-pod-se-gs-dark-smoke-grey-bright-mango-dc9228-001"
+      }
+    },
+    {
+      "id": "48cd0d6c-df23-4e22-9077-985259c0b61c",
+      "sku": "DC9672-104",
+      "brand": "Nike",
+      "name": "Force 1 PS 'Contrast Stitch - White Black'",
+      "colorway": "White/Black/White",
+      "gender": "youth",
+      "silhouette": "Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 62,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/832/original/DC9672_104.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/832/original/DC9672_104.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/832/original/DC9672_104.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-1-ps-contrast-stitch-white-black-dc9672-104",
+        "flightClub": " https://flightclub.com/force-1-ps-contrast-stitch-white-black-dc9672-104"
+      }
+    },
+    {
+      "id": "4dbefe54-a614-4c71-83ca-011fe70314b1",
+      "sku": "CW1629-500",
+      "brand": "Nike",
+      "name": "Air Max Bolt TD 'Dark Purple Dust Copa'",
+      "colorway": "Dark Purple Dust/Pure Platinum/Copa/Light Thistle",
+      "gender": "infant",
+      "silhouette": "Air Max Bolt",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 55,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/787/original/CW1629_500.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/787/original/CW1629_500.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/787/original/CW1629_500.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-bolt-td-dark-purple-dust-copa-cw1629-500",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "4e1cd600-90b9-4a53-8a50-5489324c0d06",
+      "sku": "CN9676-007",
+      "brand": "Nike",
+      "name": "Wmns Victori One Printed Slide 'Snakeskin'",
+      "colorway": "Desert Sand/Summit White/Black",
+      "gender": "women",
+      "silhouette": "Victori One",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 35,
+      "estimatedMarketValue": 45,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/744/original/CN9676_007.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/744/original/CN9676_007.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/744/original/CN9676_007.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-victori-one-printed-slide-snakeskin-cn9676-007",
+        "flightClub": " https://flightclub.com/wmns-victori-one-printed-slide-snakeskin-cn9676-007"
+      }
+    },
+    {
+      "id": "5cf8f792-8cd8-4335-b76e-20fc37f83ffb",
+      "sku": "CQ4397-010",
+      "brand": "Nike",
+      "name": "Project Pod GS 'Photon Dust University Red'",
+      "colorway": "Photon Dust/Game Royal/White/University Red",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 65,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/760/original/CQ4397_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/760/original/CQ4397_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/760/original/CQ4397_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-gs-photon-dust-university-red-cq4397-010",
+        "flightClub": " https://flightclub.com/project-pod-gs-photon-dust-university-red-cq4397-010"
+      }
+    },
+    {
+      "id": "63c57dd4-76a8-4506-988b-6f2ce426b2ee",
+      "sku": "CZ1617-100",
+      "brand": "Nike",
+      "name": "Wmns Air Max 90 'Easter'",
+      "colorway": "White/Volt/Green Glow/Black",
+      "gender": "women",
+      "silhouette": "Air Max 90",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 120,
+      "estimatedMarketValue": 131,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/264/375/original/766566_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/264/375/original/766566_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/264/375/original/766566_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-max-90-easter-cz1617-100",
+        "flightClub": " https://flightclub.com/wmns-air-max-90-easter-cz1617-100"
+      }
+    },
+    {
+      "id": "66543cff-568c-469d-b1b7-4ec06a37ab9a",
+      "sku": "AT4665-408",
+      "brand": "Nike",
+      "name": "Flex Runner TD 'Game Royal'",
+      "colorway": "Game Royal/Photon Dust/White/University Red",
+      "gender": "infant",
+      "silhouette": "Flex Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 40,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/723/original/AT4665_408.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/723/original/AT4665_408.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/723/original/AT4665_408.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-runner-td-game-royal-at4665-408",
+        "flightClub": " https://flightclub.com/flex-runner-td-game-royal-at4665-408"
+      }
+    },
+    {
+      "id": "6db30ffb-784f-4468-9281-f6787c183174",
+      "sku": "CK6647-004",
+      "brand": "Nike",
+      "name": "Wmns Waffle Racer 2X 'Desert Sand Mean Green'",
+      "colorway": "Desert Sand/Summit White/Hyper Crimson/Mean Green",
+      "gender": "women",
+      "silhouette": "Waffle Racer 2X",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 100,
+      "estimatedMarketValue": 148,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/743/original/CK6647_004.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/743/original/CK6647_004.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/743/original/CK6647_004.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-waffle-racer-2x-desert-sand-mean-green-ck6647-004",
+        "flightClub": " https://flightclub.com/wmns-waffle-racer-2x-desert-sand-mean-green-ck6647-004"
+      }
+    },
+    {
+      "id": "74c94382-a207-4ae3-b2b4-9db038194cab",
+      "sku": "DJ5996-100",
+      "brand": "Nike",
+      "name": "Wmns Daybreak 'Summit White Sunset Pulse'",
+      "colorway": "Summit White/Atomic Orange/Sunset Pulse/Black",
+      "gender": "women",
+      "silhouette": "Daybreak",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 90,
+      "estimatedMarketValue": 122,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/841/original/DJ5996_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/841/original/DJ5996_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/841/original/DJ5996_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-daybreak-summit-white-sunset-pulse-dj5996-100",
+        "flightClub": " https://flightclub.com/wmns-daybreak-summit-white-sunset-pulse-dj5996-100"
+      }
+    },
+    {
+      "id": "7c1f237d-dbeb-42a0-b497-688c453482f4",
+      "sku": "DC3431-033",
+      "brand": "Nike",
+      "name": "Wmns NikeCourt Vapor Lite 'Black Metallic Red Bronze'",
+      "colorway": "Black/White/Metallic Red Bronze",
+      "gender": "women",
+      "silhouette": "NikeCourt Vapor",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/822/original/DC3431_033.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/822/original/DC3431_033.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/822/original/DC3431_033.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nikecourt-vapor-lite-black-metallic-red-bronze-dc3431-033",
+        "flightClub": " https://flightclub.com/wmns-nikecourt-vapor-lite-black-metallic-red-bronze-dc3431-033"
+      }
+    },
+    {
+      "id": "7f37b92a-f5cd-4990-a6e0-2b5a08968db2",
+      "sku": "CN9676-400",
+      "brand": "Nike",
+      "name": "Wmns Victori One Printed Slide 'All-Over Stars Print'",
+      "colorway": "Game Royal/Summit White/University Red",
+      "gender": "women",
+      "silhouette": "Victori One",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 35,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/747/original/CN9676_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/747/original/CN9676_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/747/original/CN9676_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-victori-one-printed-slide-all-over-stars-print-cn9676-400",
+        "flightClub": " https://flightclub.com/wmns-victori-one-printed-slide-all-over-stars-print-cn9676-400"
+      }
+    },
+    {
+      "id": "9a6c1c35-a1e0-472d-913b-007268853b5a",
+      "sku": "CW7356-003",
+      "brand": "Nike",
+      "name": "Air Zoom Pegasus 38 'Black Metallic Silver'",
+      "colorway": "Black/White/Chlorine Blue/Metallic Silver",
+      "gender": "men",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 120,
+      "estimatedMarketValue": 118,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/972/926/original/761451_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/972/926/original/761451_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/972/926/original/761451_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-pegasus-38-black-metallic-silver-cw7356-003",
+        "flightClub": " https://flightclub.com/air-zoom-pegasus-38-black-metallic-silver-cw7356-003"
+      }
+    },
+    {
+      "id": "9a7295e8-7106-44a6-9ffb-c7a9ac177a7a",
+      "sku": "CW6066-300",
+      "brand": "Nike",
+      "name": "Wmns Air Zoom Terra Kiger 7 'Limelight Laser Blue'",
+      "colorway": "Limelight/Laser Blue/Dark Sulfur/Off Noir",
+      "gender": "women",
+      "silhouette": "Air Zoom Terra Kiger",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/791/original/CW6066_300.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/791/original/CW6066_300.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/791/original/CW6066_300.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-zoom-terra-kiger-7-limelight-laser-blue-cw6066-300",
+        "flightClub": " https://flightclub.com/wmns-air-zoom-terra-kiger-7-limelight-laser-blue-cw6066-300"
+      }
+    },
+    {
+      "id": "a45f4390-df16-475b-8aca-f478cfa7f949",
+      "sku": "CQ4396-003",
+      "brand": "Nike",
+      "name": "Project Pod PS 'Black White'",
+      "colorway": "Black/Volt/White",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 55,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/752/original/CQ4396_003.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/752/original/CQ4396_003.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/752/original/CQ4396_003.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-ps-black-white-cq4396-003",
+        "flightClub": " https://flightclub.com/project-pod-ps-black-white-cq4396-003"
+      }
+    },
+    {
+      "id": "ad40a971-603a-4de2-b2b2-f0207bef7e9a",
+      "sku": "CQ4396-009",
+      "brand": "Nike",
+      "name": "Project Pod PS 'Bred'",
+      "colorway": "Black/White/University Red",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 55,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/753/original/CQ4396_009.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/753/original/CQ4396_009.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/753/original/CQ4396_009.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-ps-bred-cq4396-009",
+        "flightClub": " https://flightclub.com/project-pod-ps-bred-cq4396-009"
+      }
+    },
+    {
+      "id": "b8eede29-d603-43d3-b073-e55c3d77304e",
+      "sku": "DD1215-800",
+      "brand": "Nike",
+      "name": "Revolution 5 SE TD 'Crimson Tint Multi'",
+      "colorway": "Crimson Tint/Glacier Blue/White/Multi-Color",
+      "gender": "youth",
+      "silhouette": "Revolution 5",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/835/original/DD1215_800.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/835/original/DD1215_800.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/835/original/DD1215_800.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/revolution-5-se-td-crimson-tint-multi-dd1215-800",
+        "flightClub": " https://flightclub.com/revolution-5-se-td-crimson-tint-multi-dd1215-800"
+      }
+    },
+    {
+      "id": "bb26944e-8a0d-40f9-b0a7-13d03f29a647",
+      "sku": "CU4275-124",
+      "brand": "Nike",
+      "name": "Wmns NikeCourt Air Max Volley 'White Crimson Tint'",
+      "colorway": "White/Copa/Crimson Tint/Purple Pulse",
+      "gender": "women",
+      "silhouette": "Air Max Volley",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 90,
+      "estimatedMarketValue": 150,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/780/original/CU4275_124.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/780/original/CU4275_124.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/780/original/CU4275_124.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nikecourt-air-max-volley-white-crimson-tint-cu4275-124",
+        "flightClub": " https://flightclub.com/wmns-nikecourt-air-max-volley-white-crimson-tint-cu4275-124"
+      }
+    },
+    {
+      "id": "bfbe5323-6723-4956-956a-3879147cf057",
+      "sku": "CD6888-500",
+      "brand": "Nike",
+      "name": "React Vision GS 'Light Violet Crimson Bliss'",
+      "colorway": "Light Violet/White/Metallic Platinum/Crimson Bliss",
+      "gender": "youth",
+      "silhouette": "React Vision",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 110,
+      "estimatedMarketValue": 170,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/736/original/CD6888_500.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/736/original/CD6888_500.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/736/original/CD6888_500.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/react-vision-gs-light-violet-crimson-bliss-cd6888-500",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "ca25ea6c-3695-4327-8bd8-f3f52e7a04a2",
+      "sku": "DB5269-500",
+      "brand": "Nike",
+      "name": "Wmns Air Max Viva 'Hyper Magenta'",
+      "colorway": "Hyper Magenta/Black/Turbo Green/Hyper Magenta",
+      "gender": "women",
+      "silhouette": "Air Max Viva",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/819/original/DB5269_500.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/819/original/DB5269_500.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/819/original/DB5269_500.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-max-viva-hyper-magenta-db5269-500",
+        "flightClub": " https://flightclub.com/wmns-air-max-viva-hyper-magenta-db5269-500"
+      }
+    },
+    {
+      "id": "d00f9bfb-c700-4896-8a78-b59e327b719c",
+      "sku": "DC7904-100",
+      "brand": "Nike",
+      "name": "Court Legacy SE GS 'Cork'",
+      "colorway": "Pale Ivory/Multi-Color/Gum Light Brown/White",
+      "gender": "youth",
+      "silhouette": "Court Legacy",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/826/original/DC7904_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/826/original/DC7904_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/826/original/DC7904_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/court-legacy-se-gs-cork-dc7904-100",
+        "flightClub": " https://flightclub.com/court-legacy-se-gs-cork-dc7904-100"
+      }
+    },
+    {
+      "id": "d4564e53-c3e7-44f7-979e-667f6b64a3f7",
+      "sku": "CZ3967-013",
+      "brand": "Nike",
+      "name": "Downshifter 11 TD 'Photon Dust University Red'",
+      "colorway": "Photon Dust/University Red/White/Game Royal",
+      "gender": "infant",
+      "silhouette": "Downshifter",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/807/original/CZ3967_013.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/807/original/CZ3967_013.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/807/original/CZ3967_013.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/downshifter-11-td-photon-dust-university-red-cz3967-013",
+        "flightClub": " https://flightclub.com/downshifter-11-td-photon-dust-university-red-cz3967-013"
+      }
+    },
+    {
+      "id": "d660d1cf-026e-486a-bd76-7c3d7da0fee3",
+      "sku": "CK0715-013",
+      "brand": "Nike",
+      "name": "Air Zoom Arcadia GS 'Photon Dust Game Royal'",
+      "colorway": "Photon Dust/University Red/White/Game Royal",
+      "gender": "youth",
+      "silhouette": "Air Zoom Arcadia",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 75,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/182/original/CK0715_013.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/182/original/CK0715_013.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/182/original/CK0715_013.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-arcadia-gs-photon-dust-game-royal-ck0715-013",
+        "flightClub": " https://flightclub.com/air-zoom-arcadia-gs-photon-dust-game-royal-ck0715-013"
+      }
+    },
+    {
+      "id": "f26e1eee-c95e-4f9f-a437-67e95e48bfa5",
+      "sku": "CW1629-004",
+      "brand": "Nike",
+      "name": "Air Max Bolt TD 'Pure Platinum Royal Volt'",
+      "colorway": "Pure Platinum/Grey Fog/Game Royal/Volt",
+      "gender": "infant",
+      "silhouette": "Air Max Bolt",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 55,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/785/original/CW1629_004.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/785/original/CW1629_004.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/785/original/CW1629_004.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-bolt-td-pure-platinum-royal-volt-cw1629-004",
+        "flightClub": " https://flightclub.com/air-max-bolt-td-pure-platinum-royal-volt-cw1629-004"
+      }
+    },
+    {
+      "id": "f3a5c6ad-fd7f-4080-94f3-743358b9e8c0",
+      "sku": "CD6892-112",
+      "brand": "Nike",
+      "name": "Air Max Excee PS 'White Pure Platinum'",
+      "colorway": "White/Pure Platinum/Turf Orange/Black",
+      "gender": "youth",
+      "silhouette": "Air Max Excee",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 70,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/931/300/original/CD6892_112.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/931/300/original/CD6892_112.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/931/300/original/CD6892_112.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-excee-ps-white-pure-platinum-cd6892-112",
+        "flightClub": " https://flightclub.com/air-max-excee-ps-white-pure-platinum-cd6892-112"
+      }
+    },
+    {
+      "id": "f53deaa6-a6dc-46c6-b100-e123804cf32e",
+      "sku": "CW7415-002",
+      "brand": "Nike",
+      "name": "Flex Plus GS 'Black Pink Foam'",
+      "colorway": "Black/White/Pink Foam",
+      "gender": "youth",
+      "silhouette": "Flex",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/792/original/CW7415_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/792/original/CW7415_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/792/original/CW7415_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-plus-gs-black-pink-foam-cw7415-002",
+        "flightClub": " https://flightclub.com/flex-plus-gs-black-pink-foam-cw7415-002"
+      }
+    },
+    {
+      "id": "08b77703-df47-4edd-a1b2-ce5f1c3eaed8",
+      "sku": "CK0715-001",
+      "brand": "Nike",
+      "name": "Air Zoom Arcadia GS 'Black Dark Smoke Grey'",
+      "colorway": "Black/Dark Smoke Grey/White",
+      "gender": "youth",
+      "silhouette": "Air Zoom Arcadia",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 75,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/180/original/CK0715_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/180/original/CK0715_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/180/original/CK0715_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-arcadia-gs-black-dark-smoke-grey-ck0715-001",
+        "flightClub": " https://flightclub.com/air-zoom-arcadia-gs-black-dark-smoke-grey-ck0715-001"
+      }
+    },
+    {
+      "id": "0c43247b-d1ed-4f68-b7ee-1398399236d4",
+      "sku": "CZ0186-600",
+      "brand": "Nike",
+      "name": "Flex Advance PS 'Pink Foam'",
+      "colorway": "Pink Foam/Fuchsia Glow/Dark Smoke Grey",
+      "gender": "youth",
+      "silhouette": "Flex Advance",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 65,
+      "estimatedMarketValue": 102,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/799/original/CZ0186_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/799/original/CZ0186_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/799/original/CZ0186_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-advance-ps-pink-foam-cz0186-600",
+        "flightClub": " https://flightclub.com/flex-advance-ps-pink-foam-cz0186-600"
+      }
+    },
+    {
+      "id": "0e5b2d00-80ee-4c49-a20f-072b843743f2",
+      "sku": "CZ3624-001",
+      "brand": "Nike",
+      "name": "Nike Air Max 95 NRG LeBron Lakers",
+      "colorway": "Black/White-Amarillo-Court Purple",
+      "gender": "men",
+      "silhouette": "Air Max 95",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 200,
+      "estimatedMarketValue": 230,
+      "story": "The LeBron James x Nike Air Max 95 NRG ‘Lakers’ delivers a special-edition colorway of the sneaker that the NBA icon counts as one of his favorites. The left shoe features a yellow suede upper with contrasting purple accents, while the converse is featured on the right. LeBron’s personal logo replaces traditional Air Max branding atop the tongue. Underfoot, the semi-translucent rubber outsole lists some of LeBron’s many career milestones, as well as his 23 jersey number across the right and left shoe.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/457/391/original/745045_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/457/391/original/745045_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/457/391/original/745045_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-air-max-95-nrg-lebron-lakers",
+        "goat": " https://goat.com/sneakers/lebron-james-x-air-max-95-nrg-lakers-cz3624-001",
+        "flightClub": " https://flightclub.com/lebron-james-x-air-max-95-nrg-lakers-cz3624-001"
+      }
+    },
+    {
+      "id": "127ee100-0723-4583-af2e-392b4f7ee86e",
+      "sku": "CT0540-108",
+      "brand": "Nike",
+      "name": "Air Zoom Infinity Tour 'Sail Light Dew'",
+      "colorway": "Sail/Light Dew/Crimson Tint/White",
+      "gender": "men",
+      "silhouette": "Air Zoom Infinity Tour",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 160,
+      "estimatedMarketValue": 179,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/767/original/CT0540_108.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/767/original/CT0540_108.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/767/original/CT0540_108.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-infinity-tour-sail-light-dew-ct0540-108",
+        "flightClub": " https://flightclub.com/air-zoom-infinity-tour-sail-light-dew-ct0540-108"
+      }
+    },
+    {
+      "id": "1470a548-e2f7-4665-bf07-73b7197766b9",
+      "sku": "CZ1921-100",
+      "brand": "Nike",
+      "name": "Nike Air Max 96 II White Midnight Navy (2021)",
+      "colorway": "White/Black-Midnight Navy",
+      "gender": "men",
+      "silhouette": "Air Max 96",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 160,
+      "estimatedMarketValue": 141,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/646/538/original/759991_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/646/538/original/759991_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/646/538/original/759991_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-air-max-96-ii-white-midnight-navy",
+        "goat": " https://goat.com/sneakers/air-max-96-2-goldenrod-cz1921-100",
+        "flightClub": " https://flightclub.com/air-max-96-2-goldenrod-cz1921-100"
+      }
+    },
+    {
+      "id": "165a03e5-1e3d-41d9-a55a-ded2a94df0ce",
+      "sku": "DJ5201-106",
+      "brand": "Nike",
+      "name": "Blazer Low '77 GS 'The World Is Your Playground'",
+      "colorway": "White/Bright Crimson/Stadium Green/Black",
+      "gender": "youth",
+      "silhouette": "Blazer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 75,
+      "estimatedMarketValue": 79,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/838/original/DJ5201_106.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/838/original/DJ5201_106.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/838/original/DJ5201_106.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/blazer-low-77-gs-the-world-is-your-playground-dj5201-106",
+        "flightClub": " https://flightclub.com/blazer-low-77-gs-the-world-is-your-playground-dj5201-106"
+      }
+    },
+    {
+      "id": "3450c089-6f5a-40e0-8793-48be164b9a70",
+      "sku": "CQ4397-501",
+      "brand": "Nike",
+      "name": "Project Pod GS 'Light Violet Crimson Bliss'",
+      "colorway": "Light Violet/Crimson Bliss/White/Metallic Platinum",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 65,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/765/original/CQ4397_501.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/765/original/CQ4397_501.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/765/original/CQ4397_501.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-gs-light-violet-crimson-bliss-cq4397-501",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "361ee34b-1902-4da6-a417-2d2e878de14b",
+      "sku": "DH1439-900",
+      "brand": "Nike",
+      "name": "Court Legacy Print 'Tie-Dye - Grey Fog'",
+      "colorway": "Multi-Color/Dark Smoke Grey/Grey Fog/White",
+      "gender": "men",
+      "silhouette": "Court Legacy",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 60,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/799/original/DH1439_900.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/799/original/DH1439_900.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/799/original/DH1439_900.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/court-legacy-print-tie-dye-grey-fog-dh1439-900",
+        "flightClub": " https://flightclub.com/court-legacy-print-tie-dye-grey-fog-dh1439-900"
+      }
+    },
+    {
+      "id": "3aacb167-58f1-46f8-aae9-7120bb3bd59d",
+      "sku": "CW7358-002",
+      "brand": "Nike",
+      "name": "Wmns Air Zoom Pegasus 38 'Black White'",
+      "colorway": "Black/Anthracite/Volt/White",
+      "gender": "women",
+      "silhouette": "Air Zoom Pegasus 38",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 120,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/790/original/CW7358_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/790/original/CW7358_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/790/original/CW7358_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-zoom-pegasus-38-black-white-cw7358-002",
+        "flightClub": " https://flightclub.com/wmns-air-zoom-pegasus-38-black-white-cw7358-002"
+      }
+    },
+    {
+      "id": "4546e60b-6d0a-4d59-b456-07121be4bb31",
+      "sku": "CW1629-501",
+      "brand": "Nike",
+      "name": "Air Max Bolt TD 'White Crimson Bliss'",
+      "colorway": "Light Violet/White/Platinum Tint/Crimson Bliss",
+      "gender": "infant",
+      "silhouette": "Air Max Bolt",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 55,
+      "estimatedMarketValue": 98,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/789/original/CW1629_501.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/789/original/CW1629_501.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/789/original/CW1629_501.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-bolt-td-white-crimson-bliss-cw1629-501",
+        "flightClub": " https://flightclub.com/air-max-bolt-td-white-crimson-bliss-cw1629-501"
+      }
+    },
+    {
+      "id": "4662f67a-a3dc-48c2-b27d-90a2b544d82c",
+      "sku": "CK0715-102",
+      "brand": "Nike",
+      "name": "Air Zoom Arcadia GS 'White Light Violet'",
+      "colorway": "White/Metallic Platinum/Light Violet",
+      "gender": "youth",
+      "silhouette": "Air Zoom Arcadia",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 75,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/761/original/CK0715_102.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/761/original/CK0715_102.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/761/original/CK0715_102.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-zoom-arcadia-gs-white-light-violet-ck0715-102",
+        "flightClub": " https://flightclub.com/air-zoom-arcadia-gs-white-light-violet-ck0715-102"
+      }
+    },
+    {
+      "id": "4d8f0f42-1441-4476-b90f-e45f5eba8194",
+      "sku": "DA3267-005",
+      "brand": "Nike",
+      "name": "Reposto TD 'Grey Fog Game Royal'",
+      "colorway": "Grey Fog/Iron Grey/Volt/Game Royal",
+      "gender": "infant",
+      "silhouette": "Reposto",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/815/original/DA3267_005.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/815/original/DA3267_005.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/815/original/DA3267_005.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/reposto-td-grey-fog-game-royal-da3267-005",
+        "flightClub": " https://flightclub.com/reposto-td-grey-fog-game-royal-da3267-005"
+      }
+    },
+    {
+      "id": "4eee4994-75a6-46d0-9c12-c3fafe43269a",
+      "sku": "CT6621-177",
+      "brand": "Nike",
+      "name": "React Infinity Pro Wide 'White Aurora Green'",
+      "colorway": "White/Aurora Green/Hot Punch",
+      "gender": "men",
+      "silhouette": "React Infinity Pro",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 120,
+      "estimatedMarketValue": 180,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/774/original/CT6621_177.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/774/original/CT6621_177.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/774/original/CT6621_177.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/react-infinity-pro-wide-white-aurora-green-ct6621-177",
+        "flightClub": " https://flightclub.com/react-infinity-pro-wide-white-aurora-green-ct6621-177"
+      }
+    },
+    {
+      "id": "4f5cc099-c6cd-460e-b414-21cb0e02c947",
+      "sku": "DM3080-100",
+      "brand": "Nike",
+      "name": "Wmns Air Max 270 'White'",
+      "colorway": "White",
+      "gender": "women",
+      "silhouette": "Air Max 270",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 150,
+      "estimatedMarketValue": 180,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/931/329/original/DM3080_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/931/329/original/DM3080_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/931/329/original/DM3080_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-max-270-white-dm3080-100",
+        "flightClub": " https://flightclub.com/wmns-air-max-270-white-dm3080-100"
+      }
+    },
+    {
+      "id": "5ab80aef-1d67-4f43-a75c-fcd67554f9c3",
+      "sku": "DC3432-024",
+      "brand": "Nike",
+      "name": "NikeCourt Vapor Lite 'Photon Dust Chlorine Blue'",
+      "colorway": "Photon Dust/Chlorine Blue/White/Hyper Pink",
+      "gender": "men",
+      "silhouette": "NikeCourt Vapor",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/931/313/original/DC3432_024.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/931/313/original/DC3432_024.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/931/313/original/DC3432_024.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nikecourt-vapor-lite-photon-dust-chlorine-blue-dc3432-024",
+        "flightClub": " https://flightclub.com/nikecourt-vapor-lite-photon-dust-chlorine-blue-dc3432-024"
+      }
+    },
+    {
+      "id": "68b3fe80-b747-4f71-9348-9c359a66a677",
+      "sku": "DC9672-110",
+      "brand": "Nike",
+      "name": "Force 1 PS 'Contrast Stitch - Fuchsia Glow'",
+      "colorway": "White/Fuchsia Glow/Hyper Pink/White",
+      "gender": "youth",
+      "silhouette": "Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 62,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/833/original/DC9672_110.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/833/original/DC9672_110.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/833/original/DC9672_110.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-1-ps-contrast-stitch-fuchsia-glow-dc9672-110",
+        "flightClub": " https://flightclub.com/force-1-ps-contrast-stitch-fuchsia-glow-dc9672-110"
+      }
+    },
+    {
+      "id": "68da534a-1fbd-4f8f-a457-0d43c5074735",
+      "sku": "CU4275-101",
+      "brand": "Nike",
+      "name": "Wmns NikeCourt Air Max Volley 'White Purple Pulse'",
+      "colorway": "White/Purple Pulse/Wild Berry/Bright Mango",
+      "gender": "women",
+      "silhouette": "Air Max Volley",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 90,
+      "estimatedMarketValue": 150,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/777/original/CU4275_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/777/original/CU4275_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/777/original/CU4275_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nikecourt-air-max-volley-white-purple-pulse-cu4275-101",
+        "flightClub": " https://flightclub.com/wmns-nikecourt-air-max-volley-white-purple-pulse-cu4275-101"
+      }
+    },
+    {
+      "id": "6a9fb085-46a9-4ca6-bd70-748851809496",
+      "sku": "BV0657-009",
+      "brand": "Nike",
+      "name": "Shane SB 'Black Gum'",
+      "colorway": "Black/Black/Black/White",
+      "gender": "men",
+      "silhouette": "Shane SB",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 80,
+      "estimatedMarketValue": 109,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/756/original/BV0657_009.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/756/original/BV0657_009.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/756/original/BV0657_009.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/shane-sb-black-gum-bv0657-009",
+        "flightClub": " https://flightclub.com/shane-sb-black-gum-bv0657-009"
+      }
+    },
+    {
+      "id": "7a58b197-88e0-4209-8d57-b70a198d407d",
+      "sku": "CU4151-105",
+      "brand": "Nike",
+      "name": "Air Max Bolt 'White Photon Dust'",
+      "colorway": "White/Photon Dust/Turf Orange/Black",
+      "gender": "men",
+      "silhouette": "Air Max Bolt",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 85,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/775/original/CU4151_105.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/775/original/CU4151_105.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/775/original/CU4151_105.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-bolt-white-photon-dust-cu4151-105",
+        "flightClub": " https://flightclub.com/air-max-bolt-white-photon-dust-cu4151-105"
+      }
+    },
+    {
+      "id": "7ef68b2a-181b-4275-b0d1-2d058e74f94d",
+      "sku": "CW5637-600",
+      "brand": "Nike",
+      "name": "Wmns Renew Run 'Pink Foam'",
+      "colorway": "Pink Foam/Psychic Blue/Laser Crimson/Black",
+      "gender": "women",
+      "silhouette": "Renew",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 90,
+      "estimatedMarketValue": 99,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/931/307/original/CW5637_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/931/307/original/CW5637_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/931/307/original/CW5637_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-renew-run-pink-foam-cw5637-600",
+        "flightClub": " https://flightclub.com/wmns-renew-run-pink-foam-cw5637-600"
+      }
+    },
+    {
+      "id": "8deafcf7-6cd5-40bf-94d6-53355767ca3e",
+      "sku": "CZ3967-002",
+      "brand": "Nike",
+      "name": "Downshifter 11 TD 'Black Dark Smoke Grey'",
+      "colorway": "Black/Dark Smoke Grey",
+      "gender": "infant",
+      "silhouette": "Downshifter",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/806/original/CZ3967_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/806/original/CZ3967_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/806/original/CZ3967_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/downshifter-11-td-black-dark-smoke-grey-cz3967-002",
+        "flightClub": " https://flightclub.com/downshifter-11-td-black-dark-smoke-grey-cz3967-002"
+      }
+    },
+    {
+      "id": "926b272a-9f29-466d-b1ba-9870cb030b5d",
+      "sku": "DC9671-104",
+      "brand": "Nike",
+      "name": "Force 1 TD 'Contrast Stitch - White Black'",
+      "colorway": "White/Black/White",
+      "gender": "infant",
+      "silhouette": "Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 48,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/931/316/original/DC9671_104.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/931/316/original/DC9671_104.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/931/316/original/DC9671_104.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-1-td-contrast-stitch-white-black-dc9671-104",
+        "flightClub": " https://flightclub.com/force-1-td-contrast-stitch-white-black-dc9671-104"
+      }
+    },
+    {
+      "id": "97569e5f-33dd-4a6e-8520-cd456e285706",
+      "sku": "CT2357-101",
+      "brand": "Nike",
+      "name": "React Infinity Run Flyknit 2 'White Black'",
+      "colorway": "White/Black",
+      "gender": "men",
+      "silhouette": "React Infinity Run",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 160,
+      "estimatedMarketValue": 205,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/773/original/CT2357_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/773/original/CT2357_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/773/original/CT2357_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/react-infinity-run-flyknit-2-white-black-ct2357-101",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "9b836082-30b4-40d0-a170-7335e2949520",
+      "sku": "CQ4396-010",
+      "brand": "Nike",
+      "name": "Project Pod PS 'Photon Dust University Red'",
+      "colorway": "Photon Dust/Game Royal/White/University Red",
+      "gender": "youth",
+      "silhouette": "Project Pod",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 55,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/754/original/CQ4396_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/754/original/CQ4396_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/754/original/CQ4396_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/project-pod-ps-photon-dust-university-red-cq4396-010",
+        "flightClub": " https://flightclub.com/project-pod-ps-photon-dust-university-red-cq4396-010"
+      }
+    },
+    {
+      "id": "b033a13d-95b9-4e52-b4d4-b29c5af9764d",
+      "sku": "CD7782-401",
+      "brand": "Nike",
+      "name": "Court Borough Mid 2 GS 'Cerulean'",
+      "colorway": "Cerulean/Glacier Blue/White",
+      "gender": "youth",
+      "silhouette": "Court Borough",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 65,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/759/original/CD7782_401.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/759/original/CD7782_401.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/759/original/CD7782_401.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/court-borough-mid-2-gs-cerulean-cd7782-401",
+        "flightClub": " https://flightclub.com/court-borough-mid-2-gs-cerulean-cd7782-401"
+      }
+    },
+    {
+      "id": "b7d86e71-b129-4de0-8549-62f66260add0",
+      "sku": "DC3431-124",
+      "brand": "Nike",
+      "name": "Wmns NikeCourt Vapor Lite 'White Purple Pulse'",
+      "colorway": "White/Copa/Purple Pulse",
+      "gender": "women",
+      "silhouette": "NikeCourt Vapor",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/825/original/DC3431_124.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/825/original/DC3431_124.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/825/original/DC3431_124.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nikecourt-vapor-lite-white-purple-pulse-dc3431-124",
+        "flightClub": " https://flightclub.com/wmns-nikecourt-vapor-lite-white-purple-pulse-dc3431-124"
+      }
+    }
+  ]
+}

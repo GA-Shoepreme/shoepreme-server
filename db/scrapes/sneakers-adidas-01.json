@@ -1,0 +1,2405 @@
+{
+  "count": 24119,
+  "results": [
+    {
+      "id": "aac42303-4591-4bc1-acee-7c8528a28713",
+      "sku": "FX6864",
+      "brand": "adidas",
+      "name": "Wmns ZX 1K Boost 'Bold Logo Graphic - Hazy Sky'",
+      "colorway": "Cloud White/Hazy Sky/Hazy Blue",
+      "gender": "women",
+      "silhouette": "ZX 1K",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 100,
+      "estimatedMarketValue": 128,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/935/original/FX6864.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/935/original/FX6864.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/935/original/FX6864.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-zx-1k-boost-bold-logo-graphic-hazy-sky-fx6864",
+        "flightClub": " https://flightclub.com/wmns-zx-1k-boost-bold-logo-graphic-hazy-sky-fx6864"
+      }
+    },
+    {
+      "id": "b13290c5-a0a0-4392-a217-7a538b52cc59",
+      "sku": "GZ8981",
+      "brand": "adidas",
+      "name": "adidas Superstar Bape ABC Camo Green",
+      "colorway": "Green ABC Camo/White",
+      "gender": "men",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 0,
+      "estimatedMarketValue": 167,
+      "story": "The BAPE x adidas Superstar 80s ‘ABC Camo’ makes over the sneaker icon with the Japanese streetwear brand’s signature flourishes. Chief among them is the green and brown camo print that floods the leather upper, reinforced with an instantly recognizable shell toe in off-white rubber. Mismatched adidas and BAPE branding is featured on the tongue and heel tab, as well as each shoe’s side panels, featuring adidas’ Three Stripes on one side and the BAPE Sta logo on the other. Metallic gold BAPE lace jewels are the finishing touch.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/108/613/original/764475_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/108/613/original/764475_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/108/613/original/764475_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-superstar-bape-abc-camo-green",
+        "goat": " https://goat.com/sneakers/bape-x-superstar-80s-abc-camo-gz8981",
+        "flightClub": " https://flightclub.com/bape-x-superstar-80s-abc-camo-gz8981"
+      }
+    },
+    {
+      "id": "b542e386-ff92-4a24-9ed9-17f02f912a85",
+      "sku": "FY0838",
+      "brand": "adidas",
+      "name": "Wmns UltraBoost 21 Primeblue 'Non Dyed Black'",
+      "colorway": "Non Dyed/Core Black/Night Flash",
+      "gender": "women",
+      "silhouette": "UltraBoost 21",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 180,
+      "estimatedMarketValue": 165,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/718/original/FY0838.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/718/original/FY0838.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/718/original/FY0838.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-ultraboost-21-primeblue-non-dyed-black-fy0838",
+        "flightClub": " https://flightclub.com/wmns-ultraboost-21-primeblue-non-dyed-black-fy0838"
+      }
+    },
+    {
+      "id": "c9362887-7344-4670-b0f1-19e3d3551849",
+      "sku": "FX6655",
+      "brand": "adidas",
+      "name": "Supernova+ 'Aluminium'",
+      "colorway": "Core White/Aluminium/Cloud White",
+      "gender": "men",
+      "silhouette": "Supernova",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 120,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/695/original/FX6655.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/695/original/FX6655.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/695/original/FX6655.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/supernova-aluminium-fx6655",
+        "flightClub": " https://flightclub.com/supernova-aluminium-fx6655"
+      }
+    },
+    {
+      "id": "daf7f274-f659-4acc-bff5-61c162a90f9b",
+      "sku": "FY0443",
+      "brand": "adidas",
+      "name": "Tyshawn 'Maroon'",
+      "colorway": "Maroon/Chalk White/Gold Metallic",
+      "gender": "men",
+      "silhouette": "Tyshawn",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 85,
+      "estimatedMarketValue": 369,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/709/original/FY0443.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/709/original/FY0443.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/709/original/FY0443.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/tyshawn-maroon-fy0443",
+        "flightClub": " https://flightclub.com/tyshawn-maroon-fy0443"
+      }
+    },
+    {
+      "id": "e091d63f-2933-46b6-a037-faff692996e3",
+      "sku": "FX5570",
+      "brand": "adidas",
+      "name": "Superstar 'Hazy Yellow White'",
+      "colorway": "Hazy Yellow/Cloud White/Core Black",
+      "gender": "men",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 90,
+      "estimatedMarketValue": 150,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/805/original/FX5570.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/805/original/FX5570.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/805/original/FX5570.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-hazy-yellow-white-fx5570",
+        "flightClub": " https://flightclub.com/superstar-hazy-yellow-white-fx5570"
+      }
+    },
+    {
+      "id": "e6b5abf6-de07-4226-94be-b87aa9a8fafe",
+      "sku": "FX6822",
+      "brand": "adidas",
+      "name": "Supernova 'White Crew Navy'",
+      "colorway": "Core White/Crew Navy/Core White",
+      "gender": "men",
+      "silhouette": "Supernova",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 100,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/700/original/FX6822.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/700/original/FX6822.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/700/original/FX6822.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/supernova-white-crew-navy-fx6822",
+        "flightClub": " https://flightclub.com/supernova-white-crew-navy-fx6822"
+      }
+    },
+    {
+      "id": "f0423869-d742-4a20-b7b1-4ddc64751ed4",
+      "sku": "FY0454",
+      "brand": "adidas",
+      "name": "Busenitz Vulc 2 'Black Gum'",
+      "colorway": "Core Black/Core Black/Gum",
+      "gender": "men",
+      "silhouette": "Busenitz",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 70,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/712/original/FY0454.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/712/original/FY0454.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/712/original/FY0454.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/busenitz-vulc-2-black-gum-fy0454",
+        "flightClub": " https://flightclub.com/busenitz-vulc-2-black-gum-fy0454"
+      }
+    },
+    {
+      "id": "fbc55896-9129-4be4-bacb-35bc3b1076bf",
+      "sku": "FX6865",
+      "brand": "adidas",
+      "name": "Wmns ZX 1K Boost 'Bold Logo Graphic - Clear Mint'",
+      "colorway": "Clear Mint/Cloud White/Grey Two",
+      "gender": "women",
+      "silhouette": "ZX 1K",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 100,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/936/original/FX6865.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/936/original/FX6865.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/936/original/FX6865.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-zx-1k-boost-bold-logo-graphic-clear-mint-fx6865",
+        "flightClub": " https://flightclub.com/wmns-zx-1k-boost-bold-logo-graphic-clear-mint-fx6865"
+      }
+    },
+    {
+      "id": "fee32bdc-976d-4d09-9891-c0e9ce0127b5",
+      "sku": "FY2686",
+      "brand": "adidas",
+      "name": "Aaron Kai x Stan Smith Primeblue Big Kid 'Doodles'",
+      "colorway": "Cloud White/Vivid Green/Scarlet",
+      "gender": "youth",
+      "silhouette": "Stan Smith",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 75,
+      "estimatedMarketValue": 75,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/719/original/FY2686.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/719/original/FY2686.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/719/original/FY2686.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/aaron-kai-x-stan-smith-primeblue-big-kid-doodles-fy2686",
+        "flightClub": " https://flightclub.com/aaron-kai-x-stan-smith-primeblue-big-kid-doodles-fy2686"
+      }
+    },
+    {
+      "id": "ffdb98f3-1630-4d10-83a1-a9704e27681a",
+      "sku": "GX5404",
+      "brand": "adidas",
+      "name": "NMD_R1 Infant 'Watercolor'",
+      "colorway": "Cloud White/Hazy Orange/Hi-Res Yellow",
+      "gender": "infant",
+      "silhouette": "NMD Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-05-01",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/174/569/original/GX5404.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/174/569/original/GX5404.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/174/569/original/GX5404.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nmd_r1-infant-watercolor-gx5404",
+        "flightClub": " https://flightclub.com/nmd_r1-infant-watercolor-gx5404"
+      }
+    },
+    {
+      "id": "070d91eb-b0b1-4dec-bfad-1e2142660894",
+      "sku": "FY0505",
+      "brand": "adidas",
+      "name": "Matchbreak Super 'Mesa'",
+      "colorway": "Mesa/Cloud White/Gold Metallic",
+      "gender": "men",
+      "silhouette": "Matchbreak Super",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-30",
+      "retailPrice": 70,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/714/original/FY0505.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/714/original/FY0505.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/714/original/FY0505.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/matchbreak-super-mesa-fy0505",
+        "flightClub": " https://flightclub.com/matchbreak-super-mesa-fy0505"
+      }
+    },
+    {
+      "id": "58a8d2b5-de9a-424e-a19f-95c6c2cdbfa3",
+      "sku": "GY7642",
+      "brand": "adidas",
+      "name": "adidas ZX 8500 Overkill Graffiti",
+      "colorway": "Crystal White/Signal Green/Core Black",
+      "gender": "men",
+      "silhouette": "ZX 8500",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-30",
+      "retailPrice": 140,
+      "estimatedMarketValue": 100,
+      "story": "Developed in partnership with the Berlin-based retailer, the Overkill x adidas ZX 8500 ‘A-ZX Series’ represents the letter ‘O’ in the sprawling 26-part collection that explores the brand’s legendary ZX running franchise. The vintage running shoe features a maximalist design that takes the store name literally, highlighted by a clashing blend of vibrant hues throughout the mesh and suede upper. Graffiti-style branding includes ‘Overkill’ inscribed on the lateral toe and mismatched ‘OK’ and Trefoil tags on each tongue. The kicks come with a black mesh shroud that offers protection from errant paint drips.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/107/220/original/753783_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/107/220/original/753783_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/107/220/original/753783_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-zx-8500-overkill-graffiti",
+        "goat": " https://goat.com/sneakers/overkill-x-zx-8500-a-zx-series-gy7642",
+        "flightClub": " https://flightclub.com/overkill-x-zx-8500-a-zx-series-gy7642"
+      }
+    },
+    {
+      "id": "672a2133-3956-46f9-8aad-cdab131929a0",
+      "sku": "FX6503",
+      "brand": "adidas",
+      "name": "Star Wars x NMD_R1 Big Kid 'Rebels and the First Order'",
+      "colorway": "Core Black/Core Black/Cloud White",
+      "gender": "youth",
+      "silhouette": "NMD Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-30",
+      "retailPrice": 120,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/689/original/FX6503.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/689/original/FX6503.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/689/original/FX6503.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/star-wars-x-nmd_r1-big-kid-rebels-and-the-first-order-fx6503",
+        "flightClub": " https://flightclub.com/star-wars-x-nmd_r1-big-kid-rebels-and-the-first-order-fx6503"
+      }
+    },
+    {
+      "id": "72ed07fc-3be5-4d15-b67c-d76dee3ef306",
+      "sku": "GZ3704",
+      "brand": "adidas",
+      "name": "Superstar 'Seaview'",
+      "colorway": "Off White/Cream White/Clear Mint",
+      "gender": "men",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-30",
+      "retailPrice": 85,
+      "estimatedMarketValue": 85,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/174/576/original/GZ3704.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/174/576/original/GZ3704.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/174/576/original/GZ3704.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-seaview-gz3704",
+        "flightClub": " https://flightclub.com/superstar-seaview-gz3704"
+      }
+    },
+    {
+      "id": "c5dd458c-e30d-48b1-96e7-1bada5d1f2bd",
+      "sku": "FX5567",
+      "brand": "adidas",
+      "name": "Superstar 'Black Transparent'",
+      "colorway": "Core Black/Supplier Colour/Cloud White",
+      "gender": "men",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-30",
+      "retailPrice": 90,
+      "estimatedMarketValue": 359,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/683/original/FX5567.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/683/original/FX5567.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/683/original/FX5567.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-black-transparent-fx5567",
+        "flightClub": " https://flightclub.com/superstar-black-transparent-fx5567"
+      }
+    },
+    {
+      "id": "f40a5e89-4720-420d-aa24-6a7f8e5eed00",
+      "sku": "FY6029",
+      "brand": "adidas",
+      "name": "UltraBoost 6.0 DNA J 'Crew Blue'",
+      "colorway": "Non Dyed/Non Dyed/Crew Blue",
+      "gender": "youth",
+      "silhouette": "UltraBoost 6.0",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-30",
+      "retailPrice": 160,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/729/original/FY6029.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/729/original/FY6029.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/729/original/FY6029.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ultraboost-6-0-dna-j-crew-blue-fy6029",
+        "flightClub": " https://flightclub.com/ultraboost-6-0-dna-j-crew-blue-fy6029"
+      }
+    },
+    {
+      "id": "f721473c-064d-4fd9-a049-d7fcc4e0daa1",
+      "sku": "FZ0245",
+      "brand": "adidas",
+      "name": "Superstar 'Transparent'",
+      "colorway": "Supplier Colour/Core Black/Cloud White",
+      "gender": "men",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-30",
+      "retailPrice": 90,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/734/original/FZ0245.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/734/original/FZ0245.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/734/original/FZ0245.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-transparent-fz0245",
+        "flightClub": " https://flightclub.com/superstar-transparent-fz0245"
+      }
+    },
+    {
+      "id": "556d0ea6-0d1d-4b4b-9e51-adb5a15a44a0",
+      "sku": "FX5599",
+      "brand": "adidas",
+      "name": "Stan Smith Primeblue 'White Green'",
+      "colorway": "Cloud White/Green/Core Black",
+      "gender": "men",
+      "silhouette": "Stan Smith",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 90,
+      "estimatedMarketValue": 365,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/685/original/FX5599.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/685/original/FX5599.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/685/original/FX5599.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/stan-smith-primeblue-white-green-fx5599",
+        "flightClub": " https://flightclub.com/stan-smith-primeblue-white-green-fx5599"
+      }
+    },
+    {
+      "id": "5d191779-9eb9-474a-9a6d-3401010ecbb0",
+      "sku": "FY7989",
+      "brand": "adidas",
+      "name": "Forum Low J 'Triple White'",
+      "colorway": "Cloud White/Cloud White/Cloud White",
+      "gender": "youth",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/257/original/FY7989.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/257/original/FY7989.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/257/original/FY7989.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/forum-low-j-triple-white-fy7989",
+        "flightClub": " https://flightclub.com/forum-low-j-triple-white-fy7989"
+      }
+    },
+    {
+      "id": "5e7632c6-94b9-476c-8a7b-d073613a87de",
+      "sku": "H69204",
+      "brand": "adidas",
+      "name": "Predator.1 Microbounce 'Demonskin - Black Shock Pink'",
+      "colorway": "Core Black/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Predator.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-29",
+      "retailPrice": 180,
+      "estimatedMarketValue": 240,
+      "story": "The adidas Predator.1 Microbounce ‘Black Shock Pink’ delivers a lifestyle silhouette that blends performance soccer style with retro cushioning from the brand’s early 2000s archive. The form-fitting Primeknit upper is designed to replicate the look of the Predator Freak.1 soccer cleat, complete with an elastic cuff and faux Demonskin detailing throughout the vamp and midfoot. Springy cushioning is provided by the open-cell structure of adidas’ Microbounce midsole",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/265/original/H69204.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/265/original/H69204.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/265/original/H69204.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-1-microbounce-demonskin-black-shock-pink-h69204",
+        "flightClub": " https://flightclub.com/predator-1-microbounce-demonskin-black-shock-pink-h69204"
+      }
+    },
+    {
+      "id": "07dced12-65f6-407b-969e-72e3be642462",
+      "sku": "FW7327",
+      "brand": "adidas",
+      "name": "Nemeziz.1 FG 'Tension Tape - Screaming Orange'",
+      "colorway": "Cloud White/Screaming Orange/Core Black",
+      "gender": "men",
+      "silhouette": "Nemeziz.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 225,
+      "estimatedMarketValue": 285,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/313/original/FW7327.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/313/original/FW7327.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/313/original/FW7327.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nemeziz-1-fg-tension-tape-screaming-orange-fw7327",
+        "flightClub": " https://flightclub.com/nemeziz-1-fg-tension-tape-screaming-orange-fw7327"
+      }
+    },
+    {
+      "id": "0dada462-c0dc-4b38-8baa-b379e3ed6a64",
+      "sku": "FW7268",
+      "brand": "adidas",
+      "name": "Copa Sense.3 Laceless FG 'White Shock Pink'",
+      "colorway": "Cloud White/Core Black/Shock Pink",
+      "gender": "men",
+      "silhouette": "Copa Sense.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 100,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/310/original/FW7268.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/310/original/FW7268.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/310/original/FW7268.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-3-laceless-fg-white-shock-pink-fw7268",
+        "flightClub": " https://flightclub.com/copa-sense-3-laceless-fg-white-shock-pink-fw7268"
+      }
+    },
+    {
+      "id": "0e877f92-ed06-46be-87f6-079c9bd8eaef",
+      "sku": "FW7330",
+      "brand": "adidas",
+      "name": "Nemeziz+ FG 'Tension Tape - Screaming Orange'",
+      "colorway": "Cloud White/Screaming Orange/Core Black",
+      "gender": "men",
+      "silhouette": "Nemeziz",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 275,
+      "estimatedMarketValue": 335,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/315/original/FW7330.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/315/original/FW7330.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/315/original/FW7330.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nemeziz-fg-tension-tape-screaming-orange-fw7330",
+        "flightClub": " https://flightclub.com/nemeziz-fg-tension-tape-screaming-orange-fw7330"
+      }
+    },
+    {
+      "id": "15e77d80-fdbf-472b-9ef7-35c5eb77ca40",
+      "sku": "FW6511",
+      "brand": "adidas",
+      "name": "Copa Sense.1 TF 'White Shock Pink'",
+      "colorway": "Cloud White/Core Black/Shock Pink",
+      "gender": "men",
+      "silhouette": "Copa Sense.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 120,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/283/original/FW6511.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/283/original/FW6511.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/283/original/FW6511.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-1-tf-white-shock-pink-fw6511",
+        "flightClub": " https://flightclub.com/copa-sense-1-tf-white-shock-pink-fw6511"
+      }
+    },
+    {
+      "id": "3d680661-b070-4288-ae70-a9b952fdf7dd",
+      "sku": "FW6897",
+      "brand": "adidas",
+      "name": "X Ghosted.1 FG 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "X Ghosted.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 225,
+      "estimatedMarketValue": 285,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/290/original/FW6897.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/290/original/FW6897.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/290/original/FW6897.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-1-fg-shock-pink-fw6897",
+        "flightClub": " https://flightclub.com/x-ghosted-1-fg-shock-pink-fw6897"
+      }
+    },
+    {
+      "id": "446ff9f1-928e-4b69-ba01-7f97cc2525e4",
+      "sku": "FW6959",
+      "brand": "adidas",
+      "name": "X Ghosted.2 FG 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "X Ghosted.2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 120,
+      "estimatedMarketValue": 180,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/299/original/FW6959.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/299/original/FW6959.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/299/original/FW6959.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-2-fg-shock-pink-fw6959",
+        "flightClub": " https://flightclub.com/x-ghosted-2-fg-shock-pink-fw6959"
+      }
+    },
+    {
+      "id": "46ecfac9-ee1a-46a5-89dc-bebe9b494ab4",
+      "sku": "FW6552",
+      "brand": "adidas",
+      "name": "Copa Sense.2 FG 'White Shock Pink'",
+      "colorway": "Cloud White/Core Black/Shock Pink",
+      "gender": "men",
+      "silhouette": "Copa Sense.2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 120,
+      "estimatedMarketValue": 180,
+      "story": "The adidas Copa Sense.2 FG &#39;White Shock Pink&#39; features inside-out construction intended to mirror the contours of the foot. The anatomical upper pairs soft white leather with a stretch knit collar in contrasting black. Across the medial side, a foam pod delivers impact absorption and allows the ball to stay close to the foot. The lightweight build is placed atop a two-tone TPU outsole, featuring studded traction designed for firm ground surfaces.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/287/original/FW6552.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/287/original/FW6552.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/287/original/FW6552.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-2-fg-white-shock-pink-fw6552",
+        "flightClub": " https://flightclub.com/copa-sense-2-fg-white-shock-pink-fw6552"
+      }
+    },
+    {
+      "id": "4fdc6277-8880-4263-9bd9-8045883b6b02",
+      "sku": "FW7361",
+      "brand": "adidas",
+      "name": "Nemeziz.3 TF J 'Tension Tape - Screaming Orange'",
+      "colorway": "Cloud White/Core Black/Screaming Orange",
+      "gender": "youth",
+      "silhouette": "Nemeziz.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 60,
+      "estimatedMarketValue": 80,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/321/original/FW7361.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/321/original/FW7361.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/321/original/FW7361.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nemeziz-3-tf-j-tension-tape-screaming-orange-fw7361",
+        "flightClub": " https://flightclub.com/nemeziz-3-tf-j-tension-tape-screaming-orange-fw7361"
+      }
+    },
+    {
+      "id": "522b03d6-0320-452b-bbbe-826818294d0b",
+      "sku": "FW6968",
+      "brand": "adidas",
+      "name": "X Ghosted.3 Laceless FG 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "X Ghosted.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 100,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/303/original/FW6968.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/303/original/FW6968.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/303/original/FW6968.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-3-laceless-fg-shock-pink-fw6968",
+        "flightClub": " https://flightclub.com/x-ghosted-3-laceless-fg-shock-pink-fw6968"
+      }
+    },
+    {
+      "id": "54b6dc53-572a-4ed7-8850-b3e60d82070c",
+      "sku": "FW6506",
+      "brand": "adidas",
+      "name": "Copa Sense.1 IN 'White Shock Pink'",
+      "colorway": "Cloud White/Core Black/Shock Pink",
+      "gender": "men",
+      "silhouette": "Copa Sense.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 120,
+      "estimatedMarketValue": 180,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/280/original/FW6506.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/280/original/FW6506.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/280/original/FW6506.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-1-in-white-shock-pink-fw6506",
+        "flightClub": " https://flightclub.com/copa-sense-1-in-white-shock-pink-fw6506"
+      }
+    },
+    {
+      "id": "5a296d08-eedd-4322-acab-0518a3c6477a",
+      "sku": "FW7345",
+      "brand": "adidas",
+      "name": "Nemeziz.3 TF 'Tension Tape - Screaming Orange'",
+      "colorway": "Cloud White/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "Nemeziz.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 80,
+      "estimatedMarketValue": 101,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/317/original/FW7345.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/317/original/FW7345.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/317/original/FW7345.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nemeziz-3-tf-tension-tape-screaming-orange-fw7345",
+        "flightClub": " https://flightclub.com/nemeziz-3-tf-tension-tape-screaming-orange-fw7345"
+      }
+    },
+    {
+      "id": "6080742b-1722-4d8c-a6fe-13991a371d09",
+      "sku": "FW7341",
+      "brand": "adidas",
+      "name": "Nemeziz.2 FG 'Tension Tape - Screaming Orange'",
+      "colorway": "Cloud White/Screaming Orange/Core Black",
+      "gender": "men",
+      "silhouette": "Nemeziz.2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 120,
+      "estimatedMarketValue": 169,
+      "story": "The adidas Nemeziz.2 FG ‘Screaming Orange’ showcases a visually arresting graphic print on a wraparound textile upper inspired by sports taping. Tension Tape is utilized on the V-shaped collar to secure the ankle without sacrificing mobility. A central lacing system yields a custom fit. The sleek silhouette is mounted on a TPU outsole designed for firm ground surfaces, featuring an agility stud configuration for superior traction.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/316/original/FW7341.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/316/original/FW7341.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/316/original/FW7341.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nemeziz-2-fg-tension-tape-screaming-orange-fw7341",
+        "flightClub": " https://flightclub.com/nemeziz-2-fg-tension-tape-screaming-orange-fw7341"
+      }
+    },
+    {
+      "id": "6e3c96f8-7c76-42ca-9fb9-cfa05c95be60",
+      "sku": "FW6528",
+      "brand": "adidas",
+      "name": "Copa Sense.3 TF 'White Shock Pink'",
+      "colorway": "Cloud White/Core Black/Shock Pink",
+      "gender": "men",
+      "silhouette": "Copa Sense.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 80,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/285/original/FW6528.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/285/original/FW6528.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/285/original/FW6528.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-3-tf-white-shock-pink-fw6528",
+        "flightClub": " https://flightclub.com/copa-sense-3-tf-white-shock-pink-fw6528"
+      }
+    },
+    {
+      "id": "787a2a77-cb07-429d-8970-613d70f66088",
+      "sku": "FW7239",
+      "brand": "adidas",
+      "name": "Predator Freak+ Laceless TF 'Demonskin - Shock Pink'",
+      "colorway": "Core Black/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Predator Freak+",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 160,
+      "estimatedMarketValue": 220,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/307/original/FW7239.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/307/original/FW7239.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/307/original/FW7239.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-laceless-tf-demonskin-shock-pink-fw7239",
+        "flightClub": " https://flightclub.com/predator-freak-laceless-tf-demonskin-shock-pink-fw7239"
+      }
+    },
+    {
+      "id": "81508eea-e2ef-490a-8049-be274fe79096",
+      "sku": "FW7514",
+      "brand": "adidas",
+      "name": "Predator Freak.3 FG 'Demonscale - Shock Pink'",
+      "colorway": "Core Black/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Predator Freak.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 80,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/323/original/FW7514.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/323/original/FW7514.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/323/original/FW7514.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-3-fg-demonscale-shock-pink-fw7514",
+        "flightClub": " https://flightclub.com/predator-freak-3-fg-demonscale-shock-pink-fw7514"
+      }
+    },
+    {
+      "id": "8d6ffcfa-fa80-48d2-8466-a925d9fa6b02",
+      "sku": "FW6522",
+      "brand": "adidas",
+      "name": "Copa Sense.3 Sala IN 'White Shock Pink'",
+      "colorway": "Cloud White/Core Black/Shock Pink",
+      "gender": "men",
+      "silhouette": "Copa Sense.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 80,
+      "estimatedMarketValue": 104,
+      "story": "A performance soccer shoe made for indoor play, the adidas Copa Sense.3 Sala IN ‘White Shock Pink’ features an anatomical design built from the inside out. Based on data-mapping technology that tracks where the foot and ball connect, the sock-like upper is constructed from breathable mesh with a soft synthetic leather vamp. The low-profile silhouette rests on a lightweight EVA midsole, supported by a flat gum rubber outsole designed for indoor surfaces.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/284/original/FW6522.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/284/original/FW6522.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/284/original/FW6522.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-3-sala-in-white-shock-pink-fw6522",
+        "flightClub": " https://flightclub.com/copa-sense-3-sala-in-white-shock-pink-fw6522"
+      }
+    },
+    {
+      "id": "8f9e7b1c-ca2c-4752-8752-8afd3f1107b6",
+      "sku": "FW6963",
+      "brand": "adidas",
+      "name": "X Ghosted.1 TF 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "X Ghosted.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 120,
+      "estimatedMarketValue": 151,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/301/original/FW6963.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/301/original/FW6963.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/301/original/FW6963.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-1-tf-shock-pink-fw6963",
+        "flightClub": " https://flightclub.com/x-ghosted-1-tf-shock-pink-fw6963"
+      }
+    },
+    {
+      "id": "ad53e0dd-b5c7-4322-9387-e9f3030e7f76",
+      "sku": "FW7354",
+      "brand": "adidas",
+      "name": "Nemeziz.3 IN J 'Tension Tape - Screaming Orange'",
+      "colorway": "Cloud White/Core Black/Screaming Orange",
+      "gender": "youth",
+      "silhouette": "Nemeziz.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/319/original/FW7354.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/319/original/FW7354.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/319/original/FW7354.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nemeziz-3-in-j-tension-tape-screaming-orange-fw7354",
+        "flightClub": " https://flightclub.com/nemeziz-3-in-j-tension-tape-screaming-orange-fw7354"
+      }
+    },
+    {
+      "id": "c1d5204f-c895-4128-a474-885045aed99c",
+      "sku": "FW6927",
+      "brand": "adidas",
+      "name": "X Ghosted.3 TF J 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "youth",
+      "silhouette": "X Ghosted.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "Offered in kids sizing, the adidas X Ghosted.3 TF J ‘Shock Pink’ updates the turf shoe with a vibrant pink finish. The eye-catching hue is applied to a lightweight mesh upper that provides a snug, sock-like fit, thanks to the addition of a low-cut Clawcollar and a four-way stretch tongue. The streamlined build rides on a cushy EVA midsole, supported underfoot by a lugged rubber outsole specifically designed for play on artificial-turf pitches.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/292/original/FW6927.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/292/original/FW6927.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/292/original/FW6927.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-3-tf-j-shock-pink-fw6927",
+        "flightClub": " https://flightclub.com/x-ghosted-3-tf-j-shock-pink-fw6927"
+      }
+    },
+    {
+      "id": "c71dc759-92ff-401d-8379-fa5d9f8f812a",
+      "sku": "FW7266",
+      "brand": "adidas",
+      "name": "Copa Kapitan.2 FG 'White Gold Metallic'",
+      "colorway": "Cloud White/Cloud White/Gold Metallic",
+      "gender": "men",
+      "silhouette": "Copa Kapitan",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 100,
+      "estimatedMarketValue": 160,
+      "story": "The adidas Copa Kapitan.2 FG ‘White Gold Metallic’ makes use of a premium K-leather upper designed to mold around the individual contours of the wearer’s foot. The pristine white finish is enlivened with metallic gold branding hits, including stitched three-stripes and a classic adidas logo atop the fold-over tongue. The lace-up sits on a firm-ground TPU outsole, featuring strategically placed studs that deliver optimal stop-and-go traction.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/309/original/FW7266.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/309/original/FW7266.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/309/original/FW7266.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-kapitan-2-fg-white-gold-metallic-fw7266",
+        "flightClub": " https://flightclub.com/copa-kapitan-2-fg-white-gold-metallic-fw7266"
+      }
+    },
+    {
+      "id": "dc26a86a-fc93-44ed-bd61-d8df98931d40",
+      "sku": "FW6935",
+      "brand": "adidas",
+      "name": "X Ghosted.3 FG J 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "youth",
+      "silhouette": "X Ghosted.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/293/original/FW6935.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/293/original/FW6935.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/293/original/FW6935.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-3-fg-j-shock-pink-fw6935",
+        "flightClub": " https://flightclub.com/x-ghosted-3-fg-j-shock-pink-fw6935"
+      }
+    },
+    {
+      "id": "dd6c252f-4b7e-499b-a974-827875c67889",
+      "sku": "FW6925",
+      "brand": "adidas",
+      "name": "X Ghosted.3 IN J 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "youth",
+      "silhouette": "X Ghosted.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "An indoor soccer shoe made for kids, the adidas X Ghosted.3 IN J ‘Shock Pink’ features a highlighter finish designed to stand out on the pitch. The sock-like upper is constructed from coated mesh and equipped with a low-cut collar that wraps around the ankle without compromising mobility. Lightweight cushioning arrives via a full-length EVA midsole, reinforced by a grippy gum rubber outsole that offers superior traction on indoor surfaces.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/291/original/FW6925.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/291/original/FW6925.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/291/original/FW6925.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-3-in-j-shock-pink-fw6925",
+        "flightClub": " https://flightclub.com/x-ghosted-3-in-j-shock-pink-fw6925"
+      }
+    },
+    {
+      "id": "de4d7b3a-4105-4ab9-9c70-1c606844a8c8",
+      "sku": "FW6940",
+      "brand": "adidas",
+      "name": "X Ghosted.3 TF 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "X Ghosted.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 80,
+      "estimatedMarketValue": 102,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/295/original/FW6940.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/295/original/FW6940.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/295/original/FW6940.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-3-tf-shock-pink-fw6940",
+        "flightClub": " https://flightclub.com/x-ghosted-3-tf-shock-pink-fw6940"
+      }
+    },
+    {
+      "id": "e6ac4192-f7f4-4ad1-a0b9-1a6b9fa7eb4b",
+      "sku": "H05789",
+      "brand": "adidas",
+      "name": "The Simpsons x Superstar 'Squishee'",
+      "colorway": "Semi Solar Green/Bright Orange/Sky Tint",
+      "gender": "men",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 100,
+      "estimatedMarketValue": 90,
+      "story": "Launching as part of a larger collection with the long-running animated series, The Simpsons x adidas Superstar &#39;Squishee&#39; takes inspiration from the frozen beverage offered at Springfield’s Kwik-E-Mart. Bold black lines are applied to the lime green synthetic leather upper, accented with an oval-shaped insert on the lateral quarter panel. Orange serrated three-stripes are matched by a heel tab marked with adidas’ Trefoil logo. Additional branding hits include a Squishee lace jewel and a woven Kwik-E-Mart tag atop the transparent tongue. A semi-translucent rubber cupsole anchors the low-top.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/436/387/original/766017_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/436/387/original/766017_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/436/387/original/766017_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/the-simpsons-x-superstar-squishee-h05789",
+        "flightClub": " https://flightclub.com/the-simpsons-x-superstar-squishee-h05789"
+      }
+    },
+    {
+      "id": "f28a21a0-f891-41f3-8684-cec25ae99139",
+      "sku": "FW7356",
+      "brand": "adidas",
+      "name": "Nemeziz.3 FG J 'Tension Tape - Screaming Orange'",
+      "colorway": "Cloud White/Core Black/Screaming Orange",
+      "gender": "youth",
+      "silhouette": "Nemeziz.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/320/original/FW7356.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/320/original/FW7356.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/320/original/FW7356.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/nemeziz-3-fg-j-tension-tape-screaming-orange-fw7356",
+        "flightClub": " https://flightclub.com/nemeziz-3-fg-j-tension-tape-screaming-orange-fw7356"
+      }
+    },
+    {
+      "id": "fd416ade-6a28-46e8-b6f0-2e2ffaacfbed",
+      "sku": "FY5419",
+      "brand": "adidas",
+      "name": "Stan Smith Primeblue 'Grey Royal Blue'",
+      "colorway": "Grey Two/Royal Blue/Cloud White",
+      "gender": "men",
+      "silhouette": "Stan Smith",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-28",
+      "retailPrice": 90,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/240/727/original/FY5419.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/240/727/original/FY5419.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/240/727/original/FY5419.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/stan-smith-primeblue-grey-royal-blue-fy5419",
+        "flightClub": " https://flightclub.com/stan-smith-primeblue-grey-royal-blue-fy5419"
+      }
+    },
+    {
+      "id": "01d6067d-55d6-4aa5-90eb-f3a7b8a2646b",
+      "sku": "FW7518",
+      "brand": "adidas",
+      "name": "Predator Freak.3 IN 'Demonscale - Shock Pink'",
+      "colorway": "Core Black/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Predator Freak.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 80,
+      "estimatedMarketValue": 104,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/863/original/FW7518.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/863/original/FW7518.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/863/original/FW7518.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-3-in-demonscale-shock-pink-fw7518",
+        "flightClub": " https://flightclub.com/predator-freak-3-in-demonscale-shock-pink-fw7518"
+      }
+    },
+    {
+      "id": "1906d655-cf91-42fb-8b7d-e5444bda53ef",
+      "sku": "FW7512",
+      "brand": "adidas",
+      "name": "Predator Freak.3 Laceless FG 'Demonscale - Shock Pink'",
+      "colorway": "Core Black/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Predator Freak.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 100,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/859/original/FW7512.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/859/original/FW7512.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/859/original/FW7512.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-3-laceless-fg-demonscale-shock-pink-fw7512",
+        "flightClub": " https://flightclub.com/predator-freak-3-laceless-fg-demonscale-shock-pink-fw7512"
+      }
+    },
+    {
+      "id": "38e311e6-3b51-4cf8-9cde-fc20b10a9a17",
+      "sku": "FV7829",
+      "brand": "adidas",
+      "name": "adidas Ultra Boost 6.0 Crew Blue",
+      "colorway": "Non Dyed/Non Dyed/Crew Blue",
+      "gender": "men",
+      "silhouette": "UltraBoost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 180,
+      "estimatedMarketValue": 126,
+      "story": "The adidas UltraBoost 6.0 ‘Crew Blue’ affirms the German sportswear brand’s commitment to sustainability and the reduction of plastic waste. Indigo fibers are woven into an off-white Primeknit upper that incorporates Parley Ocean Plastic, while the molded midfoot cage and heel counter are made with recycled fishing nets. Responsive cushioning comes courtesy of a full-length Boost midsole, reinforced underfoot by a Stretchweb outsole built with Continental rubber.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/933/original/FV7829.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/933/original/FV7829.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/933/original/FV7829.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-ultra-boost-60-crew-blue",
+        "goat": " https://goat.com/sneakers/ultraboost-6-0-crew-blue-fv7829",
+        "flightClub": " https://flightclub.com/ultraboost-6-0-crew-blue-fv7829"
+      }
+    },
+    {
+      "id": "402e4109-b2e5-440a-8770-700e9985a88a",
+      "sku": "FY8373",
+      "brand": "adidas",
+      "name": "Adizero MD 'Black Night Metallic'",
+      "colorway": "Core Black/Night Metallic/Core Black",
+      "gender": "men",
+      "silhouette": "Adizero MD",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/873/original/FY8373.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/873/original/FY8373.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/873/original/FY8373.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/adizero-md-black-night-metallic-fy8373",
+        "flightClub": " https://flightclub.com/adizero-md-black-night-metallic-fy8373"
+      }
+    },
+    {
+      "id": "4c492001-354d-4aa0-a068-3e294c111c18",
+      "sku": "FW7519",
+      "brand": "adidas",
+      "name": "Predator Freak.3 FG 'Demonscale - Shock Pink'",
+      "colorway": "Core Black/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Predator Freak.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 80,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/864/original/FW7519.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/864/original/FW7519.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/864/original/FW7519.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-3-fg-demonscale-shock-pink-fw7519",
+        "flightClub": " https://flightclub.com/predator-freak-3-fg-demonscale-shock-pink-fw7519"
+      }
+    },
+    {
+      "id": "57a902ac-2437-485b-a2cf-919e19ca52a0",
+      "sku": "CW7430-400",
+      "brand": "adidas",
+      "name": "Flex Plus TD 'Game Royal'",
+      "colorway": "Game Royal/Black/White",
+      "gender": "infant",
+      "silhouette": "Flex",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/795/original/CW7430_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/795/original/CW7430_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/795/original/CW7430_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-plus-td-game-royal-cw7430-400",
+        "flightClub": " https://flightclub.com/flex-plus-td-game-royal-cw7430-400"
+      }
+    },
+    {
+      "id": "6c7dbb2b-f6c6-4b1d-ad7d-7ac30e947c4f",
+      "sku": "FW6938",
+      "brand": "adidas",
+      "name": "X Ghosted.3 IN 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "X Ghosted.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/294/original/FW6938.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/294/original/FW6938.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/294/original/FW6938.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-3-in-shock-pink-fw6938",
+        "flightClub": " https://flightclub.com/x-ghosted-3-in-shock-pink-fw6938"
+      }
+    },
+    {
+      "id": "7739f277-404d-4c97-9571-0eeef234640e",
+      "sku": "FX2093",
+      "brand": "adidas",
+      "name": "Adizero MD 'White Solar Red'",
+      "colorway": "Cloud White/Team Power Red/Solar Red",
+      "gender": "men",
+      "silhouette": "Adizero MD",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/867/original/FX2093.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/867/original/FX2093.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/867/original/FX2093.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/adizero-md-white-solar-red-fx2093",
+        "flightClub": " https://flightclub.com/adizero-md-white-solar-red-fx2093"
+      }
+    },
+    {
+      "id": "90169471-975f-4352-a152-aa88a77ba5d7",
+      "sku": "EH3442",
+      "brand": "adidas",
+      "name": "Adizero Spark Molded 'Team Power Red'",
+      "colorway": "Team Power Red/Team Power Red/Cloud White",
+      "gender": "men",
+      "silhouette": "Adizero Spark",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 45,
+      "estimatedMarketValue": 25,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/857/original/EH3442.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/857/original/EH3442.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/857/original/EH3442.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/adizero-spark-molded-team-power-red-eh3442",
+        "flightClub": " https://flightclub.com/adizero-spark-molded-team-power-red-eh3442"
+      }
+    },
+    {
+      "id": "a2ae0028-1dab-4f46-b475-676fa0ddab2a",
+      "sku": "FW7934",
+      "brand": "adidas",
+      "name": "Copa Sense.3 FG 'White Shock Pink'",
+      "colorway": "Cloud White/Shock Pink/Core Black",
+      "gender": "men",
+      "silhouette": "Copa Sense.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 80,
+      "estimatedMarketValue": 104,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/865/original/FW7934.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/865/original/FW7934.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/865/original/FW7934.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-3-fg-white-shock-pink-fw7934",
+        "flightClub": " https://flightclub.com/copa-sense-3-fg-white-shock-pink-fw7934"
+      }
+    },
+    {
+      "id": "acc4514e-d59b-414d-8d93-110a7f7ea2a8",
+      "sku": "S42981",
+      "brand": "adidas",
+      "name": "Predator Freak.2 FG 'Demonskin - Black Shock Pink'",
+      "colorway": "Core Black/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Predator Freak.2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 130,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/916/original/S42981.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/916/original/S42981.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/916/original/S42981.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-2-fg-demonskin-black-shock-pink-s42981",
+        "flightClub": " https://flightclub.com/predator-freak-2-fg-demonskin-black-shock-pink-s42981"
+      }
+    },
+    {
+      "id": "b660250a-dbfb-4bb7-bd43-b01863afffc1",
+      "sku": "H02720",
+      "brand": "adidas",
+      "name": "Parley x Terrex Two Ultra 'White Black'",
+      "colorway": "Cloud White/Core Black/Cloud White",
+      "gender": "men",
+      "silhouette": "Terrex Two",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 180,
+      "estimatedMarketValue": 240,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/908/original/H02720.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/908/original/H02720.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/908/original/H02720.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/parley-x-terrex-two-ultra-white-black-h02720",
+        "flightClub": " https://flightclub.com/parley-x-terrex-two-ultra-white-black-h02720"
+      }
+    },
+    {
+      "id": "c34e8711-76fc-4224-98d9-65ea2dc9c7cd",
+      "sku": "FY8374",
+      "brand": "adidas",
+      "name": "Adizero MD 'White Royal Blue'",
+      "colorway": "Cloud White/Royal Blue/Solar Blue",
+      "gender": "men",
+      "silhouette": "Adizero MD",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/875/original/FY8374.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/875/original/FY8374.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/875/original/FY8374.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/adizero-md-white-royal-blue-fy8374",
+        "flightClub": " https://flightclub.com/adizero-md-white-royal-blue-fy8374"
+      }
+    },
+    {
+      "id": "ca9b1791-e95f-485c-86ce-260913f2f719",
+      "sku": "FY7281",
+      "brand": "adidas",
+      "name": "X Ghosted.3 Laceless FG J 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "youth",
+      "silhouette": "X Ghosted.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/871/original/FY7281.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/871/original/FY7281.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/871/original/FY7281.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-3-laceless-fg-j-shock-pink-fy7281",
+        "flightClub": " https://flightclub.com/x-ghosted-3-laceless-fg-j-shock-pink-fy7281"
+      }
+    },
+    {
+      "id": "cf367cda-c121-4fb5-bf44-c30d952415b8",
+      "sku": "FX9361",
+      "brand": "adidas",
+      "name": "Adizero MD 'White Silver Metallic'",
+      "colorway": "Cloud White/Silver Metallic/Cloud White",
+      "gender": "men",
+      "silhouette": "Adizero MD",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 45,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/869/original/FX9361.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/869/original/FX9361.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/869/original/FX9361.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/adizero-md-white-silver-metallic-fx9361",
+        "flightClub": " https://flightclub.com/adizero-md-white-silver-metallic-fx9361"
+      }
+    },
+    {
+      "id": "e0176742-0aab-45d6-af90-710ee646bead",
+      "sku": "FY0836",
+      "brand": "adidas",
+      "name": "UltraBoost 21 Primeblue 'Non Dyed'",
+      "colorway": "Non Dyed/Footwear White/Cloud White",
+      "gender": "men",
+      "silhouette": "UltraBoost 21",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 0,
+      "estimatedMarketValue": 108,
+      "story": "The adidas UltraBoost 21 Primeblue ‘Non Dyed’ combines lightweight performance with a sustainable build. Designed to hug the unique contours of the foot, the undyed Primeknit upper is constructed in part with recycled Parley Ocean Plastic and zero virgin polyester. The sneaker’s supportive heel counter and midfoot cage maintain the blank-canvas aesthetic. Responsive cushioning arrives via a full-length Boost midsole, enhanced with adidas’ LEP Torsion System for increased energy return.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/803/original/FY0836.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/803/original/FY0836.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/628/803/original/FY0836.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ultraboost-21-primeblue-non-dyed-fy0836",
+        "flightClub": " https://flightclub.com/ultraboost-21-primeblue-non-dyed-fy0836"
+      }
+    },
+    {
+      "id": "e62656e2-b766-426a-bac2-1d212b012faa",
+      "sku": "FW7517",
+      "brand": "adidas",
+      "name": "Predator Freak.3 TF 'Demonscale - Shock Pink'",
+      "colorway": "Core Black/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Predator Freak.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 80,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/862/original/FW7517.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/862/original/FW7517.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/862/original/FW7517.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/predator-freak-3-tf-demonscale-shock-pink-fw7517",
+        "flightClub": " https://flightclub.com/predator-freak-3-tf-demonscale-shock-pink-fw7517"
+      }
+    },
+    {
+      "id": "ff117876-647f-4a52-ad36-14841b10f83b",
+      "sku": "FW6945",
+      "brand": "adidas",
+      "name": "X Ghosted.3 FG 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "X Ghosted.3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-27",
+      "retailPrice": 80,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/000/297/original/FW6945.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/000/297/original/FW6945.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/000/297/original/FW6945.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-3-fg-shock-pink-fw6945",
+        "flightClub": " https://flightclub.com/x-ghosted-3-fg-shock-pink-fw6945"
+      }
+    },
+    {
+      "id": "3101ea41-d7be-4e1b-b379-d215eea64421",
+      "sku": "GZ5554",
+      "brand": "adidas",
+      "name": "adidas Yeezy Slide Pure",
+      "colorway": "Pure/Pure/Pure",
+      "gender": "men",
+      "silhouette": "adidas Yeezy Slide",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 55,
+      "estimatedMarketValue": 186,
+      "story": "",
+      "image": {
+        "original": "https://images.stockx.com/images/adidas-Yeezy-Slide-Pure-Product.jpg?fit=fill&bg=FFFFFF&w=500&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619634941",
+        "small": "https://images.stockx.com/images/adidas-Yeezy-Slide-Pure-Product.jpg?fit=fill&bg=FFFFFF&w=375&h=375&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619634941",
+        "thumbnail": "https://images.stockx.com/images/adidas-Yeezy-Slide-Pure-Product.jpg?fit=fill&bg=FFFFFF&w=200&h=200&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619634941"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-yeezy-slide-pure",
+        "goat": "",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "4b1fd3c1-35de-47f6-b47a-2374e15535c5",
+      "sku": "H05262",
+      "brand": "adidas",
+      "name": "UltraBoost DNA CC_1 'Legend Ink Gradient'",
+      "colorway": "Legend Ink/Legend Ink/Cloud White",
+      "gender": "men",
+      "silhouette": "UltraBoost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 180,
+      "estimatedMarketValue": 130,
+      "story": "The adidas UltraBoost DNA CC_1 ‘Legend Ink Gradient’ showcases a monochromatic finish on a running shoe that borrows cooling technology from the brand’s retro Climacool line. Aerodynamic air channels are built into the blacked-out Primeknit upper, made in part with recycled Parley Ocean Plastic and zero virgin polyester. Responsive cushioning arrives via a full-length Boost midsole, rendered in a color-fade effect and supported by a Stretchweb Continental rubber outsole. Classic Climacool branding adorns the tongue.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/797/559/original/H05262.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/797/559/original/H05262.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/797/559/original/H05262.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ultraboost-dna-cc_1-legend-ink-gradient-h05262",
+        "flightClub": " https://flightclub.com/ultraboost-dna-cc_1-legend-ink-gradient-h05262"
+      }
+    },
+    {
+      "id": "60cc7375-1b8c-4ac5-bf12-a8f7da05fbed",
+      "sku": "GZ5556",
+      "brand": "adidas",
+      "name": "Yeezy Slide Pure (Infants)",
+      "colorway": "Pure/Pure/Pure",
+      "gender": "toddler",
+      "silhouette": "Yeezy Slide",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 0,
+      "estimatedMarketValue": 145,
+      "story": "",
+      "image": {
+        "original": "https://images.stockx.com/images/Yeezy-Slide-Pure-Infants.jpg?fit=fill&bg=FFFFFF&w=500&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619761580",
+        "small": "https://images.stockx.com/images/Yeezy-Slide-Pure-Infants.jpg?fit=fill&bg=FFFFFF&w=375&h=375&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619761580",
+        "thumbnail": "https://images.stockx.com/images/Yeezy-Slide-Pure-Infants.jpg?fit=fill&bg=FFFFFF&w=200&h=200&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619761580"
+      },
+      "links": {
+        "stockx": "https://stockx.com/yeezy-slide-pure-infants",
+        "goat": "",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "b658a93b-8dc4-47ee-aa4d-6bc91a2c74b9",
+      "sku": "GZ5555",
+      "brand": "adidas",
+      "name": "Yeezy Slide Pure (Kids)",
+      "colorway": "Pure/Pure/Pure",
+      "gender": "child",
+      "silhouette": "Yeezy Slide",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-26",
+      "retailPrice": 0,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://images.stockx.com/images/Yeezy-Slide-Pure-Kids.jpg?fit=fill&bg=FFFFFF&w=500&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619761583",
+        "small": "https://images.stockx.com/images/Yeezy-Slide-Pure-Kids.jpg?fit=fill&bg=FFFFFF&w=375&h=375&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619761583",
+        "thumbnail": "https://images.stockx.com/images/Yeezy-Slide-Pure-Kids.jpg?fit=fill&bg=FFFFFF&w=200&h=200&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619761583"
+      },
+      "links": {
+        "stockx": "https://stockx.com/yeezy-slide-pure-kids",
+        "goat": "",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "09d194b7-8084-4023-bec9-bad85a210477",
+      "sku": "FY7494",
+      "brand": "adidas",
+      "name": "Delpala 'Crew Navy'",
+      "colorway": "Crew Navy/Cloud White/Hi-Res Yellow",
+      "gender": "men",
+      "silhouette": "Delpala",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 55,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/807/original/FY7494.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/807/original/FY7494.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/807/original/FY7494.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/delpala-crew-navy-fy7494",
+        "flightClub": " https://flightclub.com/delpala-crew-navy-fy7494"
+      }
+    },
+    {
+      "id": "11023f58-b035-4aea-a988-d16a9218f126",
+      "sku": "FW6910",
+      "brand": "adidas",
+      "name": "X Ghosted+ FG 'Shock Pink'",
+      "colorway": "Shock Pink/Core Black/Screaming Orange",
+      "gender": "men",
+      "silhouette": "X Ghosted+",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 275,
+      "estimatedMarketValue": 335,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/803/original/FW6910.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/803/original/FW6910.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/803/original/FW6910.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-fg-shock-pink-fw6910",
+        "flightClub": " https://flightclub.com/x-ghosted-fg-shock-pink-fw6910"
+      }
+    },
+    {
+      "id": "634fba92-e10c-4c6b-9361-9f7fd7e315df",
+      "sku": "H01417",
+      "brand": "adidas",
+      "name": "Climacool Vento 'Camo'",
+      "colorway": "Core Black/Gold Metallic/Wild Pine",
+      "gender": "men",
+      "silhouette": "Climacool Vento",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/811/original/H01417.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/811/original/H01417.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/811/original/H01417.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/climacool-vento-camo-h01417",
+        "flightClub": " https://flightclub.com/climacool-vento-camo-h01417"
+      }
+    },
+    {
+      "id": "7de4f84a-dd1a-4534-8a9d-b11c9a2fe11b",
+      "sku": "S42841",
+      "brand": "adidas",
+      "name": "Copa Mundial 21 FG 'Collegiate Purple Shock Pink'",
+      "colorway": "Collegiate Purple/Cloud White/Shock Pink",
+      "gender": "men",
+      "silhouette": "Copa Mundial",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 250,
+      "estimatedMarketValue": 310,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/838/original/S42841.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/838/original/S42841.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/838/original/S42841.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-mundial-21-fg-collegiate-purple-shock-pink-s42841",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "8df45d34-f5d6-49a7-9ec7-5e74a884014c",
+      "sku": "H01860",
+      "brand": "adidas",
+      "name": "Originals Flex Infant 'White Multi'",
+      "colorway": "Cloud White/Core Black/Collegiate Royal",
+      "gender": "infant",
+      "silhouette": "Flex",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-25",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/812/original/H01860.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/812/original/H01860.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/812/original/H01860.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/originals-flex-infant-white-multi-h01860",
+        "flightClub": " https://flightclub.com/originals-flex-infant-white-multi-h01860"
+      }
+    },
+    {
+      "id": "27a937f7-7e3c-420d-99d1-02eb5ab9e081",
+      "sku": "S42973",
+      "brand": "adidas",
+      "name": "Human Made x Country 'Gears For Futuristic Teenagers - White Green'",
+      "colorway": "Cloud White/Green/Off White",
+      "gender": "men",
+      "silhouette": "Country",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 169,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/278/350/original/S42973.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/278/350/original/S42973.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/278/350/original/S42973.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-country-gears-for-futuristic-teenagers-white-green-s42973",
+        "flightClub": " https://flightclub.com/human-made-x-country-gears-for-futuristic-teenagers-white-green-s42973"
+      }
+    },
+    {
+      "id": "378d0d07-5610-407b-8bbe-dbac595faddc",
+      "sku": "S42977",
+      "brand": "adidas",
+      "name": "Human Made x Forum Low 'Grey Burgundy'",
+      "colorway": "Grey Two/Collegiate Burgundy/Core Black",
+      "gender": "men",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 160,
+      "story": "Designed in partnership with Nigo’s workwear-inspired label, the Human Made x adidas Forum Low ‘Grey Burgundy’ delivers a modernized version of the retro ‘80s hoops shoe, rendered in a simple two-tone color scheme with signature details left intact. The grey leather upper is accented with burgundy suede three-stripes and a matching leather heel overlay marked with the tagline ‘Gears for Futuristic Teenagers.’ Dry Alls branding lands on the adjustable ankle strap, while Human Made’s heart logo adorns the lateral heel. A partially wrapped Boost midsole provides responsive cushioning.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/966/original/S42977.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/966/original/S42977.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/966/original/S42977.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-forum-boost-low-grey-burgundy-s42977",
+        "flightClub": " https://flightclub.com/human-made-x-forum-boost-low-grey-burgundy-s42977"
+      }
+    },
+    {
+      "id": "4ccd2f72-d449-4e0d-a58d-6f0d24f7c6a0",
+      "sku": "FX1979",
+      "brand": "adidas",
+      "name": "Copa Sense.1 FG J 'White Shock Pink'",
+      "colorway": "Cloud White/Cloud White/Shock Pink",
+      "gender": "youth",
+      "silhouette": "Copa Sense.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 120,
+      "estimatedMarketValue": 180,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/124/251/original/FX1979.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/124/251/original/FX1979.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/124/251/original/FX1979.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/copa-sense-1-fg-j-white-shock-pink-fx1979",
+        "flightClub": " https://flightclub.com/copa-sense-1-fg-j-white-shock-pink-fx1979"
+      }
+    },
+    {
+      "id": "597cfacf-284b-4a83-a95b-6ec424af31f9",
+      "sku": "FZ0247",
+      "brand": "adidas",
+      "name": "adidas Ultra Boost 6.0 Halo Ivory (W)",
+      "colorway": "Non Dyed/Non Dyed/Halo Ivory",
+      "gender": "women",
+      "silhouette": "UltraBoost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 130,
+      "story": "The adidas women’s UltraBoost 6.0 ‘Halo Ivory’ delivers an understated colorway of a performance running shoe built with sustainability in mind. Neutral tan shades are applied to a Primeknit upper made in part with Parley Ocean Plastic and zero virgin polyester. Lightweight support and stability are provided by a midfoot cage and heel counter, both of which are constructed from recycled fishing nets retrieved from UK fishing quays. The sneaker rests on a full-length Boost midsole for springy cushioning with each step.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/941/original/FZ0247.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/941/original/FZ0247.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/941/original/FZ0247.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-ultra-boost-60-halo-ivory-w",
+        "goat": " https://goat.com/sneakers/wmns-ultraboost-6-0-halo-ivory-fz0247",
+        "flightClub": " https://flightclub.com/wmns-ultraboost-6-0-halo-ivory-fz0247"
+      }
+    },
+    {
+      "id": "b08bfbf9-21d4-408c-a6c6-d866316bccad",
+      "sku": "FZ0250",
+      "brand": "adidas",
+      "name": "adidas Ultra Boost 6.0 Non Dyed Parley",
+      "colorway": "Non Dyed/Non Dyed/Non Dyed",
+      "gender": "men",
+      "silhouette": "UltraBoost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 125,
+      "story": "The Parley x adidas UltraBoost 6.0 DNA ‘Non Dyed’ delivers an eco-friendly take on a performance running shoe designed for street-ready versatility. The lightweight build carries a seamless Primeknit upper that incorporates Parley Ocean Plastic and no virgin polyester. Reclaimed finishing nets are used to form the sneaker’s midfoot cage and heel counter. Fused energy capsules are packed into the full-length Boost midsole, featuring crisp white sidewalls matched by a Continental rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/942/original/FZ0250.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/942/original/FZ0250.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/942/original/FZ0250.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-ultra-boost-60-non-dyed-parley",
+        "goat": " https://goat.com/sneakers/parley-x-ultraboost-6-0-dna-non-dyed-fz0250",
+        "flightClub": " https://flightclub.com/parley-x-ultraboost-6-0-dna-non-dyed-fz0250"
+      }
+    },
+    {
+      "id": "d841726c-9da0-45b5-aedb-a348969184e7",
+      "sku": "S42976",
+      "brand": "adidas",
+      "name": "Human Made x Forum Low 'Green'",
+      "colorway": "Cloud White/Green/Off White",
+      "gender": "men",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 149,
+      "story": "The Human Made x adidas Forum Low ‘Green’ delivers Nigo’s modern interpretation of the ‘80s hardwood classic. The low-top carries a white leather upper with shaggy suede three-stripes in a bright green finish. The grassy hue is repeated on a leather heel overlay inscribed with the tagline ‘Gears for Futuristic Teenagers.’ Human Made’s heart logo graces the lateral heel, while ‘Dry Alls’ is stamped on the adjustable ankle strap. Responsive cushioning arrives via a full-length Boost midsole, underpinned by a translucent herringbone rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/787/855/original/S42976.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/787/855/original/S42976.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/787/855/original/S42976.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-forum-low-green-s42976",
+        "flightClub": " https://flightclub.com/human-made-x-forum-low-green-s42976"
+      }
+    },
+    {
+      "id": "e8cbfb0d-ae01-46f7-8652-3fd0b7b6de72",
+      "sku": "GZ8375",
+      "brand": "adidas",
+      "name": "Snipes x Forum 84 High 'Detroit Bad Boys'",
+      "colorway": "Core Black/Footwear White/Orange",
+      "gender": "men",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 110,
+      "estimatedMarketValue": 170,
+      "story": "Limited to just 1,200 pairs worldwide, the Snipes x adidas Forum 84 High ‘Detroit Bad Boys’ pays tribute to the Pistons teams from ’89 and ’90, whose bruising style of play earned the Isiah Thomas-led squads to back-to-back championships. The retail sneaker chain dresses the vintage hoops shoe in a black patent leather upper with white three-stripes and contrasting orange accents. They include an adidas Trefoil atop the signature X-shaped overlay and ‘89’ and ‘90’ embroidered on the toe of each shoe. Atop the tongue, a metallic gold adidas tag is joined by the sneaker’s numbered edition.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/905/original/GZ8375.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/905/original/GZ8375.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/905/original/GZ8375.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/snipes-x-forum-84-high-detroit-bad-boys-gz8375",
+        "flightClub": " https://flightclub.com/snipes-x-forum-84-high-detroit-bad-boys-gz8375"
+      }
+    },
+    {
+      "id": "f566ab7d-8644-4478-8591-be1c9dd30dc9",
+      "sku": "GZ0541",
+      "brand": "adidas",
+      "name": "adidas Yeezy Boost 700 Bright Blue",
+      "colorway": "Bright Blue/Orange",
+      "gender": "men",
+      "silhouette": "Yeezy Boost 700",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 240,
+      "estimatedMarketValue": 324,
+      "story": "The adidas Yeezy Boost 700 ‘Bright Blue’ uses sharply contrasting finishes to delineate the lifestyle runner’s upper and tooling. The latter pairs sculpted orange sidewalls with a contrasting black rubber outsole, featuring a herringbone traction pattern with cut-out detailing that reveals a drop-in Boost midsole. Up top, royal blue mesh is reinforced with tonal suede overlays at the toe and heel, along with black suede midfoot panels enlivened with reflective detailing.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/107/107/original/743872_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/107/107/original/743872_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/107/107/original/743872_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-yeezy-boost-700-bright-blue",
+        "goat": " https://goat.com/sneakers/yeezy-boost-700-bright-blue-yzy-700-bright-blue",
+        "flightClub": " https://flightclub.com/yeezy-boost-700-bright-blue-yzy-700-bright-blue"
+      }
+    },
+    {
+      "id": "f7c45aec-97c7-432c-9ee8-81aad996b7a1",
+      "sku": "S42975",
+      "brand": "adidas",
+      "name": "Human Made x Forum Low 'Hazy Yellow Navy'",
+      "colorway": "Cloud White/Hazy Yellow/Collegiate Navy",
+      "gender": "men",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-24",
+      "retailPrice": 180,
+      "estimatedMarketValue": 225,
+      "story": "Designed in coordination with Nigo’s Americana-inspired label, the Human Made x adidas Forum Low ‘Hazy Yellow Navy’ offers a retooled version of the vintage 1984 hoops shoe. White leather is utilized on the upper, accented with navy suede three-stripes and a contrasting yellow finish on the terry cloth lining. Unique branding elements include Human Made’s heart logo on the lateral heel, ‘Dry Alls’ inscribed on the adjustable ankle strap, and a wraparound heel overlay marked with the tagline ‘Gears for Futuristic Teenagers.’ The sneaker sits atop an updated Boost midsole for a responsive ride.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/787/853/original/S42975.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/787/853/original/S42975.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/787/853/original/S42975.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-forum-white-collegiate-navy-s42975",
+        "flightClub": " https://flightclub.com/human-made-x-forum-white-collegiate-navy-s42975"
+      }
+    },
+    {
+      "id": "44722788-9a9f-4e79-b3d3-5cc283b7f17a",
+      "sku": "FW2833",
+      "brand": "adidas",
+      "name": "Wmns Terrex Speed Ultra Trail 'Acid Mint Screaming Pink'",
+      "colorway": "Cloud White/Acid Mint/Screaming Pink",
+      "gender": "women",
+      "silhouette": "Terrex Speed",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 160,
+      "estimatedMarketValue": 220,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/909/100/original/FW2833.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/909/100/original/FW2833.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/909/100/original/FW2833.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-terrex-speed-ultra-trail-acid-mint-screaming-pink-fw2833",
+        "flightClub": " https://flightclub.com/wmns-terrex-speed-ultra-trail-acid-mint-screaming-pink-fw2833"
+      }
+    },
+    {
+      "id": "57bc9f4f-53dd-4d97-a4c7-17330a0df6e7",
+      "sku": "FY1223",
+      "brand": "adidas",
+      "name": "Marvel x X Ghosted.1 FG 'Cyclops'",
+      "colorway": "Blue/Vivid Red/Bright Yellow",
+      "gender": "men",
+      "silhouette": "X Ghosted.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 225,
+      "estimatedMarketValue": 325,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/291/962/original/FY1223.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/291/962/original/FY1223.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/291/962/original/FY1223.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/marvel-x-x-ghosted-1-fg-cyclops-fy1223",
+        "flightClub": " https://flightclub.com/marvel-x-x-ghosted-1-fg-cyclops-fy1223"
+      }
+    },
+    {
+      "id": "5ab9e0e3-4441-4a69-a2f9-7d843170e183",
+      "sku": "S42974",
+      "brand": "adidas",
+      "name": "Human Made x Country Free Hiker 'Grey Burgundy'",
+      "colorway": "Grey Two/Collegiate Burgundy/Core Black",
+      "gender": "men",
+      "silhouette": "Country",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 0,
+      "estimatedMarketValue": 90,
+      "story": "The Human Made x adidas Country Free Hiker ‘Grey Burgundy’ updates the vintage ‘70s running shoe with modern materials and tech. Nigo’s workwear-inspired label dresses the upper in grey textile with contrasting burgundy leather three stripes, each inscribed with text that ultimately spells out ‘Gears for Futuristic Teenagers.’ Matching burgundy hits land on the external heel counter and Human Made’s heart logo on the leather heel tab. Responsive cushioning is provided by a Boost midsole, supported by a lugged Continental rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/842/839/original/S42974.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/842/839/original/S42974.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/842/839/original/S42974.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/human-made-x-country-free-hiker-grey-burgundy-s42974",
+        "flightClub": " https://flightclub.com/human-made-x-country-free-hiker-grey-burgundy-s42974"
+      }
+    },
+    {
+      "id": "e51aaa21-c3fb-45f6-bf61-d9eae3628c6b",
+      "sku": "GY0121",
+      "brand": "adidas",
+      "name": "Highsnobiety x ZX 8000 'A-ZX Series - Qualität'",
+      "colorway": "Chalk White/Crystal White/Chalk White",
+      "gender": "men",
+      "silhouette": "ZX 8000",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-23",
+      "retailPrice": 140,
+      "estimatedMarketValue": 111,
+      "story": "Developed in partnership with the online lifestyle publication, the Highsnobiety x adidas ZX 8000 ‘Qualität’ represents the letter ‘Q’ in the ‘A-ZX Series,’ the 26-part collection that chronicles the enduring legacy of the ZX running franchise. The sneaker features an understated neutral palette on a premium build in keeping with its moniker (‘quality’ in German). Breathable tan mesh is reinforced with tonal leather overlays that include the signature ZX heel counter. ‘HS’ branding lands on the back heel, lace dubrae and cork insole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/129/785/original/GY0121.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/129/785/original/GY0121.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/129/785/original/GY0121.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/highsnobiety-x-zx-8000-a-zx-series-qualitat-gy0121",
+        "flightClub": " https://flightclub.com/highsnobiety-x-zx-8000-a-zx-series-qualitat-gy0121"
+      }
+    },
+    {
+      "id": "1cff0889-9288-456f-bbca-70127aca75e0",
+      "sku": "FZ3292",
+      "brand": "adidas",
+      "name": "adidas GSG Mule 032c Savannah",
+      "colorway": "Savannah/Chalk White",
+      "gender": "men",
+      "silhouette": "GSG Mule",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-22",
+      "retailPrice": 160,
+      "estimatedMarketValue": 160,
+      "story": "The 032C x adidas GSG Mule ‘Savanna’ delivers a minimalist slip-on that blends inspiration from contemporary fashion and outdoor gear. The latter is embodied through utilitarian tooling borrowed from the adidas GSG-9 boot, which the Berlin-based creative group propped up as a foundational influence. Up top, beige neoprene is reinforced with a suede forefoot overly and lined in soft textile. Dual adidas and 032c branding lands on the crimson-hued sockliner.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/803/original/FZ3292.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/803/original/FZ3292.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/803/original/FZ3292.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-gsg-mule-032c-savannah",
+        "goat": " https://goat.com/sneakers/032c-x-gsg-mule-savanna-fz3292",
+        "flightClub": " https://flightclub.com/032c-x-gsg-mule-savanna-fz3292"
+      }
+    },
+    {
+      "id": "5872d751-d21b-4ed1-892d-8a13c57b83af",
+      "sku": "FZ1927",
+      "brand": "adidas",
+      "name": "Parley x UltraBoost 21 'Non Dyed'",
+      "colorway": "Non Dyed/Non Dyed/Cloud White",
+      "gender": "men",
+      "silhouette": "UltraBoost 21",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-22",
+      "retailPrice": 180,
+      "estimatedMarketValue": 128,
+      "story": "The Parley x adidas UltraBoost 21 ‘Non Dyed’ carries a breathable Primeknit upper made in part with recycled Parley Ocean Plastic and zero virgin polyester. The lightweight build is mounted on a full-length Boost midsole for responsive cushioning. Underfoot, adidas’ LEP Torsion system offers improved energy return by increasing forefoot stiffness, while a Stretchweb Continental rubber outsole delivers optimal grip. Parley branding lands on each sockliner and the tongue tag on the left shoe.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/441/951/original/FZ1927.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/441/951/original/FZ1927.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/441/951/original/FZ1927.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/parley-x-ultraboost-21-non-dyed-fz1927",
+        "flightClub": " https://flightclub.com/parley-x-ultraboost-21-non-dyed-fz1927"
+      }
+    },
+    {
+      "id": "65013eb2-e84b-40d8-8b03-94773a7b1adb",
+      "sku": "GZ5581",
+      "brand": "adidas",
+      "name": "adidas GSG Mule 032c Black",
+      "colorway": "Core Black/Core Black",
+      "gender": "men",
+      "silhouette": "GSG Mule",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-22",
+      "retailPrice": 160,
+      "estimatedMarketValue": 160,
+      "story": "The 032C x adidas GSG Mule ‘Core Black’ applies a stealthy one-note finish to a slip-on silhouette that draws twin inspirations from technical sportswear and 2000s fashion design. Stretchy neoprene is utilized on the upper, accented with tonal three-stripe branding and fortified with synthetic leather overlays. The smooth surfaces up top are contrasted by a sculpted rubber tooling, enhanced with Adiprene cushioning and modeled after the adidas GSG-9 boot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/805/original/GZ5581.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/805/original/GZ5581.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/805/original/GZ5581.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-gsg-mule-032c-black",
+        "goat": " https://goat.com/sneakers/032c-x-gsg-mule-core-black-gz5581",
+        "flightClub": " https://flightclub.com/032c-x-gsg-mule-core-black-gz5581"
+      }
+    },
+    {
+      "id": "c519ba19-9ab1-451b-8f7c-b6e3e9500637",
+      "sku": "FV7827",
+      "brand": "adidas",
+      "name": "UltraBoost 'Made To Be Remade'",
+      "colorway": "Non Dyed/Non Dyed/Non Dyed",
+      "gender": "men",
+      "silhouette": "UltraBoost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-22",
+      "retailPrice": 180,
+      "estimatedMarketValue": 180,
+      "story": "The adidas UltraBoost ‘Made To Be Remade’ continues the German sportswear brand’s sustainability efforts with an eco-friendly build devoid of harmful dyes or glue. The uncaged Primeknit upper is formed with seamless construction for a comfortable, sock-like fit. A QR code atop the tongue is made to be scanned at the end of the sneaker’s life cycle, at which time adidas reclaims the materials to create a new pair of shoes. The lightweight build is mounted on a Boost midsole, reinforced underfoot by a translucent TPU outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/436/509/original/762555_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/436/509/original/762555_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/436/509/original/762555_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ultraboost-made-to-be-remade-fv7827",
+        "flightClub": " https://flightclub.com/ultraboost-made-to-be-remade-fv7827"
+      }
+    },
+    {
+      "id": "c8ff192b-0e89-47b4-85fb-64b4d424b804",
+      "sku": "FY5376",
+      "brand": "adidas",
+      "name": "adidas GSG TR 032c Hi-Res Stone Green",
+      "colorway": "Stone Green/Dove Grey/Red",
+      "gender": "men",
+      "silhouette": "GSG TR",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-22",
+      "retailPrice": 220,
+      "estimatedMarketValue": 175,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/798/original/FY5376.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/798/original/FY5376.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/798/original/FY5376.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-gsg-tr-032c-hi-res-stone-green",
+        "goat": " https://goat.com/sneakers/032c-x-gsg-tr-stone-green-fy5376",
+        "flightClub": " https://flightclub.com/032c-x-gsg-tr-stone-green-fy5376"
+      }
+    },
+    {
+      "id": "d9138907-4cbf-46fe-9ddb-7ff3f4304ce5",
+      "sku": "GZ5580",
+      "brand": "adidas",
+      "name": "adidas GSG TR 032c Hi-Res Yellow",
+      "colorway": "Hi-Res Yellow/Pulse Lemon",
+      "gender": "men",
+      "silhouette": "GSG TR",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-22",
+      "retailPrice": 220,
+      "estimatedMarketValue": 197,
+      "story": "Designed in partnership with the Berlin-based creative collective, the 032C x adidas GSG TR ‘Pulse Lime’ applies a monochromatic lime green finish to a lifestyle silhouette crafted from neoprene and secured with drawcord lacing. Tonal leather overlays feature a reflective finish for added visibility in low-light conditions. Mismatched tongue tags display adidas and 032c branding, with the latter logo making a repeat appearance on the lateral heel. The lightweight build is supported by rugged trail-inspired tooling borrowed from the adidas GSG-9 boot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/804/original/GZ5580.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/804/original/GZ5580.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/804/original/GZ5580.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-gsg-tr-032c-hi-res-yellow",
+        "goat": " https://goat.com/sneakers/032c-x-gsg-tr-pulse-lime-gz5580",
+        "flightClub": " https://flightclub.com/032c-x-gsg-tr-pulse-lime-gz5580"
+      }
+    },
+    {
+      "id": "55ce89e1-68c3-41d4-8f43-e0d2594d4279",
+      "sku": "FX5664",
+      "brand": "adidas",
+      "name": "Munchen 'Black Gum'",
+      "colorway": "Core Black/Core White/Gold Metallic",
+      "gender": "men",
+      "silhouette": "Munchen",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-21",
+      "retailPrice": 100,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/794/original/FX5664.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/794/original/FX5664.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/794/original/FX5664.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/munchen-black-gum-fx5664",
+        "flightClub": " https://flightclub.com/munchen-black-gum-fx5664"
+      }
+    },
+    {
+      "id": "599d167d-37c0-4107-8528-6494750360c7",
+      "sku": "FX4613",
+      "brand": "adidas",
+      "name": "Terrex Trailmaker GTX 'Wild Moss'",
+      "colorway": "Wild Moss/Hi-Res Yellow/Acid Mint",
+      "gender": "men",
+      "silhouette": "Terrex Trailmaker",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-21",
+      "retailPrice": 130,
+      "estimatedMarketValue": 129,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/790/original/FX4613.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/790/original/FX4613.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/790/original/FX4613.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/terrex-trailmaker-gtx-wild-moss-fx4613",
+        "flightClub": " https://flightclub.com/terrex-trailmaker-gtx-wild-moss-fx4613"
+      }
+    },
+    {
+      "id": "74d0b6e5-7d12-46af-9e73-412158a80c2b",
+      "sku": "FY2230",
+      "brand": "adidas",
+      "name": "Terrex Trailmaker Mid GTX 'Metal Grey'",
+      "colorway": "Metal Grey/Core Black/Active Gold",
+      "gender": "men",
+      "silhouette": "Terrex Trailmaker",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-21",
+      "retailPrice": 150,
+      "estimatedMarketValue": 210,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/797/original/FY2230.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/797/original/FY2230.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/797/original/FY2230.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/terrex-trailmaker-mid-gtx-metal-grey-fy2230",
+        "flightClub": " https://flightclub.com/terrex-trailmaker-mid-gtx-metal-grey-fy2230"
+      }
+    },
+    {
+      "id": "867693f5-4fb2-4596-88e3-c965d4dcb8c6",
+      "sku": "GZ7974",
+      "brand": "adidas",
+      "name": "adidas ZX 8000 1. FC Union Berlin",
+      "colorway": "Mist Sun/Off White-Yellow",
+      "gender": "men",
+      "silhouette": "ZX 8000",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-21",
+      "retailPrice": 0,
+      "estimatedMarketValue": 571,
+      "story": "Limited to just 1,966 pairs worldwide, the FC Union Berlin x adidas ZX 8000 ‘Stadion An der Alten Försterei’ features a distinctive palette inspired by the professional German football club. The retro runner carries a white mesh upper with tan leather overlays and contrasting three-stripes in red and yellow. ‘Union’ is inscribed in block letters across the heel, while the green-hued interior lining gives the nod to the club’s home stadium. Iron lace jewels forged in southeast Berlin represent the final touch.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/806/original/GZ7974.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/806/original/GZ7974.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/806/original/GZ7974.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/adidas-zx-8000-1-fc-union-berlin",
+        "goat": " https://goat.com/sneakers/fc-union-berlin-x-zx-8000-stadion-an-der-alten-forsterei-gz7974",
+        "flightClub": " https://flightclub.com/fc-union-berlin-x-zx-8000-stadion-an-der-alten-forsterei-gz7974"
+      }
+    },
+    {
+      "id": "af6fd40b-1313-4590-9baa-a547c44d3f98",
+      "sku": "FZ2268",
+      "brand": "adidas",
+      "name": "Wmns Superstar Mule 'Black Gold Metallic'",
+      "colorway": "Core Black/Gold Metallic/Cloud White",
+      "gender": "women",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-21",
+      "retailPrice": 85,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/802/original/FZ2268.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/802/original/FZ2268.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/802/original/FZ2268.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-superstar-mule-black-gold-metallic-fz2268",
+        "flightClub": " https://flightclub.com/wmns-superstar-mule-black-gold-metallic-fz2268"
+      }
+    },
+    {
+      "id": "b8757536-7c92-4820-8101-999082174f1a",
+      "sku": "FZ2267",
+      "brand": "adidas",
+      "name": "Wmns Superstar Mule 'Bliss Gold Metallic'",
+      "colorway": "Bliss/Gold Metallic/Cloud White",
+      "gender": "women",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-21",
+      "retailPrice": 85,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/801/original/FZ2267.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/801/original/FZ2267.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/801/original/FZ2267.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-superstar-mule-bliss-gold-metallic-fz2267",
+        "flightClub": " https://flightclub.com/wmns-superstar-mule-bliss-gold-metallic-fz2267"
+      }
+    },
+    {
+      "id": "d1db14f4-677d-4114-9b2f-e18365df6096",
+      "sku": "FX4510",
+      "brand": "adidas",
+      "name": "Terrex Free Hiker GTX 'Halo Silver Acid Yellow'",
+      "colorway": "Halo Silver/Acid Yellow/Core Black",
+      "gender": "men",
+      "silhouette": "Terrex Free Hiker",
+      "releaseYear": 2021,
+      "releaseDate": "2021-04-21",
+      "retailPrice": 225,
+      "estimatedMarketValue": 285,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/672/789/original/FX4510.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/672/789/original/FX4510.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/672/789/original/FX4510.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/terrex-free-hiker-gtx-halo-silver-acid-yellow-fx4510",
+        "flightClub": " https://flightclub.com/terrex-free-hiker-gtx-halo-silver-acid-yellow-fx4510"
+      }
+    }
+  ]
+}

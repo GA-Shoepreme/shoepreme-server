@@ -1,0 +1,2405 @@
+{
+  "count": 5863,
+  "results": [
+    {
+      "id": "63f2d30e-f2db-4b41-a85e-27352ad476e9",
+      "sku": "442961-106",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 7 Retro PS 'Hot Lava'",
+      "colorway": "White/Black-Hot Lava",
+      "gender": "youth",
+      "silhouette": "Air Jordan 7",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-31",
+      "retailPrice": 0,
+      "estimatedMarketValue": 40,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/010/376/589/original/442961_106.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/010/376/589/original/442961_106.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/010/376/589/original/442961_106.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-7-retro-ps-442961-106",
+        "flightClub": " https://flightclub.com/jordan-retro-7-white-black-hot-lava-136244"
+      }
+    },
+    {
+      "id": "fb71e7b2-d5d4-47fc-88c2-a37ff73a5e4c",
+      "sku": "384666-010",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 6 Retro PS 'Cool Grey'",
+      "colorway": "Black/Cool Grey-White",
+      "gender": "youth",
+      "silhouette": "Air Jordan 6",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-31",
+      "retailPrice": 80,
+      "estimatedMarketValue": 89,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/007/452/870/original/384666_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/007/452/870/original/384666_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/007/452/870/original/384666_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-6-retro-ps-cool-grey-384666-010",
+        "flightClub": " https://flightclub.com/air-jordan-6-retro-ps-black-cool-grey-white-138886"
+      }
+    },
+    {
+      "id": "fd59cc01-232a-4f47-9c58-82b348187b33",
+      "sku": "AJ8-647372-LN4",
+      "brand": "Air Jordan",
+      "name": "OVO x Air Jordan 8 'Calipari Pack'",
+      "colorway": "Black/Fire Red-Sport Royal",
+      "gender": "men",
+      "silhouette": "Air Jordan 8",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-31",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/022/641/746/original/AJ8_647372_LN4.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/641/746/original/AJ8_647372_LN4.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/022/641/746/original/AJ8_647372_LN4.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ovo-x-air-jordan-8-calapari-pack-aj8-647372-ln4",
+        "flightClub": " https://flightclub.com/ovo-x-air-jordan-8-calapari-pack-black-fire-red-sport-royal-804163"
+      }
+    },
+    {
+      "id": "168d4ddd-7081-40b7-94ea-c0f8fa30cd06",
+      "sku": "AJ5997-345-00",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG G8RD 'Cyber' Sample",
+      "colorway": "Cyber/Cyber",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-26",
+      "retailPrice": 0,
+      "estimatedMarketValue": 580,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/009/616/645/original/192894_00.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/009/616/645/original/192894_00.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/009/616/645/original/192894_00.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-og-g8rd-cyber-sample-aj5997-345-00",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-og-g8rd-cyber-sample-aj5997-345-00"
+      }
+    },
+    {
+      "id": "58fcf4c4-b918-4033-95e5-8ae7da18a44f",
+      "sku": "795051-AJ599745500-XC",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG G8RD 'Blue Lagoon' Sample",
+      "colorway": "Blue/Blue",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-26",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/009/316/034/original/AJ5997_455.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/009/316/034/original/AJ5997_455.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/009/316/034/original/AJ5997_455.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-og-g8rd-blue-lagoon-sample-795051-aj599745500-xc",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-og-g8rd-blue-lagoon-sample-795051-aj599745500-xc"
+      }
+    },
+    {
+      "id": "a88eb3f1-4a4e-4912-8cad-69e7a1e0cc4a",
+      "sku": "AJ5997-555-S",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG G8RD  'Rush Violet' Sample",
+      "colorway": "Rush Violet/Rush Violet",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-26",
+      "retailPrice": 0,
+      "estimatedMarketValue": 370,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/044/519/166/original/450788_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/044/519/166/original/450788_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/044/519/166/original/450788_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-og-g8rd-rush-violet-sample-aj5997-555-s",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-og-g8rd-rush-violet-sample-aj5997-555-s"
+      }
+    },
+    {
+      "id": "ba2aed5a-5c89-44db-af82-898b18b403f3",
+      "sku": "AA1257-021",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 32 Low GS 'Camo'",
+      "colorway": "Black/Metallic Gold/White",
+      "gender": "youth",
+      "silhouette": "Air Jordan 32",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-25",
+      "retailPrice": 120,
+      "estimatedMarketValue": 105,
+      "story": "Jordan Brand debuted the Air Jordan 32 Low ‘Camo’ as a kids exclusive in January 2018. The low-top iteration features a black upper with camouflage accents over the quarter panel and collar along with metallic gold Air Jordan and Jumpman branding. A black midsole and gum rubber outsole complete the look underfoot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/008/829/284/original/AA1257_021.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/008/829/284/original/AA1257_021.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/008/829/284/original/AA1257_021.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-32-low-camo-aa1257-021",
+        "flightClub": " https://flightclub.com/air-jordan-xxxii-low-bg-black-metallic-gold-white-138341"
+      }
+    },
+    {
+      "id": "57d44dc0-c125-4214-9d50-12624164ed88",
+      "sku": "414575-042",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro PS 'Altitude' 2017",
+      "colorway": "Black/Altitude Green/White",
+      "gender": "youth",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-21",
+      "retailPrice": 80,
+      "estimatedMarketValue": 85,
+      "story": "Displayed in the ‘Altitude’ colorway, the Air Jordan 13 features a black pebbled construction throughout the upper’s quilted design, while Altitude Green accents line the outsole and Jumpman branding. Inspired by Michael Jordan’s nickname, ‘Black Cat,’ the shoe also implements a paw-shaped outsole and a hologram logo.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/008/456/458/original/414575_042.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/008/456/458/original/414575_042.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/008/456/458/original/414575_042.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-ps-altitude-2017-414575-042",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-ps-2017-black-altitude-green-white-136578"
+      }
+    },
+    {
+      "id": "e723aa3b-1c5c-4576-96d9-16165cc9cfdc",
+      "sku": "414581-042",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro TD 'Altitude' 2017",
+      "colorway": "Black/Altitude Green",
+      "gender": "infant",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-21",
+      "retailPrice": 60,
+      "estimatedMarketValue": 74,
+      "story": "Originally released in 2005 and retroed in 2010, the Air Jordan 13 ‘Altitude’ made a comeback in 2017 in adult, grade school, and toddler sizes. Unlike the 2010 release which featured a mesh upper, the 2017 version brought back the original leather construction. Altitude Green is left to accent the Jumpman branding, holographic panther eye, and paw-inspired outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/037/830/995/original/414581_042.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/830/995/original/414581_042.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/037/830/995/original/414581_042.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-td-altitude-2017-414581-042",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-td-2017-black-altitude-green-136580"
+      }
+    },
+    {
+      "id": "c202eb17-3f2b-4a79-b680-a6e57e495dcd",
+      "sku": "861428-100-S",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG NRG 'Igloo' Sample",
+      "colorway": "white/igloo-black",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-08",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "Released in December 2017, the Air Jordan 1 Retro High OG NRG &#39;Igloo&#39; Sample redesigns the 1985 Peter Moore original in a colorway reminiscent of cool glacier water. This is a sample version of the version that released exclusively in Miami during Art Basel. Jordan Brand had an activation during the world-famous art show, releasing the Igloo and Rust Pink versions.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/011/857/109/original/861428_100_S.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/011/857/109/original/861428_100_S.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/011/857/109/original/861428_100_S.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-og-nrg-igloo-sample-861428-100-s",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-og-nrg-igloo-sample-861428-100-s"
+      }
+    },
+    {
+      "id": "d8eadeb0-1e33-40ca-ae94-e01003ff4039",
+      "sku": "AH3347-603",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 32 Low PF 'Win Like '96'",
+      "colorway": "Gym Red/White",
+      "gender": "men",
+      "silhouette": "Air Jordan 32",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-02",
+      "retailPrice": 185,
+      "estimatedMarketValue": 417,
+      "story": "The special edition ‘Win Like ’96’ version of the Air Jordan 32 Low PF showed off its contemporary woven construction with this Chicago Bulls-inspired colorway. The Flyknit construction is highlighted in red, providing a snug fit and lightweight support. Underfoot, an icy translucent outsole tops off Zoom Air cushioning enhanced by FlightSpeed tech for maximum energy return.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/012/940/007/original/AH3347_603.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/940/007/original/AH3347_603.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/012/940/007/original/AH3347_603.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-32-low-win-like-96-asia-exclusive-ah3347-603",
+        "flightClub": " https://flightclub.com/air-jordan-32-low-win-like-96-asia-exclusive-ah3347-603"
+      }
+    },
+    {
+      "id": "ec760141-b685-4436-88dd-d781e33df837",
+      "sku": "323399-115",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 6 Rings GG 'UNC'",
+      "colorway": "White/Midnight Navy",
+      "gender": "youth",
+      "silhouette": "Air Jordan 6",
+      "releaseYear": 2017,
+      "releaseDate": "2017-12-02",
+      "retailPrice": 130,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/016/723/055/original/323399_115.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/723/055/original/323399_115.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/016/723/055/original/323399_115.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-6-rings-gg-323399-115",
+        "flightClub": " https://flightclub.com/jordan-6-rings-gg-323399-115"
+      }
+    },
+    {
+      "id": "6fe5159d-9563-4c8b-a148-3914dd180d4b",
+      "sku": "861428-001-S",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG NRG 'Gold Top 3' Sample",
+      "colorway": "Black/Black-Metallic Gold",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-11-27",
+      "retailPrice": 0,
+      "estimatedMarketValue": 650,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/008/907/539/original/861428_001_S.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/008/907/539/original/861428_001_S.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/008/907/539/original/861428_001_S.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-og-nrg-gold-top-3-sample-861428-001-s",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-og-nrg-gold-top-3-sample-861428-001-s"
+      }
+    },
+    {
+      "id": "0f79daed-2170-4953-816e-625b94b0118c",
+      "sku": "439669-112",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro GG 'Bordeaux'",
+      "colorway": "Sail/Metallic Red Bronze/Bordeaux",
+      "gender": "youth",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-28",
+      "retailPrice": 140,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/014/106/047/original/439669_112.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/014/106/047/original/439669_112.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/014/106/047/original/439669_112.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-gg-bordeaux-439669-112",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-gg-bordeaux-439669-112"
+      }
+    },
+    {
+      "id": "a9775f12-3153-4fc1-afde-01b0cbdaf509",
+      "sku": "MNJDLS-047-773289",
+      "brand": "Air Jordan",
+      "name": "Aleali May x Air Jordan 1 Retro High OG 'Satin Shadow' Sample",
+      "colorway": "Black/Shadow Grey-White",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-27",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "Serving as a tribute to her hometown of Los Angeles, global stylist Aleali May turned the Air Jordan 1 Retro High OG into an LA Kings starter jacket. This &#39;Satin Shadow&#39; sample—a friends and family exclusive from October 2017—is designed with a corduroy upper, contrast panels and terrycloth Swooshes. An embroidered Wings logo and quilted leather insole with May&#39;s signature underscore the sophisticated styling. A two-tone cupsole adds polish.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/020/869/642/original/MNJDLS_047_773289.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/020/869/642/original/MNJDLS_047_773289.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/020/869/642/original/MNJDLS_047_773289.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/aleali-may-x-air-jordan-1-retro-high-og-satin-shadow-sample-mnjdls-047-773289",
+        "flightClub": " https://flightclub.com/aleali-may-x-air-jordan-1-retro-high-og-sample-black-shadow-grey-white-141831"
+      }
+    },
+    {
+      "id": "31670f30-14a0-4f64-ab63-cf520a369fc7",
+      "sku": "AH3348-016",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 32 PF 'CEO'",
+      "colorway": "black/white-court purple-turbo green",
+      "gender": "men",
+      "silhouette": "Air Jordan 32",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-20",
+      "retailPrice": 185,
+      "estimatedMarketValue": 185,
+      "story": "The Air Jordan 32 PF ‘CEO’ features a design inspired by the Charlotte Hornets, the NBA franchise that Michael Jordan became chairman and CEO of following his retirement. The mid-top sports a black base on the upper, built with a combination of pebbled leather and Nike Flyknit, which is made with high-tenacity yarns that reduce stiffness at the forefoot. Court Purple and Turbo Green accents complete the Hornets theme.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/012/910/755/original/AH3348_016.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/910/755/original/AH3348_016.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/012/910/755/original/AH3348_016.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-32-ceo-asia-exclusive-ah3348-016",
+        "flightClub": " https://flightclub.com/air-jordan-32-ceo-asia-exclusive-ah3348-016"
+      }
+    },
+    {
+      "id": "349c83e9-e437-4d5c-bdba-d0ecfc79b9e0",
+      "sku": "AA1298-001",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 32 TD 'Banned'",
+      "colorway": "Black/University Red-White",
+      "gender": "infant",
+      "silhouette": "Air Jordan 32",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-18",
+      "retailPrice": 60,
+      "estimatedMarketValue": 60,
+      "story": "Featuring one of Jordan Brand&#39;s most famous colorways, the kids&#39;-sized Air Jordan 32 TD &#39;Banned&#39; is part of a 2017 collection released on the inaugural &#39;MJ Day.&#39; The upper comes in a flecked Flyknit, with ribbed overlays and a detailed Wings logo—taking inspiration from the Air Jordan 2. The midsole provides plenty of responsive cushioning, with a combination of Zoom Air and Flight Speed technology sitting atop an icy outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/007/098/142/original/AA1298_001.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/007/098/142/original/AA1298_001.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/007/098/142/original/AA1298_001.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-32-td-banned-aa1298-001",
+        "flightClub": " https://flightclub.com/air-jordan-32-td-banned-aa1298-001"
+      }
+    },
+    {
+      "id": "5dd60cff-b997-4142-87fc-b99f7ae59fd9",
+      "sku": "AA1296-001",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 32 PS 'Banned'",
+      "colorway": "Black/University Red-Black",
+      "gender": "youth",
+      "silhouette": "Air Jordan 32",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-18",
+      "retailPrice": 80,
+      "estimatedMarketValue": 48,
+      "story": "The Air Jordan 32 PS ‘Banned’ sports a black and red color scheme inspired by the iconic Air Jordan 1 colorway of the same name. This pre-school edition varies from its full-sized counterpart by substituting a mesh upper with contrast red stitching instead of the standard Flyknit construction with high-tenacity yarn. Underfoot, the translucent outsole of the men’s release is replaced with solid white rubber.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/007/098/130/original/AA1296_001.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/007/098/130/original/AA1296_001.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/007/098/130/original/AA1296_001.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-32-ps-banned-aa1296-001",
+        "flightClub": " https://flightclub.com/air-jordan-32-ps-banned-aa1296-001"
+      }
+    },
+    {
+      "id": "c94d0713-f41c-41be-a904-ac5ba01c681e",
+      "sku": "AA1253-001",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 32 'Banned'",
+      "colorway": "Black/University Red",
+      "gender": "men",
+      "silhouette": "Air Jordan 32",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-18",
+      "retailPrice": 185,
+      "estimatedMarketValue": 272,
+      "story": "Released October 18th, 2017 to commemorate the 31st anniversary of MJ day, which marks the player’s storied ban from violating the sneaker/uniform color scheme, Jordan Brand released the Air Jordan 32 in the Banned black and red colorway. The high top boasts a flexible Flyknit upper with Zoom Air cushioning and Flightspeed technology in the midsole. The design draws inspiration from the Jordan 2, specifically with its python paneling, ribbing on the collar and heel, and placement of Jordan branding. The shoe features special Banned branding on the inner tongue and ‘10.18’ on the outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/566/118/original/201035_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/566/118/original/201035_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/566/118/original/201035_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-32-mj-day-aa1253-001",
+        "flightClub": " https://flightclub.com/air-jordan-xxxii-black-university-red-805872"
+      }
+    },
+    {
+      "id": "f9105643-cfb8-4add-bc50-eaad6e3772a9",
+      "sku": "AH3348-001",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 32 PF 'Banned'",
+      "colorway": "Black/University-Red",
+      "gender": "men",
+      "silhouette": "Air Jordan 32",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-18",
+      "retailPrice": 185,
+      "estimatedMarketValue": 493,
+      "story": "The Air Jordan 32 PF ‘Banned’ features a classic black and red color scheme directly inspired by the Air Jordan 1 of the same name. The silhouette itself is influenced by the Italian-made Air Jordan 2, combining premium materials with modern basketball performance features. That dynamic emerges on the black and red Flyknit upper, which is complemented by molded leather at the heel and collar.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/012/868/390/original/AH3348_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/868/390/original/AH3348_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/012/868/390/original/AH3348_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-32-banned-asia-exclusive-ah3348-001",
+        "flightClub": " https://flightclub.com/air-jordan-32-banned-asia-exclusive-ah3348-001"
+      }
+    },
+    {
+      "id": "5c59c20f-72d3-446a-82ca-6301a96bc26d",
+      "sku": "FA17-MNJDLS-123-781476",
+      "brand": "Air Jordan",
+      "name": "PSNY x Air Jordan 15 Retro 'Medium Olive' Sample",
+      "colorway": "Medium Olive/Medium Olive/Sail",
+      "gender": "men",
+      "silhouette": "Air Jordan 15",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-14",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/019/142/309/original/FA17_MNJDLS_123_781476.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/019/142/309/original/FA17_MNJDLS_123_781476.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/019/142/309/original/FA17_MNJDLS_123_781476.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/psny-x-air-jordan-15-retro-medium-olive-sample-fa17-mnjdls-123-781476",
+        "flightClub": " https://flightclub.com/psny-x-air-jordan-15-retro-sample-medium-olive-medium-olive-sail-135590"
+      }
+    },
+    {
+      "id": "0e18c182-5dfb-4ad3-916b-575b3eacfd60",
+      "sku": "323420-021",
+      "brand": "Air Jordan",
+      "name": "Jordan 6 Rings BT",
+      "colorway": "black/matte silver-white",
+      "gender": "infant",
+      "silhouette": "Jordan 6 Rings",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-01",
+      "retailPrice": 55,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/012/584/392/original/323420_021.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/584/392/original/323420_021.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/012/584/392/original/323420_021.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-6-rings-bt-323420-021",
+        "flightClub": " https://flightclub.com/jordan-6-rings-bt-black-matte-silver-white-143443"
+      }
+    },
+    {
+      "id": "cc9d9fad-a567-44ed-814a-2d79a85a68b9",
+      "sku": "909418-010",
+      "brand": "Air Jordan",
+      "name": "Jumpman Pro TD 'Black'",
+      "colorway": "Black/White",
+      "gender": "infant",
+      "silhouette": "Jordan Jumpman Pro",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-01",
+      "retailPrice": 55,
+      "estimatedMarketValue": 35,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/012/584/450/original/909418_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/584/450/original/909418_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/012/584/450/original/909418_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jumpman-pro-td-909418-010",
+        "flightClub": " https://flightclub.com/jordan-jumpman-pro-bt-black-white-143442"
+      }
+    },
+    {
+      "id": "e91a68ff-231c-4e52-bb0e-32775edfa793",
+      "sku": "940267-205",
+      "brand": "Air Jordan",
+      "name": "Jordan Fly 89 'Medium Olive'",
+      "colorway": "Medium Olive",
+      "gender": "men",
+      "silhouette": "Jordan Fly 89",
+      "releaseYear": 2017,
+      "releaseDate": "2017-10-01",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/033/921/610/original/940267_205.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/033/921/610/original/940267_205.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/033/921/610/original/940267_205.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-fly-89-medium-olive-940267-205",
+        "flightClub": " https://flightclub.com/jordan-fly-89-medium-olive-160033"
+      }
+    },
+    {
+      "id": "950762e4-fe50-4f5f-8a45-0b2bc6ecc511",
+      "sku": "AA1253-601",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 32 'Rosso Corsa'",
+      "colorway": "Gym Red/Black",
+      "gender": "men",
+      "silhouette": "Air Jordan 32",
+      "releaseYear": 2017,
+      "releaseDate": "2017-09-23",
+      "retailPrice": 185,
+      "estimatedMarketValue": 440,
+      "story": "The Air Jordan 32 takes evident visual cues from Bruce Kilgore’s Air Jordan 2 with both designs looking to Italian luxury for inspiration. The Rosso Corsa colorway pulls its design from Italian sports cars, taking its name from the shade of red used on the automobiles. This tonal model features a flexible Flyknit upper, Zoom Air cushioning, and Flightspeed technology in the midsole to ensure maximum energy distribution and responsiveness. Released in September 2017, the Rosso Corsa colorway was the first Jordan 32 to hit shelves.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/008/654/712/original/207492_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/008/654/712/original/207492_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/008/654/712/original/207492_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-32-rosso-corsa-aa1253-601",
+        "flightClub": " https://flightclub.com/air-jordan-xxxii-gym-red-black-802170"
+      }
+    },
+    {
+      "id": "cab9b0b1-f660-4b78-8d64-6ac7766afcaf",
+      "sku": "921194-011-FF",
+      "brand": "Air Jordan",
+      "name": "PSNY x Air Jordan 15 Retro Woven 'Black' Friends & Family",
+      "colorway": "Black/Black/White",
+      "gender": "men",
+      "silhouette": "Air Jordan 15",
+      "releaseYear": 2017,
+      "releaseDate": "2017-09-10",
+      "retailPrice": 190,
+      "estimatedMarketValue": 435,
+      "story": "In October 2017, New York-based label Public School lent their design insight to the Air Jordan 15 Retro Woven for this &#39;Friends and Family Black&#39; exclusive. This edition is shrouded in full-length Kevlar aramid fiber with a protruding neoprene bootie. Initial branding on the textured external heel counter continues the legacy of the two American brands&#39; partnership. The Sail-colored outsole with a herringbone tread pattern adds contrast.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/032/387/455/original/921194_011_FF.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/032/387/455/original/921194_011_FF.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/032/387/455/original/921194_011_FF.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/psny-x-air-jordan-15-retro-woven-friends-and-family-black-921194-011-ff",
+        "flightClub": " https://flightclub.com/psny-x-air-jordan-15-retro-woven-friends-and-family-black-921194-011-ff"
+      }
+    },
+    {
+      "id": "4cfc269f-2dd0-4fb9-8640-94901e36825d",
+      "sku": "919704-001-S",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG Flyknit 'Bred' Sample",
+      "colorway": "Black/Varsity Red-White",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-09-08",
+      "retailPrice": 0,
+      "estimatedMarketValue": 300,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/013/072/576/original/919704_001_S.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/013/072/576/original/919704_001_S.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/013/072/576/original/919704_001_S.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-og-flyknit-bred-sample-919704-001-s",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-og-flyknit-bred-sample-919704-001-s"
+      }
+    },
+    {
+      "id": "0ba49332-0fb7-4a2b-a3f4-9fc2e339c236",
+      "sku": "MNJDLS-761-740207",
+      "brand": "Air Jordan",
+      "name": "Off-White x Air Jordan 1 Retro High OG 'Chicago' Sample",
+      "colorway": "White/Black-Varsity Red-Black",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-09-06",
+      "retailPrice": 0,
+      "estimatedMarketValue": 3000,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/023/964/208/original/MNJDLS_761_740207.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/023/964/208/original/MNJDLS_761_740207.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/023/964/208/original/MNJDLS_761_740207.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/off-white-x-air-jordan-1-retro-high-og-chicago-sample-mnjdls-761-740207",
+        "flightClub": " https://flightclub.com/off-white-x-air-jordan-1-retro-high-og-sample-white-black-varsity-red-black-150927"
+      }
+    },
+    {
+      "id": "98fd399c-7b23-4e3a-960c-77b94bb59732",
+      "sku": "aa3834-101",
+      "brand": "Air Jordan",
+      "name": "Off-White x Air Jordan 1 Retro High OG 'Chicago'",
+      "colorway": "White/Black-Varsity Red-Black",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-09-06",
+      "retailPrice": 190,
+      "estimatedMarketValue": 4350,
+      "story": "Created by designer Virgil Abloh, the Air Jordan 1 x Off-White comes in the classic Chicago colorway. Some of the sneakers&#39; half-finished features include a Swoosh connected to the shoe with visible blue stitching, &#39;Air&#39; printed on the midsole, and an Off-White zip tie on the collar. The box comes deconstructed as it&#39;s been turned inside-out with the inside consisting of a black base and gold Jumpman logo, while the outside is plain cardboard with the words &#39;Jumpman&#39; printed on it. Virgil&#39;s Off-White collection included remixed iterations of the Air VaporMax, Air Presto, Air Max 90, Blazer, Air Max 97, Hyperdunk 2017, Air Force 1, Zoom Fly, and Chuck Taylor.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/008/654/413/original/136666_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/008/654/413/original/136666_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/008/654/413/original/136666_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/off-white-x-air-jordan-1-retro-high-og-aa3834-101",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "ed009e80-f7b2-4b53-9dfd-92b12b6bea62",
+      "sku": "AA3834-101-S",
+      "brand": "Air Jordan",
+      "name": "Off-White x Air Jordan 1 Retro High OG 'Chicago' Sample",
+      "colorway": "White/Black-Varsity Red-Black",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-09-06",
+      "retailPrice": 0,
+      "estimatedMarketValue": 5700,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/025/928/622/original/AA3834_101_S.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/025/928/622/original/AA3834_101_S.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/025/928/622/original/AA3834_101_S.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/off-white-x-air-jordan-1-retro-high-og-chicago-sample-aa3834-101-s",
+        "flightClub": " https://flightclub.com/off-white-x-air-jordan-1-retro-high-og-chicago-sample-aa3834-101-s"
+      }
+    },
+    {
+      "id": "f9163721-70c6-4b70-84ee-5fdd28a31250",
+      "sku": "343795-022",
+      "brand": "Air Jordan",
+      "name": "Jordan True Flight GS 'Electric Green'",
+      "colorway": "Black/Electric Green-Concord",
+      "gender": "youth",
+      "silhouette": "Jordan True Flight",
+      "releaseYear": 2017,
+      "releaseDate": "2017-09-04",
+      "retailPrice": 100,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/009/786/687/original/343795_022.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/009/786/687/original/343795_022.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/009/786/687/original/343795_022.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-true-flight-gs-343795-022",
+        "flightClub": " https://flightclub.com/jordan-true-flight-gs-black-electric-green-concord-138715"
+      }
+    },
+    {
+      "id": "e2208545-4dab-46a0-ae42-a150fc588474",
+      "sku": "724010-010",
+      "brand": "Air Jordan",
+      "name": "Jordan Eclipse 'Black White'",
+      "colorway": "Black/White",
+      "gender": "men",
+      "silhouette": "Jordan Eclipse",
+      "releaseYear": 2017,
+      "releaseDate": "2017-09-01",
+      "retailPrice": 0,
+      "estimatedMarketValue": 192,
+      "story": "Designed for a mix of comfort, style and performance, the Air Jordan Eclipse features a breathable black mesh upper with neoprene underlays on the throat. The sneaker also boasts a lace-up closure, an Air unit, an EVA midsole and Jumpman branding on the heel, tongue and outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/000/020/190/original/724010_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/020/190/original/724010_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/000/020/190/original/724010_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-eclipse-724010-010",
+        "flightClub": " https://flightclub.com/jordan-eclipse-black-white-805892"
+      }
+    },
+    {
+      "id": "90d273ed-7b02-42e7-902b-bd0e3b06d853",
+      "sku": "555088-103-SLV",
+      "brand": "Air Jordan",
+      "name": "Supreme x Louis Vuitton x Red Ribbon Recon x Air Jordan 1 Retro High",
+      "colorway": "Multi-Color/Multi-Color",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-30",
+      "retailPrice": 0,
+      "estimatedMarketValue": 22000,
+      "story": "The Supreme x Louis Vuitton x Red Ribbon Recon x Air Jordan 1 Retro High sneaker boasts an ultra-luxe look in this drop from sneaker customizer Red Ribbon Recon. The custom design features the body of the Air Jordan 1 as its base, with its upper constructed with the LV logo-heavy red denim baseball jersey from the 2017 Supreme x LV collaboration. A satin tongue with a Red Robin leather patch and classic Nike Air branding are met with a lambskin leather Swoosh to complete the design.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/011/934/249/original/206830_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/011/934/249/original/206830_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/011/934/249/original/206830_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/supreme-x-louis-vuitton-x-red-ribbon-recon-x-air-jordan-1-retro-high",
+        "flightClub": " https://flightclub.com/supreme-x-louis-vuitton-x-red-ribbon-recon-x-air-jordan-1-retro-high"
+      }
+    },
+    {
+      "id": "4584f6fb-2f65-4b0f-83b1-cb8bfb940c4e",
+      "sku": "439669-018",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro PS 'Wolf Grey'",
+      "colorway": "Wolf Grey/Deadly Pink/White/White",
+      "gender": "youth",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-26",
+      "retailPrice": 80,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/006/875/430/original/439669_018.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/006/875/430/original/439669_018.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/006/875/430/original/439669_018.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/439669-018-e928fe81-fc65-4adc-8728-abd0c912a102",
+        "flightClub": " https://flightclub.com/439669-018-e928fe81-fc65-4adc-8728-abd0c912a102"
+      }
+    },
+    {
+      "id": "4f4706a6-15b9-4163-b408-c42f76c7e412",
+      "sku": "684802-018",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro TD 'Wolf Grey'",
+      "colorway": "Wolf Grey/White/Deadly Pink",
+      "gender": "infant",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-26",
+      "retailPrice": 60,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/038/470/880/original/684802_018.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/038/470/880/original/684802_018.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/038/470/880/original/684802_018.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-td-684802-018",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-td-wolf-grey-white-deadly-pink-802256"
+      }
+    },
+    {
+      "id": "55207b7a-7b32-4704-9a9b-e7dfcbcfbd41",
+      "sku": "906876-103",
+      "brand": "Air Jordan",
+      "name": "Jordan Jumpman Pro 'White'",
+      "colorway": "White/Black-Wolf Grey",
+      "gender": "men",
+      "silhouette": "Jordan Jumpman Pro",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-26",
+      "retailPrice": 0,
+      "estimatedMarketValue": 90,
+      "story": "This Jordan Jumpman Pro is an updated take on a 1997 sneaker that was the first to be distributed by the newly founded Jordan Brand. Released in August 2017, this shoe comes with leather and synthetic upper in white and prominent Jumpman branding in black. An EVA foam midsole is equipped with Zoom Air to help with cushioning, a TPU midfoot shank promotes support, and a rubber outsole with a herringbone pattern is designed to deliver traction on a variety of surfaces.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/130/087/original/906876_103.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/130/087/original/906876_103.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/130/087/original/906876_103.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-jumpman-pro-906876-103",
+        "flightClub": " https://flightclub.com/jordan-jumpman-pro-white-black-wolf-grey-138747"
+      }
+    },
+    {
+      "id": "bc78c2ca-76a7-44e5-9a6b-d54738d4dbb4",
+      "sku": "414581-004",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro TD 'Bred' 2017",
+      "colorway": "Black/True Red/White",
+      "gender": "infant",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-19",
+      "retailPrice": 60,
+      "estimatedMarketValue": 182,
+      "story": "The ‘Bred’ edition of the Air Jordan 13 is the same color scheme that Michael Jordan wore during home games with the Chicago Bulls during the 1997-98 season. Inspired by his nickname, ‘Black Cat,’ the shoe’s design features a panther paw-shaped outsole design and a hologram Jordan logo below the collar.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/038/108/422/original/414581_004.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/038/108/422/original/414581_004.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/038/108/422/original/414581_004.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-td-bred-2017-414581-004",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-td-2017-black-true-red-white-802040"
+      }
+    },
+    {
+      "id": "ec496c35-6f9b-4bfb-a7cb-dcba34c84cd9",
+      "sku": "414575-004",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro PS 'Bred' 2017",
+      "colorway": "Black/True Red/White",
+      "gender": "youth",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-19",
+      "retailPrice": 80,
+      "estimatedMarketValue": 25,
+      "story": "The Air Jordan 13 Retro PS &#39;Bred&#39; 2017 features a black leather upper with its signature mesh on the side panels, with True Red suede accents on the ankle, mudguard and midsole. The released marked the return of 3M reflective detailing on the silhouette, which was absent on the 2013 re-release. The holographic branding on the ankle and hits of white on the outsole provide contrast to the classic color scheme.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/670/563/original/414575_004.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/670/563/original/414575_004.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/670/563/original/414575_004.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-ps-bred-2017-414575-004",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-ps-bred-2017-414575-004"
+      }
+    },
+    {
+      "id": "a27bb5b8-d9d9-4533-9c72-3a94574c9d69",
+      "sku": "332148-005",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High GS 'Aluminum'",
+      "colorway": "Black/Aluminum-White-Wolf Grey",
+      "gender": "youth",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-11",
+      "retailPrice": 95,
+      "estimatedMarketValue": 375,
+      "story": "The Air Jordan 1 revamps the iconic ‘Shadow’ colorway way into the ‘Aluminum’ model, with the subdued hue making its way onto the side walls and toe paneling. The overlays are outfitted with a suede construction, while the midsole features a split-toned design that complements the upper of this kids’ exclusive.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/737/108/original/332148_005.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/737/108/original/332148_005.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/737/108/original/332148_005.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-gs-aluminum-332148-005",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-gs-black-aluminum-white-wolf-grey-147349"
+      }
+    },
+    {
+      "id": "1458c14c-8e27-4d08-b213-d20226f0505a",
+      "sku": "553560-008",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Low BG 'Desert Sand'",
+      "colorway": "Desert Sand/White-Gum Yellow",
+      "gender": "youth",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-10",
+      "retailPrice": 80,
+      "estimatedMarketValue": 396,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/013/309/629/original/553560_008.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/013/309/629/original/553560_008.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/013/309/629/original/553560_008.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-low-bg-desert-sand-553560-008",
+        "flightClub": " https://flightclub.com/air-jordan-1-low-bg-desert-sand-white-gum-yellow-136569"
+      }
+    },
+    {
+      "id": "e14f9752-aaaa-4114-9871-27eefeebddd8",
+      "sku": "919724-051",
+      "brand": "Air Jordan",
+      "name": "Jordan Formula 23 Low 'Dark Stucco'",
+      "colorway": "Dark Stucco/Sail",
+      "gender": "men",
+      "silhouette": "Jordan Formula 23",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-08",
+      "retailPrice": 130,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/029/226/947/original/919724_051.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/029/226/947/original/919724_051.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/029/226/947/original/919724_051.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-formula-23-low-dark-stucco-919724-051",
+        "flightClub": " https://flightclub.com/jordan-formula-23-low-dark-stucco-919724-051"
+      }
+    },
+    {
+      "id": "64e7aec7-72ea-4a3f-bb18-f67ced12f9b1",
+      "sku": "H016-MNJDLS-281-784342",
+      "brand": "Air Jordan",
+      "name": "OVO x Air Jordan 11 Retro 'Snakeskin'",
+      "colorway": "White/White Ice",
+      "gender": "men",
+      "silhouette": "Air Jordan 11",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-07",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/024/750/405/original/539112_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/024/750/405/original/539112_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/024/750/405/original/539112_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/ovo-x-air-jordan-11-retro-snakeskin-h016-mnjdls-281-784342",
+        "flightClub": " https://flightclub.com/ovo-x-air-jordan-11-retro-white-white-ice-144902"
+      }
+    },
+    {
+      "id": "95531cb8-3e12-47a2-9778-d9aef87f6807",
+      "sku": "640735-725",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro Mid BT 'Wheat'",
+      "colorway": "Golden Harvest/Sail",
+      "gender": "infant",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-06",
+      "retailPrice": 50,
+      "estimatedMarketValue": 80,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/013/984/342/original/640735_725.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/013/984/342/original/640735_725.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/013/984/342/original/640735_725.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-mid-bt-wheat-640735-725",
+        "flightClub": " https://flightclub.com/jordan-1-mid-bt-golden-harvest-sail-152174"
+      }
+    },
+    {
+      "id": "1a7b9cf8-893a-4b33-b382-b095c3799d0d",
+      "sku": "440890-104​",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 5 Retro TD 'White Cement'",
+      "colorway": "White/Fire Red-Tech Grey-Black",
+      "gender": "infant",
+      "silhouette": "Air Jordan 5",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-05",
+      "retailPrice": 60,
+      "estimatedMarketValue": 80,
+      "story": "This colorway of the Air Jordan 5 gets a 2016 retro treatment in toddler sizing. The Air Jordan 5 Retro TD &#39;White Cement&#39; features a white leather upper with mesh window paneling on the sidewall for breathability. The sneaker also sports black leather accents on the tongue, red details on the branding and tongue lining, and cement details on the midsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/013/309/722/original/440890_104.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/013/309/722/original/440890_104.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/013/309/722/original/440890_104.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-5-retro-td-white-cement-440890-104",
+        "flightClub": " https://flightclub.com/air-jordan-5-retro-td-white-cement-440890-104"
+      }
+    },
+    {
+      "id": "9ce2b37e-2d01-4116-82c2-28cd5a65e5dd",
+      "sku": "440889-104",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 5 Retro PS 'White Cement'",
+      "colorway": "White/Fire Red-Tech Grey-Black",
+      "gender": "youth",
+      "silhouette": "Air Jordan 5",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-05",
+      "retailPrice": 80,
+      "estimatedMarketValue": 80,
+      "story": "Borrowing influence from the iconic ‘White Cement’ color palette on the Jordan 4, the Air Jordan 5 Retro PS ‘White Cement’ features the same color blocking. The white leather upper sports tonal webbed paneling on the quarter panel, while cement accents come through on the upper eyelets and midsole. The iconic shark tooth graphic emerges in black.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/424/150/original/440889_104.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/424/150/original/440889_104.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/424/150/original/440889_104.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-5-retro-ps-white-cement-440889-104",
+        "flightClub": " https://flightclub.com/jordan-5-retro-bp-white-gym-red-cement-grey-146444"
+      }
+    },
+    {
+      "id": "b8b3f370-3675-48cc-9f6c-e8c707766086",
+      "sku": "724010-402",
+      "brand": "Air Jordan",
+      "name": "Air Jordan Eclipse 'Photo Blue'",
+      "colorway": "Photo Blue/Black-White",
+      "gender": "men",
+      "silhouette": "Jordan Eclipse",
+      "releaseYear": 2017,
+      "releaseDate": "2017-08-01",
+      "retailPrice": 0,
+      "estimatedMarketValue": 65,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/000/512/657/original/724010_402.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/512/657/original/724010_402.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/000/512/657/original/724010_402.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-eclipse-photo-blue-724010-402",
+        "flightClub": " https://flightclub.com/jordan-eclipse-photo-blue-black-white-805868"
+      }
+    },
+    {
+      "id": "60d67bd9-7dbc-4855-a959-045e13e191e6",
+      "sku": "897997-030",
+      "brand": "Air Jordan",
+      "name": "Jordan Trunner LX GS 'Camo'",
+      "colorway": "Black/Region Green-Palm Green",
+      "gender": "youth",
+      "silhouette": "Jordan Trunner",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-31",
+      "retailPrice": 140,
+      "estimatedMarketValue": 50,
+      "story": "The Jordan Trunner LX ‘Camo’ was released exclusively to the kids lineup in 2017. A distinct camouflage print covers the midfoot mesh while alternating shades of green lead towards the toe and over the textured forefoot midsole. The back end is dipped in black and adorned with shimmering copper accents over the heel and Jumpman branding.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/433/354/original/897997_030.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/433/354/original/897997_030.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/433/354/original/897997_030.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-trunner-lx-gs-camo-897997-030",
+        "flightClub": " https://flightclub.com/air-jordan-trunner-lx-gs-camo-897997-030"
+      }
+    },
+    {
+      "id": "4735390e-7506-461e-ae7b-67743db4f6e1",
+      "sku": "919724-010",
+      "brand": "Air Jordan",
+      "name": "Jordan Formula 23 Low 'Black'",
+      "colorway": "Black/Black",
+      "gender": "men",
+      "silhouette": "Jordan Formula 23",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-28",
+      "retailPrice": 110,
+      "estimatedMarketValue": 85,
+      "story": "Jordan Brand transforms the Jordan Formula 23 into a low-top iteration and renders it with a Triple Black color scheme. The shoe also implements a similar shape as the Air Jordan 10 on its seamless mudguard, asymmetrical lacing system and winged eyelet flange. A mesh application on the upper is included for increased airflow and adaptability.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/463/122/original/919724_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/463/122/original/919724_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/463/122/original/919724_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-formula-23-low-919724-010",
+        "flightClub": " https://flightclub.com/jordan-formula-23-low-919724-010"
+      }
+    },
+    {
+      "id": "ba68e005-3812-4c00-86f3-a7f8f6fcb317",
+      "sku": "919715-002",
+      "brand": "Air Jordan",
+      "name": "Jordan Flight Luxe 'Bred'",
+      "colorway": "Black/Gym Red-Gym Red",
+      "gender": "men",
+      "silhouette": "Jordan Flight Luxe",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-27",
+      "retailPrice": 148,
+      "estimatedMarketValue": 88,
+      "story": "Drawing inspiration from classic Nike designs, the Jordan Flight Luxe &#39;Bred&#39; sneaker sports a ribbed mesh upper, wrapped in Flywire cables. Its mashup collar combines the natural movement of a low-top with the support of a mid-cut collar. A nod to the Nike Air Jordan 9 can be seen on the pattern of its cushioned sockliner. The foot rides along a Lunarlon midsole for smooth strides.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/017/762/398/original/919715_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/017/762/398/original/919715_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/017/762/398/original/919715_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-flight-luxe-bred-919715-002",
+        "flightClub": " https://flightclub.com/jordan-flight-luxe-black-gym-red-gym-red-806366"
+      }
+    },
+    {
+      "id": "ec6a13b2-1968-47d6-87ab-65983db093cc",
+      "sku": "439669-015",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro PS 'Mint Foam'",
+      "colorway": "Black/Metallic Gold/Mint Foam",
+      "gender": "youth",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-23",
+      "retailPrice": 80,
+      "estimatedMarketValue": 80,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/010/376/584/original/439669_015.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/010/376/584/original/439669_015.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/010/376/584/original/439669_015.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-ps-439669-015",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-ps-black-metallic-gold-mint-foam-802250"
+      }
+    },
+    {
+      "id": "97a0e0b7-1bd7-40f8-9265-b05bda97c1a0",
+      "sku": "684802-015",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro TD 'Mint Foam'",
+      "colorway": "Black/Metallic Gold/Mint Foam/White",
+      "gender": "infant",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-22",
+      "retailPrice": 60,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/031/685/455/original/684802_015.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/031/685/455/original/684802_015.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/031/685/455/original/684802_015.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-td-684802-015",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-td-black-metallic-gold-mint-foam-white-802260"
+      }
+    },
+    {
+      "id": "a888fc98-7166-477e-ac55-ae544095b0fe",
+      "sku": "414575-103",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro PS 'History of Flight'",
+      "colorway": "White/University Red/Metallic Silver",
+      "gender": "youth",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-22",
+      "retailPrice": 80,
+      "estimatedMarketValue": 115,
+      "story": "Finally released in July 2017, the Air Jordan 13 ‘History of Flight’ made it to retail eight years after it was first seen as a color sample. This preschool version of the shoe was initially unveiled in 2009 as part of the Air Jordan History of Flight collection, celebrating the Jordan line’s 25th anniversary. Each pair in the collection shared a common color scheme, dominated by a white base with red detailing and black laces.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/070/338/original/414575_103.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/070/338/original/414575_103.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/070/338/original/414575_103.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-ps-history-of-flight-414575-103",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-ps-white-university-red-metallic-silver-801725"
+      }
+    },
+    {
+      "id": "bb009765-8b36-402e-a092-fd6340e96ce5",
+      "sku": "414581-103",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro TD 'History of Flight'",
+      "colorway": "White/University Red/Metallic Silver",
+      "gender": "infant",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-22",
+      "retailPrice": 60,
+      "estimatedMarketValue": 100,
+      "story": "Originally revealed at the World Basketball Festival in Chicago in 2009 to celebrate the line’s 25th anniversary, the ‘History of Flight’ collection was finally made available to the public in 2017. Like its full-size counterparts, this TD edition of the Air Jordan 13 nods to the Chicago Bulls by combining white tumbled leather with black laces and a University Red liner and outsole. Other signature details include a holographic panther eye with the number “23” and Jumpman branding on the tongue and outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/038/076/019/original/180108_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/038/076/019/original/180108_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/038/076/019/original/180108_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-td-history-of-flight-414581-103",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-td-white-university-red-metallic-silver-166561"
+      }
+    },
+    {
+      "id": "33664054-2c1a-43b2-a3f4-cc53f992dbb4",
+      "sku": "921211-606",
+      "brand": "Air Jordan",
+      "name": "Jordan Ultra Fly 2 TB 'University Red'",
+      "colorway": "University Red/Black-Action Red-Metallic Silver",
+      "gender": "men",
+      "silhouette": "Jordan Ultra Fly 2",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-16",
+      "retailPrice": 125,
+      "estimatedMarketValue": 125,
+      "story": "Sporting a design reminiscent of the Jordan 15, the Ultra Fly 2 TB ‘University Red’ features a familiar colorway, with University Red and black color blocking. Formed with seamless overlays that utilize a blend of synthetic and mesh paneling, the shoe also implements a Nike Zoom cushioning system. A chrome Jumpman stands out on the heel.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/127/834/original/921211_606.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/127/834/original/921211_606.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/127/834/original/921211_606.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-ultra-fly-2-tb-university-red-921211-606",
+        "flightClub": " https://flightclub.com/jordan-ultra-fly-2-tb-university-red-921211-606"
+      }
+    },
+    {
+      "id": "d05f177e-f56a-443a-8f0b-359ce80c07d6",
+      "sku": "921211-407",
+      "brand": "Air Jordan",
+      "name": "Jordan Ultra Fly 2 TB 'Game Royal'",
+      "colorway": "Game Royal/Black-Photo Blue-Metallic Silver",
+      "gender": "men",
+      "silhouette": "Jordan Ultra Fly 2",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-16",
+      "retailPrice": 125,
+      "estimatedMarketValue": 125,
+      "story": "The Jordan Ultra Fly 2 TB &#39;Game Royal&#39; was released as part of a ‘Team Bank’ four-pack of school-inspired colors in 2017. Everything from the knit upper to the Phylon foam midsole and solid rubber outsole are dipped in the blue hue while hits of black are offered up for contrast on the inner bootie and webbed lacing system. Metallic silver Jumpman branding is shared by all colors in the set which include Pine Green, University Red, and Midnight Navy.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/128/030/original/921211_407.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/128/030/original/921211_407.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/128/030/original/921211_407.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-ultra-fly-2-tb-game-royal-921211-407",
+        "flightClub": " https://flightclub.com/jordan-ultra-fly-2-tb-game-royal-921211-407"
+      }
+    },
+    {
+      "id": "e5c9b893-ff11-4899-b04d-cd7d377de992",
+      "sku": "921211-301",
+      "brand": "Air Jordan",
+      "name": "Jordan Ultra Fly 2 TB 'Pine Green'",
+      "colorway": "Pine Green/Black-Green Spark-Metallic Silver",
+      "gender": "men",
+      "silhouette": "Jordan Ultra Fly 2",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-16",
+      "retailPrice": 125,
+      "estimatedMarketValue": 109,
+      "story": "The Jordan Ultra Fly 2 TB ‘Pine Green’ released in July 2017 alongside three additional colorways, all sharing the same construction and team color blocking. On this pair, the design makes use of a monochromatic finish in Pine Green, accented with a chrome Jumpman on the lateral heel and contrasting hits of black on the lace loops, lining and heel.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/128/022/original/921211_301.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/128/022/original/921211_301.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/128/022/original/921211_301.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-ultra-fly-2-tb-pine-green-921211-301",
+        "flightClub": " https://flightclub.com/jordan-ultra-fly-2-tb-pine-green-921211-301"
+      }
+    },
+    {
+      "id": "55edd288-ad83-4fe2-9259-6c09a3c89efb",
+      "sku": "897560-003",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 9 Retro Pinnacle 'Baseball Glove Black'",
+      "colorway": "Black/Metallic Gold-White",
+      "gender": "men",
+      "silhouette": "Air Jordan 9",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-15",
+      "retailPrice": 250,
+      "estimatedMarketValue": 300,
+      "story": "The Nike Air Jordan 9 Retro Pinnacle ‘Baseball Glove Black’ is part of a 2017 two-pair release that celebrated Michael Jordan’s minor league baseball days with the Birmingham Barons and the Scottsdale Scorpions. The black pair repped his days in Alabama, with a leather upper featuring stitching that mimics a baseball glove. Jordan’s Barons uniform number, 45, is stitched on the heel, while more familiar Jordan branding hits the tongue and midsole. Consumers who bought the shoe didn&#39;t know which colorway they would receive, as all pairs were sealed in a bag.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/004/889/956/original/AH6233_903_BL.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/004/889/956/original/AH6233_903_BL.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/004/889/956/original/AH6233_903_BL.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-9-retro-pinnacle-baseball-glove-black-ah6233-903-bl",
+        "flightClub": " https://flightclub.com/air-jordan-9-retro-pinnacle-black-metallic-gold-white-159435"
+      }
+    },
+    {
+      "id": "6d26ea59-2048-4dc1-9571-4e0c5341f2b6",
+      "sku": "897560-203",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 9 Retro Pinnacle 'Baseball Glove Brown'",
+      "colorway": "Hazelnut/Sail",
+      "gender": "men",
+      "silhouette": "Air Jordan 9",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-15",
+      "retailPrice": 250,
+      "estimatedMarketValue": 550,
+      "story": "1994 was an interesting year for world-renowned basketball legend, Michael Jordan. Retiring from basketball and donning the number 35 for the Scottsdale Scorpions, Jordan pursued his childhood dream and entered the world of baseball. The Air Jordan 9 Retro Pinnacle &#39;Baseball Glove Brown&#39; is a nod to Jordan&#39;s time on the field. The premium leather upper, leather laces and stitching on the side panels mimic an authentic baseball glove while the heel features an embroidered 35 in honor of Jordan&#39;s baseball legacy. Consumers who bought the shoe didn&#39;t know which colorway they would receive, as all pairs were sealed in a bag.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/004/889/940/original/AH6233_903_BR.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/004/889/940/original/AH6233_903_BR.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/004/889/940/original/AH6233_903_BR.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-9-retro-pinnacle-baseball-glove-pack-ah6233-903",
+        "flightClub": " https://flightclub.com/air-jordan-9-ret-pinnacle-pack-hazelnut-sail-801449"
+      }
+    },
+    {
+      "id": "915f1bb5-0b4a-454b-aacf-1ba25c2e603b",
+      "sku": "767119-XC",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG 'Quai 54' Friends and Family Sample",
+      "colorway": "Black/Unviersity Red-Italy Blue-Black",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-08",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": {
+        "original": "https://cdn.flightclub.com/missing.png?w=1600",
+        "small": "https://cdn.flightclub.com/missing.png?w=750",
+        "thumbnail": "https://cdn.flightclub.com/missing.png?w=360"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "",
+        "flightClub": "https://flightclub.com/air-jordan-1-retro-high-og-quai-54-friends-and-family-767119-xc"
+      }
+    },
+    {
+      "id": "f3481052-3e1d-4c21-a028-c3ad81487c31",
+      "sku": "MNJDLS-262-767119-XC",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG 'Quai 54' Friends and Family Sample",
+      "colorway": "Black/Unviersity Red-Italy Blue-Black",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-08",
+      "retailPrice": 0,
+      "estimatedMarketValue": 4000,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/009/008/681/original/767119_XC.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/009/008/681/original/767119_XC.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/009/008/681/original/767119_XC.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-og-quai-54-friends-and-family-767119-xc",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "4946b946-b3fd-4d84-b6d6-d5b8f071879b",
+      "sku": "897996-010",
+      "brand": "Air Jordan",
+      "name": "Jordan Trunner LX BG 'Black'",
+      "colorway": "Black/Black/White",
+      "gender": "youth",
+      "silhouette": "Jordan Trunner",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-03",
+      "retailPrice": 115,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/040/229/567/original/897996_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/040/229/567/original/897996_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/040/229/567/original/897996_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-trunner-lx-bg-black-897996-010",
+        "flightClub": " https://flightclub.com/jordan-trunner-lx-bg-black-897996-010"
+      }
+    },
+    {
+      "id": "9ba8db5b-af9a-4bf0-89ea-0877c1d38ceb",
+      "sku": "908859-051",
+      "brand": "Air Jordan",
+      "name": "Jordan Formula 23 Toggle 'Dark Stucco'",
+      "colorway": "Dark Stucco/Dark Stucco-Black",
+      "gender": "men",
+      "silhouette": "Jordan Formula 23",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-03",
+      "retailPrice": 115,
+      "estimatedMarketValue": 70,
+      "story": "The Jordan Formula 23 Toggle &#39;Dark Stucco&#39; features a Dark Stucco neoprene upper with matching leather details on the heel for structure. The low top also sports black accents on the padded neoprene collar with visible stitching, a toggle lacing system that wraps around the heel, black Flywire technology for structure, and a chunky textured midsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/004/941/118/original/908859_051.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/004/941/118/original/908859_051.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/004/941/118/original/908859_051.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-formula-23-toggle-dark-stucco-908859-051",
+        "flightClub": " https://flightclub.com/jordan-formula-23-toggle-dark-stucco-908859-051"
+      }
+    },
+    {
+      "id": "b6c5d4b1-dbcc-4900-a1de-bcf9e0ee4931",
+      "sku": "555330-067",
+      "brand": "Air Jordan",
+      "name": "Jordan Flight Club 91 BT 'Last Shot'",
+      "colorway": "Black/Dandelion/Varsity Red",
+      "gender": "infant",
+      "silhouette": "Jordan Flight Club 91",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-02",
+      "retailPrice": 60,
+      "estimatedMarketValue": 55,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/806/original/555330_067.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/806/original/555330_067.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/806/original/555330_067.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-flight-club-91-bt-last-shot-555330-067",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "9537ae80-5230-48d0-bf2a-caeee1cb59cb",
+      "sku": "AR4430-200",
+      "brand": "Air Jordan",
+      "name": "Jordan Lift Off 'Neutral Olive'",
+      "colorway": "Neutral Olive/Black",
+      "gender": "men",
+      "silhouette": "Jordan Lift Off",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-01",
+      "retailPrice": 0,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/017/762/464/original/AR4430_200.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/017/762/464/original/AR4430_200.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/017/762/464/original/AR4430_200.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-lift-off-neutral-olive-ar4430-200",
+        "flightClub": " https://flightclub.com/jordan-lift-off-neutral-olive-black-805897"
+      }
+    },
+    {
+      "id": "a32294d3-8590-49bc-8434-c57f4e22e5c7",
+      "sku": "812877-025",
+      "brand": "Air Jordan",
+      "name": "Jordan Westbrook 0 'Holiday'",
+      "colorway": "Black/Black-Infrared 23-Light Bone",
+      "gender": "men",
+      "silhouette": "Westbrook 0",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-01",
+      "retailPrice": 0,
+      "estimatedMarketValue": 25,
+      "story": "The Jordan Westbrook 0 &#39;Holiday&#39; is an updated take on Jordan Brand&#39;s first lifestyle signature sneaker for 2017 NBA MVP Russell Westbrook. Released in June 2017, the shoe comes with a leather and synthetic upper, Jumpman branding on its padded tongue and a colorway of black, Infrared 23 and Light Bone. The inner tongue displays Westbrook&#39;s signature, a crest print resides on the insole and lace jewels of &#39;WHY&#39; and &#39;NOT?&#39; share the point guard&#39;s mantra.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/001/325/953/original/812877_025.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/001/325/953/original/812877_025.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/001/325/953/original/812877_025.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-westbrook-0-holiday-812877-025",
+        "flightClub": " https://flightclub.com/jordan-westbrook-0-holiday-black-black-infrared-23-light-bone-805890"
+      }
+    },
+    {
+      "id": "a4e6eac2-3c89-468b-8b01-d4b01729ce57",
+      "sku": "921203-024",
+      "brand": "Air Jordan",
+      "name": "Jordan Super.Fly 2017 'Black Infrared'",
+      "colorway": "Black/Black-Infrared 23",
+      "gender": "men",
+      "silhouette": "Jordan Super.Fly 2017",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-01",
+      "retailPrice": 140,
+      "estimatedMarketValue": 67,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/004/941/134/original/921203_024.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/004/941/134/original/921203_024.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/004/941/134/original/921203_024.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-super-fly-2017-921203-024",
+        "flightClub": " https://flightclub.com/jordan-super-fly-2017-black-black-infrared-23-805870"
+      }
+    },
+    {
+      "id": "c090a10b-60f4-4144-b4c4-15e6ea8aa4ee",
+      "sku": "555475-067",
+      "brand": "Air Jordan",
+      "name": "Jordan Flight Club 91 'Dandelion'",
+      "colorway": "Black/Dandelion-Varsity Red",
+      "gender": "men",
+      "silhouette": "Jordan Flight Club 91",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-01",
+      "retailPrice": 130,
+      "estimatedMarketValue": 75,
+      "story": "Michael Jordan conquered his first NBA championship title in 1991 while boasting his signature Nike Air Jordan 6 silhouette, pushing the sneaker into superstar status. Fast forwarding to February 2013, the classic is back with the Jordan Flight Club 91 sneaker. Sporting a layered leather and suede upper with visible air, this version features a black and red exterior with a pop of Dandelion on its insoles.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/015/238/974/original/555475_067.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/015/238/974/original/555475_067.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/015/238/974/original/555475_067.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-flight-club-91-dandelion-555475-067",
+        "flightClub": " https://flightclub.com/jordan-fltclb-91-black-dandelion-varsity-red-805873"
+      }
+    },
+    {
+      "id": "ca7f11f5-e1e6-43fd-bb26-0c2ee4a4bd2d",
+      "sku": "921210-014",
+      "brand": "Air Jordan",
+      "name": "Jordan Trainer 2 Flyknit 'Hyper Jade'",
+      "colorway": "Black/Cool Grey/Hyper Jade/Black",
+      "gender": "men",
+      "silhouette": "Jordan Trainer 2",
+      "releaseYear": 2017,
+      "releaseDate": "2017-07-01",
+      "retailPrice": 140,
+      "estimatedMarketValue": 59,
+      "story": "The Jordan Trainer 2 Flyknit ‘Hyper Jade’ is one of the silhouette’s original colorways released in 2017. The design’s Flyknit upper is dipped in black with Hyper Jade accenting the Flywire, mini Jumpman branding, and translucent outsole. The shoe’s standout feature; however, is a monocoque midfoot strap/midsole combination that stands out in Cool Grey.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/004/958/981/original/921210_014.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/004/958/981/original/921210_014.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/004/958/981/original/921210_014.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-trainer-2-flyknit-hyper-jade-921210-014",
+        "flightClub": " https://flightclub.com/jordan-trainer-2-flyknit-hyper-jade-921210-014"
+      }
+    },
+    {
+      "id": "036192ea-ae3c-453a-97f9-25a6bcf08e97",
+      "sku": "AA1233‌-600",
+      "brand": "Air Jordan",
+      "name": "PSNY x Air Jordan 12 Retro 'Paris'",
+      "colorway": "Bordeaux/Bordeaux-Bordeaux",
+      "gender": "men",
+      "silhouette": "Air Jordan 12",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-28",
+      "retailPrice": 300,
+      "estimatedMarketValue": 460,
+      "story": "Fashion label PSNY teamed up on another special rendition with Jordan Brand, this time utilizing the Jordan 12 as their creative canvas. Part of a city capsule that also paid homage to New York and Milan, the Paris offering is decked out in a tonal burgundy hue that covers the entire makeup. Public School branding emerges on the insole and heel.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/012/479/219/original/168897_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/479/219/original/168897_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/012/479/219/original/168897_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/public-school-x-air-jordan-12-retro-bordeaux",
+        "flightClub": " https://flightclub.com/public-school-x-air-jordan-12-retro-bordeaux"
+      }
+    },
+    {
+      "id": "2470174f-7a1b-4aec-a607-a385d9edc936",
+      "sku": "KAJ12-745592-VW",
+      "brand": "Air Jordan",
+      "name": "PSNY x Air Jordan 12 Retro GS 'NYC' Sample",
+      "colorway": "Wheat/Wheat-Light Gum",
+      "gender": "youth",
+      "silhouette": "Air Jordan 12",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-28",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "Thanks to a number of collaborations between Public School NY and Jordan Brand, the New York-based fashion label has developed a reputation for creating premium interpretations of Air Jordan sneakers. This grade school version of PSNY’s take on the Air Jordan 12 features leather and suede construction, metallic lace eyelets and embossed Jumpman and PSNY co-branding on the tongue. The shoe comes with suede Public School tags, while the laces are fitted with PSNY-branded metal caps. ‘Jumpman’ lettering, embossed on a midfoot panel, is a reminder of the upscale design’s basketball heritage.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/127/710/original/KAJ12_745592_VW.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/127/710/original/KAJ12_745592_VW.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/127/710/original/KAJ12_745592_VW.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/public-school-x-air-jordan-12-retro-gs-nyc-sample-kaj12-745592-vw",
+        "flightClub": " https://flightclub.com/air-jordan-x-psny-12-retro-wheat-wheat-804993"
+      }
+    },
+    {
+      "id": "4481cbfe-7556-47a2-adf0-914faaf5db3f",
+      "sku": "917360-105",
+      "brand": "Air Jordan",
+      "name": "Converse x Air Jordan 2 Retro 'Alumni'",
+      "colorway": "Multi-Color/Multi-Color",
+      "gender": "men",
+      "silhouette": "Air Jordan 2",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-28",
+      "retailPrice": 0,
+      "estimatedMarketValue": 280,
+      "story": "Converse and Jordan Brand collaborated on a two-pair collection that combines the classic Air Jordan 2 with the Converse Fastbreak. The Air Jordan 2 Retro &#39;Alumni&#39; draws inspiration from the pair of shoes he wore during a 1986 Carolina Pro Alumni Game. The sneaker boasts a white leather upper with perforations along the midfoot and a snakeskin-like texture on the ankle. The mid-top also sports Carolina Blue accents on the heel and red accents on the outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/036/120/419/original/917360_105.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/036/120/419/original/917360_105.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/036/120/419/original/917360_105.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/converse-x-air-jordan-2-retro-alumni-917360-105",
+        "flightClub": " https://flightclub.com/air-jordan-2-multi-color-multi-color-144501"
+      }
+    },
+    {
+      "id": "56ecea63-c0f8-42c3-b167-63dea6dcd3f3",
+      "sku": "AA1233‌-700",
+      "brand": "Air Jordan",
+      "name": "PSNY x Air Jordan 12 Retro 'NYC'",
+      "colorway": "Wheat/Wheat-Wheat",
+      "gender": "men",
+      "silhouette": "Air Jordan 12",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-28",
+      "retailPrice": 300,
+      "estimatedMarketValue": 500,
+      "story": "Part of the ‘City Pack’ from Jordan Brand and Public School, this New York edition of the Air Jordan 12 Retro launched as a regional exclusive in June 2017, dropping alongside accompanying Paris and Milan colorways. The monochromatic design features a premium nubuck upper in Wheat, coupled with a gum rubber outsole to resemble a traditional work boot. Public School branding appears on the aglets and custom sock liners, as well as the embossed ‘PSNY’ that runs down the tongue.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/004/674/383/original/PSNY_x_AJ12_Retro_Wheat.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/004/674/383/original/PSNY_x_AJ12_Retro_Wheat.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/004/674/383/original/PSNY_x_AJ12_Retro_Wheat.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/public-school-x-air-jordan-12-retro-wheat",
+        "flightClub": " https://flightclub.com/public-school-x-air-jordan-12-retro-wheat"
+      }
+    },
+    {
+      "id": "b9e84c11-8106-4a9d-bbb1-478a64f492fc",
+      "sku": "921210-601",
+      "brand": "Air Jordan",
+      "name": "Jordan Trainer 2 Flyknit 'Chicago Bulls'",
+      "colorway": "Black/Gym Red-White",
+      "gender": "men",
+      "silhouette": "Jordan Trainer 2",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-27",
+      "retailPrice": 140,
+      "estimatedMarketValue": 115,
+      "story": "Drawing influence from Jordan Brand’s basketball heritage, the Trainer 2 Flyknit is prepared with a ‘Bred’ color scheme that features Gym Red and black tones on the upper’s Flyknit formation. The knit design helps promote forefoot flexibility with its sock-like fit, while the Flywire cables and midfoot strap increase support. The shoe is injected with Zoom Air technology underfoot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/012/387/595/original/921210_601.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/387/595/original/921210_601.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/012/387/595/original/921210_601.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-trainer-2-flyknit-921210-601",
+        "flightClub": " https://flightclub.com/jordan-trainer-2-flyknit-black-gym-red-white-138433"
+      }
+    },
+    {
+      "id": "c45730ac-e19d-445d-b67d-7a018af99030",
+      "sku": "SP08-M-JORD-438-205347",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro 'Pantone Collection'",
+      "colorway": "Pantone/White",
+      "gender": "men",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-16",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/016/779/357/original/479309_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/779/357/original/479309_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/016/779/357/original/479309_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-pantone-collection-jbm251z",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-pantone-white-806509"
+      }
+    },
+    {
+      "id": "3b6d97aa-749d-4d5f-9797-98753ff37967",
+      "sku": "FA13-MNJDLS-977",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG 'Legends of the Summer - Red Sparkle'",
+      "colorway": "Red/Red",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-15",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/016/779/326/original/479310_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/779/326/original/479310_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/016/779/326/original/479310_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-og-legends-of-summer-red-sparkle-fa13-mnjdls-977",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-og-legends-of-the-summer-red-sparkle-red-red-806507"
+      }
+    },
+    {
+      "id": "127bf585-f063-48d6-9460-3f0db407cd01",
+      "sku": "414571-135",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 13 Retro 'Defining Moments'",
+      "colorway": "White/Varsity Red/Metallic Gold",
+      "gender": "men",
+      "silhouette": "Air Jordan 13",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-14",
+      "retailPrice": 190,
+      "estimatedMarketValue": 295,
+      "story": "Celebrating the 20th anniversary of Michael Jordan’s final championship season with the Chicago Bulls, this colorway was released as part of the Defining Moments two-pack. The white leather upper is highlighted by metallic gold on the mudguard, heel and midsole. The hologram on the ankle sports the number ’98’—the year of Jordan’s last finals—while the words ‘THEY CAN’T WIN’ and ‘UNTIL WE QUIT’ appear on inside of the left and right tongues. A black and gold colorway makes up the other half of the collection.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/033/255/136/original/161257_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/033/255/136/original/161257_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/033/255/136/original/161257_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-13-retro-defining-moments-414571-135",
+        "flightClub": " https://flightclub.com/air-jordan-13-retro-white-varsity-red-metallic-gold-801265"
+      }
+    },
+    {
+      "id": "70cfd7c0-79f9-4c8c-a9bd-fab869ca0178",
+      "sku": "487471-022",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 14 Retro 'Defining Moments'",
+      "colorway": "Black/Metallic Gold/Varsity Red",
+      "gender": "men",
+      "silhouette": "Air Jordan 14",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-14",
+      "retailPrice": 0,
+      "estimatedMarketValue": 284,
+      "story": "One half of the Defining Moments pack that celebrated the 20th anniversary of Michael Jordan’s last season in Chicago, this Air Jordan 14 retro sports a black leather upper accented by a metallic gold midfoot plate. The color also appears on the Jumpman on the ankle, while red accents appear at the heel. The ‘23’ that traditionally appears on the heel is replaced by ’98,’ the year of Jordan’s final title. &#39;THEY CAN’T WIN’ and ‘UNTIL WE QUIT’ are printed in Varsity Red on the left and right inner tongues. The shoe released alongside a white Air Jordan 13.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/012/479/249/original/161256_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/479/249/original/161256_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/012/479/249/original/161256_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-14-retro-defining-moments-487471-022",
+        "flightClub": " https://flightclub.com/air-jordan-14-retro-black-metallic-gold-varsity-red-801661"
+      }
+    },
+    {
+      "id": "81e15793-f0f2-4619-b377-16643631f70d",
+      "sku": "487524-022",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 14 Retro BG 'Defining Moments'",
+      "colorway": "Black/Metallic Gold/Varsity Red",
+      "gender": "youth",
+      "silhouette": "Air Jordan 14",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-14",
+      "retailPrice": 0,
+      "estimatedMarketValue": 193,
+      "story": "The Air Jordan 14 Retro BG &#39;Defining Moments&#39; is one of a two-sneaker pack that commemorates Michael Jordan&#39;s sixth (and last) championship with the Chicago Bulls, during which he wore both AJ13s and AJ14s. This shoe comes in a black, premium leather upper with a perforated vamp, toe and midpanel overlays and gold accents. The phrases &#39;they can&#39;t win&#39; and &#39;until we win&#39; are found on the inside of the tongue.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/004/314/056/original/487524_022.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/004/314/056/original/487524_022.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/004/314/056/original/487524_022.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-14-defining-moments-487524-022",
+        "flightClub": " https://flightclub.com/air-jordan-14-retro-bg-black-metallic-gold-varsity-red-801278"
+      }
+    },
+    {
+      "id": "a5acec73-d154-443d-ae7c-c89dc3c57080",
+      "sku": "705345-118",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 4 Retro GT 'Linen'",
+      "colorway": "White/Boarder Blue-Light Sand",
+      "gender": "infant",
+      "silhouette": "Air Jordan 4",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-10",
+      "retailPrice": 60,
+      "estimatedMarketValue": 90,
+      "story": "In 2017, Nike released an updated colorway of the iconic 2006 Linen Air Jordan 4. This time, however, the sneaker is primarily dedicated to grade school sizes. The Air Jordan 4 Retro GT &#39;Linen’ features a white leather upper with mesh window panels on the side and forefoot for breathability. The sneaker also sports Linen leather details on the side, heel, collar and tongue lining, and well as on the cushioning midsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/057/434/original/287463_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/057/434/original/287463_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/057/434/original/287463_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-4-retro-gt-linen-705345-118",
+        "flightClub": " https://flightclub.com/jordan-4-retro-gt-white-boarder-blue-light-sand-802041"
+      }
+    },
+    {
+      "id": "ad4c545b-115b-45bc-bfb6-ba80d8a13fdb",
+      "sku": "304772-120",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 7 Retro TD 'Pure Money'",
+      "colorway": "White/Metallic Silver-Pure Platinum",
+      "gender": "infant",
+      "silhouette": "Air Jordan 7",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-03",
+      "retailPrice": 60,
+      "estimatedMarketValue": 65,
+      "story": "Drawing inspiration from Michael Jordan’s trove of color schemes, Jordan Brand decided to bring back a fan-favorite palette with the Air Jordan 7 Retro TD &#39;Pure Money.&#39; The sneaker features a white-based leather upper, metallic silver leather overlays, and perforations on the sidewall for breathability. The sneaker also sports a Pure Platinum toe cap, a traditional lacing system for a lockdown fit, and a perforated midsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/038/121/833/original/304772_120.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/038/121/833/original/304772_120.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/038/121/833/original/304772_120.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-7-retro-td-pure-money-304772-120",
+        "flightClub": " https://flightclub.com/jordan-7-retro-bt-td-white-metallic-silver-pure-platinum-804194"
+      }
+    },
+    {
+      "id": "de9bbcb1-ec31-45ad-8ddb-61155514c6e3",
+      "sku": "656504-013",
+      "brand": "Air Jordan",
+      "name": "Jordan Future BG 'Pure Platinum'",
+      "colorway": "Pure Platinum/Pure Platinum/Metallic Silver/Pure Platinum",
+      "gender": "youth",
+      "silhouette": "Jordan Future",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-01",
+      "retailPrice": 120,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/038/745/087/original/656504_013.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/038/745/087/original/656504_013.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/038/745/087/original/656504_013.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-future-bg-pure-platinum-656504-013",
+        "flightClub": " https://flightclub.com/jordan-future-bg-pure-platinum-656504-013"
+      }
+    },
+    {
+      "id": "41b4c6eb-46c4-41f2-9735-b7e6d5e29ae6",
+      "sku": "881468-010",
+      "brand": "Air Jordan",
+      "name": "Jordan Formula 23 BG",
+      "colorway": "Black/Black-White",
+      "gender": "youth",
+      "silhouette": "Jordan Formula 23",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-29",
+      "retailPrice": 90,
+      "estimatedMarketValue": 45,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/005/463/115/original/881468_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/005/463/115/original/881468_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/005/463/115/original/881468_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-formula-23-bg-881468-010",
+        "flightClub": " https://flightclub.com/air-jordan-formula-23-bg-black-black-white-144679"
+      }
+    },
+    {
+      "id": "92c531e0-f7ba-4d22-9f92-c2e5520e48e1",
+      "sku": "505836-010",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 11 Retro Low TD 'Barons'",
+      "colorway": "Black/Metallic Silver-White",
+      "gender": "infant",
+      "silhouette": "Air Jordan 11",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-27",
+      "retailPrice": 55,
+      "estimatedMarketValue": 107,
+      "story": "In 2017, Jordan Brand released this clean black and white ‘Barons’ colorway of the Air Jordan 11 Low in sizes for the whole family. Designed to pay tribute to Michael’s baseball career, the TD version is clad entirely in black nubuck, while its larger counterparts feature a patent leather mudguard wrap. Like the others in the lineup, it features metallic silver embroidered branding over a crisp white midsole and translucent outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/037/831/002/original/505836_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/831/002/original/505836_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/037/831/002/original/505836_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-11-retro-low-td-barons-505836-010",
+        "flightClub": " https://flightclub.com/air-jordan-11-retro-low-td-black-metallic-silver-white-801729"
+      }
+    },
+    {
+      "id": "6a62a7f5-ee1a-4267-b79a-257b35f1d6cd",
+      "sku": "705303-603",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High BP 'Gym Red'",
+      "colorway": "Gym Red/Gym Red",
+      "gender": "youth",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-18",
+      "retailPrice": 70,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/015/908/754/original/705303_603.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/015/908/754/original/705303_603.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/015/908/754/original/705303_603.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-bp-gym-red-705303-603",
+        "flightClub": " https://flightclub.com/jordan-1-retro-1-high-og-bp-gym-red-gym-red-804193"
+      }
+    },
+    {
+      "id": "68037541-4f9c-4800-a084-0d70f26728bd",
+      "sku": "510816-026",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 12 Retro PS 'Black Deadly Pink'",
+      "colorway": "Black/Pink",
+      "gender": "youth",
+      "silhouette": "Air Jordan 12",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-17",
+      "retailPrice": 80,
+      "estimatedMarketValue": 80,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/010/376/596/original/510816_026.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/010/376/596/original/510816_026.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/010/376/596/original/510816_026.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-12-retro-ps-510816-026",
+        "flightClub": " https://flightclub.com/jordan-12-retro-black-pink-806869"
+      }
+    },
+    {
+      "id": "974fe090-a4a5-4e48-a095-b0a6861da56d",
+      "sku": "AA2887-035-S",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High OG 'Wings' Sample",
+      "colorway": "Black/Metallic Gold/Black",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-16",
+      "retailPrice": 0,
+      "estimatedMarketValue": 2000,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/027/769/149/original/AA2887_035_S.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/027/769/149/original/AA2887_035_S.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/027/769/149/original/AA2887_035_S.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-og-wings-sample-aa2887-035-s",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-og-wings-sample-black-metallic-gold-black-160328"
+      }
+    },
+    {
+      "id": "2f8d5edc-e7c2-4d62-a526-242a6d1d21a0",
+      "sku": "AJ1RH-TYNYC",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 1 Retro High 'Thank You NYC'",
+      "colorway": "White/Black/Grey",
+      "gender": "men",
+      "silhouette": "Air Jordan 1",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-13",
+      "retailPrice": 0,
+      "estimatedMarketValue": 700,
+      "story": "Part of Jordan Brand’s RE2PECT collection celebrating Derek Jeter, the Air Jordan 1 Retro High ‘Thank You NYC’ was featured at a pop-up shop in New York City in 2017. Appearing in a New York Yankees-inspired color palette, the all-white leather construction is complemented by navy laces and grey on the outsole and sockliner. A laser-etched ‘Thank You NYC’ stands out on the heel, with the ‘Wings’ logo emerging on the ankle in a similar fashion.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/011/202/359/original/AJ1RH_TYNYC.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/011/202/359/original/AJ1RH_TYNYC.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/011/202/359/original/AJ1RH_TYNYC.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-1-retro-high-thank-you-nyc-aj1rh-tynyc",
+        "flightClub": " https://flightclub.com/air-jordan-1-retro-high-thank-you-nyc-aj1rh-tynyc"
+      }
+    },
+    {
+      "id": "e7ca20c7-9c96-40d2-aaee-e319b5970c24",
+      "sku": "308500-100",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 4 Retro TD 'Pure Money'",
+      "colorway": "White/Metallic Silver",
+      "gender": "infant",
+      "silhouette": "Air Jordan 4",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-13",
+      "retailPrice": 60,
+      "estimatedMarketValue": 150,
+      "story": "Released in toddler sizing, the 2017 Air Jordan 4 Retro TD &#39;Pure Money&#39; hit the shelves just in time for the summer months. The sneaker features a premium white leather upper with matching mesh window panels along the sides and forefoot for breathability. The sneaker also sports “Pure$” lettering under the back tabs, metallic accents on the upper eyelets, and a polyurethane foam midsole for lightweight and long-lasting cushioning.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/034/401/126/original/308500_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/034/401/126/original/308500_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/034/401/126/original/308500_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-4-retro-td-pure-money-308500-100",
+        "flightClub": " https://flightclub.com/jordan-4-retro-bt-white-metallic-silver-157250"
+      }
+    },
+    {
+      "id": "2ca856d2-8d60-4517-9669-8c0ad8217e08",
+      "sku": "881449-010",
+      "brand": "Air Jordan",
+      "name": "Jordan 23 Breakout 'Black Anthracite'",
+      "colorway": "Black/Black/Anthracite",
+      "gender": "men",
+      "silhouette": "Jordan 23 Breakout",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-07",
+      "retailPrice": 115,
+      "estimatedMarketValue": 75,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/043/300/711/original/881449_010.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/043/300/711/original/881449_010.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/043/300/711/original/881449_010.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-23-breakout-black-anthracite-881449-010",
+        "flightClub": " https://flightclub.com/jordan-23-breakout-black-black-anthracite-142826"
+      }
+    },
+    {
+      "id": "cf51a35c-ef60-4d5e-a7b4-30f519b014cc",
+      "sku": "854294-012",
+      "brand": "Air Jordan",
+      "name": "Jordan CP3.X 'Black Gym Red'",
+      "colorway": "Black/Gym Red/White",
+      "gender": "men",
+      "silhouette": "CP3.X",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-07",
+      "retailPrice": 0,
+      "estimatedMarketValue": 229,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/029/682/659/original/854294_012.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/029/682/659/original/854294_012.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/029/682/659/original/854294_012.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-cp3-x-black-gym-red-854294-012",
+        "flightClub": " https://flightclub.com/jordan-cp3-x-black-gym-red-white-142837"
+      }
+    },
+    {
+      "id": "d87c3ddd-1f1c-4946-afa5-5290fe8fbe9f",
+      "sku": "H013-MNJDLS-535747480",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 5 Retro 'Fab Five' PE",
+      "colorway": "Amarillo/Black",
+      "gender": "men",
+      "silhouette": "Air Jordan 5",
+      "releaseYear": 2017,
+      "releaseDate": "2017-05-01",
+      "retailPrice": 0,
+      "estimatedMarketValue": 14000,
+      "story": "This Air Jordan 5 Retro PE was designed by Tinker Hatfield and Dan Sunwoo to pay tribute to the Michigan Wolverines’ unforgettable ‘Fab Five’ team of the ‘90s which included Chris Webber, Jalen Rose, Juwan Howard, Jimmy King, and Ray Jackson. This sought-after Players Edition features signature Michigan team colors throughout in addition to signature elements including “Hail To” and “The Victors” stitched on the right and left tongue labels as well as a Fab Five hand gesture graphic logo on the heels.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/041/467/638/original/178186_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/041/467/638/original/178186_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/041/467/638/original/178186_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-5-retro-fab-five-pe-h013-mnjdls-535747480",
+        "flightClub": " https://flightclub.com/air-jordan-5-retro-pe-amarillo-black-806294"
+      }
+    },
+    {
+      "id": "35519379-21c6-4b2c-8098-6c0629f12b7e",
+      "sku": "442961-018",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 7 Retro PS 'Hyper Pink'",
+      "colorway": "Black/Hyper Pink-Hyper Pink",
+      "gender": "youth",
+      "silhouette": "Air Jordan 7",
+      "releaseYear": 2017,
+      "releaseDate": "2017-04-29",
+      "retailPrice": 80,
+      "estimatedMarketValue": 115,
+      "story": "This polarizing Air Jordan 7 Retro PS was released exclusively to the kid’s lineup as part of a ‘Hyper Pink’ Pack that included matching versions of the Air Jordan 6 and Air Jordan 13 in 2017. With its premium leather upper dipped entirely in black, Hyper Pink accents are left to take over branding elements at the tongue, ankle, heel, and jagged midsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/003/861/487/original/442961_018.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/003/861/487/original/442961_018.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/003/861/487/original/442961_018.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-7-retro-ps-hyper-pink-442961-018",
+        "flightClub": " https://flightclub.com/jordan-7-retro-gp-black-hyper-pink-hyper-pink-805974"
+      }
+    },
+    {
+      "id": "96531b79-61be-4a62-b3e3-2c3a055a90ff",
+      "sku": "304772-400",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 7 Retro TD 'Pantone'",
+      "colorway": "University Blue/White-Black",
+      "gender": "infant",
+      "silhouette": "Air Jordan 7",
+      "releaseYear": 2017,
+      "releaseDate": "2017-04-29",
+      "retailPrice": 55,
+      "estimatedMarketValue": 65,
+      "story": "Drawing inspiration from Michael Jordan’s University of North Carolina alma mater, the Air Jordan 7 Retro TD ‘Pantone’ appears with a University Blue rendering on the upper’s nubuck construction. White accents emerge on the midsole and Jumpman branding to provide a good color contrast.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/038/121/835/original/304772_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/038/121/835/original/304772_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/038/121/835/original/304772_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-7-retro-td-pantone-304772-400",
+        "flightClub": " https://flightclub.com/jordan-7-retro-bt-td-university-blue-white-black-802253"
+      }
+    },
+    {
+      "id": "a7419858-4ab5-4c08-bae2-638072609531",
+      "sku": "705418-018",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 7 Retro TD 'Hyper Pink'",
+      "colorway": "Black/Hyper Pink-Hyper Pink",
+      "gender": "infant",
+      "silhouette": "Air Jordan 7",
+      "releaseYear": 2017,
+      "releaseDate": "2017-04-29",
+      "retailPrice": 60,
+      "estimatedMarketValue": 90,
+      "story": "Jordan Brand readies Michael Jordan’s seventh silhouette in a toddler-specific offering that’s prepared with a black tumbled leather application. Accented by Hyper Pink on the midsole and Jumpman branding, Air is encapsulated in the midsole. Jordan himself wore the 7 during the 1992 season, when he led the Bulls to another championship as well as the US to a gold medal at the Barcelona Games.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/003/861/501/original/705418_018.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/003/861/501/original/705418_018.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/003/861/501/original/705418_018.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-7-retro-td-hyper-pink-705418-018",
+        "flightClub": " https://flightclub.com/jordan-7-retro-gt-black-hyper-pink-hyper-pink-156922"
+      }
+    },
+    {
+      "id": "bef357ce-a18e-45ce-bc6b-3e296318e5db",
+      "sku": "304773-400",
+      "brand": "Air Jordan",
+      "name": "Air Jordan 7 Retro PS 'Pantone'",
+      "colorway": "University Blue/White-Black",
+      "gender": "youth",
+      "silhouette": "Air Jordan 7",
+      "releaseYear": 2017,
+      "releaseDate": "2017-04-29",
+      "retailPrice": 75,
+      "estimatedMarketValue": 65,
+      "story": "The Air Jordan 7 Retro PS ‘Pantone’ celebrates Michael Jordan’s playing days with the University of North Carolina Tar Heels, featuring a University Blue rendering on the upper’s leather construction. Contrasting white accents appear on the Jumpman logos and midsole, while the Air cushioning is hidden inside the angular midsole design.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/003/459/868/original/304773_400.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/003/459/868/original/304773_400.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/003/459/868/original/304773_400.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-jordan-7-retro-ps-pantone-304773-400",
+        "flightClub": " https://flightclub.com/air-jordan-7-retro-ps-pantone-university-blue-white-black-801229"
+      }
+    },
+    {
+      "id": "f3712174-753a-4db8-a35c-b5d714de7339",
+      "sku": "881463-100",
+      "brand": "Air Jordan",
+      "name": "Jordan Trainer Prime 'Pure Platinum'",
+      "colorway": "White/Pure Platinum",
+      "gender": "men",
+      "silhouette": "Jordan Trainer",
+      "releaseYear": 2017,
+      "releaseDate": "2017-04-28",
+      "retailPrice": 110,
+      "estimatedMarketValue": 60,
+      "story": "Appearing in this ‘Pure Platinum’ color scheme, the Jordan Trainer Prime is designed with a sleek mesh upper construction that’s meant to increase ventilation. The sockliner features a Dynamic Fit neoprene application, while the Cushlon midsole gives way to triangular flex grooves on the outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/006/267/750/original/881463_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/006/267/750/original/881463_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/006/267/750/original/881463_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-trainer-prime-881463-100",
+        "flightClub": " https://flightclub.com/jordan-trainer-prime-881463-100"
+      }
+    },
+    {
+      "id": "10910632-3947-46a4-b72e-0dbf1f815b48",
+      "sku": "323399-009",
+      "brand": "Air Jordan",
+      "name": "Jordan 6 Rings GS 'Pink Flash'",
+      "colorway": "White/Pure Platinum-Pink Flash-Black",
+      "gender": "youth",
+      "silhouette": "Jordan 6 Rings",
+      "releaseYear": 2017,
+      "releaseDate": "2017-04-25",
+      "retailPrice": 130,
+      "estimatedMarketValue": 80,
+      "story": "Released exclusively in girls grade school sizing, the Jordan 6 gets an eccentric colorway with retro qualities. The Jordan 6 Rings GS &#39;Pink Flash&#39; features a smooth white leather upper with Pure Platinum overlays on the lace system and Pink Flash accents on the heel and tongue branding. The sneaker also boasts an ankle strap linked to the lace cage for a locked down fit.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/003/515/988/original/323399_009.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/003/515/988/original/323399_009.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/003/515/988/original/323399_009.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-6-rings-gs-pink-flash-323399-009",
+        "flightClub": " https://flightclub.com/jordan-6-rings-gs-pink-flash-323399-009"
+      }
+    },
+    {
+      "id": "2b8568e4-2620-47fb-a560-10014aa4d7fe",
+      "sku": "897988-430",
+      "brand": "Air Jordan",
+      "name": "Jordan Express",
+      "colorway": "Ice Blue/White-Ice Blue",
+      "gender": "men",
+      "silhouette": "Jordan Express",
+      "releaseYear": 2017,
+      "releaseDate": "2017-04-24",
+      "retailPrice": 110,
+      "estimatedMarketValue": 110,
+      "story": "The Jordan Express is a lifestyle offering that borrows subtle design details from the Jordan 4, including the lines of the midsole and the grid-like caging system that helps wrap the foot. Equipped with a white and Ice Blue color scheme that gives the nod to Michael Jordan’s University of North Carolina alma mater, the shoe also implements a sleek mesh upper supported by an asymmetrical lacing system.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/003/483/210/original/897988_430.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/003/483/210/original/897988_430.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/003/483/210/original/897988_430.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-express-897988-430",
+        "flightClub": " https://flightclub.com/jordan-express-897988-430"
+      }
+    },
+    {
+      "id": "57e28ba3-1e88-4f33-a83f-37e5ec8f425c",
+      "sku": "897988-601",
+      "brand": "Air Jordan",
+      "name": "Jordan Express 'Gym Red'",
+      "colorway": "Gym Red/Black-White",
+      "gender": "men",
+      "silhouette": "Jordan Express",
+      "releaseYear": 2017,
+      "releaseDate": "2017-04-24",
+      "retailPrice": 110,
+      "estimatedMarketValue": 92,
+      "story": "Introduced in 2017, the Jordan Express combines minimalistic styling with ergonomic innovation. Seen here in a classic red, white, and black combination, the lifestyle silhouette features a one-piece mesh upper with slip-on functionality and a synthetic heel wrap for added security. Underfoot, Phylon foam offers a lightweight, cushioned ride atop strategically placed rubber outsole pods for grip.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/003/483/211/original/897988_601.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/003/483/211/original/897988_601.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/003/483/211/original/897988_601.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-express-897988-601",
+        "flightClub": " https://flightclub.com/jordan-express-897988-601"
+      }
+    },
+    {
+      "id": "c06c9229-786e-4ea3-8d47-a81354a7bd5f",
+      "sku": "897988-100",
+      "brand": "Air Jordan",
+      "name": "Jordan Express",
+      "colorway": "White/White-Pure Platinum",
+      "gender": "men",
+      "silhouette": "Jordan Express",
+      "releaseYear": 2017,
+      "releaseDate": "2017-04-24",
+      "retailPrice": 110,
+      "estimatedMarketValue": 105,
+      "story": "The Jordan Express borrows familiar designs details from some of the most iconic Jordans ever seen on the court. Featuring a Triple White color scheme, the shoe incorporates the multi-eyelet wing-flap that’s similar to the Jordan 4, while the asymmetrical lacing system resembles the Jordan 10. The shoe is also constructed with a sock-like design that wraps the midfoot, with mesh paneling to promote breathability.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/003/483/209/original/897988_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/003/483/209/original/897988_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/003/483/209/original/897988_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-express-897988-100",
+        "flightClub": " https://flightclub.com/jordan-express-897988-100"
+      }
+    }
+  ]
+}

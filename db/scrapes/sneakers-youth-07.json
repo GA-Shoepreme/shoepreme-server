@@ -1,0 +1,2405 @@
+{
+  "count": 12199,
+  "results": [
+    {
+      "id": "f8c2e484-de6e-4f0a-b4df-76d6058bc4f9",
+      "sku": "671094C",
+      "brand": "Converse",
+      "name": "Chuck Taylor All Star High GS 'My Wish'",
+      "colorway": "White/Pink/Silver",
+      "gender": "youth",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-19",
+      "retailPrice": 40,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/232/823/original/671094C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/232/823/original/671094C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/232/823/original/671094C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-gs-my-wish-671094c",
+        "flightClub": " https://flightclub.com/chuck-taylor-all-star-high-gs-my-wish-671094c"
+      }
+    },
+    {
+      "id": "1ccd6cba-dc2b-4a11-a5a6-3a8e78fd239d",
+      "sku": "844766-015",
+      "brand": "Nike",
+      "name": "Presto PS 'Anthracite Black'",
+      "colorway": "Anthracite/Black/Cool Grey/Black",
+      "gender": "youth",
+      "silhouette": "Air Presto",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 75,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/174/original/844766_015.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/174/original/844766_015.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/174/original/844766_015.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/presto-ps-anthracite-black-844766-015",
+        "flightClub": " https://flightclub.com/presto-ps-anthracite-black-844766-015"
+      }
+    },
+    {
+      "id": "1df78235-cebc-4b78-998f-019bd4dc7ed3",
+      "sku": "CT4630-004",
+      "brand": "Nike",
+      "name": "LeBron Witness 5 PS 'Black Light Blue Fury'",
+      "colorway": "Black/Green Strike/Light Blue Fury/Lagoon Pulse",
+      "gender": "youth",
+      "silhouette": "LeBron Witness 5",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 70,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/215/original/CT4630_004.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/215/original/CT4630_004.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/215/original/CT4630_004.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/lebron-witness-5-ps-black-light-blue-fury-ct4630-004",
+        "flightClub": " https://flightclub.com/lebron-witness-5-ps-black-light-blue-fury-ct4630-004"
+      }
+    },
+    {
+      "id": "2d7a73d9-4954-4607-9cb8-97063008a4ab",
+      "sku": "AT4662-606",
+      "brand": "Nike",
+      "name": "Flex Runner GS 'Fireberry Purple Pulse'",
+      "colorway": "Fireberry/Football Grey/White/Purple Pulse",
+      "gender": "youth",
+      "silhouette": "Flex Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 50,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/196/original/AT4662_606.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/196/original/AT4662_606.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/196/original/AT4662_606.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-runner-gs-fireberry-purple-pulse-at4662-606",
+        "flightClub": " https://flightclub.com/flex-runner-gs-fireberry-purple-pulse-at4662-606"
+      }
+    },
+    {
+      "id": "6c4ff77a-9e28-466b-8dfc-60d420aad9fa",
+      "sku": "AO7938-104",
+      "brand": "Nike",
+      "name": "HyperDiamond 3 Keystone GS 'White Pure Platinum'",
+      "colorway": "White/Pure Platinum/Light Smoke Grey",
+      "gender": "youth",
+      "silhouette": "HyperDiamond",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 30,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/182/499/original/AO7938_104.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/182/499/original/AO7938_104.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/182/499/original/AO7938_104.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/hyperdiamond-3-keystone-gs-white-pure-platinum-ao7938-104",
+        "flightClub": " https://flightclub.com/hyperdiamond-3-keystone-gs-white-pure-platinum-ao7938-104"
+      }
+    },
+    {
+      "id": "6fb2738d-fa4a-4892-ba44-90b17584c725",
+      "sku": "BQ5671-403",
+      "brand": "Nike",
+      "name": "Revolution 5 GS 'Game Royal Light Smoke Grey'",
+      "colorway": "Game Royal/White/Light Smoke Grey",
+      "gender": "youth",
+      "silhouette": "Revolution 5",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 60,
+      "estimatedMarketValue": 79,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/182/510/original/BQ5671_403.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/182/510/original/BQ5671_403.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/182/510/original/BQ5671_403.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/revolution-5-gs-game-royal-light-smoke-grey-bq5671-403",
+        "flightClub": " https://flightclub.com/revolution-5-gs-game-royal-light-smoke-grey-bq5671-403"
+      }
+    },
+    {
+      "id": "8287bd1a-7460-4072-bc00-19acff6af699",
+      "sku": "FY7199",
+      "brand": "adidas",
+      "name": "Daily 3.0 J 'Crew Navy Acid Yellow'",
+      "colorway": "Crew Navy/Acid Yellow/Halo Silver",
+      "gender": "youth",
+      "silhouette": "Daily 3.0",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 55,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/182/548/original/FY7199.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/182/548/original/FY7199.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/182/548/original/FY7199.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/daily-3-0-j-crew-navy-acid-yellow-fy7199",
+        "flightClub": " https://flightclub.com/daily-3-0-j-crew-navy-acid-yellow-fy7199"
+      }
+    },
+    {
+      "id": "92e14e05-b667-49f8-bb02-7d19788888d4",
+      "sku": "DC2019-001",
+      "brand": "Nike",
+      "name": "Flex Runner GS 'Black Glacier Ice'",
+      "colorway": "Black/Glacier Ice/Barely Volt/Pure Platinum",
+      "gender": "youth",
+      "silhouette": "Flex Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 50,
+      "estimatedMarketValue": 40,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/238/original/DC2019_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/238/original/DC2019_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/238/original/DC2019_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-runner-gs-black-glacier-ice-dc2019-001",
+        "flightClub": " https://flightclub.com/flex-runner-gs-black-glacier-ice-dc2019-001"
+      }
+    },
+    {
+      "id": "9a4dbf3b-718d-49ca-947c-168cce6c73a8",
+      "sku": "AR4135-016",
+      "brand": "Nike",
+      "name": "Downshifter 9 GS 'Black Active Fuchsia'",
+      "colorway": "Black/Active Fuchsia/White",
+      "gender": "youth",
+      "silhouette": "Downshifter",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 58,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/182/500/original/AR4135_016.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/182/500/original/AR4135_016.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/182/500/original/AR4135_016.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/downshifter-9-gs-black-active-fuchsia-ar4135-016",
+        "flightClub": " https://flightclub.com/downshifter-9-gs-black-active-fuchsia-ar4135-016"
+      }
+    },
+    {
+      "id": "9cae6892-298d-4946-b611-a240e5a19ad7",
+      "sku": "AO7938-009",
+      "brand": "Nike",
+      "name": "HyperDiamond 3 Keystone GS 'Black Iron Grey'",
+      "colorway": "Black/Iron Grey/Smoke Grey/White",
+      "gender": "youth",
+      "silhouette": "HyperDiamond",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 30,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/182/498/original/AO7938_009.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/182/498/original/AO7938_009.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/182/498/original/AO7938_009.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/hyperdiamond-3-keystone-gs-black-iron-grey-ao7938-009",
+        "flightClub": " https://flightclub.com/hyperdiamond-3-keystone-gs-black-iron-grey-ao7938-009"
+      }
+    },
+    {
+      "id": "a33739be-c8b1-4bc1-abbd-a11f0dcf5ca5",
+      "sku": "AT4662-003",
+      "brand": "Nike",
+      "name": "Flex Runner GS 'Black'",
+      "colorway": "Black/Anthracite",
+      "gender": "youth",
+      "silhouette": "Flex Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/191/original/AT4662_003.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/191/original/AT4662_003.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/191/original/AT4662_003.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-runner-gs-black-at4662-003",
+        "flightClub": " https://flightclub.com/flex-runner-gs-black-at4662-003"
+      }
+    },
+    {
+      "id": "ab2b9e31-ed63-41ea-83bb-fb7cb590b45d",
+      "sku": "FX7272",
+      "brand": "adidas",
+      "name": "Daily 3.0 J 'Core Black Red'",
+      "colorway": "Core Black/Core Black/Grey Two",
+      "gender": "youth",
+      "silhouette": "Daily 3.0",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 55,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/182/547/original/FX7272.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/182/547/original/FX7272.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/182/547/original/FX7272.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/daily-3-0-j-core-black-red-fx7272",
+        "flightClub": " https://flightclub.com/daily-3-0-j-core-black-red-fx7272"
+      }
+    },
+    {
+      "id": "b3dde677-7862-4700-aa6c-5c875654ac0e",
+      "sku": "AT4662-019",
+      "brand": "Nike",
+      "name": "Flex Runner GS 'Smoke Grey Volt'",
+      "colorway": "Smoke Grey/Black/White/Volt",
+      "gender": "youth",
+      "silhouette": "Flex Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/193/original/AT4662_019.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/193/original/AT4662_019.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/193/original/AT4662_019.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-runner-gs-smoke-grey-volt-at4662-019",
+        "flightClub": " https://flightclub.com/flex-runner-gs-smoke-grey-volt-at4662-019"
+      }
+    },
+    {
+      "id": "b5a95557-dfa0-4c4a-90c1-550ccb043c9c",
+      "sku": "CZ4984-104",
+      "brand": "Nike",
+      "name": "Vapor Ultrafly 3 Keystone GS 'White Light Smoke Grey'",
+      "colorway": "White/White/Light Smoke Grey",
+      "gender": "youth",
+      "silhouette": "Vapor Ultrafly",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 30,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/182/527/original/CZ4984_104.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/182/527/original/CZ4984_104.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/182/527/original/CZ4984_104.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/vapor-ultrafly-3-keystone-gs-white-light-smoke-grey-cz4984-104",
+        "flightClub": " https://flightclub.com/vapor-ultrafly-3-keystone-gs-white-light-smoke-grey-cz4984-104"
+      }
+    },
+    {
+      "id": "ee34fc80-00c1-4dd5-b6b4-e25a4e6f915f",
+      "sku": "CZ4984-009",
+      "brand": "Nike",
+      "name": "Vapor Ultrafly 3 Keystone GS 'Black'",
+      "colorway": "Black/Iron Grey/White",
+      "gender": "youth",
+      "silhouette": "Vapor Ultrafly",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 30,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/182/526/original/CZ4984_009.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/182/526/original/CZ4984_009.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/182/526/original/CZ4984_009.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/vapor-ultrafly-3-keystone-gs-black-cz4984-009",
+        "flightClub": " https://flightclub.com/vapor-ultrafly-3-keystone-gs-black-cz4984-009"
+      }
+    },
+    {
+      "id": "f5596a68-a786-4ebe-a8de-be10a38b5a05",
+      "sku": "CT4630-300",
+      "brand": "Nike",
+      "name": "LeBron Witness 5 PS 'Grinch'",
+      "colorway": "Lime Glow/Bright Mango/White/Black",
+      "gender": "youth",
+      "silhouette": "LeBron Witness 5",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-18",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/216/original/CT4630_300.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/216/original/CT4630_300.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/216/original/CT4630_300.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/lebron-witness-5-ps-grinch-ct4630-300",
+        "flightClub": " https://flightclub.com/lebron-witness-5-ps-grinch-ct4630-300"
+      }
+    },
+    {
+      "id": "48576fcd-e8f7-4fd9-90ef-7d9e13632e26",
+      "sku": "DB2812-100",
+      "brand": "Nike",
+      "name": "Air Force 1/1 GS 'White'",
+      "colorway": "White/Black/White",
+      "gender": "youth",
+      "silhouette": "Air Force 1/1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-17",
+      "retailPrice": 100,
+      "estimatedMarketValue": 84,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/234/original/DB2812_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/234/original/DB2812_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/234/original/DB2812_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-force-1-1-gs-white-db2812-100",
+        "flightClub": " https://flightclub.com/air-force-1-1-gs-white-db2812-100"
+      }
+    },
+    {
+      "id": "766b6b7f-0889-4cbe-8337-f18ef67414d2",
+      "sku": "FY8910",
+      "brand": "adidas",
+      "name": "Hoops Mid 2.0 J 'White Clear Lilac'",
+      "colorway": "Cloud White/Clear Lilac/Grey Two",
+      "gender": "youth",
+      "silhouette": "Hoops 2.0",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-17",
+      "retailPrice": 55,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/082/031/original/FY8910.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/082/031/original/FY8910.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/082/031/original/FY8910.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/hoops-mid-2-0-j-white-clear-lilac-fy8910",
+        "flightClub": " https://flightclub.com/hoops-mid-2-0-j-white-clear-lilac-fy8910"
+      }
+    },
+    {
+      "id": "96e6224e-96b2-4ba0-8d2b-3db82af7a8c7",
+      "sku": "AT4662-607",
+      "brand": "Nike",
+      "name": "Flex Runner GS 'University Red Black'",
+      "colorway": "University Red/Black/White/University Red",
+      "gender": "youth",
+      "silhouette": "Flex Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-17",
+      "retailPrice": 50,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/197/original/AT4662_607.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/197/original/AT4662_607.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/197/original/AT4662_607.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/flex-runner-gs-university-red-black-at4662-607",
+        "flightClub": " https://flightclub.com/flex-runner-gs-university-red-black-at4662-607"
+      }
+    },
+    {
+      "id": "f36fa893-41e9-4d5a-b201-b3ea812337cb",
+      "sku": "FY8914",
+      "brand": "adidas",
+      "name": "Hoops 2.0 J 'White Clear Lilac'",
+      "colorway": "Cloud White/Clear Lilac/Grey Two",
+      "gender": "youth",
+      "silhouette": "Hoops 2.0",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-17",
+      "retailPrice": 50,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/082/032/original/FY8914.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/082/032/original/FY8914.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/082/032/original/FY8914.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/hoops-2-0-j-white-clear-lilac-fy8914",
+        "flightClub": " https://flightclub.com/hoops-2-0-j-white-clear-lilac-fy8914"
+      }
+    },
+    {
+      "id": "15c0e002-d387-4ee2-b917-1b53c12e1727",
+      "sku": "368694-01",
+      "brand": "Puma",
+      "name": "RS-X3 Jr 'Neon Flame'",
+      "colorway": "Black/High Risk Red",
+      "gender": "youth",
+      "silhouette": "RS-X3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-16",
+      "retailPrice": 70,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/232/792/original/368694_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/232/792/original/368694_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/232/792/original/368694_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/rs-x3-jr-neon-flame-368694-01",
+        "flightClub": " https://flightclub.com/rs-x3-jr-neon-flame-368694-01"
+      }
+    },
+    {
+      "id": "27d75ece-aff5-4a3e-b205-b83ebe92d2bd",
+      "sku": "375742-02",
+      "brand": "Puma",
+      "name": "Peanuts x R78 Jr 'Snoopy, Woodstock and Charlie Brown - Apricot Blush'",
+      "colorway": "Apricot Blush/White/Maize",
+      "gender": "youth",
+      "silhouette": "R78",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-16",
+      "retailPrice": 55,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/090/388/original/375742_02.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/090/388/original/375742_02.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/090/388/original/375742_02.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/peanuts-x-r78-jr-snoopy-woodstock-and-charlie-brown-apricot-blush-375742-02",
+        "flightClub": " https://flightclub.com/peanuts-x-r78-jr-snoopy-woodstock-and-charlie-brown-apricot-blush-375742-02"
+      }
+    },
+    {
+      "id": "388b1581-09bb-4d56-bb28-33bc9a9a9ff8",
+      "sku": "CU5287-100",
+      "brand": "Nike",
+      "name": "Force 1 Toggle PS 'White Hyper Royal'",
+      "colorway": "White/Hyper Royal/White",
+      "gender": "youth",
+      "silhouette": "Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-16",
+      "retailPrice": 55,
+      "estimatedMarketValue": 85,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/939/original/CU5287_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/939/original/CU5287_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/939/original/CU5287_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-1-toggle-ps-white-hyper-royal-cu5287-100",
+        "flightClub": " https://flightclub.com/force-1-toggle-ps-white-hyper-royal-cu5287-100"
+      }
+    },
+    {
+      "id": "58ec2ae5-aaf1-42df-9421-df47ec050a2a",
+      "sku": "375742-01",
+      "brand": "Puma",
+      "name": "Peanuts x R78 Jr 'Snoopy, Woodstock and Charlie Brown - Peacoat'",
+      "colorway": "Black/White/Peacoat",
+      "gender": "youth",
+      "silhouette": "R78",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-16",
+      "retailPrice": 55,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/090/385/original/375742_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/090/385/original/375742_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/090/385/original/375742_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/peanuts-x-r78-jr-snoopy-woodstock-and-charlie-brown-peacoat-375742-01",
+        "flightClub": " https://flightclub.com/peanuts-x-r78-jr-snoopy-woodstock-and-charlie-brown-peacoat-375742-01"
+      }
+    },
+    {
+      "id": "6894b1e0-e9bd-435f-9677-f8de4bf567d9",
+      "sku": "DD9286-100",
+      "brand": "Nike",
+      "name": "Air More Uptempo PS 'Roswell Raygun'",
+      "colorway": "White/University Gold/Team Orange",
+      "gender": "youth",
+      "silhouette": "Air More Uptempo",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-16",
+      "retailPrice": 0,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/784/868/original/DD9286_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/784/868/original/DD9286_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/784/868/original/DD9286_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-more-uptempo-ps-roswell-raygun-dd9286-100",
+        "flightClub": " https://flightclub.com/air-more-uptempo-ps-roswell-raygun-dd9286-100"
+      }
+    },
+    {
+      "id": "907e881a-8b25-4b7e-b265-0b9fbb211c72",
+      "sku": "669307C",
+      "brand": "Converse",
+      "name": "Chuck Taylor All Star High GS 'Yeti, Set, GO!'",
+      "colorway": "Vintage White/Egret/Black",
+      "gender": "youth",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-16",
+      "retailPrice": 45,
+      "estimatedMarketValue": 45,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/825/original/669307C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/825/original/669307C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/825/original/669307C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-gs-yeti-set-go-669307c",
+        "flightClub": " https://flightclub.com/chuck-taylor-all-star-high-gs-yeti-set-go-669307c"
+      }
+    },
+    {
+      "id": "ace121ae-7b49-4aad-9b0a-e33230a018c2",
+      "sku": "FW4017",
+      "brand": "adidas",
+      "name": "Superstar Pure K 'Colorful Trefoil - Cloud White'",
+      "colorway": "Cloud White/Red/Blue",
+      "gender": "youth",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-16",
+      "retailPrice": 50,
+      "estimatedMarketValue": 85,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/981/original/FW4017.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/981/original/FW4017.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/981/original/FW4017.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-pure-k-colorful-trefoil-cloud-white-fw4017",
+        "flightClub": " https://flightclub.com/superstar-pure-k-colorful-trefoil-cloud-white-fw4017"
+      }
+    },
+    {
+      "id": "230de635-69f6-4be8-b713-8a6f4793a633",
+      "sku": "FW4008",
+      "brand": "adidas",
+      "name": "Superstar Pure J 'Colorful Trefoil - Cloud White'",
+      "colorway": "Cloud White/Red/Blue",
+      "gender": "youth",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 60,
+      "estimatedMarketValue": 216,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/980/original/FW4008.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/980/original/FW4008.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/980/original/FW4008.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/superstar-pure-j-colorful-trefoil-cloud-white-fw4008",
+        "flightClub": " https://flightclub.com/superstar-pure-j-colorful-trefoil-cloud-white-fw4008"
+      }
+    },
+    {
+      "id": "4f7f55ad-42a0-4184-af49-940eef38fe5c",
+      "sku": "1044A018-702",
+      "brand": "ASICS",
+      "name": "Gel Resolution 8 GS 'Pink Cameo'",
+      "colorway": "Pink Cameo/White",
+      "gender": "youth",
+      "silhouette": "Gel Resolution",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 80,
+      "estimatedMarketValue": 150,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/232/749/original/1044A018_702.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/232/749/original/1044A018_702.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/232/749/original/1044A018_702.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/gel-resolution-8-gs-pink-cameo-1044a018-702",
+        "flightClub": " https://flightclub.com/gel-resolution-8-gs-pink-cameo-1044a018-702"
+      }
+    },
+    {
+      "id": "63215d80-cfdd-4e72-a434-1dc79abd49d6",
+      "sku": "DD9532-100",
+      "brand": "Nike",
+      "name": "Air Force 1 LV8 PS 'Roswell Rayguns'",
+      "colorway": "White/Orange Flash/Amarillo/Black",
+      "gender": "youth",
+      "silhouette": "Air Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 90,
+      "estimatedMarketValue": 60,
+      "story": "Built for little kids, the Nike Air Force 1 LV8 PS ‘Roswell Rayguns’ celebrates the sneaker’s hardwood roots, incorporating the signature colors of a fictional ‘70s ABA team featured in a Nike Basketball campaign from 2002. The Roswell Rayguns’ basketball logo adorns the orange textile heel, contrasted by a yellow Nike branded heel tab and zigzag yellow stitching around the black Swoosh. The rest of the upper is constructed from crisp white leather, matching the sidewalls of the durable rubber cupsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/607/original/DD9532_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/607/original/DD9532_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/607/original/DD9532_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-force-1-lv8-ps-roswell-rayguns-dd9532-100",
+        "flightClub": " https://flightclub.com/air-force-1-lv8-ps-roswell-rayguns-dd9532-100"
+      }
+    },
+    {
+      "id": "649ce05d-af73-4433-8df6-908c21ef4e86",
+      "sku": "CW2760-900",
+      "brand": "Nike",
+      "name": "LeBron 18 GS 'Graffiti'",
+      "colorway": "Multi-Color/Black/Chlorine Blue",
+      "gender": "youth",
+      "silhouette": "LeBron 18",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 160,
+      "estimatedMarketValue": 114,
+      "story": "Built for big kids, the Nike LeBron 18 GS ‘Graffiti’ showcases a pastel lavender finish on a breathable KnitPosite upper, secured with interior cables integrated into the laces for a locked-in fit. A molded black TPU heel counter delivers added stability, while a pink-tinged Max Air unit provides lightweight cushioning. Underfoot, a two-tone semi-translucent outsole provides optimal grip. A graffiti-like ‘James Gang’ graphic on the custom sockliner represents the finishing touch.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/047/997/982/original/CW2760_900.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/047/997/982/original/CW2760_900.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/047/997/982/original/CW2760_900.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/lebron-18-gs-graffiti-cw2760-900",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "6b904bd0-ced9-448b-9a72-5a1f14e54646",
+      "sku": "CV0064-100",
+      "brand": "Nike",
+      "name": "Air Max 90 Toggle PS 'Infrared'",
+      "colorway": "White/Neutral Grey/Black/Cool Grey",
+      "gender": "youth",
+      "silhouette": "Air Max 90",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 90,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/945/original/CV0064_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/945/original/CV0064_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/945/original/CV0064_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-90-toggle-ps-infrared-cv0064-100",
+        "flightClub": " https://flightclub.com/air-max-90-toggle-ps-infrared-cv0064-100"
+      }
+    },
+    {
+      "id": "75c1474d-f81d-43d7-aa9b-ddd6105e454e",
+      "sku": "FX2255",
+      "brand": "adidas",
+      "name": "EQ21 Run Velcro J 'Screaming Pink'",
+      "colorway": "Screaming Pink/Screaming Orange/Cloud White",
+      "gender": "youth",
+      "silhouette": "EQ21 Run",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 55,
+      "estimatedMarketValue": 101,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/991/original/FX2255.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/991/original/FX2255.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/991/original/FX2255.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/eq21-run-k-screaming-pink-fx2255",
+        "flightClub": " https://flightclub.com/eq21-run-k-screaming-pink-fx2255"
+      }
+    },
+    {
+      "id": "8f5172ae-c44d-41f2-9fa8-1e015a3abf5b",
+      "sku": "DD9530-100",
+      "brand": "Nike",
+      "name": "Air Force 1 LV8 GS 'Roswell Rayguns'",
+      "colorway": "White/Orange Flash/Amarillo/Black",
+      "gender": "youth",
+      "silhouette": "Air Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 90,
+      "estimatedMarketValue": 45,
+      "story": "Made for big kids, the Nike Air Force 1 LV8 G ‘Roswell Rayguns’ borrows a design theme originally featured on a Nike SB Dunk from 2005, itself inspired by a fictional ‘70s ABA team that was the focus of a 2002 Nike Basketball campaign. This pair makes use of a white leather upper accented with a contrasting black Swoosh surrounded by yellow zigzag stitching. A textile heel overlay in Orange Flash is embellished with a Rayguns basketball graphic on the lateral side, while the team name is emblazoned on the sockliner of the left shoe.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/606/original/DD9530_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/606/original/DD9530_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/606/original/DD9530_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-force-1-lv8-gs-roswell-rayguns-dd9530-100",
+        "flightClub": " https://flightclub.com/air-force-1-lv8-gs-roswell-rayguns-dd9530-100"
+      }
+    },
+    {
+      "id": "93940eb4-9e00-4e8b-88c1-d62f2bb5d8ec",
+      "sku": "FY1487",
+      "brand": "adidas",
+      "name": "FortaRun X J 'Polka Dot'",
+      "colorway": "Core Black/Glow Pink/Cloud White",
+      "gender": "youth",
+      "silhouette": "FortaRun",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 55,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/082/017/original/FY1487.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/082/017/original/FY1487.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/082/017/original/FY1487.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/fortarun-x-j-polka-dot-fy1487",
+        "flightClub": " https://flightclub.com/fortarun-x-j-polka-dot-fy1487"
+      }
+    },
+    {
+      "id": "9e1ac3c8-6347-4c27-b5f7-0a3682241f3d",
+      "sku": "271168C",
+      "brand": "Converse",
+      "name": "Pro Leather High GS 'Roswell Rayguns'",
+      "colorway": "Black/University Gold/White",
+      "gender": "youth",
+      "silhouette": "Pro Leather",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 70,
+      "estimatedMarketValue": 70,
+      "story": "Built for grade schoolers, the Converse Pro Leather High GS ‘Roswell Rayguns’ dresses the retro silhouette in the colors of a fictional ‘70s ABA team that was featured in a Nike Basketball campaign from 2002. The high-top makes use of a black leather upper, accented with yellow Star Chevron branding on the lateral side and swooping yellow and orange racing stripes on the medial side. ‘Roswell’ and ‘Rayguns’ are printed across heel tab, while the team’s basketball logo adorns the lateral heel.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/501/original/271168C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/501/original/271168C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/501/original/271168C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/pro-leather-high-gs-roswell-rayguns-271168c",
+        "flightClub": " https://flightclub.com/pro-leather-high-gs-roswell-rayguns-271168c"
+      }
+    },
+    {
+      "id": "9e8f6f99-c222-467d-8269-5a22912c8fd6",
+      "sku": "CT4710-900",
+      "brand": "Nike",
+      "name": "LeBron 18 PS 'Graffiti'",
+      "colorway": "Multi-Color/Black/Chlorine Blue",
+      "gender": "youth",
+      "silhouette": "LeBron 18",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 95,
+      "estimatedMarketValue": 140,
+      "story": "The Nike LeBron 18 PS ‘Graffiti’ offers a colorful, scaled-down interpretation of LeBron James’ eighteenth signature shoe built for little kids. A pastel lavender hue is applied to the textile upper, fortified with a contrasting black molded heel piece. Lightweight cushioning arrives via a full-length foam midsole, supported by a grippy rubber outsole that extends from heel to toe. Inside the shoe, a graffiti-like James Gang graphic decorates the custom sockliner.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/897/923/original/CT4710_900.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/897/923/original/CT4710_900.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/897/923/original/CT4710_900.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/lebron-18-ps-graffiti-ct4710-900",
+        "flightClub": " https://flightclub.com/lebron-18-ps-graffiti-ct4710-900"
+      }
+    },
+    {
+      "id": "a59d9439-b600-4a16-a032-aa96a8cb64cf",
+      "sku": "1204A001-008",
+      "brand": "ASICS",
+      "name": "Gel Quantum 360 6 GS 'Black Aizuri Blue'",
+      "colorway": "Black/Aizuri Blue",
+      "gender": "youth",
+      "silhouette": "Gel Quantum 360",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 120,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/133/original/1204A001_008.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/133/original/1204A001_008.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/133/original/1204A001_008.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/gel-quantum-360-6-gs-black-aizuri-blue-1204a001-008",
+        "flightClub": " https://flightclub.com/gel-quantum-360-6-gs-black-aizuri-blue-1204a001-008"
+      }
+    },
+    {
+      "id": "e3831a91-e818-4d0a-ae28-684ced21626f",
+      "sku": "DD9281-001",
+      "brand": "Nike",
+      "name": "Air Raid GS 'Roswell Rayguns'",
+      "colorway": "Black/White/Team Orange/University Gold",
+      "gender": "youth",
+      "silhouette": "Air Raid",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 110,
+      "estimatedMarketValue": 70,
+      "story": "Constructed for big kids, the Nike Air Raid GS ‘Roswell Rayguns’ continues the legend of the ABA team of the same name, originally featured in a Nike Basketball campaign from 2002. The retro outdoor hoops shoe is dressed in the Rayguns’ signature hues, highlighted by an orange mesh base with black nubuck overlays. Signature details include a cross-pull strap system, a high-cut PU midsole and durable carbon-loaded rubber outsole. A Rayguns basketball graphic adorns the sneaker’s woven tongue tag.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/047/923/998/original/DD9281_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/047/923/998/original/DD9281_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/047/923/998/original/DD9281_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-raid-gs-roswell-rayguns-dd9281-001",
+        "flightClub": " https://flightclub.com/air-raid-gs-roswell-rayguns-dd9281-001"
+      }
+    },
+    {
+      "id": "f59acefc-ec55-415c-b49d-96ba806c4229",
+      "sku": "H01204",
+      "brand": "Reebok",
+      "name": "Kung Fu Panda x Club C 85 PS 'Chinese Calligraphy'",
+      "colorway": "Classic White/Paperwhite/Pebble",
+      "gender": "youth",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 0,
+      "estimatedMarketValue": 93,
+      "story": "Offered in preschool sizing, the Kung Fu Panda x Reebok Club C 85 PS ‘Chinese Calligraphy’ is drawn from a capsule collection celebrating the DreamWorks animated film series. Various characters are depicted via tonal graphics throughout the retro sneaker’s off-white leather upper, which is mounted atop an EVA midsole and gum rubber outsole. Vibrant pops of color stand out on the collar lining, while ‘Kung Fu Panda’ is embroidered in English and Chinese lettering on each tongue.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/790/387/original/H01204.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/790/387/original/H01204.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/790/387/original/H01204.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/kung-fu-panda-x-club-c-85-ps-chinese-calligraphy-h01204",
+        "flightClub": " https://flightclub.com/kung-fu-panda-x-club-c-85-ps-chinese-calligraphy-h01204"
+      }
+    },
+    {
+      "id": "fd2bdbd6-b45a-4ad8-9cbd-85077fef545e",
+      "sku": "CT4630-001",
+      "brand": "Nike",
+      "name": "LeBron Witness 5 PS 'Black Metallic Silver'",
+      "colorway": "Black/White/Metallic Silver",
+      "gender": "youth",
+      "silhouette": "LeBron Witness 5",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-15",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/214/original/CT4630_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/214/original/CT4630_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/214/original/CT4630_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/lebron-witness-5-ps-black-metallic-silver-ct4630-001",
+        "flightClub": " https://flightclub.com/lebron-witness-5-ps-black-metallic-silver-ct4630-001"
+      }
+    },
+    {
+      "id": "172816a4-b6e2-4363-a3aa-9c0724a18dff",
+      "sku": "CQ9430-001",
+      "brand": "Air Jordan",
+      "name": "Jordan Why Not Zer0.4 GS 'Family'",
+      "colorway": "Black/White/Metallic Gold",
+      "gender": "youth",
+      "silhouette": "Jordan Why Not Zer0.4",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-14",
+      "retailPrice": 0,
+      "estimatedMarketValue": 119,
+      "story": "Crafted for big kids, the Jordan Why Not Zer0.4 GS ‘Family’ celebrates the people and communities that Russell Westbrook holds dear. Metallic gold accents stand out on a breathable black mesh upper, featuring a lockdown fit via interior straps looped into the lacing system. The lightweight build rides on a contrasting white foam midsole, reinforced with a rubber outsole split into two discrete sections that enhance flexibility while reducing the shoe’s overall weight.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/529/837/original/CQ9430_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/529/837/original/CQ9430_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/529/837/original/CQ9430_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-why-not-zer0-4-gs-family-cq9430-001",
+        "flightClub": " https://flightclub.com/jordan-why-not-zer0-4-gs-family-cq9430-001"
+      }
+    },
+    {
+      "id": "1f1a0109-afd1-4ae6-9674-3d411cb8bdd4",
+      "sku": "FV1991",
+      "brand": "Reebok",
+      "name": "Club C J 'National Ice Cream Day - Sprinkle'",
+      "colorway": "White/Classic Pink/Bright Yellow",
+      "gender": "youth",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-14",
+      "retailPrice": 60,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/976/original/FV1991.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/976/original/FV1991.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/976/original/FV1991.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/club-c-j-national-ice-cream-day-sprinkle-fv1991",
+        "flightClub": " https://flightclub.com/club-c-j-national-ice-cream-day-sprinkle-fv1991"
+      }
+    },
+    {
+      "id": "3ea66e71-8537-479a-abd9-3b6d525a1a42",
+      "sku": "375793-02",
+      "brand": "Puma",
+      "name": "Peanuts x Ralph Sampson Jr 'Snoopy - White Apricot Blush'",
+      "colorway": "White/Black",
+      "gender": "youth",
+      "silhouette": "Ralph Sampson",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-14",
+      "retailPrice": 70,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/797/original/375793_02.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/797/original/375793_02.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/797/original/375793_02.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/peanuts-x-ralph-sampson-jr-snoopy-white-apricot-blush-375793-02",
+        "flightClub": " https://flightclub.com/peanuts-x-ralph-sampson-jr-snoopy-white-apricot-blush-375793-02"
+      }
+    },
+    {
+      "id": "97c1d20a-3929-47ff-9e5d-e180c5ada8b0",
+      "sku": "CT3839-100",
+      "brand": "Nike",
+      "name": "Air Force 1 GS 'White Black'",
+      "colorway": "White/Black",
+      "gender": "youth",
+      "silhouette": "Air Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-14",
+      "retailPrice": 80,
+      "estimatedMarketValue": 94,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/315/806/original/745676_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/315/806/original/745676_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/315/806/original/745676_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-force-1-gs-white-black-ct3839-100",
+        "flightClub": " https://flightclub.com/air-force-1-gs-white-black-ct3839-100"
+      }
+    },
+    {
+      "id": "981aa187-e0a9-4b01-9e4e-22d44bc0d98c",
+      "sku": "375793-01",
+      "brand": "Puma",
+      "name": "Peanuts x Ralph Sampson Jr 'Snoopy - White Grey'",
+      "colorway": "White/Black",
+      "gender": "youth",
+      "silhouette": "Ralph Sampson",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-14",
+      "retailPrice": 70,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/796/original/375793_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/796/original/375793_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/796/original/375793_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/peanuts-x-ralph-sampson-jr-snoopy-white-grey-375793-01",
+        "flightClub": " https://flightclub.com/peanuts-x-ralph-sampson-jr-snoopy-white-grey-375793-01"
+      }
+    },
+    {
+      "id": "07d92dd4-576e-4ecc-a86f-8fb7b7b8df1b",
+      "sku": "323432-008",
+      "brand": "Air Jordan",
+      "name": "Jordan 6 Rings PS 'He Got Game'",
+      "colorway": "Black/University Red/White/Chlorophyll",
+      "gender": "youth",
+      "silhouette": "Jordan 6 Rings",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 80,
+      "estimatedMarketValue": 80,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/566/536/original/323432_008.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/566/536/original/323432_008.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/566/536/original/323432_008.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/jordan-6-rings-ps-he-got-game-323432-008",
+        "flightClub": " https://flightclub.com/jordan-6-rings-ps-he-got-game-323432-008"
+      }
+    },
+    {
+      "id": "1e636e6d-b99f-4008-bc3a-d8eebc678082",
+      "sku": "AQ4225-013",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'Black High Voltage'",
+      "colorway": "Black/Light Smoke Grey/High Voltage",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 55,
+      "estimatedMarketValue": 100,
+      "story": "Designed for little kids, the Nike Team Hustle D9 PS ‘Black High Voltage’ delivers a simple two-tone colorway of a versatile mid-top inspired by classic basketball shoes. A combination of mesh and synthetic leather is utilized on the upper, secured with elastic no-tie laces and an adjustable hook-and-loop strap. Lightweight and flexible cushioning is provided by a full-length foam midsole, reinforced by a grippy rubber outsole that wraps up the sidewalls.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/864/original/AQ4225_013.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/864/original/AQ4225_013.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/864/original/AQ4225_013.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-black-high-voltage-aq4225-013",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-black-high-voltage-aq4225-013"
+      }
+    },
+    {
+      "id": "73fe390c-c4bf-49e4-b8a9-0b3b6fdc6fc8",
+      "sku": "GY2679",
+      "brand": "adidas",
+      "name": "ZX 2K Boost J 'Black White'",
+      "colorway": "Core Black/Core Black/Cloud White",
+      "gender": "youth",
+      "silhouette": "ZX 2K Boost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 120,
+      "estimatedMarketValue": 180,
+      "story": "Built for big kids, the adidas ZX 2K Boost J ‘Black White’ applies rudimentary tones to a lifestyle runner that channels the performance spirit of adidas’ long-running ZX franchise. The sneaker’s black mesh upper is contrasted by a white synthetic leather heel overlay, along with matching white cables integrated into the lacing system for a locked-in fit. The full-length Boost midsole is painted black and encased in semi-translucent TPU that wraps around the heel and extends to the midfoot.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/082/064/original/GY2679.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/082/064/original/GY2679.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/082/064/original/GY2679.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/zx-2k-boost-j-black-white-gy2679",
+        "flightClub": " https://flightclub.com/zx-2k-boost-j-black-white-gy2679"
+      }
+    },
+    {
+      "id": "8f0fbe68-1248-4d52-b9e4-4661ea520071",
+      "sku": "AQ4225-011",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'Dark Smoke Grey Metallic Gold'",
+      "colorway": "Dark Smoke Grey/University Red/White/Metallic Gold",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 55,
+      "estimatedMarketValue": 70,
+      "story": "Built for little kids, the Nike Team Hustle D9 PS ‘Dark Smoke Grey Metallic Gold’ presents a versatile mid-top silhouette inspired by classic basketball shoes. An adjustable hook-and-loop strap combines with no-tie elastic laces to secure a dark grey mesh and synthetic leather upper, accented with a metallic gold Swoosh on the lateral side panel. The sneaker rests on a soft foam midsole, reinforced with a gum rubber outsole featuring a multidirectional traction pattern for optimal grip.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/863/original/AQ4225_011.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/863/original/AQ4225_011.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/863/original/AQ4225_011.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-dark-smoke-grey-metallic-gold-aq4225-011",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-dark-smoke-grey-metallic-gold-aq4225-011"
+      }
+    },
+    {
+      "id": "add848e4-6103-4535-b688-7bb8ad53c527",
+      "sku": "AQ4225-002",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'Black Racer Pink'",
+      "colorway": "Black/White/Racer Pink",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 55,
+      "estimatedMarketValue": 35,
+      "story": "Made for little kids, the Nike Team Hustle D9 PS ‘Black Racer Pink’ shows off sharply contrasting hues on a mid-top silhouette inspired by classic basketball shoes. The upper combines black synthetic leather with tonal mesh construction on the forefoot. A basketball graphic in hot pink adorns the adjustable hook-and-loop strap, matching the sneaker’s additional branding elements. The eye-catching hue is repeated on the mesh tongue, padded collar lining and grippy rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/857/original/AQ4225_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/857/original/AQ4225_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/857/original/AQ4225_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-black-racer-pink-aq4225-002",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-black-racer-pink-aq4225-002"
+      }
+    },
+    {
+      "id": "ae3ded18-2bdd-4c36-b883-63885ea56b1b",
+      "sku": "AQ4225-004",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'Black Metallic Gold'",
+      "colorway": "Black/White/Metallic Gold",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 55,
+      "estimatedMarketValue": 100,
+      "story": "Crafted for little kids, the Nike Team Hustle D9 PS ‘Black Metallic Gold’ shows off gilded accents on an otherwise neutral colorway of the basketball-inspired mid-top. A blend of white synthetic leather and black textile makes up the composition of the upper, which sits atop a soft foam midsole for a smooth and comfortable ride. A webbing pull tab at the heel, combined with an adjustable hook-and-loop strap and elastic no-tie laces, allow the shoe to be slipped easily on and off.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/858/original/AQ4225_004.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/858/original/AQ4225_004.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/858/original/AQ4225_004.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-black-metallic-gold-aq4225-004",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-black-metallic-gold-aq4225-004"
+      }
+    },
+    {
+      "id": "bac07f13-2a6c-4195-85bb-c4afe4d59a91",
+      "sku": "GY2678",
+      "brand": "adidas",
+      "name": "ZX 2K Boost J 'White Black'",
+      "colorway": "Cloud White/Cloud White/Core Black",
+      "gender": "youth",
+      "silhouette": "ZX 2K Boost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 120,
+      "estimatedMarketValue": 180,
+      "story": "Crafted for big kids, the adidas ZX 2K Boost J ‘White Black’ offers an entirely neutral colorway of the retro-inspired sneaker built for all-day comfort. Lightweight mesh makes up the composition of the seamless upper, featuring an integrated lacing system for midfoot lockdown. A black synthetic leather heel overlay gives way to a semi-translucent TPU cage that wraps around the heel of the full-length Boost midsole, adding stability to the responsive cushioning technology.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/082/063/original/GY2678.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/082/063/original/GY2678.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/082/063/original/GY2678.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/zx-2k-boost-j-white-black-gy2678",
+        "flightClub": " https://flightclub.com/zx-2k-boost-j-white-black-gy2678"
+      }
+    },
+    {
+      "id": "c4941aef-5d75-43d6-801c-87662f571be2",
+      "sku": "CV8972-001",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'Light'",
+      "colorway": "Black/White/Baltic Blue/Black",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 60,
+      "estimatedMarketValue": 50,
+      "story": "Built for little kids, the Nike Team Hustle D9 PS ‘Light’ enlivens the basketball-inspired mid-top with vibrant pops of color. Along with a signature Swoosh in black, dynamic red and blue streaks adorn the white synthetic leather upper. The contrasting black textile forefoot is reinforced with tonal no-sew overlays covered in iridescent detailing. Finally, mismatched blue and red accents land on each of the sneaker’s webbing pull tabs and sockliners.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/958/original/CV8972_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/958/original/CV8972_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/958/original/CV8972_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-light-cv8972-001",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-light-cv8972-001"
+      }
+    },
+    {
+      "id": "c59897f6-b42f-468c-be12-6cd6c38678c8",
+      "sku": "DB2812-001",
+      "brand": "Nike",
+      "name": "Air Force 1/1 GS 'Black'",
+      "colorway": "Black/White",
+      "gender": "youth",
+      "silhouette": "Air Force 1/1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 100,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/127/233/original/DB2812_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/127/233/original/DB2812_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/127/233/original/DB2812_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-force-1-1-gs-black-db2812-001",
+        "flightClub": " https://flightclub.com/air-force-1-1-gs-black-db2812-001"
+      }
+    },
+    {
+      "id": "d3f56620-5645-4919-8437-5c2443791c4c",
+      "sku": "AQ4225-404",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'Game Royal'",
+      "colorway": "Game Royal/Photon Dust/Speed Yellow/Metallic Silver",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 55,
+      "estimatedMarketValue": 55,
+      "story": "Made for little kids, the Nike Team Hustle D9 PS ‘Game Royal’ showcases metallic silver accents on a basketball-inspired mid-top secured with elastic no-tie laces and an adjustable hook-and-loop strap. A bold royal blue finish coats the upper, constructed from synthetic leather with breathable textile on the forefoot. Padding around the collar provides a comfortable fit, while a pull tab at the heel delivers easy on and off. Underfoot, a yellow rubber outsole wraps up the midsole for enhanced traction.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/871/original/AQ4225_404.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/871/original/AQ4225_404.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/871/original/AQ4225_404.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-game-royal-aq4225-404",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-game-royal-aq4225-404"
+      }
+    },
+    {
+      "id": "d7383e51-a5d6-4402-834f-08d60c671f17",
+      "sku": "AQ4225-101",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'White'",
+      "colorway": "White/Platinum Tint/Volt/White",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 55,
+      "estimatedMarketValue": 55,
+      "story": "Engineered for little kids, the Nike Team Hustle D9 PS ‘White’ delivers a pristine colorway of a versatile mid-top inspired by classic basketball shoes. A combination of a hook-and-loop strap and no-tie elastic laces secures the upper, built with synthetic leather and breathable textile on the forefoot. The sneaker is mounted on a full-length foam midsole, reinforced by a rubber outsole that extends up the sidewalls to provide added durability and traction.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/867/original/AQ4225_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/867/original/AQ4225_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/867/original/AQ4225_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-white-aq4225-101",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-white-aq4225-101"
+      }
+    },
+    {
+      "id": "dca38c5b-0eec-4fe6-950f-0ea712e5b5a8",
+      "sku": "AQ4225-001",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'Black Metallic Silver'",
+      "colorway": "Black/Wolf Grey/White/Metallic Silver",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 55,
+      "estimatedMarketValue": 95,
+      "story": "Engineered for little kids, the Nike Team Hustle D9 PS ‘Black Metallic Silver’ highlights neutral tones on a basketball-inspired mid-top. An adjustable hook-and-loop strap and no-tie elastic laces secure an upper that combines synthetic leather with breathable textile construction on the forefoot. A metallic silver Swoosh adorns the sneaker’s lateral side, while an oversized Nike wordmark covers the medial side panel. A full-length foam midsole provides lightweight cushioning with each step.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/855/original/AQ4225_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/855/original/AQ4225_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/855/original/AQ4225_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-black-metallic-silver-aq4225-001",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-black-metallic-silver-aq4225-001"
+      }
+    },
+    {
+      "id": "fcbdac0e-6834-4d29-9d7e-1ef2128930ad",
+      "sku": "AQ4225-008",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'Photon Dust Oracle Aqua'",
+      "colorway": "Photon Dust/Ghost Green/White/Oracle Aqua",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-13",
+      "retailPrice": 55,
+      "estimatedMarketValue": 55,
+      "story": "Constructed for little kids, the Nike Team Hustle D9 PS ‘Photon Dust Oracle Aqua’ delivers a simple two-tone colorway of a mid-top silhouette that captures classic basketball style. Branding hits in bright teal stand out on a neutral grey upper built with textile and synthetic leather. An adjustable hook-and-loop strap wraps over the midfoot, combining with no-tie elastic laces to provide a custom fit. Soft cushioning is provided by a full-length foam midsole, supported underfoot by a durable rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/861/original/AQ4225_008.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/861/original/AQ4225_008.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/861/original/AQ4225_008.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-photon-dust-oracle-aqua-aq4225-008",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-photon-dust-oracle-aqua-aq4225-008"
+      }
+    },
+    {
+      "id": "72b3965c-2e43-454f-81ef-c31c0bf34a31",
+      "sku": "CW5816-100",
+      "brand": "Nike",
+      "name": "Team Hustle D9 PS 'Allover Logo - White'",
+      "colorway": "White/Hyper Royal/University Red/Black",
+      "gender": "youth",
+      "silhouette": "Team Hustle D9",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-12",
+      "retailPrice": 55,
+      "estimatedMarketValue": 50,
+      "story": "Crafted for little kids, the Nike Team Hustle D9 PS ‘Allover Logo’ delivers a heavily branded take on the basketball-inspired silhouette. Elastic no-tie laces and an adjustable hook-and-loop strap secure the synthetic leather upper, its crisp white surface plastered with a multicolor print made up of jumbled Nike logos. Breathable textile construction throughout the forefoot delivers flexible comfort, while a full-length foam midsole offers lightweight cushioning with each step.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/963/original/CW5816_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/963/original/CW5816_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/963/original/CW5816_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/team-hustle-d9-ps-allover-logo-white-cw5816-100",
+        "flightClub": " https://flightclub.com/team-hustle-d9-ps-allover-logo-white-cw5816-100"
+      }
+    },
+    {
+      "id": "148f3a9c-0055-4cbf-b152-5d1d47b6c8c9",
+      "sku": "CD0609-405",
+      "brand": "Nike",
+      "name": "Air Max Plus GS 'Aqua'",
+      "colorway": "Aqua/Black/White/Metallic Silver",
+      "gender": "youth",
+      "silhouette": "Air Max Plus",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 145,
+      "estimatedMarketValue": 178,
+      "story": "Developed for big kids, the Nike Air Max Plus GS ‘Aqua’ presents a simple two-tone colorway of the retro runner that debuted Tuned Air technology back in 1998. A bright teal finish is applied to the mesh upper, accented with a silver mini-Swoosh and reinforced with black TPU overlays inspired by palm trees waving in the wind. Lightweight cushioning comes courtesy of a black polyurethane midsole with visible Max Air units in the heel and forefoot. A prominent TPU shank provides midfoot stability.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/287/original/CD0609_405.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/287/original/CD0609_405.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/287/original/CD0609_405.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-plus-gs-aqua-cd0609-405",
+        "flightClub": " https://flightclub.com/air-max-plus-gs-aqua-cd0609-405"
+      }
+    },
+    {
+      "id": "24055a4b-9288-4bb3-be0d-53ba5111c053",
+      "sku": "CW5829-100",
+      "brand": "Nike",
+      "name": "Air Max Excee GS 'White Arctic Punch'",
+      "colorway": "White/Pure Platinum/Arctic Punch/Multi-Color",
+      "gender": "youth",
+      "silhouette": "Air Max Excee",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 80,
+      "estimatedMarketValue": 98,
+      "story": "Built for big kids, the Nike Air Max Excee GS ‘White Arctic Punch’ adds pastel accents to a lifestyle runner that takes its design cues from the classic Air Max 90. The older shoe’s influence can be seen in the composition of the upper, featuring a white mesh base with tonal leather overlays and a contrasting pink mudguard. A matching pink heel patch is treated to a subtle glittery finish, while the Swoosh is rendered in a gradient blend of pink, silver and yellow. A prominent TPU plate frames the visible Max Air unit nestled in the heel.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/310/original/CW5829_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/310/original/CW5829_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/310/original/CW5829_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-excee-gs-white-arctic-punch-cw5829-100",
+        "flightClub": " https://flightclub.com/air-max-excee-gs-white-arctic-punch-cw5829-100"
+      }
+    },
+    {
+      "id": "29de3095-0755-49f7-a7fe-17fa9f2ad326",
+      "sku": "CW1650-100",
+      "brand": "Nike",
+      "name": "Air Max 2090 GS 'Evolution of Icons'",
+      "colorway": "Summit White/Black/Bright Crimson/Sapphire",
+      "gender": "youth",
+      "silhouette": "Air Max 2090",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 135,
+      "estimatedMarketValue": 113,
+      "story": "Built for big kids, the Nike Air Max 2090 GS ‘Evolution of Icons’ combines elements from OG colorways of two iconic silhouettes, the ‘Ultramarine’ Air Max 180 and ‘Infrared’ Air Max 90. The latter shoe is already the driving influence behind design of this lifestyle sneaker, highlighted by a black leather mudguard, bright crimson heel patch and matching red detailing around the Max Air heel unit. They’re joined by details lifted from the Air Max 180, including a white mesh upper, curved tongue and a royal blue leather Swoosh.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/309/original/CW1650_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/309/original/CW1650_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/309/original/CW1650_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-2090-gs-evolution-of-icons-cw1650-100",
+        "flightClub": " https://flightclub.com/air-max-2090-gs-evolution-of-icons-cw1650-100"
+      }
+    },
+    {
+      "id": "2ac08468-e0c8-48ce-8e29-ada95ceddada",
+      "sku": "CT4383-002",
+      "brand": "Nike",
+      "name": "Air Max Plus 2 GS 'College Grey Electric Green'",
+      "colorway": "College Grey/Electric Green/Iron Grey/White",
+      "gender": "youth",
+      "silhouette": "Air Max Plus 2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 160,
+      "estimatedMarketValue": 149,
+      "story": "Crafted for big kids, the Nike Air Max Plus 2 GS ‘College Grey Electric Green’ highlights neon pops of color on the retro running shoe originally released in 2000. The sneaker’s textile upper is enlivened with a series of molded lines in a gradient finish that transitions from Electric Green to navy blue. Atop the tongue and forefoot, reflective accents provide added visibility in low-light conditions. Nike’s legendary Tuned Air cushioning delivers a smooth and comfortable ride.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/307/original/CT4383_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/307/original/CT4383_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/307/original/CT4383_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-plus-2-gs-college-grey-electric-green-ct4383-002",
+        "flightClub": " https://flightclub.com/air-max-plus-2-gs-college-grey-electric-green-ct4383-002"
+      }
+    },
+    {
+      "id": "8c24b223-8aeb-47fa-bbde-077dc89f7061",
+      "sku": "CT4383-402",
+      "brand": "Nike",
+      "name": "Air Max Plus 2 GS 'Deep Royal Blue'",
+      "colorway": "Deep Royal Blue/Smoke Grey/Blue Void/Black",
+      "gender": "youth",
+      "silhouette": "Air Max Plus 2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 160,
+      "estimatedMarketValue": 190,
+      "story": "Crafted for big kids, the Nike Air Max Plus 2 GS ‘Deep Royal Blue’ showcases gradient coloring throughout the retro runner originally released in 2000. The mesh upper features grey coloring that transitions to royal blue, while molded TPU lines darken from pink to navy. Reflective silver accents land on the tongue and forefoot. The midsole houses visible Max Air units in the forefoot and heel, the latter featuring Nike’s vaunted Tuned Air technology.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/308/original/CT4383_402.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/308/original/CT4383_402.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/308/original/CT4383_402.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-plus-2-gs-deep-royal-blue-ct4383-402",
+        "flightClub": " https://flightclub.com/air-max-plus-2-gs-deep-royal-blue-ct4383-402"
+      }
+    },
+    {
+      "id": "8fcf0099-1fae-44b7-a054-f474b1aaaee3",
+      "sku": "CJ4069-006",
+      "brand": "Nike",
+      "name": "Air VaporMax 2020 GS 'Newsprint'",
+      "colorway": "Newsprint/Black/Opti Yellow/College Grey",
+      "gender": "youth",
+      "silhouette": "Air VaporMax",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 200,
+      "estimatedMarketValue": 105,
+      "story": "Crafted for big kids, the Nike Air VaporMax 2020 GS ‘Newsprint’ showcases a multicolor grid-like pattern throughout a Flyknit upper made with recycled polyester. Traditional laces are replaced by a FlyEase system that incorporates quick-pull straps for easy adjustments on the go. The lightweight slip-on is supported by a low-profile version of Nike’s revolutionary VaporMax platform, built with at least 75% recycled TPU and offering heel to toe Nike Air cushioning.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/295/original/CJ4069_006.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/295/original/CJ4069_006.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/295/original/CJ4069_006.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-vapormax-2020-gs-newsprint-cj4069-006",
+        "flightClub": " https://flightclub.com/air-vapormax-2020-gs-newsprint-cj4069-006"
+      }
+    },
+    {
+      "id": "a60a5ec3-ca3f-439e-8e2c-30cb335509cc",
+      "sku": "367135-15",
+      "brand": "Puma",
+      "name": "ST Runner v2 Jr 'High Risk Red'",
+      "colorway": "High Risk Red/White/Peacoat",
+      "gender": "youth",
+      "silhouette": "ST Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 45,
+      "estimatedMarketValue": 45,
+      "story": "The PUMA ST Runner v2 Jr ‘High Risk Red’ shows off a bold finish on the sneaker’s breathable mesh upper, reinforced with tonal synthetic suede overlays and a rigid TPU heel counter for rearfoot stability. A white leather formstrip is matched by PUMA branding hits on the lateral quarter panel, woven tongue tag and leather heel tab. The lightweight build is mounted on a full-length EVA midsole, supported by a rubber outsole in the same crimson hue featured up top.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/244/original/367135_15.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/244/original/367135_15.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/244/original/367135_15.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/st-runner-v2-jr-high-risk-red-367135-15",
+        "flightClub": " https://flightclub.com/st-runner-v2-jr-high-risk-red-367135-15"
+      }
+    },
+    {
+      "id": "a72be854-21ad-4cde-b8c8-29b07da3c864",
+      "sku": "921522-107",
+      "brand": "Nike",
+      "name": "Air Max 97 GS 'White Signal Blue'",
+      "colorway": "White/Black/Pure Platinum/Signal Blue",
+      "gender": "youth",
+      "silhouette": "Air Max 97",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 155,
+      "estimatedMarketValue": 129,
+      "story": "Built for big kids, the Nike Air Max 97 GS ‘White Signal Blue’ features subtle pops of color on the iconic silhouette that debuted full-length Max Air cushioning. The sneaker’s white mesh upper is accented with wavy tonal overlays in a reflective finish. They’re joined by a solitary overlay in royal blue and a contrasting black leather mudguard. Additional hits of royal blue land on the webbing pull tab at the heel and embroidered mini-Swoosh branding on the tongue and quarter panel.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/436/760/original/724689_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/436/760/original/724689_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/436/760/original/724689_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-97-gs-white-signal-blue-921522-107",
+        "flightClub": " https://flightclub.com/air-max-97-gs-white-signal-blue-921522-107"
+      }
+    },
+    {
+      "id": "c87cd0ea-8948-4ddb-9a0b-8d7cc7f0d5f9",
+      "sku": "368693-02",
+      "brand": "Puma",
+      "name": "RS-X3 Jr 'Neon Frame - Grey Violet'",
+      "colorway": "Grey Violet/Byzantium",
+      "gender": "youth",
+      "silhouette": "RS-X3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 85,
+      "estimatedMarketValue": 155,
+      "story": "Built for big kids, the PUMA RS-X3 Jr Neon Flame ‘Grey Violet’ makes use of a white mesh upper with multicolor overlays in synthetic suede, leather and heat-pressed synthetic. The resulting flame-inspired lines extend to the lightweight polyurethane midsole, its raised sidewalls embedded with angular TPU pieces in contrasting blue and grey. Underfoot, the durable rubber outsole utilizes a blend of wavy and grid-like traction patterns for multidirectional grip.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/887/376/original/368693_02.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/887/376/original/368693_02.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/887/376/original/368693_02.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/rs-x3-jr-neon-frame-grey-violet-368693-02",
+        "flightClub": " https://flightclub.com/rs-x3-jr-neon-frame-grey-violet-368693-02"
+      }
+    },
+    {
+      "id": "d0078d33-a907-4670-8065-a2b90563b785",
+      "sku": "CZ1685-100",
+      "brand": "Nike",
+      "name": "Force 1 PS 'White Black'",
+      "colorway": "White/Black",
+      "gender": "youth",
+      "silhouette": "Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 62,
+      "estimatedMarketValue": 109,
+      "story": "The Nike Force 1 PS ‘White Black’ delivers a simplified version of the iconic silhouette tailor made for little kids. Tumbled white leather is utilized on the upper, accented with contrasting black hits on the signature Swoosh and Nike branded heel tab. The low-top is mounted on a durable rubber cupsole with hidden foam cushioning for improved comfort. Underfoot, the outsole features pivot points and a traction pattern originally made for the hardwood.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/313/original/CZ1685_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/313/original/CZ1685_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/313/original/CZ1685_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-1-ps-white-black-cz1685-100",
+        "flightClub": " https://flightclub.com/force-1-ps-white-black-cz1685-100"
+      }
+    },
+    {
+      "id": "df0b39b2-3639-4b61-b300-3bc09e82d192",
+      "sku": "106400-01",
+      "brand": "Puma",
+      "name": "Future Z 4.1 FG AG Jr 'Yellow Alert'",
+      "colorway": "Yellow Alert/Black/White",
+      "gender": "youth",
+      "silhouette": "Future Z 4.1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 50,
+      "estimatedMarketValue": 120,
+      "story": "The PUMA Future Z 4.1 FG AG Jr ‘Yellow Alert’ delivers the big kids’ version of the performance soccer cleat developed for Neymar Jr. A neon yellow finish is applied to the durable polyurethane upper, featuring an integrated heel counter designed to cradle the back of the foot. An embossed texture in key strike zones delivers enhanced ball control and touch. Underfoot, the Dynamic Motion System outsole uses an optimized stud configuration for multidirectional traction.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/887/329/original/106400_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/887/329/original/106400_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/887/329/original/106400_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/future-z-4-1-fg-ag-jr-yellow-alert-106400-01",
+        "flightClub": " https://flightclub.com/future-z-4-1-fg-ag-jr-yellow-alert-106400-01"
+      }
+    },
+    {
+      "id": "e6b598fd-9bd4-48ed-b4d9-773efb7944ea",
+      "sku": "943345-020",
+      "brand": "Nike",
+      "name": "Air Max 270 GS 'Black Sunset Pulse'",
+      "colorway": "Black/Smoke Grey/Sunset Pulse/Metallic Silver",
+      "gender": "youth",
+      "silhouette": "Air Max 270",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 120,
+      "estimatedMarketValue": 117,
+      "story": "Offered in grade school sizing, the Nike Air Max 270 GS ‘Black Sunset Pulse’ uses a vibrant pop of color to spotlight the sneaker’s buoyant cushioning technology. Amplifying its visual impact, the pink finish on the 270-degree Max Air unit extends to the molded TPU heel counter above and rubber outsole below. The pastel hue is contrasted the sneaker’s breathable black mesh upper, featuring no-sew overlays and a stretchy inner sleeve for a snug, comfortable fit.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/272/original/943345_020.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/272/original/943345_020.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/272/original/943345_020.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-270-gs-black-sunset-pulse-943345-020",
+        "flightClub": " https://flightclub.com/air-max-270-gs-black-sunset-pulse-943345-020"
+      }
+    },
+    {
+      "id": "ec254c9f-ef4a-43d2-ac6a-8d6c91684d72",
+      "sku": "EG8169",
+      "brand": "adidas",
+      "name": "X Ghosted+ FG J 'Signal Green'",
+      "colorway": "Signal Green/Energy Ink/Semi Solar Slime",
+      "gender": "youth",
+      "silhouette": "X Ghosted+",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-11",
+      "retailPrice": 150,
+      "estimatedMarketValue": 150,
+      "story": "A firm ground soccer cleat made for big kids, the adidas X Ghosted+ FG J ‘Signal Green’ shows off a fluorescent finish on the vacuum-fit Mirageskin upper, built with a fusion of three ultra-lightweight layers. The low-cut collar allows for a full range of motion, while the laceless design yields a clean strike zone for controlled passes and shots. The slip-on silhouette is supported by a lightweight TPU outsole with strategically placed studs for maximum grip.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/324/original/EG8169.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/324/original/EG8169.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/324/original/EG8169.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/x-ghosted-fg-j-signal-green-eg8169",
+        "flightClub": " https://flightclub.com/x-ghosted-fg-j-signal-green-eg8169"
+      }
+    },
+    {
+      "id": "1a025214-4536-4057-b469-bc74b2b16e0d",
+      "sku": "FX5227",
+      "brand": "adidas",
+      "name": "ZX 2K J 'Wordmark Heel Stripe - White'",
+      "colorway": "Cloud White/Grey One/Core Black",
+      "gender": "youth",
+      "silhouette": "ZX 2K",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-10",
+      "retailPrice": 70,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/634/original/FX5227.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/634/original/FX5227.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/634/original/FX5227.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/zx-2k-j-wordmark-heel-stripe-white-fx5227",
+        "flightClub": " https://flightclub.com/zx-2k-j-wordmark-heel-stripe-white-fx5227"
+      }
+    },
+    {
+      "id": "2060786d-bbd5-4b7e-9ec1-3ac6f1d121bf",
+      "sku": "FX5226",
+      "brand": "adidas",
+      "name": "ZX 2K J 'Wordmark Heel Stripe - Black'",
+      "colorway": "Core Black/Core Black/Cloud White",
+      "gender": "youth",
+      "silhouette": "ZX 2K",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-10",
+      "retailPrice": 70,
+      "estimatedMarketValue": 80,
+      "story": "Crafted for big kids, the adidas ZX 2K J ‘Wordmark Heel Stripe’ highlights a monochromatic black finish throughout the sneaker’s exterior. The one-note color scheme is disrupted by adidas branding hits at the tongue and webbing pull tab, along with fused overlays that wrap around the back of the heel, each inscribed with an adidas wordmark in a repeating pattern. The textile upper is mounted on a matching black foam midsole partially enveloped in a TPU cage.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/633/original/FX5226.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/633/original/FX5226.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/633/original/FX5226.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/zx-2k-j-wordmark-heel-stripe-black-fx5226",
+        "flightClub": " https://flightclub.com/zx-2k-j-wordmark-heel-stripe-black-fx5226"
+      }
+    },
+    {
+      "id": "7900ea15-db18-491c-99a9-a1b9ba8f6e5e",
+      "sku": "AT1801-003",
+      "brand": "Nike",
+      "name": "Star Runner 2 PS 'Triple Black'",
+      "colorway": "Black/Black/Volt/Anthracite",
+      "gender": "youth",
+      "silhouette": "Star Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-10",
+      "retailPrice": 48,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/513/original/AT1801_003.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/513/original/AT1801_003.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/513/original/AT1801_003.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/star-runner-2-ps-triple-black-at1801-003",
+        "flightClub": " https://flightclub.com/star-runner-2-ps-triple-black-at1801-003"
+      }
+    },
+    {
+      "id": "8b4a0da0-c949-43fb-9c9d-c15851ae848a",
+      "sku": "CJ3817-101",
+      "brand": "Nike",
+      "name": "Wearallday PS 'White Black'",
+      "colorway": "White/Black",
+      "gender": "youth",
+      "silhouette": "Wearallday",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-10",
+      "retailPrice": 55,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/425/580/original/CJ3817_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/425/580/original/CJ3817_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/425/580/original/CJ3817_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wearallday-ps-white-black-cj3817-101",
+        "flightClub": " https://flightclub.com/wearallday-ps-white-black-cj3817-101"
+      }
+    },
+    {
+      "id": "cbbaa44a-c217-478d-a799-6e4a439998e0",
+      "sku": "CD6894-107",
+      "brand": "Nike",
+      "name": "Air Max Excee GS 'White Hyper Crimson'",
+      "colorway": "White/Hyper Crimson/Electric Green/Black",
+      "gender": "youth",
+      "silhouette": "Air Max Excee",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-10",
+      "retailPrice": 80,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/541/original/CD6894_107.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/541/original/CD6894_107.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/541/original/CD6894_107.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-excee-gs-white-hyper-crimson-cd6894-107",
+        "flightClub": " https://flightclub.com/air-max-excee-gs-white-hyper-crimson-cd6894-107"
+      }
+    },
+    {
+      "id": "026de6a5-2d8d-44aa-8bbb-335601ecadc1",
+      "sku": "DD3242-400",
+      "brand": "Nike",
+      "name": "Kawa Slide GS 'Game Royal Heather'",
+      "colorway": "Game Royal Heather/Black/White",
+      "gender": "youth",
+      "silhouette": "Kawa",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 26,
+      "estimatedMarketValue": 42,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/601/original/DD3242_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/601/original/DD3242_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/601/original/DD3242_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/kawa-slide-gs-game-royal-heather-dd3242-400",
+        "flightClub": " https://flightclub.com/kawa-slide-gs-game-royal-heather-dd3242-400"
+      }
+    },
+    {
+      "id": "24c0e622-7d1e-41e8-94ca-697d275dd34f",
+      "sku": "DC8248-600",
+      "brand": "Nike",
+      "name": "Blazer Mid '77 Suede GS 'Team Red'",
+      "colorway": "Team Red/Team Red/Black/White",
+      "gender": "youth",
+      "silhouette": "Blazer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 85,
+      "estimatedMarketValue": 68,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/583/original/DC8248_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/583/original/DC8248_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/583/original/DC8248_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/blazer-mid-77-suede-gs-team-red-dc8248-600",
+        "flightClub": " https://flightclub.com/blazer-mid-77-suede-gs-team-red-dc8248-600"
+      }
+    },
+    {
+      "id": "31ede064-52d9-4513-ba18-06d6b949000f",
+      "sku": "CQ7642-400",
+      "brand": "Nike",
+      "name": "Force Trout 7 Keystone GS 'Game Royal'",
+      "colorway": "Game Royal/Deep Royal Blue/White",
+      "gender": "youth",
+      "silhouette": "Force Trout 7",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 40,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/545/original/CQ7642_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/545/original/CQ7642_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/545/original/CQ7642_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-trout-7-keystone-gs-game-royal-cq7642-400",
+        "flightClub": " https://flightclub.com/force-trout-7-keystone-gs-game-royal-cq7642-400"
+      }
+    },
+    {
+      "id": "37e8cf07-e0b1-41b5-8dd1-13c3aa58a9ac",
+      "sku": "CQ7643-002",
+      "brand": "Nike",
+      "name": "Force Trout 7 Pro MCS GS 'University Red'",
+      "colorway": "Black/Dark Smoke Grey/White",
+      "gender": "youth",
+      "silhouette": "Force Trout 7",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 62,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/548/original/CQ7643_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/548/original/CQ7643_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/548/original/CQ7643_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-trout-7-pro-mcs-gs-university-red-cq7643-002",
+        "flightClub": " https://flightclub.com/force-trout-7-pro-mcs-gs-university-red-cq7643-002"
+      }
+    },
+    {
+      "id": "3af1ae2e-78e6-4628-bda4-061e028e84c7",
+      "sku": "DD3242-600",
+      "brand": "Nike",
+      "name": "Kawa Slide GS 'Sunset Pulse'",
+      "colorway": "Sunset Pulse/Black/White",
+      "gender": "youth",
+      "silhouette": "Kawa",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 26,
+      "estimatedMarketValue": 36,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/602/original/DD3242_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/602/original/DD3242_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/602/original/DD3242_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/kawa-slide-gs-sunset-pulse-dd3242-600",
+        "flightClub": " https://flightclub.com/kawa-slide-gs-sunset-pulse-dd3242-600"
+      }
+    },
+    {
+      "id": "46e725ea-617b-4b30-bce4-00bdd2f78427",
+      "sku": "FX2249",
+      "brand": "adidas",
+      "name": "EQ21 Run J 'Screaming Pink'",
+      "colorway": "Screaming Pink/Screaming Orange/Cloud White",
+      "gender": "youth",
+      "silhouette": "EQ21 Run",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 60,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/081/990/original/FX2249.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/081/990/original/FX2249.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/081/990/original/FX2249.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/eq21-run-j-screaming-pink-fx2249",
+        "flightClub": " https://flightclub.com/eq21-run-j-screaming-pink-fx2249"
+      }
+    },
+    {
+      "id": "64bcbcf4-4221-446b-a396-1a6ed63a7361",
+      "sku": "DD3242-001",
+      "brand": "Nike",
+      "name": "Kawa Slide GS 'Black Volt'",
+      "colorway": "Black/Volt/White",
+      "gender": "youth",
+      "silhouette": "Kawa",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 26,
+      "estimatedMarketValue": 85,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/600/original/DD3242_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/600/original/DD3242_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/600/original/DD3242_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/kawa-slide-gs-black-volt-dd3242-001",
+        "flightClub": " https://flightclub.com/kawa-slide-gs-black-volt-dd3242-001"
+      }
+    },
+    {
+      "id": "6664c37c-6a3e-469c-b64e-e2a78bac1190",
+      "sku": "CQ7642-600",
+      "brand": "Nike",
+      "name": "Force Trout 7 Keystone GS 'University Red'",
+      "colorway": "University Red/Gym Red/White",
+      "gender": "youth",
+      "silhouette": "Force Trout 7",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 40,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/547/original/CQ7642_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/547/original/CQ7642_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/547/original/CQ7642_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-trout-7-keystone-gs-university-red-cq7642-600",
+        "flightClub": " https://flightclub.com/force-trout-7-keystone-gs-university-red-cq7642-600"
+      }
+    },
+    {
+      "id": "9028054d-04d5-45df-915a-eec1ff1d51c9",
+      "sku": "DD5889-001",
+      "brand": "Nike",
+      "name": "Star Runner 2 Power PS 'Pure Platinum Iridescent Swoosh'",
+      "colorway": "Pure Platinum/Barely Volt/Red Plum/Multi-Color",
+      "gender": "youth",
+      "silhouette": "Star Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 53,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/605/original/DD5889_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/605/original/DD5889_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/605/original/DD5889_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/star-runner-2-power-ps-pure-platinum-iridescent-swoosh-dd5889-001",
+        "flightClub": " https://flightclub.com/star-runner-2-power-ps-pure-platinum-iridescent-swoosh-dd5889-001"
+      }
+    },
+    {
+      "id": "954cfc57-ed9f-4f09-92f9-b33187bbc0cb",
+      "sku": "DC8248-001",
+      "brand": "Nike",
+      "name": "Blazer Mid '77 Suede GS 'Football Grey'",
+      "colorway": "Football Grey/Black/White",
+      "gender": "youth",
+      "silhouette": "Blazer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 85,
+      "estimatedMarketValue": 60,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/582/original/DC8248_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/582/original/DC8248_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/582/original/DC8248_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/blazer-mid-77-suede-gs-football-grey-dc8248-001",
+        "flightClub": " https://flightclub.com/blazer-mid-77-suede-gs-football-grey-dc8248-001"
+      }
+    },
+    {
+      "id": "ba3477a7-6706-4183-a501-603f1f51a50f",
+      "sku": "CQ7643-600",
+      "brand": "Nike",
+      "name": "Force Trout 7 Pro MCS GS 'University Red'",
+      "colorway": "University Red/Gym Red/White",
+      "gender": "youth",
+      "silhouette": "Force Trout 7",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 62,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/552/original/CQ7643_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/552/original/CQ7643_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/552/original/CQ7643_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-trout-7-pro-mcs-gs-university-red-cq7643-600",
+        "flightClub": " https://flightclub.com/force-trout-7-pro-mcs-gs-university-red-cq7643-600"
+      }
+    },
+    {
+      "id": "c85ae0f8-0537-4fd3-acf4-1ed63bf67f1f",
+      "sku": "BQ5451-107",
+      "brand": "Nike",
+      "name": "Court Borough Low 2 PS 'White Signal Blue'",
+      "colorway": "White/Signal Blue/Blue Void",
+      "gender": "youth",
+      "silhouette": "Court Borough",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 45,
+      "estimatedMarketValue": 53,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/522/original/BQ5451_107.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/522/original/BQ5451_107.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/522/original/BQ5451_107.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/court-borough-low-2-ps-white-signal-blue-bq5451-107",
+        "flightClub": " https://flightclub.com/court-borough-low-2-ps-white-signal-blue-bq5451-107"
+      }
+    },
+    {
+      "id": "c930d56e-f591-4b2b-9be3-0b2f67ffbe53",
+      "sku": "DD1850-600",
+      "brand": "Nike",
+      "name": "Blazer Mid '77 PS 'Team Red'",
+      "colorway": "Team Red/Team Red/Black/White",
+      "gender": "youth",
+      "silhouette": "Blazer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 75,
+      "estimatedMarketValue": 134,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/593/original/DD1850_600.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/593/original/DD1850_600.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/593/original/DD1850_600.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/blazer-mid-77-ps-team-red-dd1850-600",
+        "flightClub": " https://flightclub.com/blazer-mid-77-ps-team-red-dd1850-600"
+      }
+    },
+    {
+      "id": "d3ed3aa5-31f9-4231-8b08-461697366120",
+      "sku": "DD1848-100",
+      "brand": "Nike",
+      "name": "Blazer Mid '77 SE PS 'Double Swoosh - White Vapor Green'",
+      "colorway": "White/Vapor Green/Smoke Grey/Black",
+      "gender": "youth",
+      "silhouette": "Blazer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-09",
+      "retailPrice": 80,
+      "estimatedMarketValue": 98,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/587/original/DD1848_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/587/original/DD1848_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/587/original/DD1848_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/blazer-mid-77-se-ps-double-swoosh-white-vapor-green-dd1848-100",
+        "flightClub": " https://flightclub.com/blazer-mid-77-se-ps-double-swoosh-white-vapor-green-dd1848-100"
+      }
+    },
+    {
+      "id": "247f1879-9911-4cf1-8ce6-1452ad20c3d4",
+      "sku": "CQ7643-007",
+      "brand": "Nike",
+      "name": "Force Trout 7 Pro MCS GS 'Light Sandstone'",
+      "colorway": "Light Sandstone/White/Smoke Grey/Iron Grey",
+      "gender": "youth",
+      "silhouette": "Force Trout 7",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-08",
+      "retailPrice": 62,
+      "estimatedMarketValue": 62,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/549/original/CQ7643_007.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/549/original/CQ7643_007.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/549/original/CQ7643_007.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-trout-7-pro-mcs-gs-light-sandstone-cq7643-007",
+        "flightClub": " https://flightclub.com/force-trout-7-pro-mcs-gs-light-sandstone-cq7643-007"
+      }
+    },
+    {
+      "id": "2dff7786-5de1-46cd-9927-e6c0d8830136",
+      "sku": "DH4111-100",
+      "brand": "Nike",
+      "name": "Air Max 90 GS 'White Vapor Green'",
+      "colorway": "White/Vapor Green/Black",
+      "gender": "youth",
+      "silhouette": "Air Max 90",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-08",
+      "retailPrice": 100,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/609/original/DH4111_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/609/original/DH4111_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/609/original/DH4111_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-90-gs-white-vapor-green-dh4111-100",
+        "flightClub": " https://flightclub.com/air-max-90-gs-white-vapor-green-dh4111-100"
+      }
+    },
+    {
+      "id": "30f01750-2e13-4649-9aa4-d56197a5c5fb",
+      "sku": "DC2100-001",
+      "brand": "Nike",
+      "name": "Air Max 90 GS 'Black Asparagus'",
+      "colorway": "Black/Dark Smoke Grey/Asparagus/Metallic Silver",
+      "gender": "youth",
+      "silhouette": "Air Max 90",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-08",
+      "retailPrice": 110,
+      "estimatedMarketValue": 71,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/579/original/DC2100_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/579/original/DC2100_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/579/original/DC2100_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-90-gs-black-asparagus-dc2100-001",
+        "flightClub": " https://flightclub.com/air-max-90-gs-black-asparagus-dc2100-001"
+      }
+    },
+    {
+      "id": "350b07b8-a5f1-458b-943c-8434bb97ed75",
+      "sku": "DD3022-100",
+      "brand": "Nike",
+      "name": "Court Borough Low 2 PS 'White Arctic Punch'",
+      "colorway": "White/Light Armory Blue/Pure Platinum/Arctic Punch",
+      "gender": "youth",
+      "silhouette": "Court Borough",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-08",
+      "retailPrice": 45,
+      "estimatedMarketValue": 69,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/599/original/DD3022_100.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/599/original/DD3022_100.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/599/original/DD3022_100.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/court-borough-low-2-ps-white-arctic-punch-dd3022-100",
+        "flightClub": " https://flightclub.com/court-borough-low-2-ps-white-arctic-punch-dd3022-100"
+      }
+    },
+    {
+      "id": "36af458b-76d8-4446-a7bf-7bdca919f9c2",
+      "sku": "CT5231-001",
+      "brand": "Nike",
+      "name": "Air Max 90 SE GS 'Black Total Orange'",
+      "colorway": "Black/Total Orange/Black",
+      "gender": "youth",
+      "silhouette": "Air Max 90",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-08",
+      "retailPrice": 100,
+      "estimatedMarketValue": 69,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/557/original/CT5231_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/557/original/CT5231_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/557/original/CT5231_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-90-se-gs-black-total-orange-ct5231-001",
+        "flightClub": " https://flightclub.com/air-max-90-se-gs-black-total-orange-ct5231-001"
+      }
+    },
+    {
+      "id": "66cabda0-061e-4cda-bbb1-75123e707f16",
+      "sku": "367135-09",
+      "brand": "Puma",
+      "name": "ST Runner v2 Jr 'Peacoat Meadowlark'",
+      "colorway": "Peacoat/Meadowlark/White",
+      "gender": "youth",
+      "silhouette": "ST Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-08",
+      "retailPrice": 45,
+      "estimatedMarketValue": 45,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/833/243/original/367135_09.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/833/243/original/367135_09.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/833/243/original/367135_09.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/st-runner-v2-jr-peacoat-meadowlark-367135-09",
+        "flightClub": " https://flightclub.com/st-runner-v2-jr-peacoat-meadowlark-367135-09"
+      }
+    },
+    {
+      "id": "7052f5ea-40b1-414d-861f-10ee8b34f359",
+      "sku": "DJ4609-001",
+      "brand": "Nike",
+      "name": "Air Max 2090 PS 'Black Light Blue Fury'",
+      "colorway": "Black/Light Blue Fury",
+      "gender": "youth",
+      "silhouette": "Air Max 2090",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-08",
+      "retailPrice": 90,
+      "estimatedMarketValue": 150,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/611/original/DJ4609_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/611/original/DJ4609_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/611/original/DJ4609_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/air-max-2090-ps-black-light-blue-fury-dj4609-001",
+        "flightClub": " https://flightclub.com/air-max-2090-ps-black-light-blue-fury-dj4609-001"
+      }
+    },
+    {
+      "id": "836b9fd2-a43c-41f4-8876-3f551c885f1e",
+      "sku": "CQ7642-009",
+      "brand": "Nike",
+      "name": "Force Trout 7 Keystone GS 'Black'",
+      "colorway": "Black/Dark Smoke Grey/White",
+      "gender": "youth",
+      "silhouette": "Force Trout 7",
+      "releaseYear": 2021,
+      "releaseDate": "2021-01-08",
+      "retailPrice": 40,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/048/729/543/original/CQ7642_009.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/729/543/original/CQ7642_009.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/048/729/543/original/CQ7642_009.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/force-trout-7-keystone-gs-black-cq7642-009",
+        "flightClub": " https://flightclub.com/force-trout-7-keystone-gs-black-cq7642-009"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2401 @@
+{
+  "count": 23507,
+  "results": [
+    {
+      "id": "23bebc4f-938f-446d-b7cf-834d72227b0e",
+      "sku": "381703-01",
+      "brand": "Puma",
+      "name": "Wmns Future Rider 'Neon Play Pop'",
+      "colorway": "Georgia Peach/White/Black",
+      "gender": "women",
+      "silhouette": "Future Rider",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-12",
+      "retailPrice": 80,
+      "estimatedMarketValue": 150,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/896/098/original/381703_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/896/098/original/381703_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/896/098/original/381703_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-future-rider-neon-play-pop-381703-01",
+        "flightClub": " https://flightclub.com/wmns-future-rider-neon-play-pop-381703-01"
+      }
+    },
+    {
+      "id": "4764d971-72da-4023-b061-49a4ba88f04c",
+      "sku": "1012A909-101",
+      "brand": "ASICS",
+      "name": "Wmns Jolt 3 Wide 'Triple White'",
+      "colorway": "White/White",
+      "gender": "women",
+      "silhouette": "Jolt",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-12",
+      "retailPrice": 55,
+      "estimatedMarketValue": 83,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/131/312/original/1012A909_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/131/312/original/1012A909_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/131/312/original/1012A909_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-jolt-3-wide-triple-white-1012a909-101",
+        "flightClub": " https://flightclub.com/wmns-jolt-3-wide-triple-white-1012a909-101"
+      }
+    },
+    {
+      "id": "e305ef0b-669a-4aab-8e19-cd9f07f2f741",
+      "sku": "1012A881-400",
+      "brand": "ASICS",
+      "name": "Wmns Gel Nimbus 23 Lite-Show 'French Blue Purple'",
+      "colorway": "French Blue/Lite Show",
+      "gender": "women",
+      "silhouette": "Gel Nimbus",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-12",
+      "retailPrice": 160,
+      "estimatedMarketValue": 173,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/131/306/original/1012A881_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/131/306/original/1012A881_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/131/306/original/1012A881_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gel-nimbus-23-lite-show-french-blue-purple-1012a881-400",
+        "flightClub": " https://flightclub.com/wmns-gel-nimbus-23-lite-show-french-blue-purple-1012a881-400"
+      }
+    },
+    {
+      "id": "0cac9494-f6eb-40a7-9f99-613edce9bab2",
+      "sku": "FZ3044",
+      "brand": "adidas",
+      "name": "Stella McCartney x Wmns UltraBoost 21 'White Black'",
+      "colorway": "Cloud White/Core Black/Vivid Red",
+      "gender": "women",
+      "silhouette": "UltraBoost 21",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 230,
+      "estimatedMarketValue": 280,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/784/886/original/FZ3044.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/784/886/original/FZ3044.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/784/886/original/FZ3044.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/stella-mccartney-x-wmns-ultraboost-21-white-black-fz3044",
+        "flightClub": " https://flightclub.com/stella-mccartney-x-wmns-ultraboost-21-white-black-fz3044"
+      }
+    },
+    {
+      "id": "2bb9f605-f3c4-42ff-9370-53d1c5d959f9",
+      "sku": "CT2229-002",
+      "brand": "Nike",
+      "name": "Wmns ZoomX Invincible Run Flyknit 'Black Elemental Pink'",
+      "colorway": "Black/Elemental Pink/Cyber",
+      "gender": "women",
+      "silhouette": "ZoomX Invincible",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 180,
+      "estimatedMarketValue": 198,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/366/786/original/CT2229_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/366/786/original/CT2229_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/366/786/original/CT2229_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-zoomx-invincible-run-flyknit-black-elemental-pink-ct2229-002",
+        "flightClub": " https://flightclub.com/wmns-zoomx-invincible-run-flyknit-black-elemental-pink-ct2229-002"
+      }
+    },
+    {
+      "id": "3ed9bf19-4086-4b6e-996c-f7921e0119d5",
+      "sku": "CW5992-100",
+      "brand": "Jordan",
+      "name": "Jordan MA2 Women in Power (W)",
+      "colorway": "White/University Red-Black-Purple Nebula",
+      "gender": "women",
+      "silhouette": "Jordan MA2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 150,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/565/717/original/744270_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/565/717/original/744270_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/565/717/original/744270_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/air-jordan-ma2-women-in-power-w",
+        "goat": " https://goat.com/sneakers/wmns-jordan-ma2-women-in-power-cw5992-100",
+        "flightClub": " https://flightclub.com/wmns-jordan-ma2-women-in-power-cw5992-100"
+      }
+    },
+    {
+      "id": "40350d19-fb76-487d-be35-dd46cb5e10ef",
+      "sku": "CT2229-001",
+      "brand": "Nike",
+      "name": "Wmns ZoomX Invincible Run Flyknit 'Black White'",
+      "colorway": "Black/Iron Grey/Volt/White",
+      "gender": "women",
+      "silhouette": "ZoomX Invincible",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 180,
+      "estimatedMarketValue": 156,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/488/314/original/CT2229_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/488/314/original/CT2229_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/488/314/original/CT2229_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-zoomx-invincible-run-flyknit-black-white-ct2229-001",
+        "flightClub": " https://flightclub.com/wmns-zoomx-invincible-run-flyknit-black-white-ct2229-001"
+      }
+    },
+    {
+      "id": "42095006-a1a9-47ed-8ef1-fc56e97ee7d6",
+      "sku": "315115-163",
+      "brand": "Nike",
+      "name": "Wmns Air Force 1 '07 'Dark Teal'",
+      "colorway": "White/Dark Teal Green/Sunset Pulse/White",
+      "gender": "women",
+      "silhouette": "Air Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 100,
+      "estimatedMarketValue": 101,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/870/817/original/747572_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/870/817/original/747572_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/870/817/original/747572_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-force-1-07-dark-teal-315115-163",
+        "flightClub": " https://flightclub.com/wmns-air-force-1-07-dark-teal-315115-163"
+      }
+    },
+    {
+      "id": "64625097-54dd-42f7-9f2c-2134a86d2440",
+      "sku": "FX7150",
+      "brand": "adidas",
+      "name": "Wmns CrossKnit DPR 'Grey Wild Pink'",
+      "colorway": "Grey Four/Wild Pink/Screaming Pink",
+      "gender": "women",
+      "silhouette": "CrossKnit DPR",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 130,
+      "estimatedMarketValue": 190,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/784/880/original/FX7150.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/784/880/original/FX7150.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/784/880/original/FX7150.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-crossknit-dpr-grey-wild-pink-fx7150",
+        "flightClub": " https://flightclub.com/wmns-crossknit-dpr-grey-wild-pink-fx7150"
+      }
+    },
+    {
+      "id": "77df4f31-8c25-4900-a4fa-46fd1a788651",
+      "sku": "1012A999-300",
+      "brand": "ASICS",
+      "name": "Wmns Gel Nimbus 23 'Lichen Rock Champagne'",
+      "colorway": "Lichen Rock/Champagne",
+      "gender": "women",
+      "silhouette": "Gel Nimbus",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 150,
+      "estimatedMarketValue": 178,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/388/original/1012A999_300.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/388/original/1012A999_300.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/388/original/1012A999_300.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gel-nimbus-23-lichen-rock-champagne-1012a999-300",
+        "flightClub": " https://flightclub.com/wmns-gel-nimbus-23-lichen-rock-champagne-1012a999-300"
+      }
+    },
+    {
+      "id": "7bd855f5-46fe-496e-bc70-5e7fc1d57480",
+      "sku": "FY5223",
+      "brand": "adidas",
+      "name": "Wmns Forum Plus 'I Love Dance'",
+      "colorway": "Cloud White/Core Black/Frozen Green",
+      "gender": "women",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 130,
+      "estimatedMarketValue": 105,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/896/316/original/FY5223.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/896/316/original/FY5223.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/896/316/original/FY5223.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-forum-plus-i-love-dance-fy5223",
+        "flightClub": " https://flightclub.com/wmns-forum-plus-i-love-dance-fy5223"
+      }
+    },
+    {
+      "id": "7d16401d-51ae-4117-901a-0a2d74aa6149",
+      "sku": "DB5268-002",
+      "brand": "Nike",
+      "name": "Wmns Air Max Viva 'Black'",
+      "colorway": "Black/Summit White/Volt Glow/Iron Grey",
+      "gender": "women",
+      "silhouette": "Air Max Viva",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 140,
+      "estimatedMarketValue": 121,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/315/836/original/746566_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/315/836/original/746566_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/315/836/original/746566_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-max-viva-black-db5268-002",
+        "flightClub": " https://flightclub.com/wmns-air-max-viva-black-db5268-002"
+      }
+    },
+    {
+      "id": "8136da2b-d427-451c-a897-c8a1d8e21696",
+      "sku": "1012A835-700",
+      "brand": "ASICS",
+      "name": "Wmns Versablast 'Sun Coral'",
+      "colorway": "Sun Coral/White",
+      "gender": "women",
+      "silhouette": "Versablast",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 70,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/784/794/original/1012A835_700.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/784/794/original/1012A835_700.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/784/794/original/1012A835_700.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-versablast-sun-coral-1012a835-700",
+        "flightClub": " https://flightclub.com/wmns-versablast-sun-coral-1012a835-700"
+      }
+    },
+    {
+      "id": "839a44a8-15bc-48c7-8d90-666bf239c83d",
+      "sku": "FY8465",
+      "brand": "adidas",
+      "name": "Wmns Fluidstreet 'Cloud White'",
+      "colorway": "Cloud White/Cloud White/Dash Grey",
+      "gender": "women",
+      "silhouette": "Fluidstreet",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 65,
+      "estimatedMarketValue": 85,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/784/883/original/FY8465.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/784/883/original/FY8465.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/784/883/original/FY8465.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fluidstreet-cloud-white-fy8465",
+        "flightClub": " https://flightclub.com/wmns-fluidstreet-cloud-white-fy8465"
+      }
+    },
+    {
+      "id": "8528849e-7324-4c40-8626-c11c924c8233",
+      "sku": "375538-01",
+      "brand": "Puma",
+      "name": "Wmns Love 'NYC'",
+      "colorway": "White/White/Fizzy Yellow",
+      "gender": "women",
+      "silhouette": "Love",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 75,
+      "estimatedMarketValue": 114,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/896/085/original/375538_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/896/085/original/375538_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/896/085/original/375538_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-love-nyc-375538-01",
+        "flightClub": " https://flightclub.com/wmns-love-nyc-375538-01"
+      }
+    },
+    {
+      "id": "df09b4dd-6fa1-42c5-9a60-216d78ec6702",
+      "sku": "DB5268-001",
+      "brand": "Nike",
+      "name": "Wmns Air Max Viva 'Wheat'",
+      "colorway": "Black/Indigo Burst/Habanero Red/Wheat",
+      "gender": "women",
+      "silhouette": "Air Max Viva",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 140,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/111/727/original/746567_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/111/727/original/746567_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/111/727/original/746567_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-max-viva-wheat-db5268-001",
+        "flightClub": " https://flightclub.com/wmns-air-max-viva-wheat-db5268-001"
+      }
+    },
+    {
+      "id": "e8ff8cd5-2f9a-40f1-ad8f-cdb030019d3c",
+      "sku": "GW4901",
+      "brand": "adidas",
+      "name": "Wmns Super Sleek 72 'White Burgundy Gum'",
+      "colorway": "Cloud White/Grey One/Collegiate Burgundy",
+      "gender": "women",
+      "silhouette": "Super Sleek 72",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 100,
+      "estimatedMarketValue": 99,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/240/590/original/GW4901.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/240/590/original/GW4901.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/240/590/original/GW4901.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-super-sleek-72-white-burgundy-gum-gw4901",
+        "flightClub": " https://flightclub.com/wmns-super-sleek-72-white-burgundy-gum-gw4901"
+      }
+    },
+    {
+      "id": "f1e6578d-0b00-4354-97f4-a8b3195ef70e",
+      "sku": "CK6647-101",
+      "brand": "Nike",
+      "name": "Wmns Waffle Racer 2X 'White Bright Crimson'",
+      "colorway": "White/Bright Crimson/Team Red",
+      "gender": "women",
+      "silhouette": "Waffle Racer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 0,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/797/366/original/CK6647_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/797/366/original/CK6647_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/797/366/original/CK6647_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-waffle-racer-2x-white-bright-crimson-ck6647-101",
+        "flightClub": " https://flightclub.com/wmns-waffle-racer-2x-white-bright-crimson-ck6647-101"
+      }
+    },
+    {
+      "id": "fd60e45a-e6c4-4a6d-8f08-9dea7cafaab3",
+      "sku": "1012A890-400",
+      "brand": "ASICS",
+      "name": "Wmns GlideRide 2 'French Blue'",
+      "colorway": "French Blue/Digital Aqua",
+      "gender": "women",
+      "silhouette": "GlideRide",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-11",
+      "retailPrice": 150,
+      "estimatedMarketValue": 168,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/131/309/original/1012A890_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/131/309/original/1012A890_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/131/309/original/1012A890_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-glideride-2-french-blue-1012a890-400",
+        "flightClub": " https://flightclub.com/wmns-glideride-2-french-blue-1012a890-400"
+      }
+    },
+    {
+      "id": "01ce9dc0-3e3e-46da-8a16-2212257f7a14",
+      "sku": "1202A181-002",
+      "brand": "ASICS",
+      "name": "Wmns Gel Quantum 360 6 'Black Sun Peach'",
+      "colorway": "Black/Sun Peach",
+      "gender": "women",
+      "silhouette": "Gel Quantum 360",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 150,
+      "estimatedMarketValue": 220,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/397/original/1202A181_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/397/original/1202A181_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/397/original/1202A181_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gel-quantum-360-6-black-sun-peach-1202a181-002",
+        "flightClub": " https://flightclub.com/wmns-gel-quantum-360-6-black-sun-peach-1202a181-002"
+      }
+    },
+    {
+      "id": "12b2787b-c080-484a-81b6-2da38f040d79",
+      "sku": "375787-01",
+      "brand": "Puma",
+      "name": "Wmns RS-Fast 'Sunset - White'",
+      "colorway": "White",
+      "gender": "women",
+      "silhouette": "RS-Fast",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 110,
+      "estimatedMarketValue": 180,
+      "story": "The PUMA women’s RS-Fast Sunset ‘White’ dresses the progressive lifestyle runner in an entirely neutral color scheme. The upper is constructed from off-white textile with white patent leather overlays and an external TPU heel counter in a shiny metallic silver finish. Additional silver accents land on the tongue tag and webbing eyelets. The layered build rests on a sculpted polyurethane midsole, decorated with a speckled PUMA Formstrip across the sidewall.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/366/746/original/375787_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/366/746/original/375787_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/366/746/original/375787_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-rs-fast-sunset-white-375787-01",
+        "flightClub": " https://flightclub.com/wmns-rs-fast-sunset-white-375787-01"
+      }
+    },
+    {
+      "id": "1874fca0-7b14-42b5-b271-523762da79c9",
+      "sku": "W860P11-2A",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 2A Wide 'Citrus'",
+      "colorway": "Citrus/Vivid Coral",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/646/092/original/W860P11_2A.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/646/092/original/W860P11_2A.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/646/092/original/W860P11_2A.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-2a-wide-citrus-w860p11-2a",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-2a-wide-citrus-w860p11-2a"
+      }
+    },
+    {
+      "id": "1e51f045-8b18-47b7-9b2e-378742556f22",
+      "sku": "DD1869-100",
+      "brand": "Nike",
+      "name": "Nike Dunk High Syracuse (W) (2021)",
+      "colorway": "White/Orange Blaze",
+      "gender": "women",
+      "silhouette": "Dunk",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 110,
+      "estimatedMarketValue": 179,
+      "story": "The 2021 edition of the Nike women’s Dunk High SP ‘Syracuse’ brings back one of the original colorways of the brand’s iconic ‘Be True to Your School’ series from 1985. The leather high-top is dressed in the signature colors of Syracuse University, featuring a white base with contrasting overlays in Orange Blaze. The citrus hue is repeated on the Swoosh and woven tongue tag, as well as a rubber outsole originally developed for the collegiate hardwood.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/630/708/original/740584_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/630/708/original/740584_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/630/708/original/740584_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-dunk-high-syracuse-w-2021",
+        "goat": " https://goat.com/sneakers/wmns-dunk-high-orange-blaze-dd1869-100",
+        "flightClub": " https://flightclub.com/wmns-dunk-high-orange-blaze-dd1869-100"
+      }
+    },
+    {
+      "id": "2804a844-cad8-4ce1-af0b-2b5a0af452e5",
+      "sku": "1012A890-002",
+      "brand": "ASICS",
+      "name": "Wmns GlideRide 2 'Black Pink Salt'",
+      "colorway": "Black/Pink Salt",
+      "gender": "women",
+      "silhouette": "GlideRide",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 150,
+      "estimatedMarketValue": 168,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/131/308/original/1012A890_002.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/131/308/original/1012A890_002.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/131/308/original/1012A890_002.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-glideride-2-black-pink-salt-1012a890-002",
+        "flightClub": " https://flightclub.com/wmns-glideride-2-black-pink-salt-1012a890-002"
+      }
+    },
+    {
+      "id": "291ee67d-e11d-460a-90e4-fdc04c332349",
+      "sku": "W860W11-2E",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 2E Wide 'Light Cyclone Arctic Fox'",
+      "colorway": "Light Cyclone/Arctic Fox",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/565/original/W860W11_4E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/565/original/W860W11_4E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/565/original/W860W11_4E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-4e-wide-light-cyclone-arctic-fox-w860w11-4e",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-4e-wide-light-cyclone-arctic-fox-w860w11-4e"
+      }
+    },
+    {
+      "id": "2e755e4b-c594-45dd-8d25-5d7e61b35272",
+      "sku": "WTSHAMG",
+      "brand": "New Balance",
+      "name": "Wmns Shando 'Light Cyclone'",
+      "colorway": "Light Cyclone/Grey",
+      "gender": "women",
+      "silhouette": "Shando",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 90,
+      "estimatedMarketValue": 158,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/580/original/WTSHAMG.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/580/original/WTSHAMG.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/580/original/WTSHAMG.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-shando-light-cyclone-wtshamg",
+        "flightClub": " https://flightclub.com/wmns-shando-light-cyclone-wtshamg"
+      }
+    },
+    {
+      "id": "31ad37bf-dff9-4f81-9169-834d9c360e0a",
+      "sku": "WTARISCK",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam Arishi Trail 'Outerspace Thunder'",
+      "colorway": "Outerspace/Thunder",
+      "gender": "women",
+      "silhouette": "Fresh Foam Arishi",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 75,
+      "estimatedMarketValue": 104,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/577/original/WTARISCK.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/577/original/WTARISCK.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/577/original/WTARISCK.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-trail-outerspace-thunder-wtarisck",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-arishi-trail-outerspace-thunder-wtarisck"
+      }
+    },
+    {
+      "id": "3ad28e77-73ac-42b2-9a60-4733c77a2d6a",
+      "sku": "W860W11",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 'Light Cyclone Arctic Fox'",
+      "colorway": "Light Cyclone/Arctic Fox",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/567/original/W860W11.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/567/original/W860W11.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/567/original/W860W11.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-light-cyclone-arctic-fox-w860w11",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-light-cyclone-arctic-fox-w860w11"
+      }
+    },
+    {
+      "id": "44c42701-5f0c-429f-8eec-b73683b7e10b",
+      "sku": "WTARISCK-D",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam Arishi Trail Wide 'Outerspace Thunder'",
+      "colorway": "Outerspace/Thunder",
+      "gender": "women",
+      "silhouette": "Fresh Foam Arishi",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 75,
+      "estimatedMarketValue": 145,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/574/original/WTARISCK_2E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/574/original/WTARISCK_2E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/574/original/WTARISCK_2E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-trail-2e-wide-outerspace-thunder-wtarisck-2e",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-arishi-trail-2e-wide-outerspace-thunder-wtarisck-2e"
+      }
+    },
+    {
+      "id": "46eb2c1c-fdbf-4485-be3f-e37b79fc56a0",
+      "sku": "W860P11",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 'Citrus'",
+      "colorway": "Citrus/Vivid Coral",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/561/original/W860P11.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/561/original/W860P11.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/561/original/W860P11.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-citrus-w860p11",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-citrus-w860p11"
+      }
+    },
+    {
+      "id": "4ac6bb71-c1e5-4781-96d8-19185edc5c35",
+      "sku": "W860P11-D",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 Wide 'Citrus'",
+      "colorway": "Citrus/Vivid Coral",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/560/original/W860P11_4E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/560/original/W860P11_4E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/560/original/W860P11_4E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-4e-wide-citrus-w860p11-4e",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-4e-wide-citrus-w860p11-4e"
+      }
+    },
+    {
+      "id": "4f26f68b-4b5d-47ec-bc19-d522896fc4ba",
+      "sku": "375539-01",
+      "brand": "Puma",
+      "name": "Wmns Rise 'NYC'",
+      "colorway": "White/Fizzy Yellow",
+      "gender": "women",
+      "silhouette": "Rise",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 100,
+      "estimatedMarketValue": 170,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/896/087/original/375539_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/896/087/original/375539_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/896/087/original/375539_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-rise-nyc-375539-01",
+        "flightClub": " https://flightclub.com/wmns-rise-nyc-375539-01"
+      }
+    },
+    {
+      "id": "54d8c34f-11c5-4d97-a1ef-2af5d3bf42e8",
+      "sku": "1202A236-206",
+      "brand": "ASICS",
+      "name": "Wmns Gel Lyte 3 OG 'Birch Camel Beige'",
+      "colorway": "Birch/Camel Beige",
+      "gender": "women",
+      "silhouette": "Gel Lyte 3",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 110,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/565/661/original/746551_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/565/661/original/746551_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/565/661/original/746551_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gel-lyte-3-og-birch-camel-beige-1202a236-206",
+        "flightClub": " https://flightclub.com/wmns-gel-lyte-3-og-birch-camel-beige-1202a236-206"
+      }
+    },
+    {
+      "id": "5a641ef9-8545-4e81-a4a1-84c11eff2a78",
+      "sku": "CK6647-800",
+      "brand": "Nike",
+      "name": "Wmns Waffle Racer 2X 'Monarch'",
+      "colorway": "Monarch/Pearl White/Hyper Crimson/Siren Red",
+      "gender": "women",
+      "silhouette": "Waffle Racer 2X",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 100,
+      "estimatedMarketValue": 124,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/618/791/original/746458_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/618/791/original/746458_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/618/791/original/746458_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-waffle-racer-2x-monarch-ck6647-800",
+        "flightClub": " https://flightclub.com/wmns-waffle-racer-2x-monarch-ck6647-800"
+      }
+    },
+    {
+      "id": "611f4a36-5c4e-4d72-96a6-22728f183147",
+      "sku": "W860P11-2E",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 2E Wide 'Citrus'",
+      "colorway": "Citrus/Vivid Coral",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/557/original/W860P11_2E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/557/original/W860P11_2E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/557/original/W860P11_2E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-2e-wide-citrus-w860p11-2e",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-2e-wide-citrus-w860p11-2e"
+      }
+    },
+    {
+      "id": "6333173a-dd68-471a-96e1-f7a25d1efcc1",
+      "sku": "W860L11-2A",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 2A Wide 'Virtual Sky'",
+      "colorway": "Virtual Sky/Bleached Lime Glow",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/646/091/original/W860L11_2A.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/646/091/original/W860L11_2A.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/646/091/original/W860L11_2A.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-2a-wide-virtual-sky-w860l11-2a",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-2a-wide-virtual-sky-w860l11-2a"
+      }
+    },
+    {
+      "id": "69ca604e-0625-47a8-a948-cd5728215c48",
+      "sku": "1012A835-001",
+      "brand": "ASICS",
+      "name": "Wmns Versablast 'Black White'",
+      "colorway": "Black/White",
+      "gender": "women",
+      "silhouette": "Versablast",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 70,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/002/695/original/1012A835_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/002/695/original/1012A835_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/002/695/original/1012A835_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-versablast-black-white-1012a835-001",
+        "flightClub": " https://flightclub.com/wmns-versablast-black-white-1012a835-001"
+      }
+    },
+    {
+      "id": "6df4fc81-9a1d-4cac-b85b-f147631bb9e7",
+      "sku": "1202A251-001",
+      "brand": "ASICS",
+      "name": "Wmns Gel Quantum 180 'Black Pearl'",
+      "colorway": "Black/Pearl",
+      "gender": "women",
+      "silhouette": "Gel Quantum 180",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/401/original/1202A251_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/401/original/1202A251_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/401/original/1202A251_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gel-quantum-180-black-pearl-1202a251-001",
+        "flightClub": " https://flightclub.com/wmns-gel-quantum-180-black-pearl-1202a251-001"
+      }
+    },
+    {
+      "id": "71ce0641-20fb-4ac8-9a74-cd01b742c208",
+      "sku": "DD1503-101",
+      "brand": "Nike",
+      "name": "Nike Dunk Low White Black (2021) (W)",
+      "colorway": "White/Black",
+      "gender": "women",
+      "silhouette": "dunk",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 100,
+      "estimatedMarketValue": 229,
+      "story": "The Nike women’s Dunk Low ‘Black White’ highlights classic color blocking on a vintage silhouette originally released in 1985. The all-leather upper features a crisp white base with contrasting black overlays and a matching black Swoosh. Nike branding lands on the heel tab and woven tongue tag in keeping with the sneaker’s OG aesthetic. The low-top is supported by a durable rubber cupsole, equipped underfoot with a basketball-specific traction pattern.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/507/263/original/722965_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/507/263/original/722965_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/507/263/original/722965_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/nike-dunk-low-white-black-2021-w",
+        "goat": " https://goat.com/sneakers/wmns-dunk-low-black-white-dd1503-101",
+        "flightClub": " https://flightclub.com/wmns-dunk-low-black-white-dd1503-101"
+      }
+    },
+    {
+      "id": "7ccd1c61-c4e9-4322-86df-d29ef3985865",
+      "sku": "W860S11",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 'Light Cyclone Logwood'",
+      "colorway": "Light Cyclone/Logwood",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 199,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/564/original/W860S11.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/564/original/W860S11.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/564/original/W860S11.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-light-cyclone-logwood-w860s11",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-light-cyclone-logwood-w860s11"
+      }
+    },
+    {
+      "id": "7e7313d1-1e4b-4168-bc65-1fbeb2090bf1",
+      "sku": "1202A181-003",
+      "brand": "ASICS",
+      "name": "Wmns Gel Quantum 360 6 'Black Digital Grape'",
+      "colorway": "Black/Digital Grape",
+      "gender": "women",
+      "silhouette": "Gel Quantum 360",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 150,
+      "estimatedMarketValue": 220,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/399/original/1202A181_003.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/399/original/1202A181_003.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/399/original/1202A181_003.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gel-quantum-360-6-black-digital-grape-1202a181-003",
+        "flightClub": " https://flightclub.com/wmns-gel-quantum-360-6-black-digital-grape-1202a181-003"
+      }
+    },
+    {
+      "id": "805638f0-30e7-4f49-a9ec-ceec379cee74",
+      "sku": "W860S11-4E",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 4E Wide 'Light Cyclone Logwood'",
+      "colorway": "Light Cyclone/Logwood",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/562/original/W860S11_4E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/562/original/W860S11_4E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/562/original/W860S11_4E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-4e-wide-light-cyclone-logwood-w860s11-4e",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-4e-wide-light-cyclone-logwood-w860s11-4e"
+      }
+    },
+    {
+      "id": "8171547e-a360-4bcc-8ffb-65139b353946",
+      "sku": "W860W11-2A",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 2A Wide 'Light Cyclone Arctic Fox'",
+      "colorway": "Light Cyclone/Arctic Fox",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/646/094/original/W860W11_2A.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/646/094/original/W860W11_2A.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/646/094/original/W860W11_2A.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-2a-wide-light-cyclone-arctic-fox-w860w11-2a",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-2a-wide-light-cyclone-arctic-fox-w860w11-2a"
+      }
+    },
+    {
+      "id": "9343379d-e655-4d6b-bb2c-b9b3f9b8c5e8",
+      "sku": "W860L11",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 'Virtual Sky'",
+      "colorway": "Virtual Sky/Bleached Lime Glow",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 199,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/555/original/W860L11.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/555/original/W860L11.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/555/original/W860L11.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-virtual-sky-w860l11",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-virtual-sky-w860l11"
+      }
+    },
+    {
+      "id": "a5959277-2cbc-46c7-9c3f-66f74618a7f5",
+      "sku": "WTSHAMG-2E",
+      "brand": "New Balance",
+      "name": "Wmns Shando 2E Wide 'Light Cyclone'",
+      "colorway": "Light Cyclone/Grey",
+      "gender": "women",
+      "silhouette": "Shando",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 90,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/578/original/WTSHAMG_2E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/578/original/WTSHAMG_2E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/578/original/WTSHAMG_2E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-shando-2e-wide-light-cyclone-wtshamg-2e",
+        "flightClub": " https://flightclub.com/wmns-shando-2e-wide-light-cyclone-wtshamg-2e"
+      }
+    },
+    {
+      "id": "b22e1683-77aa-4f80-9990-263112b97a24",
+      "sku": "375787-02",
+      "brand": "Puma",
+      "name": "Wmns RS-Fast 'Sunset - Peachskin'",
+      "colorway": "Peachskin",
+      "gender": "women",
+      "silhouette": "RS-Fast",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 110,
+      "estimatedMarketValue": 180,
+      "story": "The PUMA women’s RS-Fast Sunset ‘Peachskin’ applies a monotone palette to a lifestyle sneaker that blends forward-leaning sensibilities with design cues from early 2000s running shoes. The upper is constructed from peach-colored textile with tonal no-sew skins and patent leather overlays throughout. The pastel finish continues on the external TPU heel counter and sculpted polyurethane midsole, featuring speckled detailing on the raised PUMA Formstrip.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/366/747/original/375787_02.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/366/747/original/375787_02.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/366/747/original/375787_02.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-rs-fast-sunset-peachskin-375787-02",
+        "flightClub": " https://flightclub.com/wmns-rs-fast-sunset-peachskin-375787-02"
+      }
+    },
+    {
+      "id": "b65fe9b6-2e83-4cee-a3d4-b2dde12d3dcc",
+      "sku": "DH0252-100",
+      "brand": "Nike",
+      "name": "Wmns Air Max 270 'White Pink Blast Volt'",
+      "colorway": "White/Pink Blast/Indigo Burst/Volt",
+      "gender": "women",
+      "silhouette": "Air Max 270",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 150,
+      "estimatedMarketValue": 120,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/054/264/553/original/758642_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/054/264/553/original/758642_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/054/264/553/original/758642_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-max-270-white-pink-blast-volt-dh0252-100",
+        "flightClub": " https://flightclub.com/wmns-air-max-270-white-pink-blast-volt-dh0252-100"
+      }
+    },
+    {
+      "id": "b8e4f0e8-9661-498c-852a-26a1ece59971",
+      "sku": "571162F",
+      "brand": "Converse",
+      "name": "Wmns Chuck Taylor All Star High 'Snake Print'",
+      "colorway": "Pale Putty/Limestone Grey",
+      "gender": "women",
+      "silhouette": "Chuck Taylor All Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 60,
+      "estimatedMarketValue": 60,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/605/424/original/571162F.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/605/424/original/571162F.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/605/424/original/571162F.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-snake-print-571162f",
+        "flightClub": " https://flightclub.com/wmns-chuck-taylor-all-star-high-snake-print-571162f"
+      }
+    },
+    {
+      "id": "c3634601-9103-4322-9940-bf5e7561b19a",
+      "sku": "W860L11-D",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 Wide 'Virtual Sky'",
+      "colorway": "Virtual Sky/Bleached Lime Glow",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/551/original/W860L11_4E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/551/original/W860L11_4E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/551/original/W860L11_4E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-4e-wide-virtual-sky-w860l11-4e",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-4e-wide-virtual-sky-w860l11-4e"
+      }
+    },
+    {
+      "id": "cd941407-e21f-44ff-a8e5-2871638956d0",
+      "sku": "W860S11-2A",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 2A Wide 'Light Cyclone Logwood'",
+      "colorway": "Light Cyclone/Logwood",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/646/093/original/W860S11_2A.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/646/093/original/W860S11_2A.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/646/093/original/W860S11_2A.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-2a-wide-light-cyclone-logwood-w860s11-2a",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-2a-wide-light-cyclone-logwood-w860s11-2a"
+      }
+    },
+    {
+      "id": "d46b49ac-48bd-4773-8032-ad450a0b8bbb",
+      "sku": "W860L11-2E",
+      "brand": "New Balance",
+      "name": "Wmns Fresh Foam 860v11 2E Wide 'Virtual Sky'",
+      "colorway": "Virtual Sky/Bleached Lime Glow",
+      "gender": "women",
+      "silhouette": "860",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-10",
+      "retailPrice": 130,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/549/original/W860L11_2E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/549/original/W860L11_2E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/549/original/W860L11_2E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v11-2e-wide-virtual-sky-w860l11-2e",
+        "flightClub": " https://flightclub.com/wmns-fresh-foam-860v11-2e-wide-virtual-sky-w860l11-2e"
+      }
+    },
+    {
+      "id": "1b86d08e-6350-45f3-b7a4-473e1599f525",
+      "sku": "380624-01",
+      "brand": "Puma",
+      "name": "Wmns Suede Classic 'Dark Dreams'",
+      "colorway": "Black/Elektro Purple",
+      "gender": "women",
+      "silhouette": "Suede",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 70,
+      "estimatedMarketValue": 140,
+      "story": "The PUMA women’s Suede Classic ‘Dark Dreams’ offers a sleek interpretation of the vintage silhouette first released in 1968. Both the sneaker’s tooling and suede upper are rendered in a monotone black finish, save for a purple tongue tag and gold-foil PUMA Suede branding on the lateral side panel. A metal chain hangs off the heel in a matching metallic gold finish. Inside the shoe, a Lycra lining combines with a padded sockiner to deliver a comfortable fit.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/830/589/original/380624_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/589/original/380624_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/830/589/original/380624_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-suede-classic-dark-dreams-380624-01",
+        "flightClub": " https://flightclub.com/wmns-suede-classic-dark-dreams-380624-01"
+      }
+    },
+    {
+      "id": "20d3e200-0e6b-40ac-86ff-19a883b17dc1",
+      "sku": "GX0032",
+      "brand": "adidas",
+      "name": "Wmns Super Sleek 72 'White Glitter'",
+      "colorway": "Cloud White/Silver Metallic/Cloud White",
+      "gender": "women",
+      "silhouette": "Super Sleek 72",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 100,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/545/870/original/GX0032.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/545/870/original/GX0032.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/545/870/original/GX0032.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-super-sleek-72-white-glitter-gx0032",
+        "flightClub": " https://flightclub.com/wmns-super-sleek-72-white-glitter-gx0032"
+      }
+    },
+    {
+      "id": "2a7d6790-ea57-45e5-b7f6-5e6a5f936df2",
+      "sku": "1012A909-001",
+      "brand": "ASICS",
+      "name": "Wmns Jolt 3 Wide 'Black Lilac Opal'",
+      "colorway": "Black/Lilac Opal",
+      "gender": "women",
+      "silhouette": "Jolt",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 55,
+      "estimatedMarketValue": 125,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/131/310/original/1012A909_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/131/310/original/1012A909_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/131/310/original/1012A909_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-jolt-3-wide-black-lilac-opal-1012a909-001",
+        "flightClub": " https://flightclub.com/wmns-jolt-3-wide-black-lilac-opal-1012a909-001"
+      }
+    },
+    {
+      "id": "54c06d6f-ddde-4282-ab08-6148b15faa4c",
+      "sku": "1012B011-700",
+      "brand": "ASICS",
+      "name": "Wmns Gel Nimbus 23 'Color Injection Pack - Hot Pink Sour Yuzu'",
+      "colorway": "Hot Pink/Sour Yuzu",
+      "gender": "women",
+      "silhouette": "Gel Nimbus",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 150,
+      "estimatedMarketValue": 178,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/895/989/original/1012B011_700.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/895/989/original/1012B011_700.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/895/989/original/1012B011_700.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gel-nimbus-23-color-injection-pack-hot-pink-sour-yuzu-1012b011-700",
+        "flightClub": " https://flightclub.com/wmns-gel-nimbus-23-color-injection-pack-hot-pink-sour-yuzu-1012b011-700"
+      }
+    },
+    {
+      "id": "6ce854fd-41fd-49fd-b25e-301b5448d927",
+      "sku": "DD9681-001",
+      "brand": "Nike",
+      "name": "Wmns TC 7900 'Black Ghost Green'",
+      "colorway": "Black/Ghost Green/Black",
+      "gender": "women",
+      "silhouette": "TC 7900",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 120,
+      "estimatedMarketValue": 134,
+      "story": "The Nike women’s TC 7900 ‘Black Ghost Green’ showcases neon accents on a chunky lifestyle silhouette built for everyday wear. A tonal black finish is executed on the layered leather upper, equipped with decorative webbing straps around the midfoot and toe box for a utilitarian aesthetic. Dual pull tabs assist with easy on and off, while mesh construction on the tongue and collar improves the shoe’s breathability quotient. Plush cushioning is provided by an exaggerated foam midsole in a fluorescent green hue.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/605/507/original/DD9681_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/605/507/original/DD9681_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/605/507/original/DD9681_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-tc-7900-black-ghost-green-dd9681-001",
+        "flightClub": " https://flightclub.com/wmns-tc-7900-black-ghost-green-dd9681-001"
+      }
+    },
+    {
+      "id": "7e2e8a12-d60a-4683-8f00-550a582e3749",
+      "sku": "DB3902-100",
+      "brand": "Nike",
+      "name": "Wmns Air Force 1 Shadow 'White Solar Red'",
+      "colorway": "White/Solar Red/White/Dark Teal Green",
+      "gender": "women",
+      "silhouette": "Air Force 1",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 110,
+      "estimatedMarketValue": 101,
+      "story": "The Nike women’s Air Force 1 Shadow ‘White Solar Red’ treats the classic silhouette to a reconstructed build with layered detailing. The sneaker’s white leather upper is equipped with doubled-up eyestays and forefoot overlays, along with a detached collar flap and a stitched-on Air-branded overlay that wraps around the heel. The latter is rendered in bright red and dark teal, matching the double-stacked Swooshes and heel tabs. A cored-out rubber outsole completes the modern aesthetic.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/267/070/original/746457_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/267/070/original/746457_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/267/070/original/746457_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-force-1-shadow-white-solar-red-db3902-100",
+        "flightClub": " https://flightclub.com/wmns-air-force-1-shadow-white-solar-red-db3902-100"
+      }
+    },
+    {
+      "id": "8f675a45-9fa2-402d-a64f-45a118f31c0e",
+      "sku": "CK2948-004",
+      "brand": "Nike",
+      "name": "Wmns Venture Runner 'Black Light Arctic Pink'",
+      "colorway": "Black/White/Light Arctic Pink",
+      "gender": "women",
+      "silhouette": "Venture Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 70,
+      "estimatedMarketValue": 99,
+      "story": "Inspired by classic running shoes from the ‘80s, the Nike women’s Venture Runner ‘Black Light Arctic Pink’ steps out in a traditional mesh and suede upper. Contemporary touches include an oversized pink Swoosh, double layered eyelets and exposed zigzag stitching on the quarter panel. In addition to Nike branding on the woven tongue tag, ‘Nike Sportswear’ is embossed on the external heel clip. Underfoot, the rubber outsole features a modified waffle tread as a tie-in to the brand’s running heritage.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/605/477/original/CK2948_004.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/605/477/original/CK2948_004.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/605/477/original/CK2948_004.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-venture-runner-black-light-arctic-pink-ck2948-004",
+        "flightClub": " https://flightclub.com/wmns-venture-runner-black-light-arctic-pink-ck2948-004"
+      }
+    },
+    {
+      "id": "a6f28886-54ab-4bc3-a9db-a4b1e0377fd5",
+      "sku": "GZ8450",
+      "brand": "adidas",
+      "name": "Wmns QT Racer 2.0 'White Leopard'",
+      "colorway": "Cloud White/Grey Five/Clear Pink",
+      "gender": "women",
+      "silhouette": "QT Racer 2.0",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 65,
+      "estimatedMarketValue": 110,
+      "story": "The adidas women’s QT Racer 2.0 ‘White Leopard’ offers a smooth ride in a breathable, minimalist package. Stretchy white textile makes up the composition of the upper, accented with leopard-print three-stripes and a pink webbing pull tab. Soft padding around the collar yields a comfortable fit, while a leather heel counter provides rearfoot stability. A memory foam sockliner works in tandem with a Cloudfoam midsole to deliver buoyant cushioning with each step.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/605/524/original/GZ8450.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/605/524/original/GZ8450.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/605/524/original/GZ8450.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-qt-racer-2-0-white-leopard-gz8450",
+        "flightClub": " https://flightclub.com/wmns-qt-racer-2-0-white-leopard-gz8450"
+      }
+    },
+    {
+      "id": "adf91087-0fd3-4741-b5a4-a9e1d06ffe1d",
+      "sku": "CV8727-101",
+      "brand": "Nike",
+      "name": "Wmns Air Max 2090 'White Siren Red'",
+      "colorway": "Summit White/Siren Red/White/Black",
+      "gender": "women",
+      "silhouette": "Air Max 2090",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 150,
+      "estimatedMarketValue": 100,
+      "story": "The Nike women’s Air Max 2090 ‘White Siren Red’ delivers a clean colorway of a lifestyle silhouette inspired by the iconic Air Max 90. A speed lacing system secures the semi-translucent textile upper, finished in a subtle off-white shade and reinforced with a tonal leather mudguard. The sneaker’s open-hole tongue combines with a pull tab at the heel for easy on and off. The lightweight build is mounted on a soft foam midsole, fitted with a crimson-tinged Max Air unit in the heel and supported by a waffle-tread rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/605/494/original/CV8727_101.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/605/494/original/CV8727_101.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/605/494/original/CV8727_101.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-max-2090-white-siren-red-cv8727-101",
+        "flightClub": " https://flightclub.com/wmns-air-max-2090-white-siren-red-cv8727-101"
+      }
+    },
+    {
+      "id": "b2fe9791-e5c1-4409-9e9d-8f5734afeb8d",
+      "sku": "G57816",
+      "brand": "Reebok",
+      "name": "Wmns DailyFit DMX 'White Luminous Lilac'",
+      "colorway": "White/Porcelain/Luminous Lilac",
+      "gender": "women",
+      "silhouette": "DailyFit",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-09",
+      "retailPrice": 80,
+      "estimatedMarketValue": 95,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/545/869/original/G57816.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/545/869/original/G57816.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/545/869/original/G57816.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-dailyfit-dmx-white-luminous-lilac-g57816",
+        "flightClub": " https://flightclub.com/wmns-dailyfit-dmx-white-luminous-lilac-g57816"
+      }
+    },
+    {
+      "id": "15ce870d-e18b-4ee7-b088-c464137cd733",
+      "sku": "FZ0383",
+      "brand": "adidas",
+      "name": "Wmns Lite Racer 2.0 'Black Clear Lilac'",
+      "colorway": "Core Black/Clear Lilac/Cloud White",
+      "gender": "women",
+      "silhouette": "Lite Racer",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-08",
+      "retailPrice": 60,
+      "estimatedMarketValue": 112,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/488/354/original/FZ0383.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/488/354/original/FZ0383.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/488/354/original/FZ0383.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-lite-racer-2-0-black-clear-lilac-fz0383",
+        "flightClub": " https://flightclub.com/wmns-lite-racer-2-0-black-clear-lilac-fz0383"
+      }
+    },
+    {
+      "id": "1848cd9f-9493-4eb9-96bd-b864a6267047",
+      "sku": "FX6809",
+      "brand": "adidas",
+      "name": "Wmns Supernova 'Hi-Res Yellow'",
+      "colorway": "Hi-Res Yellow/Solar Yellow/Hi-Res Yellow",
+      "gender": "women",
+      "silhouette": "Supernova",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-08",
+      "retailPrice": 100,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/488/351/original/FX6809.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/488/351/original/FX6809.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/488/351/original/FX6809.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-supernova-hi-res-yellow-fx6809",
+        "flightClub": " https://flightclub.com/wmns-supernova-hi-res-yellow-fx6809"
+      }
+    },
+    {
+      "id": "4b5e78ba-cfe5-4578-910e-c8e6f09939e0",
+      "sku": "WS237CB",
+      "brand": "New Balance",
+      "name": "Wmns 237 'Sea Salt Silver Metallic'",
+      "colorway": "Sea Salt/Silver Metallic",
+      "gender": "women",
+      "silhouette": "237",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-08",
+      "retailPrice": 75,
+      "estimatedMarketValue": 119,
+      "story": "The New Balance women’s 237 ‘Sea Salt Silver Metallic’ showcases a neutral palette on a lifestyle silhouette that takes its cues from the brand’s classic runners from the ‘70s. A neutral ivory tone saturates the upper, constructed from breathable mesh with tonal suede overlays and a leather heel tab stamped with New Balance branding. A metallic silver finish distinguishes the oversized ‘N’ logo, reminiscent of the 327 and inspired by the vintage 320 silhouette. Underfoot, the rubber outsole features a wavy herringbone tread for optimal grip.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/572/original/WS237CB.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/572/original/WS237CB.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/572/original/WS237CB.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-237-sea-salt-silver-metallic-ws237cb",
+        "flightClub": " https://flightclub.com/wmns-237-sea-salt-silver-metallic-ws237cb"
+      }
+    },
+    {
+      "id": "72435d63-b45a-434c-816a-1f53e099e83b",
+      "sku": "CU4275-102",
+      "brand": "Nike",
+      "name": "Wmns NikeCourt Air Max Volley 'White Purple Gradient'",
+      "colorway": "White/Fierce Purple/Purple Chalk/Hyper Pink",
+      "gender": "women",
+      "silhouette": "Air Max Volley",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-08",
+      "retailPrice": 90,
+      "estimatedMarketValue": 329,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/946/778/original/CU4275_102.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/946/778/original/CU4275_102.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/946/778/original/CU4275_102.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nikecourt-air-max-volley-white-purple-gradient-cu4275-102",
+        "flightClub": " https://flightclub.com/wmns-nikecourt-air-max-volley-white-purple-gradient-cu4275-102"
+      }
+    },
+    {
+      "id": "028a831b-f781-4e98-9b09-c0ab8197a068",
+      "sku": "CV3817-601",
+      "brand": "Nike",
+      "name": "Wmns React Escape Run 'Pink Glow'",
+      "colorway": "Pink Glow/Bright Crimson/Pink Foam/Black",
+      "gender": "women",
+      "silhouette": "React Escape Run",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-07",
+      "retailPrice": 100,
+      "estimatedMarketValue": 114,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/436/191/original/CV3817_601.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/436/191/original/CV3817_601.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/436/191/original/CV3817_601.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-react-escape-run-pink-glow-cv3817-601",
+        "flightClub": " https://flightclub.com/wmns-react-escape-run-pink-glow-cv3817-601"
+      }
+    },
+    {
+      "id": "8818b949-3f2c-432e-b214-72ce284d69c6",
+      "sku": "W990TMN5",
+      "brand": "New Balance",
+      "name": "Wmns 990v5 Trail Made in USA 'Magnetic Blue'",
+      "colorway": "Magnetic Blue/Cobalt Blue",
+      "gender": "women",
+      "silhouette": "990",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-07",
+      "retailPrice": 180,
+      "estimatedMarketValue": 275,
+      "story": "Made in the USA, the New Balance 990v5 Trail ‘Magnetic Blue’ delivers an all-terrain iteration of the brand’s popular running shoe. A standard blend of mesh and suede makes up the composition of the upper, finished in restrained blue and purple hues. A brighter shade of Cobalt Blue lands on the sneaker’s molded eyelets, TPU heel clip and forefoot overlays. The sneaker is mounted on an ENCAP midsole, reinforced underfoot by a lugged rubber outsole made for off-road use.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/570/original/W990TMN5.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/570/original/W990TMN5.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/570/original/W990TMN5.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-990v5-trail-made-in-usa-magnetic-blue-w990tmn5",
+        "flightClub": " https://flightclub.com/wmns-990v5-trail-made-in-usa-magnetic-blue-w990tmn5"
+      }
+    },
+    {
+      "id": "918b308c-5325-49ec-acf5-36a262bb56c1",
+      "sku": "VN000VOSW51",
+      "brand": "Vans",
+      "name": "Wmns Asher 'White Checkerboard'",
+      "colorway": "White/White",
+      "gender": "women",
+      "silhouette": "Asher",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-07",
+      "retailPrice": 0,
+      "estimatedMarketValue": 35,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/461/142/original/VN000VOSW51.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/461/142/original/VN000VOSW51.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/461/142/original/VN000VOSW51.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-asher-white-checkerboard-vn000vosw51",
+        "flightClub": " https://flightclub.com/wmns-asher-white-checkerboard-vn000vosw51"
+      }
+    },
+    {
+      "id": "b50c6687-7d86-4e66-9c11-6106b2672e46",
+      "sku": "571245C",
+      "brand": "Converse",
+      "name": "Wmns CPX70 High 'Snakeskin Archive Print'",
+      "colorway": "Egret/White/Hyper Pink",
+      "gender": "women",
+      "silhouette": "CPX70",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-07",
+      "retailPrice": 100,
+      "estimatedMarketValue": 131,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/994/827/original/571245C.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/994/827/original/571245C.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/994/827/original/571245C.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-cpx70-high-snakeskin-archive-print-571245c",
+        "flightClub": " https://flightclub.com/wmns-cpx70-high-snakeskin-archive-print-571245c"
+      }
+    },
+    {
+      "id": "d4f5f3fb-a63d-4abc-bd57-9107885035f9",
+      "sku": "W990TMN5-2E",
+      "brand": "New Balance",
+      "name": "Wmns 990v5 Trail Made in USA 2E Wide 'Magnetic Blue'",
+      "colorway": "Magnetic Blue/Cobalt Blue",
+      "gender": "women",
+      "silhouette": "990",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-07",
+      "retailPrice": 180,
+      "estimatedMarketValue": 180,
+      "story": "Made in the USA and offered in 2E Wide, the New Balance 990v5 Trail ‘Magnetic Blue’ updates the brand’s popular running shoe with a rugged build made for all-terrain use. Complementary blue and purple tones are applied to a standard mesh and suede upper, reinforced with translucent TPU detailing around the collar and heel. Lightweight cushioning arrives via New Balance’s ENCAP midsole, made up of a soft EVA core and a firmer polyurethane carrier. Underfoot, a lugged rubber outsole provides durable traction.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/648/568/original/W990TMN5_2E.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/648/568/original/W990TMN5_2E.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/648/568/original/W990TMN5_2E.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-990v5-trail-made-in-usa-2e-wide-magnetic-blue-w990tmn5-2e",
+        "flightClub": " https://flightclub.com/wmns-990v5-trail-made-in-usa-2e-wide-magnetic-blue-w990tmn5-2e"
+      }
+    },
+    {
+      "id": "f50c5e0f-e4e8-439e-a96f-b94a7c7c7267",
+      "sku": "FY7318",
+      "brand": "Reebok",
+      "name": "Wmns Legacy 83 'Ceramic Pink Twisted Coral'",
+      "colorway": "Ceramic Pink/Boulder Grey/Twisted Coral",
+      "gender": "women",
+      "silhouette": "Legacy 83",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-07",
+      "retailPrice": 80,
+      "estimatedMarketValue": 90,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/131/561/original/FY7318.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/131/561/original/FY7318.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/131/561/original/FY7318.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-legacy-83-ceramic-pink-twisted-coral-fy7318",
+        "flightClub": " https://flightclub.com/wmns-legacy-83-ceramic-pink-twisted-coral-fy7318"
+      }
+    },
+    {
+      "id": "136894db-b21b-4097-9a5b-ef6ce0e28c1f",
+      "sku": "1012B004-400",
+      "brand": "ASICS",
+      "name": "Wmns GT-2000 9 Lite-Show 'French Blue Purple'",
+      "colorway": "French Blue/Lite Show",
+      "gender": "women",
+      "silhouette": "GT 2000",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-06",
+      "retailPrice": 130,
+      "estimatedMarketValue": 140,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/002/705/original/1012B004_400.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/002/705/original/1012B004_400.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/002/705/original/1012B004_400.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gt-2000-9-lite-show-french-blue-purple-1012b004-400",
+        "flightClub": " https://flightclub.com/wmns-gt-2000-9-lite-show-french-blue-purple-1012b004-400"
+      }
+    },
+    {
+      "id": "8d79640a-c47b-4aed-a1df-79c58a2c579f",
+      "sku": "FY1252",
+      "brand": "adidas",
+      "name": "Wmns SolarGlide ST 'Grey Silver Metallic'",
+      "colorway": "Grey Six/Silver Metallic/Grey Four",
+      "gender": "women",
+      "silhouette": "SolarGlide",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-06",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "The adidas women’s SolarGlide ST ‘Grey Silver Metallic’ combines breathable comfort with a responsive, stable ride. The form-fitting upper is constructed from dark grey mesh, accented with reflective silver three-stripes and decorative stitch detailing in a vibrant pink hue. Stability rails wrap up the sidewalls of the full-length Boost midsole for enhanced support. Underfoot, the Stretchweb outsole is made with Continental rubber for superior control and grip.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/436/224/original/FY1252.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/436/224/original/FY1252.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/436/224/original/FY1252.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-solarglide-st-grey-silver-metallic-fy1252",
+        "flightClub": " https://flightclub.com/wmns-solarglide-st-grey-silver-metallic-fy1252"
+      }
+    },
+    {
+      "id": "92e49021-292c-4010-9ddd-48dff99d1ec5",
+      "sku": "H02810",
+      "brand": "adidas",
+      "name": "Wmns UltraBoost 'Pastel Pink'",
+      "colorway": "Clear Pink/Yellow Tint/Sky Tint",
+      "gender": "women",
+      "silhouette": "UltraBoost",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-06",
+      "retailPrice": 180,
+      "estimatedMarketValue": 140,
+      "story": "The adidas women’s UltraBoost ‘Pastel Pink’ updates the lifestyle runner with a delicate range of colors. An uneven pink finish is executed on the breathable Primeknit upper, reinforced with a tonal forefoot overlay and molded heel counter. Subtle contrasting hues land on two of the signature three-stripes integrated into the translucent midfoot cage. Responsive cushioning is provided by a full-length Boost midsole, painted pink and supported by a black Continental rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/891/292/original/744844_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/891/292/original/744844_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/891/292/original/744844_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-ultraboost-pastel-pink-h02810",
+        "flightClub": " https://flightclub.com/wmns-ultraboost-pastel-pink-h02810"
+      }
+    },
+    {
+      "id": "9977473c-69a4-4d62-a08d-b72ea704a4a6",
+      "sku": "H04753",
+      "brand": "adidas",
+      "name": "Wmns Vario Pure 'Black White'",
+      "colorway": "Core Black/Cloud White/Carbon",
+      "gender": "women",
+      "silhouette": "Vario Pure",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-06",
+      "retailPrice": 70,
+      "estimatedMarketValue": 130,
+      "story": "The adidas women’s Vario Pure ‘Black White’ offers breathable comfort in a minimalist package. An integrated lacing system secures a textile knit upper, rendered in a monochromatic black finish and partially built with Primegreen, featuring recycled materials and zero virgin polyester. A memory foam sockliner combines with a Cloudfoam sole unit in a crisp white finish to deliver lightweight cushioning. Underfoot, flex grooves provide enhanced traction and a smooth ride.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/436/272/original/H04753.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/436/272/original/H04753.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/436/272/original/H04753.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-vario-pure-black-white-h04753",
+        "flightClub": " https://flightclub.com/wmns-vario-pure-black-white-h04753"
+      }
+    },
+    {
+      "id": "a9029f4a-6642-4f1a-a66f-3f35fc1ee870",
+      "sku": "3023668-102",
+      "brand": "Under Armour",
+      "name": "Wmns Charged Breathe 'International Women's Day'",
+      "colorway": "Onyx White/Nebula Purple",
+      "gender": "women",
+      "silhouette": "UA Charged Breathe",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-06",
+      "retailPrice": 85,
+      "estimatedMarketValue": 85,
+      "story": "The Under Armour women’s Charged Breathe ‘International Women&#39;s Day’ commemorates the annual celebration with an abstract graphic print throughout the upper, constructed from one-piece open mesh for breathable comfort. An integrated lacing system combines with an elastic midfoot band to deliver a locked-in fit. The lightweight build sits atop a Charged Cushioning midsole, good for impact protection and energy return. A grippy pastel-colored rubber outsole complements the lavender and violet hues up top.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/545/689/original/3023668_102.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/545/689/original/3023668_102.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/545/689/original/3023668_102.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-charged-breathe-international-women-s-day-3023668-102",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "bcccdc9d-1afc-422a-bc2e-cd9b586d834d",
+      "sku": "Q47225",
+      "brand": "adidas",
+      "name": "Wmns Stan Smith Primegreen 'Cloud White'",
+      "colorway": "Cloud White/Core Black/Cloud White",
+      "gender": "women",
+      "silhouette": "Stan Smith",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-06",
+      "retailPrice": 85,
+      "estimatedMarketValue": 145,
+      "story": "The adidas women’s Stan Smith Primegreen ‘Cloud White’ updates the sneaker icon with a sustainable build. A monochromatic white finish is applied to the synthetic leather upper, composed of 50% recycled content and accented with perforated three-stripes on the quarter panel. The classic Stan Smith logo is debossed on the leather tongue, while adidas Primegreen branding adorns the sockliner. A durable rubber cupsole anchors the minimalist build.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/240/627/original/Q47225.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/240/627/original/Q47225.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/240/627/original/Q47225.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-stan-smith-primegreen-cloud-white-q47225",
+        "flightClub": " https://flightclub.com/wmns-stan-smith-primegreen-cloud-white-q47225"
+      }
+    },
+    {
+      "id": "d592ba93-389e-423a-9c82-e33ec4e34b58",
+      "sku": "H01906",
+      "brand": "adidas",
+      "name": "Wmns Swift Run X 'Leopard - Black'",
+      "colorway": "Core Black/Supplier Colour/Cloud White",
+      "gender": "women",
+      "silhouette": "Swift Run",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-06",
+      "retailPrice": 85,
+      "estimatedMarketValue": 145,
+      "story": "The adidas women’s Swift Run X ‘Leopard’ delivers a fashion-forward take on a retro-inspired silhouette that takes its cues from vintage running shoes. Black leopard spots cover the foot-hugging textile knit upper, accented with welded three-stripes and equipped with a breathable mesh tongue. The virtually seamless build rests atop a full-length EVA midsole, supported by a rubber outsole with a modified waffle tread for durable traction.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/436/265/original/H01906.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/436/265/original/H01906.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/436/265/original/H01906.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-swift-run-x-leopard-black-h01906",
+        "flightClub": " https://flightclub.com/wmns-swift-run-x-leopard-black-h01906"
+      }
+    },
+    {
+      "id": "dbd12ea7-125e-4825-a93b-a5f49a99b6b4",
+      "sku": "H01907",
+      "brand": "adidas",
+      "name": "Wmns Swift Run X 'Leopard - Halo Ivory'",
+      "colorway": "Halo Ivory/Cloud White/Cloud White",
+      "gender": "women",
+      "silhouette": "Swift Run",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-06",
+      "retailPrice": 85,
+      "estimatedMarketValue": 99,
+      "story": "The adidas women’s Swift Run X ‘Leopard’ outfits the retro-inspired lifestyle runner in a textile knit build enlivened with a subtle animal print. Leopard spots in a Halo Ivory hue cover the one-piece upper, equipped with a breathable mesh tongue and interior heel padding for added comfort. Exterior branding is limited to welded three-stripes and a Trefoil tongue tag. Lightweight cushioning comes courtesy of a full-length EVA midsole, reinforced by a rubber outsole with a modified waffle tread.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/436/267/original/H01907.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/436/267/original/H01907.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/436/267/original/H01907.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-swift-run-x-leopard-halo-ivory-h01907",
+        "flightClub": " https://flightclub.com/wmns-swift-run-x-leopard-halo-ivory-h01907"
+      }
+    },
+    {
+      "id": "f8a68a98-f4ea-46d2-90bb-94664bebc901",
+      "sku": "1202A045-208",
+      "brand": "ASICS",
+      "name": "Wmns Gel MC Plus 'Birch'",
+      "colorway": "Birch/Aizuri Blue",
+      "gender": "women",
+      "silhouette": "Gel MC Plus",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-06",
+      "retailPrice": 100,
+      "estimatedMarketValue": 135,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/002/725/original/1202A045_208.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/002/725/original/1202A045_208.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/002/725/original/1202A045_208.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-gel-mc-plus-birch-1202a045-208",
+        "flightClub": " https://flightclub.com/wmns-gel-mc-plus-birch-1202a045-208"
+      }
+    },
+    {
+      "id": "82fccf66-7305-4c2c-9c3c-d2b69e9f8408",
+      "sku": "DC7729-100",
+      "brand": "Jordan",
+      "name": "Jordan MA2 Future Beginnings (W)",
+      "colorway": "Natural/Natural/Infrared-Gum",
+      "gender": "women",
+      "silhouette": "Jordan MA2",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-05",
+      "retailPrice": 150,
+      "estimatedMarketValue": 159,
+      "story": "The women’s Jordan MA2 ‘Future Beginnings’ blends heritage-inspired details with a modern aesthetic, resulting in a sporty lifestyle silhouette that picks up where the Jordan Max 200 left off. A subtle tan hue is applied to the textile and suede upper, featuring a plush foam tongue and padded collar for a comfortable fit. Exposed stitching and off-center webbing pull tabs give the shoe a deconstructed look. Under the heel, a red-tinged Max Air unit enhances the foam midsole, reinforced by a grippy gum rubber outsole.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/111/948/original/729129_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/111/948/original/729129_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/111/948/original/729129_00.png.png"
+      },
+      "links": {
+        "stockx": "https://stockx.com/air-jordan-ma2-future-beginnings-w",
+        "goat": " https://goat.com/sneakers/wmns-jordan-ma2-future-beginnings-dc7729-100",
+        "flightClub": " https://flightclub.com/wmns-jordan-ma2-future-beginnings-dc7729-100"
+      }
+    },
+    {
+      "id": "a15653e2-6132-4103-a3e8-5687017aea55",
+      "sku": "G58002",
+      "brand": "adidas",
+      "name": "Wmns Forum Low 'White Royal Blue'",
+      "colorway": "Cloud White/Royal Blue/Cloud White",
+      "gender": "women",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-05",
+      "retailPrice": 90,
+      "estimatedMarketValue": 90,
+      "story": "The adidas women’s Forum Low ‘White Royal Blue’ features a simplistic two-tone finish on a vintage hoops shoe originally released in 1984. The white leather upper is accented with blue serrated three-stripes and a Trefoil logo stamped on the lateral X-shaped overlay. An adjustable hook-and-loop strap provides midfoot lockdown, while a molded heel counter delivers rearfoot stability. The rubber cupsole is fitted with a midsole EVA wedge for added cushioning.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/618/831/original/743415_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/618/831/original/743415_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/618/831/original/743415_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-forum-low-white-royal-blue-g58002",
+        "flightClub": " https://flightclub.com/wmns-forum-low-white-royal-blue-g58002"
+      }
+    },
+    {
+      "id": "e43ee6a5-9334-4743-b964-a9f65f6c1c77",
+      "sku": "G58001",
+      "brand": "adidas",
+      "name": "Wmns Forum Low 'White Shock Pink'",
+      "colorway": "Cloud White/Cloud White/Shock Pink",
+      "gender": "women",
+      "silhouette": "Forum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-05",
+      "retailPrice": 90,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/240/575/original/G58001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/240/575/original/G58001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/240/575/original/G58001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-forum-low-white-shock-pink-g58001",
+        "flightClub": " https://flightclub.com/wmns-forum-low-white-shock-pink-g58001"
+      }
+    },
+    {
+      "id": "0d8a480c-090d-4d39-8677-b4f4341e9e08",
+      "sku": "FY6731",
+      "brand": "adidas",
+      "name": "Wmns Choigo 'I Love Dance'",
+      "colorway": "Cloud White/Core Black/Frozen Green",
+      "gender": "women",
+      "silhouette": "Choigo",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 100,
+      "estimatedMarketValue": 165,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/436/232/original/FY6731.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/436/232/original/FY6731.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/436/232/original/FY6731.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-choigo-i-love-dance-fy6731",
+        "flightClub": " https://flightclub.com/wmns-choigo-i-love-dance-fy6731"
+      }
+    },
+    {
+      "id": "2dbb10dc-5e74-44d5-a0fe-6890b59c738c",
+      "sku": "GZ5387",
+      "brand": "Reebok",
+      "name": "Wmns Club C Double 'White Light Blue'",
+      "colorway": "White/White/White",
+      "gender": "women",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 80,
+      "estimatedMarketValue": 100,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/298/197/original/GZ5387.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/298/197/original/GZ5387.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/298/197/original/GZ5387.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-club-c-double-white-light-blue-gz5387",
+        "flightClub": " https://flightclub.com/wmns-club-c-double-white-light-blue-gz5387"
+      }
+    },
+    {
+      "id": "40b656a7-dd8c-4b9e-8192-5154a036f792",
+      "sku": "GV7176",
+      "brand": "adidas",
+      "name": "Wmns NMD_R1 'I Love Dance'",
+      "colorway": "Core Black/Core Black/True Pink",
+      "gender": "women",
+      "silhouette": "NMD Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 140,
+      "estimatedMarketValue": 350,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/298/195/original/GV7176.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/298/195/original/GV7176.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/298/195/original/GV7176.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nmd_r1-i-love-dance-gv7176",
+        "flightClub": " https://flightclub.com/wmns-nmd_r1-i-love-dance-gv7176"
+      }
+    },
+    {
+      "id": "518c2c95-712b-4c7c-af6f-7c0c96e55e5e",
+      "sku": "571112C",
+      "brand": "Converse",
+      "name": "Wmns Run Star Hike High 'Light Zitron'",
+      "colorway": "Light Zitron/Light Zitron/White",
+      "gender": "women",
+      "silhouette": "Run Star",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 110,
+      "estimatedMarketValue": 109,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/835/962/original/744273_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/835/962/original/744273_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/835/962/original/744273_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-run-star-hike-high-light-zitron-571112c",
+        "flightClub": " https://flightclub.com/wmns-run-star-hike-high-light-zitron-571112c"
+      }
+    },
+    {
+      "id": "6185077c-d516-44da-bd86-871b76860ac2",
+      "sku": "FY5132",
+      "brand": "adidas",
+      "name": "Wmns Superstar 'I Love Dance'",
+      "colorway": "Cloud White/Core Black/Frozen Green",
+      "gender": "women",
+      "silhouette": "Superstar",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 90,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/298/165/original/FY5132.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/298/165/original/FY5132.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/298/165/original/FY5132.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-superstar-i-love-dance-fy5132",
+        "flightClub": " https://flightclub.com/wmns-superstar-i-love-dance-fy5132"
+      }
+    },
+    {
+      "id": "6708ca3c-7896-4a99-958b-f6a954634703",
+      "sku": "GW0170",
+      "brand": "adidas",
+      "name": "Wmns Ozweego 'Halo Ivory'",
+      "colorway": "Halo Ivory/Linen/Chalk White",
+      "gender": "women",
+      "silhouette": "Ozweego",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 0,
+      "estimatedMarketValue": 130,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/131/569/original/GW0170.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/131/569/original/GW0170.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/131/569/original/GW0170.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-ozweego-halo-ivory-gw0170",
+        "flightClub": " https://flightclub.com/wmns-ozweego-halo-ivory-gw0170"
+      }
+    },
+    {
+      "id": "a6dad437-eb4b-4cdd-af78-7095dfbab9f1",
+      "sku": "194427-02",
+      "brand": "Puma",
+      "name": "First Mile x Wmns LVL-UP 'Byzantium'",
+      "colorway": "Byzantium/Black",
+      "gender": "women",
+      "silhouette": "LVL-UP",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 90,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/909/632/original/194427_02.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/909/632/original/194427_02.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/909/632/original/194427_02.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/first-mile-x-wmns-lvl-up-byzantium-194427-02",
+        "flightClub": ""
+      }
+    },
+    {
+      "id": "aa539e46-5392-4182-ad4b-951861ed34b5",
+      "sku": "194427-01",
+      "brand": "Puma",
+      "name": "First Mile x Wmns LVL-UP 'Black Soft Fluo Yellow'",
+      "colorway": "Black/Soft Fluo Yellow",
+      "gender": "women",
+      "silhouette": "LVL-UP",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 90,
+      "estimatedMarketValue": 160,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/049/909/631/original/194427_01.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/909/631/original/194427_01.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/049/909/631/original/194427_01.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/first-mile-x-wmns-lvl-up-black-soft-fluo-yellow-194427-01",
+        "flightClub": " https://flightclub.com/first-mile-x-wmns-lvl-up-black-soft-fluo-yellow-194427-01"
+      }
+    },
+    {
+      "id": "bddaf3cf-c3b5-429f-a33c-5e4a0717807c",
+      "sku": "GW7691",
+      "brand": "adidas",
+      "name": "Wmns NMD_R1 'Solar Yellow'",
+      "colorway": "Solar Yellow/Core Black/Cloud White",
+      "gender": "women",
+      "silhouette": "NMD Runner",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 140,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/053/972/872/original/744234_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/972/872/original/744234_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/053/972/872/original/744234_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-nmd_r1-solar-yellow-gw7691",
+        "flightClub": " https://flightclub.com/wmns-nmd_r1-solar-yellow-gw7691"
+      }
+    },
+    {
+      "id": "da777817-383a-4572-abf6-7041f4175490",
+      "sku": "DB5268-003",
+      "brand": "Nike",
+      "name": "Wmns Air Max Viva 'Plum Dust'",
+      "colorway": "Black/Dark Citron/Green Abyss/Plum Dust",
+      "gender": "women",
+      "silhouette": "Air Max Viva",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 140,
+      "estimatedMarketValue": 115,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/565/724/original/744219_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/565/724/original/744219_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/565/724/original/744219_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-air-max-viva-plum-dust-db5268-003",
+        "flightClub": " https://flightclub.com/wmns-air-max-viva-plum-dust-db5268-003"
+      }
+    },
+    {
+      "id": "f8f78150-1b40-478a-af79-80af7937b547",
+      "sku": "FX6808",
+      "brand": "adidas",
+      "name": "Wmns Supernova 'Halo Silver Pink'",
+      "colorway": "Halo Silver/Cloud White/Screaming Pink",
+      "gender": "women",
+      "silhouette": "Supernova",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-04",
+      "retailPrice": 100,
+      "estimatedMarketValue": 80,
+      "story": "The adidas women’s Supernova ‘Halo Silver Pink’ delivers a neutral colorway of a lightweight silhouette built for both long and short runs. Grey textile is utilized on the seamless upper, equipped with a padded collar and open mesh paneling for a comfortable fit. The seamless build sits atop a midsole that combines plush Bounce cushioning with responsive Boost in the heel. Underfoot, a hot pink rubber outsole delivers grippy traction and a contrasting burst of color.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/436/221/original/FX6808.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/436/221/original/FX6808.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/436/221/original/FX6808.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-supernova-halo-silver-pink-fx6808",
+        "flightClub": " https://flightclub.com/wmns-supernova-halo-silver-pink-fx6808"
+      }
+    },
+    {
+      "id": "338f5eff-182a-4c53-84c3-73f3bc63a386",
+      "sku": "Q46151",
+      "brand": "Reebok",
+      "name": "Wmns Club C Coast 'Aura Orange'",
+      "colorway": "Aura Orange/Aura Orange/Footwear White",
+      "gender": "women",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-03",
+      "retailPrice": 60,
+      "estimatedMarketValue": 110,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/298/208/original/Q46151.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/298/208/original/Q46151.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/298/208/original/Q46151.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-club-c-coast-aura-orange-q46151",
+        "flightClub": " https://flightclub.com/wmns-club-c-coast-aura-orange-q46151"
+      }
+    },
+    {
+      "id": "3577e082-7a1d-499d-8d1e-5dec17297253",
+      "sku": "Q46474",
+      "brand": "Reebok",
+      "name": "Wmns Club C 85 'Chalk Golden Bronze'",
+      "colorway": "Chalk/Golden Bronze/Stucco",
+      "gender": "women",
+      "silhouette": "Club C",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-03",
+      "retailPrice": 70,
+      "estimatedMarketValue": 70,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/298/210/original/Q46474.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/298/210/original/Q46474.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/298/210/original/Q46474.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-club-c-85-chalk-golden-bronze-q46474",
+        "flightClub": " https://flightclub.com/wmns-club-c-85-chalk-golden-bronze-q46474"
+      }
+    },
+    {
+      "id": "39c74091-eecb-4fe5-ad84-501c5b58f405",
+      "sku": "1012A898-001",
+      "brand": "ASICS",
+      "name": "Wmns Noosa Tri 13 'Color Injection Pack - Black Pure Gold'",
+      "colorway": "Black/Pure Gold",
+      "gender": "women",
+      "silhouette": "Gel Noosa",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-03",
+      "retailPrice": 130,
+      "estimatedMarketValue": 200,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/051/895/984/original/1012A898_001.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/051/895/984/original/1012A898_001.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/051/895/984/original/1012A898_001.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-noosa-tri-13-color-injection-pack-black-pure-gold-1012a898-001",
+        "flightClub": " https://flightclub.com/wmns-noosa-tri-13-color-injection-pack-black-pure-gold-1012a898-001"
+      }
+    },
+    {
+      "id": "3dc8e696-5ed2-4111-9781-c63a162a6476",
+      "sku": "380500-03",
+      "brand": "Puma",
+      "name": "Wmns Cruise Rider 'Chrome Pink Dogwood Silver'",
+      "colorway": "Pink Dogwood/Silver",
+      "gender": "women",
+      "silhouette": "Cruise Rider",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-03",
+      "retailPrice": 85,
+      "estimatedMarketValue": 118,
+      "story": "",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/050/416/395/original/380500_03.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/416/395/original/380500_03.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/050/416/395/original/380500_03.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-cruise-rider-chrome-pink-dogwood-silver-380500-03",
+        "flightClub": " https://flightclub.com/wmns-cruise-rider-chrome-pink-dogwood-silver-380500-03"
+      }
+    },
+    {
+      "id": "5bc288e0-98f2-4162-813b-505d38787f4e",
+      "sku": "571071C",
+      "brand": "Converse",
+      "name": "Wmns Chuck 70 High 'Egret Earth Camo'",
+      "colorway": "Egret/Black/White",
+      "gender": "women",
+      "silhouette": "Chuck 70",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-03",
+      "retailPrice": 0,
+      "estimatedMarketValue": 0,
+      "story": "",
+      "image": { "original": "", "small": "", "thumbnail": "" },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/wmns-chuck-70-high-egret-earth-camo-571071c",
+        "flightClub": " https://flightclub.com/wmns-chuck-70-high-egret-earth-camo-571071c"
+      }
+    },
+    {
+      "id": "68e04161-1710-42ea-9118-01137b415dd8",
+      "sku": "GY2618",
+      "brand": "adidas",
+      "name": "Girls Are Awesome x Wmns Triple Platforum Low 'White Purple Beauty'",
+      "colorway": "Chalk White/Core Black/Purple Beauty",
+      "gender": "women",
+      "silhouette": "Triple Platforum",
+      "releaseYear": 2021,
+      "releaseDate": "2021-03-03",
+      "retailPrice": 150,
+      "estimatedMarketValue": 186,
+      "story": "Designed in collaboration with the impact agency dedicated to female empowerment, the Girls Are Awesome x adidas women’s Triple Platforum Low ‘White Purple Beauty’ gives the retro hoops shoe a fashion-forward look. The upper is constructed from off-white leather with contrasting forefoot and heel overlays in purple and gold. ‘Girls Are Awesome’ is embroidered on the signature X-shaped overlay, rendered in off-white chenille and matched by a series of detachable ankle straps. A stacked platform sole anchors the low-top silhouette.",
+      "image": {
+        "original": "https://image.goat.com/attachments/product_template_pictures/images/052/215/568/original/741109_00.png.png",
+        "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/215/568/original/741109_00.png.png",
+        "thumbnail": "https://image.goat.com/400/attachments/product_template_pictures/images/052/215/568/original/741109_00.png.png"
+      },
+      "links": {
+        "stockx": "",
+        "goat": "https://goat.com/sneakers/girls-are-awesome-x-wmns-triple-platforum-low-white-purple-beauty-gy2618",
+        "flightClub": " https://flightclub.com/girls-are-awesome-x-wmns-triple-platforum-low-white-purple-beauty-gy2618"
+      }
+    }
+  ]
+}
