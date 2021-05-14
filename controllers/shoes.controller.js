@@ -1,13 +1,10 @@
 const Shoe = require('../models/shoe.model');
+const catchAsync = require('../utils/catchAsync');
 
-const getShoes = async (req, res) => {
-  try {
+const getShoes = catchAsync(async (req, res) => {
     const shoes = await Shoe.find({});
 
     res.send(shoes);
-  } catch (err) {
-    console.log('~ err', err);
-  }
-};
+});
 
 module.exports = { getShoes };
