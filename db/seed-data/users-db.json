@@ -4,6 +4,12 @@
             "username": "chris.park",
             "password": "Seoul101",
             "email": "csp1894@gmail.com",
+            "address":{
+                "street": "821 IU Willets Rd.",
+                "city": "Albertson",
+                "state": "NY",
+                "zipcode": 11507
+            },
             "favorites":[{}],
             "cart":[{}]
         },
@@ -11,6 +17,12 @@
             "username": "david.cho",
             "password": "Busan101",
             "email": "chodavid@gmail.com",
+            "address":{
+                "street": "4721 41st st.",
+                "city": "Queens",
+                "state": "NY",
+                "zipcode": 11507
+            },
             "favorites":[{}],
             "cart":[{}]
         },
@@ -18,6 +30,12 @@
             "username": "minjea.seo",
             "password": "Gwangju101",
             "email": "seominjea1942@gmail.com",
+            "address":{
+                "street": "511 W Markdem Blvd.",
+                "city": "Pasadena",
+                "state": "CA",
+                "zipcode": 91105
+            },
             "favorites":[{}],
             "cart":[{}]
         }
