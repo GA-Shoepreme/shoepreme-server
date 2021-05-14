@@ -1,60 +1,50 @@
-const mongoose = require("./connection");
+const mongoose = require('./connection');
+const { connection } = mongoose;
 
-const shoeData = require("./seed-data/sneaker-db.json");
-const Shoe = require("../models/shoe.model");
+const catchAsync = require('../utils/catchAsync');
 
-const User = require("../models/user.model");
-const userData = require("./seed-data/users-db.json");
+const Shoe = require('../models/shoe.model');
+const shoeData = require('./seed-data/sneaker-db.json');
 
-const seedShoes = async () => {
-  try {
-    await Shoe.deleteMany({});
-    await Shoe.insertMany(shoeData.results);
-  } catch (err) {
-    console.log("~ err", err);
-  } finally {
-    await mongoose.connection.close();
-  }
-};
+const User = require('../models/user.model');
+const userData = require('./seed-data/users-db.json');
+
+const seedShoes = catchAsync(async (req, res, next) => {
+  await Shoe.deleteMany({});
+  await Shoe.insertMany(shoeData.results);
+});
 
 seedShoes();
 
-// const seedInventory = async () => {
-//   try {
-//     const random = Math.floor(Math.random() * 21);
+const randomSize = () => Math.floor(Math.random() * 21);
 
-//     await Shoe.updateMany({}, {
-//       $set: {
-//         inventory: {
-//           "5": random,
-//           "6": random,
-//           "7": random,
-//           "8": random,
-//           "9": random,
-//           "10": random,
-//           "11": random,
-//           "12": random,
-//         }
-//       }
-//     })
-//   } catch (err) {
-//     console.log("~ err", err);
-//   } finally {
-//     await mongoose.connection.close();
-//   }
-// };
+const seedInventory = catchAsync(async (req, res, next) => {
+  await Shoe.updateMany(
+    {},
+    {
+      $set: {
+        inventory: {
+          5: randomSize(),
+          6: randomSize(),
+          7: randomSize(),
+          8: randomSize(),
+          9: randomSize(),
+          10: randomSize(),
+          11: randomSize(),
+          12: randomSize(),
+        },
+      },
+    }
+  );
+});
 
-// seedInventory();
+seedInventory();
 
-const seedUsers = async () => {
-  try {
-    await User.deleteMany({});
-    await User.insertMany(userData.users);
-  } catch (err) {
-    console.log("~ err", err);
-  } finally {
-    await mongoose.connection.close();
-  }
-};
+const seedUsers = catchAsync(async (req, res, next) => {
+  await User.deleteMany({});
+  await User.insertMany(userData.users);
+
+  connection.close();
+});
 
 seedUsers();
