@@ -6,8 +6,8 @@ const session = require('express-session');
 // const MongoStore = require('connect-mongo');
 
 const ExpressError = require('./utils/ExpressError');
-const shoesRoutes = require('./routes/shoes.routes');
 const usersRoutes = require('./routes/users.routes');
+const shoesRoutes = require('./routes/shoes.routes');
 
 const sessionConfig = {
   secret: 'temporarysecret',
@@ -25,8 +25,8 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(session(sessionConfig));
 
+app.use('/users', usersRoutes);
 app.use('/shoes', shoesRoutes);
-app.use('/', usersRoutes);
 
 app.get('/', (req, res) => {
   res.send('hello from app');
