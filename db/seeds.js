@@ -14,7 +14,7 @@ const seedShoes = catchAsync(async (req, res, next) => {
   await Shoe.insertMany(shoeData.results);
 });
 
-seedShoes();
+// seedShoes();
 
 const randomSize = () => Math.floor(Math.random() * 21);
 
