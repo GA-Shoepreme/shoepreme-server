@@ -1,19 +1,30 @@
-const mongoose = require("../db/connection");
+const mongoose = require('../db/connection');
+const { Schema } = mongoose;
 
-const userSchema = new mongoose.Schema({
+const userSchema = new Schema({
   username: String,
   password: String,
   email: String,
   address: {
-    street:String,
+    street: String,
     city: String,
     state: String,
     zipcode: Number,
   },
-  favorites: [Object],
-  cart: [Object],
+  favorites: [
+    {
+      type: Schema.Types.ObjectId,
+      ref: 'Shoe',
+    },
+  ],
+  cart: [
+    {
+      type: Schema.Types.ObjectId,
+      ref: 'Shoe',
+    },
+  ],
 });
 
-const User = mongoose.model("User", userSchema);
+const User = mongoose.model('User', userSchema);
 
 module.exports = User;

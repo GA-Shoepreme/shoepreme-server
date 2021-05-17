@@ -1,6 +1,7 @@
 const mongoose = require('../db/connection');
+const { Schema } = mongoose;
 
-const shoeSchema = new mongoose.Schema({
+const shoeSchema = new Schema({
   id: String,
   sku: String,
   brand: String,
@@ -32,6 +33,10 @@ const shoeSchema = new mongoose.Schema({
     10: Number,
     11: Number,
     12: Number,
+  },
+  userCart: {
+    type: Schema.Types.ObjectId,
+    ref: 'User',
   },
 });
 
