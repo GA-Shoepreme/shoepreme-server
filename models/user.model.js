@@ -5,6 +5,10 @@ const bcrypt = require('bcrypt');
 const ExpressError = require('../utils/ExpressError');
 
 const userSchema = new Schema({
+  name: {
+    first: String,
+    last: String,
+  },
   username: { type: String, required: true },
   password: { type: String, required: true },
   email: { type: String, required: true },
@@ -26,6 +30,10 @@ const userSchema = new Schema({
       ref: 'Shoe',
     },
   ],
+});
+
+userSchema.virtual('fullName').get(function () {
+  return `${this.name.first} ${this.name.last}`;
 });
 
 userSchema.statics.validateLogin = async function (username, password) {

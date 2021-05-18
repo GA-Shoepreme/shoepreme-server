@@ -5,19 +5,22 @@ const catchAsync = require('../utils/catchAsync');
 //queries to filter by gender and release date(newest to olderst and vice versa)
 const getShoes = catchAsync(async (req, res) => {
   const shoes = await Shoe.find({});
-  const gender = req.query.gender;
-  const date = req.query.date;
-  const mktvalue = req.query.mktvalue
-  const price = req.query.price
+  const { gender, date, mktvalue, price, limit } = req.query;
   console.log(req.query);
   if (gender) {
-    const shoesByGender = await Shoe.find({ gender: gender });
+    const shoesByGender = await Shoe.find({ gender: gender }).limit(+limit);
     res.json(shoesByGender);
   } else if (date === 'newest') {
-    const newestShoes = await Shoe.find({}).sort({ releaseDate: -1 });
+    const newestShoes = await Shoe.find({})
+      .sort({ releaseDate: -1 })
+      .limit(+limit);
     res.json(newestShoes);
   } else if (date === 'oldest') {
-    const oldestShoes = await Shoe.find({releaseDate:{$nin: null}}).sort({ releaseDate: 1 });
+    const oldestShoes = await Shoe.find({ releaseDate: { $nin: null } })
+      .sort({
+        releaseDate: 1,
+      })
+      .limit(+limit);
     res.json(oldestShoes);
   } else if(mktvalue === 'newest') {
     const marketValueShoes = await Shoe.find({}).sort({estimatedMarketValue: -1});
@@ -36,11 +39,15 @@ const getShoes = catchAsync(async (req, res) => {
 //route to nike brand
 //query to filter by gender
 const getNikeShoes = catchAsync(async (req, res) => {
-  const nikeShoes = await Shoe.find({ brand: 'Nike' });
+  const { limit } = req.query;
+  const nikeShoes = await Shoe.find({ brand: 'Nike' }).limit(+limit);
   const gender = req.query.gender;
   console.log(req.query);
   if (gender) {
-    const shoesByGender = await Shoe.find({ brand: 'Nike', gender: gender });
+    const shoesByGender = await Shoe.find({
+      brand: 'Nike',
+      gender: gender,
+    }).limit(+limit);
     res.json(shoesByGender);
   } else {
     res.json(nikeShoes);
@@ -50,11 +57,15 @@ const getNikeShoes = catchAsync(async (req, res) => {
 //route to adidas brand
 //query to filter by gender
 const getAdidasShoes = catchAsync(async (req, res) => {
-  const adidasShoes = await Shoe.find({ brand: 'adidas' });
+  const { limit } = req.query;
+  const adidasShoes = await Shoe.find({ brand: 'adidas' }).limit(+limit);
   const gender = req.query.gender;
   console.log(req.query);
   if (gender) {
-    const shoesByGender = await Shoe.find({ brand: 'adidas', gender: gender });
+    const shoesByGender = await Shoe.find({
+      brand: 'adidas',
+      gender: gender,
+    }).limit(+limit);
     res.json(shoesByGender);
   } else {
     res.json(adidasShoes);
@@ -65,14 +76,14 @@ const getAdidasShoes = catchAsync(async (req, res) => {
 //query to filter by gender
 //do we want to include jordan brand with air jordans?
 const getAirJordans = catchAsync(async (req, res) => {
-  const airJordans = await Shoe.find({ brand: 'Air Jordan' });
+  const airJordans = await Shoe.find({ brand: 'Air Jordan' }).limit(+limit);
   const gender = req.query.gender;
   console.log(req.query);
   if (gender) {
     const shoesByGender = await Shoe.find({
       brand: 'Air Jordan',
       gender: gender,
-    });
+    }).limit(+limit);
     res.json(shoesByGender);
   } else {
     res.json(airJordans);
@@ -82,14 +93,16 @@ const getAirJordans = catchAsync(async (req, res) => {
 //route to yeezy brand
 //query to filter by gender
 const getYeezyShoes = catchAsync(async (req, res) => {
-  const yeezyShoes = await Shoe.find({ name: { $regex: 'Yeezy' } });
+  const yeezyShoes = await Shoe.find({ name: { $regex: 'Yeezy' } }).limit(
+    +limit
+  );
   const gender = req.query.gender;
   console.log(req.query);
   if (gender) {
     const shoesByGender = await Shoe.find({
       name: { $regex: 'Yeezy' },
       gender: gender,
-    });
+    }).limit(+limit);
     res.json(shoesByGender);
   } else {
     res.json(yeezyShoes);
