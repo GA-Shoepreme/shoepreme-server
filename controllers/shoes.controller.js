@@ -4,8 +4,8 @@ const catchAsync = require('../utils/catchAsync');
 //route to all shoes
 //queries to filter by gender and release date(newest to olderst and vice versa)
 const getShoes = catchAsync(async (req, res) => {
-  const shoes = await Shoe.find({});
   const { gender, date, mktvalue, price, limit } = req.query;
+  const shoes = await Shoe.find({}).limit(+limit);
   console.log(req.query);
   if (gender) {
     const shoesByGender = await Shoe.find({ gender: gender }).limit(+limit);
@@ -22,15 +22,21 @@ const getShoes = catchAsync(async (req, res) => {
       })
       .limit(+limit);
     res.json(oldestShoes);
-  } else if(mktvalue === 'newest') {
-    const marketValueShoes = await Shoe.find({}).sort({estimatedMarketValue: -1}).limit(+limit);
-    res.json(marketValueShoes)
-  } else if(price === 'high') {
-    const shoes = await Shoe.find({}).sort({retailPrice: -1}).limit(+limit);
-    res.json(shoes)
-  } else if(price === 'low') {
-    const shoes = await Shoe.find({}).sort({retailPrice: 1}).limit(+limit);
-    res.json(shoes)
+  } else if (mktvalue === 'newest') {
+    const marketValueShoes = await Shoe.find({})
+      .sort({ estimatedMarketValue: -1 })
+      .limit(+limit);
+    res.json(marketValueShoes);
+  } else if (price === 'high') {
+    const shoes = await Shoe.find({})
+      .sort({ retailPrice: -1 })
+      .limit(+limit);
+    res.json(shoes);
+  } else if (price === 'low') {
+    const shoes = await Shoe.find({})
+      .sort({ retailPrice: 1 })
+      .limit(+limit);
+    res.json(shoes);
   } else {
     res.json(shoes);
   }
@@ -108,7 +114,6 @@ const getYeezyShoes = catchAsync(async (req, res) => {
     res.json(yeezyShoes);
   }
 });
-
 
 //route for shoe detail pages
 const getShoeDetails = catchAsync(async (req, res) => {
