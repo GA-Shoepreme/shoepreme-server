@@ -23,13 +23,13 @@ const getShoes = catchAsync(async (req, res) => {
       .limit(+limit);
     res.json(oldestShoes);
   } else if(mktvalue === 'newest') {
-    const marketValueShoes = await Shoe.find({}).sort({estimatedMarketValue: -1});
+    const marketValueShoes = await Shoe.find({}).sort({estimatedMarketValue: -1}).limit(+limit);
     res.json(marketValueShoes)
   } else if(price === 'high') {
-    const shoes = await Shoe.find({}).sort({retailPrice: -1});
+    const shoes = await Shoe.find({}).sort({retailPrice: -1}).limit(+limit);
     res.json(shoes)
   } else if(price === 'low') {
-    const shoes = await Shoe.find({}).sort({retailPrice: 1});
+    const shoes = await Shoe.find({}).sort({retailPrice: 1}).limit(+limit);
     res.json(shoes)
   } else {
     res.json(shoes);
