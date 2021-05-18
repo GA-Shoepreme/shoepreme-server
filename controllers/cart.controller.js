@@ -10,14 +10,14 @@ const addItem = catchAsync(async (req, res) => {
     Shoe.findById(id, (err, product) => {
         //video only redirected to root page on error but said we show some type of error message
         if(err){
-            console.log("ERROR", err)
-            res.status()
+            console.log("ERROR", err);
+            res.status(500);
         }
         
         cart.add(product, product.id); //pass product to add and product identifier with the product id
         req.session.cart = cart; //storing into current express session, auto saves on each response sent back
-        console.log(req.session.cart)
-        res.redirect('/shoes') //reidrect back to prooduct page
+        console.log(req.session.cart);
+        res.redirect('/shoes'); //reidrect back to prooduct page
     })
 })
 
