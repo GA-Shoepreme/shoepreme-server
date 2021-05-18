@@ -11,14 +11,14 @@ const shoesRoutes = require('./routes/shoes.routes');
 const cartRoutes = require('./routes/cart.routes');
 
 const sessionConfig = {
-  secret: 'temporarysecret',
+  secret: process.env.SESSION_SECRET,
   resave: false,
   saveUninitialized: false,
   // cookie: { secure: true },
   // store: MongoStore.create(),
 };
 
-app.set('port', process.env.PORT || 3666);
+app.set('port', process.env.PORT);
 
 app.use(cors());
 app.use(methodOverride('_method'));
@@ -44,6 +44,7 @@ app.use((err, req, res, next) => {
   res.status(statusCode).json(message);
 });
 
-app.listen(app.get('port'), () => {
-  console.log(`Listening on PORT: ${app.get('port')}`);
+const port = app.get('port');
+app.listen(port, () => {
+  console.log(`Listening on PORT: ${port}`);
 });

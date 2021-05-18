@@ -1,8 +1,8 @@
 const bcrypt = require('bcrypt');
-const session = require('express-session');
 // const jwt = require('jsonwebtoken');
 const catchAsync = require('../utils/catchAsync');
 const ExpressError = require('../utils/ExpressError');
+const { generateAccessToken } = require('../utils/auth');
 
 const User = require('../models/user.model');
 
@@ -12,7 +12,7 @@ const createUser = catchAsync(async (req, res) => {
   const hashedPassword = await bcrypt.hash(password, salt);
   const user = await User.create({ username, email, password: hashedPassword });
 
-  req.session.user_id = user._id;
+  // req.session.user_id = user._id;
   res.status(201).json(user);
 });
 
@@ -31,14 +31,17 @@ const getUser = catchAsync(async (req, res) => {
 
 const loginUser = catchAsync(async (req, res) => {
   const { username, password } = req.body;
-  const validUser = await User.validateLogin(username, password);
+  const validatedUser = await User.validateLogin(username, password);
 
-  if (!validUser) {
+  if (!validatedUser) {
     throw new ExpressError(404, 'Invalid password');
   }
 
-  req.session.user_id = validUser._id;
-  res.status(200).json(validUser);
+  const user = { username };
+  const accessToken = generateAccessToken(user);
+
+  // req.session.user_id = validatedUser._id;
+  res.status(200).json(accessToken);
 });
 
 const logoutUser = catchAsync(async (req, res) => {

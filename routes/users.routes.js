@@ -1,6 +1,8 @@
 const { Router } = require('express');
 const router = Router();
 
+const { authorizeUser } = require('../middleware/auth');
+
 const {
   createUser,
   getUsers,
@@ -10,7 +12,7 @@ const {
 } = require('../controllers/users.controller');
 
 router.get('/', getUsers);
-router.get('/:id', getUser);
+router.get('/:id', authorizeUser, getUser);
 router.post('/register', createUser);
 router.post('/login', loginUser);
 router.post('/logout', logoutUser)
