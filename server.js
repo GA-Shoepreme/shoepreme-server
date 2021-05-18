@@ -8,6 +8,7 @@ const session = require('express-session');
 const ExpressError = require('./utils/ExpressError');
 const usersRoutes = require('./routes/users.routes');
 const shoesRoutes = require('./routes/shoes.routes');
+const cartRoutes = require('./routes/cart.routes');
 
 const sessionConfig = {
   secret: 'temporarysecret',
@@ -27,6 +28,7 @@ app.use(session(sessionConfig));
 
 app.use('/users', usersRoutes);
 app.use('/shoes', shoesRoutes);
+app.use('/cart',cartRoutes);
 
 app.get('/', (req, res) => {
   res.send('hello from app');
