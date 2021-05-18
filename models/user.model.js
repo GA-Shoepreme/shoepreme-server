@@ -30,15 +30,13 @@ const userSchema = new Schema({
 
 userSchema.statics.validateLogin = async function (username, password) {
   const user = await this.findOne({ username });
-  console.log('~ user', user);
+  const isValid = await bcrypt.compare(password, user.password);
 
   if (!user) {
     throw new ExpressError(404, `Username "${username}" does not exist`);
+  } else {
+    return isValid ? user : false;
   }
-
-  const isValid = await bcrypt.compare(password, user.password);
-
-  return isValid ? user : false;
 };
 
 const User = mongoose.model('User', userSchema);

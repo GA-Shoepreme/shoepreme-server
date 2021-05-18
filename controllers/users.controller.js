@@ -8,7 +8,6 @@ const User = require('../models/user.model');
 
 const createUser = catchAsync(async (req, res) => {
   const { username, email, password } = req.body;
-
   const salt = await bcrypt.genSalt(12);
   const hashedPassword = await bcrypt.hash(password, salt);
   const user = await User.create({ username, email, password: hashedPassword });
@@ -32,7 +31,6 @@ const getUser = catchAsync(async (req, res) => {
 
 const loginUser = catchAsync(async (req, res) => {
   const { username, password } = req.body;
-
   const validUser = await User.validateLogin(username, password);
 
   if (!validUser) {
