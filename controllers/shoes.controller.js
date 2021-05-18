@@ -7,6 +7,8 @@ const getShoes = catchAsync(async (req, res) => {
   const shoes = await Shoe.find({});
   const gender = req.query.gender;
   const date = req.query.date;
+  const mktvalue = req.query.mktvalue
+  const price = req.query.price
   console.log(req.query);
   if (gender) {
     const shoesByGender = await Shoe.find({ gender: gender });
@@ -17,6 +19,15 @@ const getShoes = catchAsync(async (req, res) => {
   } else if (date === 'oldest') {
     const oldestShoes = await Shoe.find({releaseDate:{$nin: null}}).sort({ releaseDate: 1 });
     res.json(oldestShoes);
+  } else if(mktvalue === 'newest') {
+    const marketValueShoes = await Shoe.find({}).sort({estimatedMarketValue: -1});
+    res.json(marketValueShoes)
+  } else if(price === 'high') {
+    const shoes = await Shoe.find({}).sort({retailPrice: -1});
+    res.json(shoes)
+  } else if(price === 'low') {
+    const shoes = await Shoe.find({}).sort({retailPrice: 1});
+    res.json(shoes)
   } else {
     res.json(shoes);
   }
@@ -84,6 +95,7 @@ const getYeezyShoes = catchAsync(async (req, res) => {
     res.json(yeezyShoes);
   }
 });
+
 
 //route for shoe detail pages
 const getShoeDetails = catchAsync(async (req, res) => {
