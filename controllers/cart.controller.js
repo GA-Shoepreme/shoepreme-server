@@ -23,20 +23,20 @@ const addItem = catchAsync(async (req, res) => {
   });
 });
 
-const stripePayment = catchAsync(async (req, res) => {
+const stripePayment = (req, res) => {
   const body = {
     source: req.body.token.id,
     amount: req.body.amount,
     currency: 'usd',
   };
 
-  await stripe.charges.create(body, (stripeErr, stripeRes) => {
+  stripe.charges.create(body, (stripeErr, stripeRes) => {
     if (stripeErr) {
       res.status(500).send({ error: stripeErr });
     } else {
       res.status(200).send({ success: stripeRes });
     }
   });
-});
+};
 
 module.exports = { addItem, stripePayment };
