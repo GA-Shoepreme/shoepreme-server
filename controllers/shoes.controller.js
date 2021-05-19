@@ -128,8 +128,10 @@ const getShoeDetails = catchAsync(async (req, res) => {
  **/
 const getShoesByQuery = catchAsync(async (req, res) => {
   const { filter, page, limit, sort } = formatQuery(req.query);
+  console.log('~ filter', filter);
 
   if (filter.brand && filter.brand.toLowerCase() === 'yeezy') {
+    console.log('~ filter.brand', filter.brand);
     const shoes = await Shoe.find({ name: { $regex: 'Yeezy' } })
       .skip(page)
       .limit(limit)
@@ -157,9 +159,7 @@ function formatQuery(query) {
     });
 
     filter.brand = split.join(' ');
-  }
-
-  if (query.brand === 'air_jordan') {
+  } else if (query.brand === 'air_jordan') {
     const split = query.brand.split('_');
 
     split.forEach((word, index) => {
@@ -167,6 +167,8 @@ function formatQuery(query) {
     });
 
     filter.brand = split.join(' ');
+  } else {
+    filter.brand = query.brand;
   }
 
   if (query.limit) limit = +query.limit;
