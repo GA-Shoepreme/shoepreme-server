@@ -2,6 +2,8 @@ const Shoe = require('../models/shoe.model')
 const Cart = require('../models/cart.model')
 const catchAsync = require('../utils/catchAsync');
 
+const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
+
 const addItem = catchAsync(async (req, res) => {
     const { id } = req.params;
     //create new cart: if cart is already in session pass that, otherwise pass empty object
@@ -21,4 +23,21 @@ const addItem = catchAsync(async (req, res) => {
     })
 })
 
-module.exports = { addItem };
+const stripePayment = catchAsync(async (req, res) => {
+    const body = {
+        source: req.body.token.id,
+        amount: req.body.amount,
+        currency: 'usd',
+    }
+
+    stripe.charges.create(body, (stripeErr, stripeRes) => {
+        if (stripeErr) {
+            res.status(500).send({ error: stripeErr });
+        } else {
+            res.status(200).send({ success: stripeRes });
+        }
+    })
+
+})
+
+module.exports = { addItem, stripePayment };
