@@ -148,8 +148,18 @@ function formatQuery(query) {
   let page = 0;
   let limit = 0;
 
-  if (query.brand && (query.brand === 'nike' || query.brand === 'air jordan')) {
+  if (query.brand && query.brand === 'nike') {
     const split = query.brand.split(' ');
+
+    split.forEach((word, index) => {
+      split[index] = word[0].toUpperCase() + word.slice(1);
+    });
+
+    filter.brand = split.join(' ');
+  }
+
+  if (query.brand === 'air_jordan') {
+    const split = query.brand.split('_');
 
     split.forEach((word, index) => {
       split[index] = word[0].toUpperCase() + word.slice(1);
