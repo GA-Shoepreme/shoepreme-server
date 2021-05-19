@@ -13,7 +13,6 @@ const createUser = catchAsync(async (req, res) => {
   const hashedPassword = await bcrypt.hash(password, salt);
   const user = await User.create({ password: hashedPassword, ...req.body });
 
-  // req.session.user_id = user._id;
   res.status(201).json(user);
 });
 
@@ -42,7 +41,6 @@ const loginUser = catchAsync(async (req, res) => {
   const accessToken = generateAccessToken(user);
   const refreshToken = generateAccessToken(user);
 
-  // req.session.user_id = validatedUser._id;
   res.status(200).json({ accessToken, refreshToken });
 });
 

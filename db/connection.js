@@ -3,7 +3,6 @@ const mongoURI =
   process.env.NODE_ENV === 'production'
     ? process.env.DB_URL
     : 'mongodb://localhost/shoepreme';
-// : process.env.LOCAL_URL;
 
 mongoose
   .connect(mongoURI, {
