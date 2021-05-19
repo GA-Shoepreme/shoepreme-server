@@ -82,6 +82,7 @@ const getAdidasShoes = catchAsync(async (req, res) => {
 //query to filter by gender
 //do we want to include jordan brand with air jordans?
 const getAirJordans = catchAsync(async (req, res) => {
+  const { limit } = req.query;
   const airJordans = await Shoe.find({ brand: 'Air Jordan' }).limit(+limit);
   const gender = req.query.gender;
   console.log(req.query);
