@@ -27,7 +27,8 @@
     "express-session": "^1.17.1",
     "jsonwebtoken": "^8.5.1",
     "method-override": "^3.0.0",
-    "mongoose": "^5.12.9"
+    "mongoose": "^5.12.9",
+    "stripe": "^8.148.0"
   },
   "devDependencies": {
     "dotenv": "^9.0.2",
