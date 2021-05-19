@@ -1,3 +1,4 @@
+const { JsonWebTokenError } = require('jsonwebtoken');
 const Shoe = require('../models/shoe.model');
 const catchAsync = require('../utils/catchAsync');
 
@@ -22,7 +23,7 @@ const getShoes = catchAsync(async (req, res) => {
       })
       .limit(+limit);
     res.json(oldestShoes);
-  } else if (mktvalue === 'newest') {
+  } else if (mktvalue === 'highest') {
     const marketValueShoes = await Shoe.find({})
       .sort({ estimatedMarketValue: -1 })
       .limit(+limit);
@@ -121,6 +122,64 @@ const getShoeDetails = catchAsync(async (req, res) => {
   res.json(shoe);
 });
 
+/**
+ * filter by multiple queries
+ **/
+const getShoesByQuery = catchAsync(async (req, res) => {
+  const { filter, page, limit, sort } = formatQuery(req.query);
+
+  if (filter.brand.toLowerCase() === 'yeezy') {
+    const shoes = await Shoe.find({ name: { $regex: 'Yeezy' } })
+      .skip(page)
+      .limit(limit)
+      .sort(sort);
+
+    res.json(shoes);
+  } else {
+    const shoes = await Shoe.find(filter).skip(page).limit(limit).sort(sort);
+
+    res.json(shoes);
+  }
+});
+
+function formatQuery(query) {
+  const filter = {};
+  const sort = {};
+  let page = 0;
+  let limit = 0;
+
+  if (query.brand && (query.brand === 'nike' || query.brand === 'air jordan')) {
+    const split = query.brand.split(' ');
+
+    split.forEach((word, index) => {
+      split[index] = word[0].toUpperCase() + word.slice(1);
+    });
+
+    filter.brand = split.join(' ');
+  }
+
+  if (query.limit) limit = +query.limit;
+  if (query.page) page = (+query.page - 1) * limit;
+  if (query.gender) filter.gender = query.gender;
+
+  if (query.date) {
+    if (query.date === 'newest') sort.releaseDate = -1;
+    if (query.date === 'oldest') sort.releaseDate = 1;
+  }
+
+  if (query.price) {
+    if (query.price === 'high') sort.retailPrice = -1;
+    if (query.price === 'low') sort.retailPrice = 1;
+  }
+
+  if (query.mktvalue) {
+    if (query.mktvalue === 'high') sort.estimatedMarketValue = -1;
+    if (query.mktvalue === 'low') sort.estimatedMarketValue = 1;
+  }
+
+  return { filter, page, limit, sort };
+}
+
 module.exports = {
   getShoes,
   getNikeShoes,
@@ -128,4 +187,5 @@ module.exports = {
   getAirJordans,
   getYeezyShoes,
   getShoeDetails,
+  getShoesByQuery,
 };
