@@ -128,7 +128,7 @@ const getShoeDetails = catchAsync(async (req, res) => {
 const getShoesByQuery = catchAsync(async (req, res) => {
   const { filter, page, limit, sort } = formatQuery(req.query);
 
-  if (filter.brand.toLowerCase() === 'yeezy') {
+  if (filter.brand && filter.brand.toLowerCase() === 'yeezy') {
     const shoes = await Shoe.find({ name: { $regex: 'Yeezy' } })
       .skip(page)
       .limit(limit)
