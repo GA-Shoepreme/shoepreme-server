@@ -99,6 +99,7 @@ const getAirJordans = catchAsync(async (req, res) => {
 //route to yeezy brand
 //query to filter by gender
 const getYeezyShoes = catchAsync(async (req, res) => {
+  const { limit } = req.query;
   const yeezyShoes = await Shoe.find({ name: { $regex: 'Yeezy' } }).limit(
     +limit
   );
