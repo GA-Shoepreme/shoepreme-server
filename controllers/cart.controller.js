@@ -18,7 +18,6 @@ const addItem = catchAsync(async (req, res) => {
 
     cart.add(product, product.id); //pass product to add and product identifier with the product id
     req.session.cart = cart; //storing into current express session, auto saves on each response sent back
-    console.log(req.session.cart);
     res.redirect('/shoes'); //reidrect back to prooduct page
   });
 });

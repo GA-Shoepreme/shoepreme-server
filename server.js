@@ -28,10 +28,6 @@ app.use('/users', usersRoutes);
 app.use('/shoes', shoesRoutes);
 app.use('/cart', cartRoutes);
 
-app.get('/', (req, res) => {
-  res.send('hello from app');
-});
-
 app.all('*', (req, res, next) => {
   next(new ExpressError(404, 'Page Not Found...'));
 });

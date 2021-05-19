@@ -3,13 +3,13 @@ const router = Router();
 
 const {
   getShoes,
+  getShoesByQuery,
+  searchShoes,
   getNikeShoes,
   getAdidasShoes,
   getAirJordans,
   getYeezyShoes,
   getShoeDetails,
-  getShoesByQuery,
-  searchShoes,
 } = require('../controllers/shoes.controller');
 
 router.get('/', getShoes);
