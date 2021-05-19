@@ -1,4 +1,3 @@
-const { JsonWebTokenError } = require('jsonwebtoken');
 const Shoe = require('../models/shoe.model');
 const catchAsync = require('../utils/catchAsync');
 
