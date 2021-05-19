@@ -40,6 +40,15 @@ const shoeSchema = new Schema({
   },
 });
 
+shoeSchema.index({
+  sku: 'text',
+  brand: 'text',
+  name: 'text',
+  colorway: 'text',
+  gender: 'text',
+  silhouette: 'text',
+});
+
 const Shoe = mongoose.model('Shoe', shoeSchema);
 
 module.exports = Shoe;
