@@ -128,7 +128,6 @@ const getShoeDetails = catchAsync(async (req, res) => {
  **/
 const searchShoes = catchAsync(async (req, res) => {
   const { query } = req.query;
-  console.log('~ query', query);
 
   const shoes = await Shoe.find({ $text: { $search: `${query}` } });
 

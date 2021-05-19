@@ -3,7 +3,6 @@ const app = express();
 const methodOverride = require('method-override');
 const cors = require('cors');
 const session = require('express-session');
-// const MongoStore = require('connect-mongo');
 
 const ExpressError = require('./utils/ExpressError');
 const usersRoutes = require('./routes/users.routes');
@@ -14,8 +13,7 @@ const sessionConfig = {
   secret: process.env.SESSION_SECRET,
   resave: false,
   saveUninitialized: false,
-  // cookie: { secure: true },
-  // store: MongoStore.create(),
+  cookie: { secure: true, sameSite: true },
 };
 
 app.set('port', process.env.PORT);
@@ -28,7 +26,7 @@ app.use(session(sessionConfig));
 
 app.use('/users', usersRoutes);
 app.use('/shoes', shoesRoutes);
-app.use('/cart',cartRoutes);
+app.use('/cart', cartRoutes);
 
 app.get('/', (req, res) => {
   res.send('hello from app');
