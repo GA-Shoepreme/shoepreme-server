@@ -124,15 +124,28 @@ const getShoeDetails = catchAsync(async (req, res) => {
 });
 
 /**
+ * search route
+ **/
+const searchShoes = catchAsync(async (req, res) => {
+  const { query } = req.query;
+  console.log('~ query', query);
+
+  const shoes = await Shoe.find({ $text: { $search: `${query}` } });
+
+  res.json(shoes);
+});
+
+/**
  * filter by multiple queries
  **/
 const getShoesByQuery = catchAsync(async (req, res) => {
   const { filter, page, limit, sort } = formatQuery(req.query);
-  console.log('~ filter', filter);
 
   if (filter.brand && filter.brand.toLowerCase() === 'yeezy') {
-    console.log('~ filter.brand', filter.brand);
-    const shoes = await Shoe.find({ name: { $regex: 'Yeezy' } })
+    const shoes = await Shoe.find({
+      name: { $regex: 'Yeezy' },
+      brand: { $nin: 'Nike' },
+    })
       .skip(page)
       .limit(limit)
       .sort(sort);
@@ -201,4 +214,5 @@ module.exports = {
   getYeezyShoes,
   getShoeDetails,
   getShoesByQuery,
+  searchShoes,
 };

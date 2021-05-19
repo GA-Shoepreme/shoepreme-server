@@ -9,10 +9,12 @@ const {
   getYeezyShoes,
   getShoeDetails,
   getShoesByQuery,
+  searchShoes,
 } = require('../controllers/shoes.controller');
 
 router.get('/', getShoes);
 router.get('/filter', getShoesByQuery);
+router.get('/search', searchShoes);
 router.get('/nike', getNikeShoes);
 router.get('/adidas', getAdidasShoes);
 router.get('/air_jordan', getAirJordans);
