@@ -25,7 +25,7 @@ const addItem = catchAsync(async (req, res) => {
 
 const stripePayment = catchAsync(async (req, res) => {
   const body = {
-    source: req.body.token,
+    source: req.body.token.id,
     amount: req.body.amount,
     currency: 'usd',
   };
