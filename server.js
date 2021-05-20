@@ -3,7 +3,7 @@ const app = express();
 const methodOverride = require('method-override');
 const cors = require('cors');
 const session = require('express-session');
-const MongoStore = require('connect-mongo')(session);
+const MongoStore = require('connect-mongo');
 
 const ExpressError = require('./utils/ExpressError');
 const usersRoutes = require('./routes/users.routes');
@@ -14,9 +14,9 @@ const sessionConfig = {
   secret: process.env.SESSION_SECRET,
   resave: false,
   saveUninitialized: false,
-  //config mongoose connection key to not open a new connection on its own but to use existing mongoose connection
-  store: new MongoStore({ mongooseConnection: mongoose.connection }),
-  cookie: { secure: true, sameSite: true, maxAge: 180 * 60 * 1000 } //session max age is 3 hours (expects value in miliseconds)
+  store: MongoStore.create({ mongoUrl: process.env.DB_URL}),
+  // store: new MongoStore({mongoUrl: process.env.DB_URL }),
+  // cookie: { secure: true, sameSite: true} 
 };
 
 app.set('port', process.env.PORT);
