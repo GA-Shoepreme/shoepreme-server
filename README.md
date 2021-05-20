@@ -1,16 +1,16 @@
 # Shoepreme
 
-## Description
+#### Description
 
 Shoepreme is an app for shoe enthusiast who are seeking the most in style and newly realeased kicks in the market. Whether you want browse across all shoes or by brands, Shoepreme can help you build your dream shoe cart!
 
-## Live Links
+#### Live Links
 
 Frontend: [https://warm-hollows-25488.herokuapp.com/](https://warm-hollows-25488.herokuapp.com/)
 
 Backend: [https://shoepreme-api.herokuapp.com/](https://shoepreme-api.herokuapp.com/)
 
-# Screenshots
+## Screenshots
 
 **Landing Page**
 
@@ -22,7 +22,7 @@ Backend: [https://shoepreme-api.herokuapp.com/](https://shoepreme-api.herokuapp.
 
 **Mobile Views**
 
-# Technologies Used
+## Technologies Used
 
 - HTML, CSS
 - Javascript
@@ -34,7 +34,7 @@ Backend: [https://shoepreme-api.herokuapp.com/](https://shoepreme-api.herokuapp.
 - Heroku
 - Stripe
 
-# User Stories
+## User Stories
 
 **MVP Goals**
 
@@ -52,7 +52,7 @@ Backend: [https://shoepreme-api.herokuapp.com/](https://shoepreme-api.herokuapp.
 - Offer the ability for users to log in and save their cart
 - Create a user profile for logged in users
 
-# Installation Instructions
+## Installation Instructions
 
 To run locally, you must acquire all necessary environment variables then follow the installation instructions below:
 
@@ -77,9 +77,9 @@ To run locally, you must acquire all necessary environment variables then follow
 
 Otherwise, checkout our [live links](#live-links)
 
-# Component Hierarchy
+## Component Hierarchy
 
-# Wireframes
+## Wireframes
 
 **Landing Page**
 ![SEI_Project3_Sneaker_Ecommerce_Page_1](https://media.git.generalassemb.ly/user/34490/files/29c8af80-b347-11eb-8f0c-c67fecde3c3f)
@@ -93,7 +93,7 @@ Otherwise, checkout our [live links](#live-links)
 **Checkout Page**
 ![SEI_Project3_Sneaker_Ecommerce (1)_Page_5](https://media.git.generalassemb.ly/user/34490/files/7318ff00-b347-11eb-897c-babce8ab68f6)
 
-# Contribute
+## Contribute
 
 Source Code:  
 [https://github.com/GA-Shoepreme/Shoepreme-frontend](https://github.com/GA-Shoepreme/Shoepreme-frontend)  
