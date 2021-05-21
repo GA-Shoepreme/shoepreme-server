@@ -13,14 +13,17 @@ Backend: [https://shoepreme-api.herokuapp.com/](https://shoepreme-api.herokuapp.
 ## Screenshots
 
 **Landing Page**
+![landingpage](https://user-images.githubusercontent.com/47792576/119093065-1317fd80-b9c4-11eb-9a2a-f5eee01db08c.png)
 
 **Brand Specific Page**
+![brandpage](https://user-images.githubusercontent.com/47792576/119093034-0a272c00-b9c4-11eb-9fe9-46440e0d5666.png)
 
 **Detail Page**
+![DetailPage](https://user-images.githubusercontent.com/47792576/119093077-16ab8480-b9c4-11eb-8f8e-0b606703c4e6.png)
 
 **Checkout Page**
+![Checkoutpage](https://user-images.githubusercontent.com/47792576/119093042-0d221c80-b9c4-11eb-83d5-a9a763a3103a.png)
 
-**Mobile Views**
 
 ## Technologies Used
 
