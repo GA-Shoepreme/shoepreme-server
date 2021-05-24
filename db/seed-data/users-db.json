@@ -3,7 +3,7 @@
         {
             "username": "chris.park",
             "password": "Seoul101",
-            "email": "csp1894@gmail.com",
+            "email": "chris@chris.com"
             "address":{
                 "street": "821 IU Willets Rd.",
                 "city": "Albertson",
@@ -16,7 +16,7 @@
         {
             "username": "david.cho",
             "password": "Busan101",
-            "email": "chodavid@gmail.com",
+            "email": "dav@dav.com",
             "address":{
                 "street": "4721 41st st.",
                 "city": "Queens",
@@ -29,7 +29,7 @@
         {
             "username": "minjea.seo",
             "password": "Gwangju101",
-            "email": "seominjea1942@gmail.com",
+            "email": "min@min.com",
             "address":{
                 "street": "511 W Markdem Blvd.",
                 "city": "Pasadena",
