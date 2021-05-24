@@ -8,7 +8,8 @@ const User = require('../models/user.model');
 
 const createUser = catchAsync(async (req, res) => {
   const { password } = req.body;
-  console.log('~ req.body', req.body);
+  // console.log('~ req.body', req.body);
+
   const salt = await bcrypt.genSalt(12);
   const hashedPassword = await bcrypt.hash(password, salt);
   const user = await User.create({ password: hashedPassword, ...req.body });
@@ -39,7 +40,7 @@ const loginUser = catchAsync(async (req, res) => {
 
   const user = { username };
   const accessToken = generateAccessToken(user);
-  const refreshToken = generateAccessToken(user);
+  const refreshToken = generateRefreshToken(user);
 
   res.status(200).json({ accessToken, refreshToken });
 });

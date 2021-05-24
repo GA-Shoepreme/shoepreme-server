@@ -11,8 +11,8 @@ const {
   logoutUser,
 } = require('../controllers/users.controller');
 
-// router.get('/', authorizeUser, getUsers);
-router.get('/', getUsers);
+router.get('/', authorizeUser, getUsers);
+// router.get('/', getUsers);
 router.get('/:id', getUser);
 router.post('/register', createUser);
 router.post('/login', loginUser);
